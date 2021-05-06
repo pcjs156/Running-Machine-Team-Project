@@ -1,0 +1,101 @@
+./data/2012년 44주차 차트.txt
+1	로이킴, 정준영	먼지가 되어
+2	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+3	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+4	에일리 (Ailee)	보여줄게
+5	가인	피어나
+6	Miss A	남자 없이 잘 살아
+7	현아 (HyunA)	Ice Cream
+8	나얼	바람기억
+9	이정	말리꽃 (원곡가수 이승철)
+10	유승우	My Son
+11	블락비 (Block B)	닐리리맘보
+12	정은지, 서인국	All For You
+13	G-Dragon	크레용 (Crayon)
+14	10cm	Fine Thank You And You
+15	에픽하이 (EPIK HIGH)	Up
+16	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+17	G-Dragon	Missing You (Feat. 김윤아)
+18	에픽하이 (Epik High)	Don`t Hate Me
+19	별, 권정열 (10cm)	귀여워
+20	XIA(준수)	사랑은 눈꽃처럼
+21	허각, 지아 (Zia)	I Need You
+22	티아라 (T-ara)	Sexy Love
+23	싸이 (Psy)	강남스타일
+24	G-Dragon	그XX
+25	로이킴	휘파람
+26	존 박	철부지
+27	15&amp; (박지민, 백예린)	I Dream
+28	시크릿 (Secret)	Poison
+29	윤건	걷다
+30	이승철	아마추어
+31	싸이 (Psy)	어땠을까 (Feat. 박정현)
+32	김종국	남자도 슬프다
+33	허각	아프다
+34	에픽하이 (Epik High)	사랑한다면 해선 안될 말
+35	어반 자카파 (Urban Zakapa)	니가 싫어
+36	Jessica (제시카)	My Lifestyle (Feat. Dok2)
+37	김그림	연애 (Love Song)
+38	정은지, 서인국	우리 사랑 이대로
+39	FTISLAND (FT 아일랜드)	좋겠어 (I Wish)
+40	서인영	Let`s Dance
+41	어반 자카파 (Urban Zakapa)	River
+42	홍대광	이미 넌 고마운 사람
+43	이승철	말리꽃
+44	마이티 마우스 (Mighty Mouth)	이럴때면 (Feat. 린)
+45	에픽하이 (Epik High)	아까워
+46	보아 (BoA)	LOOKIN` (Feat. The Quiett)
+47	더 원 (The One)	아시나요 (원곡가수 조성모)
+48	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+49	씨스타 (Sistar)	Loving U (러빙유)
+50	박명수	꿈이었을까
+51	쥬얼리 (Jewelry)	룩앳미 (Look At Me)
+52	딕펑스 (Dick Punks)	고추잠자리
+53	휘성	너라는 명작
+54	프라이머리 (Primary)	독 (Feat. E-Sens)
+55	동방신기	Catch Me
+56	포맨 (4Men)	Hello!
+57	백아연	느린노래
+58	더 원 (The One)	그 남자 (원곡가수 현빈)
+59	B.A.P	하지마 (Stop It)
+60	카라 (KARA)	Pandora
+61	김태우	내가 나를 봐도 슬퍼..
+62	긱스 (Geeks)	Officially Missing You
+63	2NE1 (투애니 원)	I Love You
+64	에일리 (Ailee)	저녁 하늘
+65	허니지	비켜줄께
+66	이종현(CNBLUE)	내 사랑아
+67	김종국	너에게 하고 싶은 말
+68	정준영	매일 매일 기다려
+69	10cm	오늘밤에
+70	이수영	착한 여자
+71	나얼	Missing You
+72	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+73	G-Dragon	One Of A Kind
+74	홍대광	노래만 불렀지
+75	Maroon 5	One More Night
+76	손승연	가슴아 가슴아
+77	보아 (BoA)	Only One
+78	다비치	남자도 우나요
+79	김정환	버스 안에서
+80	비스트 (Beast)	아름다운 밤이야
+81	나비 (Navi)	가지마
+82	이석훈	좋으니까
+83	버벌진트 (Verbal Jint)	충분히 예뻐
+84	주니엘 (Juniel)	illa illa (일라 일라)
+85	창민＆이현 (HOMME)	들리지 않는 말
+86	더블 케이 (Double K)	멘트 (Feat. 개코)
+87	에픽하이 (Epik High)	Kill This Love
+88	스피카(SPICA)	I`ll Be There
+89	에픽하이 (Epik High)	악당
+90	라니아(Rania)	STYLE
+91	10cm	한강의 작별
+92	가비엔제이 (Gavy NJ)	Lady Killer
+93	Carly Rae Jepsen	Call Me Maybe
+94	허니지	왜 그래
+95	EXID	매일밤
+96	유승우	열정
+97	조은	좋은 사람입니다
+98	에픽하이 (Epik High)	New Beautiful
+99	태연 (TAEYEON)	가까이
+100	성시경	내가 살아갈 곳

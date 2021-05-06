@@ -1,0 +1,101 @@
+./data/2011년 40주차 차트.txt
+1	허각	Hello
+2	다비치	안녕이라고 말하지마
+3	카라 (KARA)	STEP
+4	리쌍	TV를 껐네...  (Feat. 윤미래, 권정열)
+5	성시경	난 좋아
+6	씨스타 (Sistar)	So Cool (쏘쿨)
+7	브라운 아이드 걸스	Hot Shot
+8	지나(G.NA)	Top Girl
+9	리쌍	회상 (Feat. 백지영)
+10	SG 워너비	사랑법
+11	2NE1 (투애니 원)	Ugly
+12	리쌍	나란 놈은 답은 너다 (Feat. 하림)
+13	지아 (Zia)	그대이길 바래요 (With 케이윌)
+14	다비치	사랑 사랑아
+15	JYJ	Get Out
+16	JYJ	In Heaven (Narr. 김정은)
+17	슈퍼주니어 (Super Junior)	Mr. Simple
+18	성시경	오 나의 여신님
+19	miss A	Good-bye Baby
+20	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+21	티아라 (T-ara)	Roly-Poly
+22	디셈버, 제이세라	가슴으로 운다 (Feat. 아이린, 윤미)
+23	유브이 (UV)	Who Am I (Feat. 유희열, 정재형)
+24	인피니트 (Infinite)	내꺼하자
+25	2NE1 (투애니 원)	내가 제일 잘 나가
+26	2NE1 (투애니 원)	Hate You
+27	바비 킴 (Bobby Kim)	골목길 (신촌블루스)
+28	걸스데이 (Girl`s Day)	너, 한눈 팔지마!
+29	성시경	우리 참 좋았는데 (Duet With 박정현)
+30	티아라 (T-ara)	로그인 (Log-In)
+31	10cm	안아줘요
+32	Dal★Shabet (달샤벳)	블링블링 (Bling Bling)
+33	먼데이 키즈 (Monday Kiz)	너를 처음 만난 그때
+34	GG	바람났어 (Feat. 박봄)
+35	백지영	오늘도 사랑해
+36	슈퍼주니어 (Super Junior)	A-Cha
+37	하동균, 이정	기다릴게
+38	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+39	현아 (HyunA)	Bubble Pop!
+40	자우림	가시나무 (시인과 촌장)
+41	유키스 (U-Kiss)	NEVERLAND
+42	비스트 (Beast)	비가 오는 날엔
+43	장혜진	가질 수 없는 너 (뱅크)
+44	김보경	아파
+45	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+46	포맨 (4Men)	살다가 한번쯤
+47	임재범	날이 갈수록
+48	엠블랙 (MBLAQ)	모나리자 (Mona Lisa)
+49	리쌍	Serenade (Feat. 개코 of 다이나믹 듀오, 윈디시티)
+50	김범수	끝사랑
+51	옥주현, SG워너비, 티아라 (T-ara)	페이지원
+52	임재범	통증
+53	브라운 아이드 걸스	Sixth Sense
+54	리쌍	나 그대에게 모두 드리리 (Feat. 정인)
+55	처진 달팽이	압구정 날라리
+56	김준수	You Are So Beautiful
+57	리쌍	Grand Final (Feat. 정인 & MC 날유)
+58	박정현, 김범수	사랑보다 깊은 상처
+59	인순이	아버지
+60	시크릿 (Secret)	별빛달빛
+61	서인국	Shake It Up!
+62	리쌍	죽기 전까지 날아야 하는 새 (To. Bizzy) (Feat. 강산에...
+63	박완규	하루애
+64	2PM	Hands Up
+65	성시경	네가 불던 날
+66	성시경	아니면서
+67	김재중	지켜줄게
+68	자우림	재즈카페 (신해철)
+69	비스트 (Beast)	Fiction
+70	비 (Rain)	부산여자
+71	f(x)	Hot Summer
+72	윤민수	그리움만 쌓이네 (여진)
+73	허각	니가 그립다
+74	소울스타 (Soulstar)	바로 지금 당장
+75	김경호	모두 다 사랑하리 (송골매)
+76	성시경	노래가 되어
+77	하하	Rosa
+78	Simon D. (사이먼 디)	Stay Cool
+79	창민, 이현 (HOMME)	남자니까 웃는거야
+80	애프터스쿨 RED	밤 하늘에
+81	인순이	오늘 같은 밤이면 (박정운)
+82	쥬얼리S	됐지 뭐
+83	틴 탑 (Teen Top)	향수 뿌리지마
+84	센치한 하하	찹쌀떡
+85	지아 (Zia)	그리고 사랑해
+86	박재범	Demon
+87	Nari &amp; Milani, Cristian Marchi	I Got My Eye On You (Cristian Marchi &...
+88	인순이	서른 즈음에 (김광석)
+89	윤민수	님은 먼 곳에 (김추자)
+90	리쌍	강남 사짜 (Feat. PoBi)
+91	박정현	나 가거든 (If I Leave) (조수미)
+92	10cm	사랑은 은하수 다방에서
+93	비원에이포 (B1A4)	Beautiful Target
+94	마이티 마우스 (Mighty Mouth)	랄랄라 (Feat. 소야)
+95	아이유 (IU), 김연아	얼음꽃 (Feat. 김세황)
+96	환희	죽을 것만 같아
+97	걸스데이 (Girl`s Day)	한번만 안아줘
+98	2NE1 (투애니 원)	Lonely
+99	JYJ	소년의 편지 (The Boy`s Letter)
+100	성훈(브라운아이드소울)	Fail In Love (Feat. E-Sens Of Supreme ...

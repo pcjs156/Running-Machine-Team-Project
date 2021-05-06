@@ -1,0 +1,101 @@
+./data/2011년 20주차 차트.txt
+1	박봄	Don`t Cry
+2	f(x)	피노키오 (Danger)
+3	레인보우 (Rainbow)	To Me (내게로..)
+4	애프터스쿨 (After School)	Shampoo
+5	빅뱅	LOVE SONG
+6	포미닛 (4minute)	거울아 거울아
+7	임재범	너를 위해
+8	김범수	제발
+9	걸스데이 (Girl`s Day)	반짝반짝
+10	박재범	Abandoned (Feat. Dok2)
+11	오렌지 캬라멜 (Orange Caramel)	방콕시티 (Bangkok City)
+12	씨엔블루 (CNBLUE)	직감
+13	휘성	가슴 시린 이야기 (Feat. 용준형)
+14	포미닛 (4minute)	Heart To Heart
+15	BMK	꽃피는 봄이 오면
+16	빅뱅	STUPID LIAR
+17	씨스타19	Ma Boy (마보이)
+18	씨엔블루 (CNBLUE)	LOVE GIRL (New Ver.)
+19	miss A	Love Alone
+20	San E, 아웃사이더, 창민 (2AM)	가면 안돼
+21	토이 (Toy)	여전히 아름다운지 (Feat. 김연우)
+22	김그림	너 밖엔 없더라
+23	양파	아파 아이야
+24	케이윌 (K.Will)	가슴이 뛴다
+25	먼데이 키즈 (Monday Kiz)	슈루룹
+26	10cm	아메리카노
+27	지아 (Zia)	들리나요
+28	김태우	메아리
+29	슈프림팀 (Supreme Team)	배가 불렀지 (Feat. GaeKo Of DYNAMIC DUO)
+30	박정현	미아 (迷兒)
+31	소녀시대	Mr.TAXI
+32	에이핑크 (Apink)	몰라요
+33	유브이 (UV)	이태원 프리덤 (With JYP)
+34	알리 (ALi)	별 짓 다해봤는데
+35	클로버 (Clover)	La Vida Loca
+36	빅뱅	Tonight
+37	Dal★Shabet (달샤벳)	핑크 로켓 (Pink Rocket)
+38	송지은	미친거니 (Feat. 방용국)
+39	Of 비스트 (윤두준 &amp; 이기광 &amp; 용준형)	안을까 말까
+40	디셈버 (December)	미인
+41	이루 (Eru)	촌스럽고 유치하게
+42	이현 (에이트)	다며 (Feat. 마이티마우스)
+43	장재인	그대는 철이 없네 (Feat. 김지수)
+44	소울 다이브 (Soul Dive)	주먹이 운다 (Feat. 임재범)
+45	이현 (에이트)	내꺼중에 최고
+46	가비엔제이 (Gavy NJ)	애정만세
+47	걸스데이 (Girl`s Day)	너의 마음을 내게 준다면
+48	유키스 (U-Kiss)	0330
+49	케이윌 (K.Will)	리얼러브송
+50	빅뱅	Cafe
+51	김건모	You Are My Lady
+52	아이유 (IU)	나만 몰랐던 이야기
+53	박재범	오늘밤 (Feat. 강민경 Of 다비치)
+54	소울 다이브 (Soul Dive)	나쁜 습관 (Feat.예원)
+55	SG 워너비	고작
+56	지나(G.NA)	Black & White
+57	정엽	아무일도 없었다
+58	정엽	한 발짝도 난
+59	윤도현	나 항상 그대를 (With YB)
+60	브레이브걸스 (Brave Girls)	아나요
+61	정재형	Sunny Days
+62	소연 (티아라), 안영민	널 위해 부르는 노래
+63	정희주	이젠 그랬으면 좋겠네
+64	f(x)	Lollipop (Feat. SHINee)
+65	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+66	서인영	세수
+67	임정희	해바라기 (ひまわり / Himawari) (후쿠야마 마사하루 리메이크...
+68	아이유 (IU)	좋은 날
+69	이루펀트 (Eluphant)	여전히 아름답네요 (Feat. 권정열)
+70	빅뱅	What Is Right
+71	얀 (Yarn)	그래서 그대는
+72	남규리	별빛눈물
+73	미미시스터즈	대답해주오 (Feat. 로다운 30)
+74	이석훈, 베이지 (Beige)	우리 여기까지 하자
+75	이소라	나를 사랑하지 않는 그대에게
+76	백지영	약속
+77	Beyonce	Run The World (Girls)
+78	서인국	Broken
+79	거북이	주인공
+80	이소라	바람이 분다
+81	선희	힘겨워하는 사람들을 위한 아리아
+82	윤종신	두 이별 (Feat. 이정)
+83	인피니트 (Infinite)	Nothing`s Over
+84	NS Yoon-G	Talk Talk Talk
+85	부활	누구나 사랑을 한다 (With. 정단 박완규 이성욱)
+86	YB (윤도현 밴드)	나는 나비
+87	윤도현	Dash (With YB)
+88	언터쳐블 (Untouchable)	You You (Feat. 오진석)
+89	윤하	한 우산 아래
+90	간미연	파파라치 (Feat. 에릭)
+91	이효리	남아주세요
+92	나비 (Navi)	잘 된 일이야
+93	윤하	오늘 헤어졌어요
+94	김종민	오빠 힘내요
+95	정인	장마
+96	윤하	좀더 둘이서
+97	장혜진	사랑했나봐
+98	박정현	첫인상
+99	5dolls	너 말이야
+100	Britney Spears	I Wanna Go

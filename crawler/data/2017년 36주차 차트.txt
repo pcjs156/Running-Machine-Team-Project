@@ -1,0 +1,101 @@
+./data/2017년 36주차 차트.txt
+1	윤종신	좋니
+2	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+3	선미	가시나
+4	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+5	Wanna One (워너원)	에너제틱 (Energetic)
+6	행주	Red Sun (Feat. ZICO, Swings)
+7	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+8	황치열	매일 듣는 노래 (A Daily Song)
+9	아이유 (IU)	밤편지
+10	넉살, 한해, 조우찬, 라이노	N분의 1 (Feat. 다이나믹듀오)
+11	BLACKPINK	마지막처럼
+12	행주, 양홍원 (Young B), Hash Swan, 킬라그램(Killagramz)	요즘것들 (Feat. ZICO & DEAN)
+13	헤이즈 (Heize)	널 너무 모르고
+14	EXO	Ko Ko Bop
+15	볼빨간 사춘기, 스무살	남이 될 수 있을까
+16	지코 (ZICO)	Artist
+17	박원	all of my life
+18	Ed Sheeran	Shape of You
+19	버즈 (Buzz)	사랑하지 않은 것처럼
+20	넉살 (Nucksal)	필라멘트 (Feat. BSK A.K.A 김범수)
+21	Wanna One (워너원)	활활 (Burn It Up)
+22	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+23	볼빨간사춘기	처음부터 너와 나
+24	여자친구 (GFRIEND)	귀를 기울이면 (LOVE WHISPER)
+25	현아 (HyunA)	베베 (BABE)
+26	EXO	Power
+27	G-Dragon	무제(無題) (Untitled, 2014)
+28	WINNER	LOVE ME LOVE ME
+29	청하	Why Don`t You Know (Feat. 넉살)
+30	행주, 양홍원 (Young B)	SEARCH (Feat. 카더가든, ZICO)
+31	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+32	우원재	MOVE (Feat. Bizzy)
+33	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+34	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+35	악동뮤지션 (AKMU)	DINOSAUR
+36	킬라그램 (Killagramz)	어디 (Feat. DEAN, 지코(ZICO))
+37	Wanna One (워너원)	Wanna Be (My Baby)
+38	WINNER	REALLY REALLY
+39	소녀시대	Holiday
+40	싸이 (Psy)	New Face
+41	우원재	또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+42	10cm	폰서트
+43	10cm	HELP
+44	지코 (ZICO)	FANXY CHILD (Feat. FANXY CHILD)
+45	넉살 (Nucksal), 조우찬	부르는게 값이야 (Feat. 개코, 던밀스)
+46	에이핑크 (Apink)	FIVE
+47	아이유 (IU)	사랑이 잘 (With 오혁)
+48	구윤회	Marry Me
+49	TWICE	SIGNAL
+50	볼빨간사춘기	좋다고 말해
+51	정세운, Sik-K (식케이)	JUST U (PROD. GroovyRoom)
+52	한동근	미치고 싶다
+53	프라이머리 (Primary)	Right? (Feat. 소유)
+54	BLACKPINK	불장난
+55	The Chainsmokers	Closer (Feat. Halsey)
+56	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+57	볼빨간사춘기	나만 안되는 연애
+58	볼빨간사춘기	우주를 줄게
+59	태양	DARLING
+60	DEAN	D (half moon) (Feat. 개코)
+61	The Chainsmokers, Coldplay	Something Just Like This
+62	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+63	EXO	전야 (前夜) (The Eve)
+64	프라이머리 (Primary)	드라마 (Feat. 김성규)
+65	정승환	너였다면
+66	국민의 아들	NEVER
+67	뉴이스트 W	있다면
+68	Justin Bieber	Love Yourself
+69	한동근	그대라는 사치
+70	방탄소년단	봄날
+71	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+72	양홍원 (Young B)	아침에 (Feat. Bryn)
+73	Junoflo (주노플로)	비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+74	엠씨더맥스 (M.C The Max)	어디에도
+75	싸이 (Psy)	I LUV IT
+76	우원재	진자 (ZINZA) (Feat. YDG, 수란)
+77	창모 (CHANGMO)	아름다워
+78	EXO	What U do?
+79	아이오아이 (I.O.I)	소나기
+80	뉴이스트 (NU`EST)	여보세요
+81	TWICE	KNOCK KNOCK
+82	넉살 (Nucksal)	천상꾼 (Feat. 다이나믹듀오, DJ Friz)
+83	혁오 (hyukoh)	TOMBOY
+84	행주	bestdriverZ (Feat. Zion.T, DEAN)
+85	비와이(BewhY)	Red Carpet
+86	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+87	EXO	기억을 걷는 밤 (Walk On Memories)
+88	조우찬	VVIP (Feat. Sik-K, 개코)
+89	Maroon 5	What Lovers Do (Feat. SZA)
+90	EXO	Forever
+91	EXO	Sweet Lies
+92	길구봉구	바람이 불었으면 좋겠어
+93	EXO	너의 손짓 (Touch It)
+94	헤이즈 (Heize)	너와 함께한 시간 속에서
+95	크러쉬 (CRUSH)	Beautiful
+96	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+97	Ja Mezz,Ness, 주노플로 (Junoflo), Woodie Gochild	도박 (Life Is a Gamble) (Feat. 박재범, Dok2...
+98	아이유 (IU)	이 지금
+99	EXO	다이아몬드 (Diamond)
+100	EXO	부메랑 (Boomerang)

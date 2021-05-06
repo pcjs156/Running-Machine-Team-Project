@@ -1,0 +1,101 @@
+./data/2010년 18주차 차트.txt
+1	2PM	Without U
+2	이효리	Chitty Chitty Bang Bang (Feat. Ceejay ...
+3	비 (Rain)	널 붙잡을 노래
+4	소녀시대	Run Devil Run
+5	시크릿 (Secret)	Magic
+6	애프터스쿨 (After School)	뱅 (Bang) !
+7	예성 (YESUNG)	너 아니면 안돼
+8	씨야 (SeeYa)	가슴이 뭉클
+9	2AM	잘못했어
+10	먼데이 키즈 (Monday Kiz)	흩어져
+11	티아라 (T-ara)	너 때문에 미쳐
+12	비 (Rain)	Hip Song
+13	브라운 아이드 소울 (Brown Eyed Soul)	비켜줄께
+14	김태우	그대라는 날개
+15	MC 몽 &amp; 서인영	Bubble Love
+16	카라 (KARA)	루팡 (Lupin)
+17	윤하	말도 안돼 (개인의 취향 OST)
+18	비스트 (Beast)	Shock
+19	현아 &amp; 낯선	황야의 무법자
+20	디셈버 (December)	배운게 사랑이라
+21	2AM	바보처럼
+22	케이윌 (K.Will)	선물 (Feat.은지원)
+23	포맨 (4Men)	못해 (Feat. 美)
+24	이효리	그네 (Feat. 개리 Of 리쌍)
+25	마이티마우스 &amp; 백지영	사랑이올까요
+26	포미닛 (4minute)	사랑 만들기
+27	지아 (Zia)	나쁜 버릇
+28	주 (Joo)	뒤돌아봐
+29	아웃사이더	주변인
+30	이효리	Bring It Back (Feat. 베카 Of 애프터스쿨 & 전지윤...
+31	김태우	빗물이 내려서
+32	길학미	Super Soul
+33	소녀시대	Oh!
+34	정인	미워요
+35	브라운 아이드 걸스	Magic (FOI 2010 주제곡)
+36	이승기	사랑이 술을 가르쳐 (Feat. 백찬)
+37	2PM	Don`t Stop Can`t Stop
+38	먼데이 키즈 (Monday Kiz)	Goodbye My Princess
+39	용감한 형제	슬픈 음악 (with V.O.S.)
+40	이효리	I`m Back
+41	G-Dragon	Heartbreaker (Feat. Flo Rida)
+42	2AM	죽어도 못 보내
+43	이효리	How Did We Get (with 대성)
+44	은지원	술김에...
+45	빅마마 (BigMama)	기다리다 미쳐
+46	티아라 (T-ara)	내가 너무 아파
+47	2PM	마자
+48	M4	널 위한 멜로디
+49	거미	사랑은 없다
+50	언터쳐블 (Untouchable)	가슴에 살아 (Feat. 나르샤)
+51	김동희	내일 다시 말해요
+52	에픽하이 (Epik High)	Run
+53	이효리	Love Sign (Feat. 상추 Of 마이티마우스)
+54	이석훈	그대를 사랑하는 10가지 이유
+55	먼데이 키즈 (Monday Kiz)	왜..하필
+56	B.O.B	Nothin` On You (Feat. Bruno Mars)
+57	2PM	목숨을 건다
+58	이효리	Highlight (Feat. Bizzy)
+59	유브이 (UV)	쿨하지못해 미안해 (No Cool I`m Sorry)
+60	민경훈	아프니까 사랑이죠
+61	이효리	Scandal
+62	노라조	구해줘
+63	씨엔블루 (CNBLUE)	외톨이야
+64	가비엔제이 (Gavy NJ)	아무도 모르죠
+65	Ke$ha	Tik Tok
+66	엠투엠 (M To M)	사랑이 죄겠니
+67	데프콘	래퍼들이 헤어지는 방법 (Feat. 구지성)
+68	이효리	Feel The Same
+69	부활	사랑이란건
+70	바비 킴 (Bobby Kim)	남자답게
+71	박명수	Fyah (Feat. 길)
+72	프리스타일 (Free Style)	Outta Kontrol
+73	에이트 (8eight)	유효기간
+74	f(x) (루나 &amp; 크리스탈)	불러본다
+75	가비엔제이 (Gavy NJ)	해바라기 (Feat. 써니사이드 MJ)
+76	이효리	Get 2 Know (Feat. Double K)
+77	양정승 (Kiroy Y), KCM &amp; No Noo	밤하늘의 별을..
+78	엠투엠 (M To M)	괜히 내가
+79	조PD &amp; 버벌 진트 (Verbal Jint)	Man Up (Feat. 박미경)
+80	임재범	사랑에 아파한 날들 (Duet. 윤하)
+81	태사비애	사랑은 변하지 않아 사람이 변하는거야 (Duet. 드림걸스)
+82	유키스 (U-Kiss)	빙글빙글
+83	조PD	보란듯이 (Feat. 정슬기)
+84	이효리	Memory (Feat. Bizzy)
+85	빅뱅	Lollipop Part 2
+86	2AM	웃어 줄 수 없어서 미안하다
+87	솔비	어쩌죠
+88	김윤아	도쿄블루스
+89	이효리	Want Me Back
+90	포맨 (4Men)	Baby Baby
+91	Lady GaGa	Telephone (Feat. Beyonce)
+92	현아 (HyunA)	Change (Feat. 용준형)
+93	2PM	Space 마자
+94	이효리	100 Percent
+95	Justin Bieber	Baby (Feat. Ludacris)
+96	2NE1 (투애니 원)	날 따라 해봐요
+97	티아라 (T-ara)	처음처럼
+98	조성모	사랑받던 날들
+99	제국의아이들 (ZE:A)	하루종일 (Original Ver.)
+100	V.O.S	미안합니다.

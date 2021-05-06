@@ -1,0 +1,101 @@
+./data/2013년 12주차 차트.txt
+1	악동뮤지션 (AKMU)	Crescendo (크레셴도)
+2	다비치	거북이
+3	이하이	It`s Over
+4	거미	눈꽃
+5	씨스타19	있다 없으니까 (Gone Not Around Any Longer)
+6	2AM	어느 봄날
+7	더 원 (The One)	겨울사랑
+8	허각, 유승우	모노드라마
+9	리쌍	눈물 (Feat. 유진)
+10	배치기	눈물샤워 (Feat. 에일리)
+11	샤이니 (SHINee)	Dream Girl
+12	태연 (TAEYEON)	그리고 하나
+13	허각	1440
+14	버벌진트 (Verbal Jint)	이게 사랑이 아니면 (Feat. 에일리)
+15	다비치	모르시나요
+16	포맨 (4Men)	안녕 나야
+17	악동뮤지션 (AKMU)	라면인건가
+18	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+19	틴 탑 (Teen Top)	긴 생머리 그녀 (Miss Right)
+20	자이언티(Zion.T)	뻔한 멜로디 (Feat. Crush)
+21	레인보우 (Rainbow)	Tell Me Tell Me
+22	씨엔블루 (CNBLUE)	I’m Sorry
+23	에일리 (Ailee)	얼음꽃
+24	서인국	너 땜에 못살아 (Feat. 버벌진트)
+25	포맨 (4Men)	My Angel (Feat. 윤후)
+26	정인	그 뻔한 말
+27	아이비 (Ivy)	너였나봐
+28	라디 (Ra. D)	오랜만이죠 (Feat. 신지수)
+29	긱스 (Geeks), 소유	Officially Missing You, Too
+30	소녀시대	I Got A Boy
+31	알리 (ALi)	지우개
+32	김보경	혼자라고 생각말기
+33	보아 (BoA)	그런 너 (Disturbance)
+34	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+35	애즈 원 (As One), 미스에스 (Miss $)	좋을거야
+36	임정희, 헤르쯔 아날로그 (Herz Analog)	오랜만이다
+37	노을	어떤가요
+38	개코 (다이나믹 듀오)	될 대로 되라고 해 (느낌 So Good)
+39	Carly Rae Jepsen	Call Me Maybe
+40	이승기	되돌리다
+41	걸스데이 (Girl`s Day)	기대해
+42	김태우	Cosmic Girl
+43	이하이	Special
+44	정형돈	강북멋쟁이
+45	양요섭	카페인
+46	버벌진트 (Verbla Jint)	시작이 좋아 (Feat. 강민희)
+47	예성 (YESUNG)	먹지
+48	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+49	노을	하지 못한 말
+50	지나(G.NA)	Oops! (Feat. 정일훈 (BTOB))
+51	나얼	바람기억
+52	인피니트H	Special Girl (Feat. Bumkey)
+53	신용재	가수가 된 이유
+54	백지영	싫다
+55	나인 뮤지스 (Nine Muses)	돌스 (Dolls)
+56	써니힐 (Sunny Hill)	Goodbye To Romance
+57	하리 (Hari)	귀요미송
+58	씨스타19	나도 여자인데 (A Girl In Love)
+59	조현아	사는게 아니야
+60	영지 (버블시스터즈)	Hard To Say I`m Sorry (좋은 사람 만나서)
+61	김보아 (스피카)	Tears Fallin`
+62	라니아 (Rania)	Just Go
+63	에일리 (Ailee)	보여줄게
+64	악동뮤지션 (AKMU)	매력있어
+65	소향	잊지말아요
+66	레이디스 코드 (Ladies` Code)	나쁜여자
+67	포미닛 투윤 (2Yoon)	24/7
+68	노을	반창꼬
+69	디셈버 (December)	기억을 걷다보면
+70	우현, 심규선 (Lucia)	선인장 (Duet)
+71	효린, 전효성, 현아, 니콜, 나나	이사람
+72	이하이	짝사랑
+73	비스트 (Beast)	Black Paradise
+74	버블 시스터즈 (Bubble Sisters)	사랑도 이별도 아닌 기억
+75	이하이	1,2,3,4 (원,투,쓰리,포)
+76	긱스 (Geeks)	Officially Missing You
+77	배치기	행복하니
+78	B.A.P	One Shot
+79	방예담	Sir Duke
+80	클래지콰이 (Clazziquai)	러브 레시피
+81	The 포지션 임재욱	사랑은 없다
+82	정은지, 서인국	All For You
+83	에일리 (Ailee)	저녁 하늘
+84	별, 권정열 (10cm)	귀여워
+85	테이 (Tei)	추억은 이별보다 더 아름답다 (Adagio)
+86	GLAM	거울앞에서
+87	소녀시대	Dancing Queen
+88	이예준	가수가 된 이유
+89	허각, 지아 (Zia)	I Need You
+90	허각	사랑하고 싶어서
+91	샤이니 (SHINee)	방백 (Aside)
+92	로이킴, 정준영	먼지가 되어
+93	용준형, 필독, LE	어이없네
+94	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+95	더 넛츠 (The Nuts)	사랑노트
+96	임재범	당신곁에 살리라
+97	라쿤보이즈	So Hot
+98	투빅 (2BiC)	Bye Bye Love
+99	이하이	Dream
+100	2AM	너를 읽어보다

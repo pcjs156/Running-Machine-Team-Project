@@ -1,0 +1,101 @@
+./data/2014년 33주차 차트.txt
+1	씨스타 (Sistar)	Touch my body
+2	블락비 (Block B)	HER
+3	산이(San E), 레이나	한여름밤의 꿀
+4	걸스데이(Girl`s Day)	Darling
+5	산이 (San E)	Body Language (Feat. 범키)
+6	현아 (HyunA)	빨개요
+7	태양	눈, 코, 입
+8	다비치	괜찮아 사랑이야
+9	AOA	단발머리 (Short Hair)
+10	블락비 (Block B)	Jackpot
+11	박명수	명수네 떡볶이 (Feat. 김예림, UL)
+12	허각, 정은지	이제 그만 싸우자
+13	인피니트 (Infinite)	Back
+14	케이윌 (K.Will)	오늘부터 1일 (Day 1)
+15	아이유 (IU)	너의 의미 (Feat. 김창완)
+16	울랄라세션, 아이유(IU)	애타는 마음
+17	Gary (개리), 정인	사람냄새
+18	Maroon 5	Maps
+19	크러쉬 (CRUSH)	잠 못드는 밤 (feat. 펀치(Punch))
+20	첸 (CHEN)	최고의 행운
+21	에일리, 2LSON	I`m in love
+22	레드벨벳(Red Velvet)	행복 (Happiness)
+23	스윙스(Swings)	전화번호 (feat. 버벌진트, 40)
+24	산이 (San E)	나 왜이래
+25	윤하	우산
+26	씨스타 (Sistar)	나쁜손 (feat. 버벌진트) (Naughty Hands)
+27	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+28	god	하늘색 약속
+29	린 (LYn), 레오 (빅스)	꽃잎놀이
+30	스윙스 (Swings)	Pool Party
+31	f(x)	Red Light
+32	에디킴	너 사용법
+33	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+34	핫펠트(예은)	Ain’t Nobody
+35	다이나믹 듀오(Dynamic Duo), DJ Premier	AEAO
+36	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+37	비스트 (Beast)	Good Luck
+38	박효신	야생화
+39	에이핑크 (Apink)	Mr. Chu (On Stage)
+40	마마무 (Mamamoo)	Mr.애매모호
+41	빈지노(Beenzino)	How Do I Look?
+42	써니힐(Sunny Hill)	그 해 여름
+43	아이유 (IU)	나의 옛날 이야기
+44	비원에이포 (B1A4)	SOLO DAY
+45	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+46	JYJ	BACK SEAT
+47	EXO-K	중독 (Overdose)
+48	마마무 (Mamamoo)	Love Lane
+49	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+50	정기고 (Junggigo)	너를 원해 (Feat. Beenzino)
+51	손승연	다시 너를
+52	브로(Bro)	고백했는데
+53	다비치	헤어졌다 만났다
+54	손호영	하루만
+55	블락비 (Block B)	보기 드문 여자
+56	신용재, 이해리	니가 빈 자리
+57	AOA	짧은 치마 (Miniskirt)
+58	서인국	돌아오는 길
+59	전효성	Good-night Kiss
+60	악동뮤지션 (AKMU)	200%
+61	올티 (Olltii)	OLL` Ready
+62	다이나믹 듀오(Dynamic Duo)	Summer Time (자리비움)
+63	로꼬 (LOCO)	감아 (Feat. Crush)
+64	god	우리가 사는 이야기 (Feat. 메건리)
+65	정동하	운명 같은 너
+66	창민＆이현 (HOMME)	It Girl
+67	윤민수, 신용재	인연
+68	David Guetta &amp; Showtek	Bad (Feat. Vassy) (Radio Edit)
+69	버즈 (Buzz)	8년만의 여름
+70	god	노래 불러줘요 (Feat. 아이유)
+71	이선희	그 중에 그대를 만나
+72	B.I (비아이)	BE I
+73	신용재	사랑하는 그대여
+74	HIGH4, 김예림	해요 말고 해
+75	박재범	나나 (NaNa) (Feat. 로꼬 & AOMG)
+76	Jeff Bernat	Call You Mine (Feat. Geologic)
+77	오렌지 캬라멜 (Orange Caramel)	까탈레나 (Catallena)
+78	씨스타 (Sistar)	But I Love U
+79	범키	집이 돼줄게
+80	크러쉬 (CRUSH)	Hug Me (Feat. Gaeko)
+81	매드 클라운 (Mad Clown)	견딜만해 (Feat. 효린)
+82	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+83	이정	너 없는 내일
+84	비스트 (Beast)	이젠 아니야
+85	효민	Nice Body (With 로꼬)
+86	헨리 (Henry)	Fantastic
+87	아이유 (IU)	사랑이 지나가면
+88	성시경	너의 모든 순간
+89	육지담	얼레리
+90	악동뮤지션 (AKMU)	Give Love
+91	정키 (Jung Key)	내가 할 수 없는 말 (Feat. 나비)
+92	god	Saturday Night
+93	Maroon 5	It Was Always You
+94	투빅 (2BiC)	요즘 바쁜가봐
+95	2NE1 (투애니 원)	Come Back Home
+96	임창정	흔한 노래
+97	임창정	기다리라 해요
+98	스윙스(Swings)	Gravity (Feat. Mad Clown & 기리보이)
+99	god	미운오리새끼
+100	화요비	가까이서보니 미인이네 (feat. 우탄)

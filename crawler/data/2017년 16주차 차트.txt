@@ -1,0 +1,101 @@
+./data/2017년 16주차 차트.txt
+1	아이유 (IU)	사랑이 잘 (With 오혁)
+2	지코 (ZICO)	She`s a Baby
+3	아이유 (IU)	밤편지
+4	WINNER	REALLY REALLY
+5	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+6	구윤회	Marry Me
+7	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+8	TWICE	KNOCK KNOCK
+9	하이라이트(Highlight)	얼굴 찌푸리지 말아요
+10	볼빨간사춘기	좋다고 말해
+11	정은지	너란 봄 (Feat. 하림)
+12	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+13	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+14	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+15	태연 (TAEYEON)	Fine
+16	백현 (BAEKHYUN)	바래다줄게 (Take You Home)
+17	태연 (TAEYEON)	Make Me Love You
+18	신현희와김루트	오빠야
+19	레드벨벳(Red Velvet)	Rookie
+20	크러쉬 (CRUSH)	Beautiful
+21	볼빨간사춘기	우주를 줄게
+22	볼빨간사춘기	나만 안되는 연애
+23	Ed Sheeran	Shape of You
+24	블락비 (Block B)	YESTERDAY
+25	방탄소년단	봄날
+26	걸스데이 (Girl`s Day)	I`ll be yours
+27	매드 클라운 (Mad Clown)	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+28	TWICE	TT
+29	빅뱅	에라 모르겠다
+30	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+31	여자친구 (GFRIEND)	FINGERTIP
+32	EXID	낮보다는 밤
+33	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+34	비투비 (BTOB)	MOVIE
+35	한동근	그대라는 사치
+36	BLACKPINK	불장난
+37	소유, 백현 (BAEKHYUN)	비가와 (Rain)
+38	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+39	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+40	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+41	한동근	이 소설의 끝을 다시 써보려 해
+42	아이유 (IU)	이런 엔딩
+43	아이유 (IU)	이 지금
+44	창모 (CHANGMO)	마에스트로 (Maestro)
+45	자이언티(Zion.T)	노래
+46	최하민(Osshun Gum)	Come for you (Feat. HOMEBOY & FNRL.)
+47	에디킴	이쁘다니까
+48	볼빨간사춘기	You(=I)
+49	DEAN	넘어와 (Feat. 백예린)
+50	WINNER	FOOL
+51	창모 (CHANGMO)	아름다워
+52	소유 (SOYOU)	I Miss You
+53	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+54	The Chainsmokers	Closer (Feat. Halsey)
+55	Justin Bieber	Love Yourself
+56	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+57	임창정	내가 저지른 사랑
+58	헤이즈 (Heize)	저 별
+59	아이유 (IU)	잼잼
+60	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+61	정승환	너였다면
+62	정준일	첫 눈
+63	DEAN	D (half moon) (Feat. 개코)
+64	TWICE	CHEER UP
+65	The Chainsmokers, Coldplay	Something Just Like This
+66	반하나	그대가 나를 본다면
+67	아이유 (IU)	이름에게
+68	볼빨간사춘기	심술
+69	정승환	이 바보야
+70	다이나믹 듀오 (Dynamic Duo) &amp; 첸 (CHEN)	기다렸다 가
+71	엠씨더맥스 (M.C The Max)	어디에도
+72	태연 (TAEYEON)	11_11
+73	황광희 X 개코	당신의 밤 (Feat. 오혁)
+74	레드벨벳(Red Velvet)	Would U
+75	하이라이트(Highlight)	아름답다
+76	이해리	PATTERN
+77	아이오아이 (I.O.I)	너무너무너무
+78	AOA	Excuse Me
+79	빅뱅	LAST DANCE
+80	세정	꽃길 (Prod. By ZICO)
+81	박효신	숨
+82	방탄소년단	피 땀 눈물
+83	아이유 (IU)	Black Out
+84	샘김	Who are you
+85	Sam Smith	I`m Not The Only One
+86	헨리 (Henry)	그리워요 (Girlfriend)
+87	키썸 (Kisum)	잘자 (Sleep Tight) (Feat. 길구봉구)
+88	이해리	미운 날
+89	10cm	봄이 좋냐??
+90	개코	코끼리 (Feat. 랩몬스터)
+91	수지	행복한 척
+92	아이유 (IU)	마침표
+93	희철, 민경훈	나비잠 (Sweet Dream)
+94	PRISTIN (프리스틴)	WEE WOO
+95	기리보이, 서출구, 양홍원 (Young B)	Bunzi (번지)
+96	자이언티(Zion.T)	Complex (Feat. G-DRAGON)
+97	길구봉구	바람이 불었으면 좋겠어
+98	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+99	어반 자카파 (Urban Zakapa)	소원
+100	정준일	바램

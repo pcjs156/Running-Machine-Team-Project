@@ -1,0 +1,101 @@
+./data/2012년 49주차 차트.txt
+1	이승기	되돌리다
+2	악동뮤지션 (AKMU)	다리꼬지마
+3	이하이	1,2,3,4 (원,투,쓰리,포)
+4	긱스 (Geeks), 소유	Officially Missing You, Too
+5	이하이	허수아비
+6	노을	하지 못한 말
+7	로이킴	힐링이 필요해
+8	에일리 (Ailee)	보여줄게
+9	양요섭	카페인
+10	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+11	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+12	주니엘 (Juniel)	나쁜 사람
+13	로이킴, 정준영	먼지가 되어
+14	로이킴	휘파람
+15	별, 권정열 (10cm)	귀여워
+16	이승기	숲
+17	Miss A	남자 없이 잘 살아
+18	로이킴	스쳐간다
+19	정준영	응급실
+20	이승기	사랑한다는 말
+21	지아 (Zia)	눈물이 툭 (Feat. 박경)
+22	가인	피어나
+23	나얼	바람기억
+24	현아 (HyunA)	Ice Cream
+25	뚱스	쩔어
+26	이정	말리꽃 (원곡가수 이승철)
+27	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+28	이정	사랑해 봤니
+29	손담비	눈물이 주르륵
+30	어반 자카파 (Urban Zakapa)	똑같은 사랑 똑같은 이별
+31	블락비 (Block B)	닐리리맘보
+32	정은지, 서인국	All For You
+33	화요비	나는 위험해
+34	딕펑스 (Dick Punks)	떠나지마
+35	케이윌 (K.Will), 소유, 정민	하얀 설레임 (White Love)
+36	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+37	Dal★Shabet (달샤벳)	있기 없기
+38	XIA(준수)	사랑은 눈꽃처럼
+39	G-Dragon	Missing You (Feat. 김윤아)
+40	비원에이포 (B1A4)	걸어 본다
+41	이승기	나에게 초대
+42	김성규	60초
+43	G-Dragon	크레용 (Crayon)
+44	걸스데이 (Girl`s Day)	나를 잊지마요
+45	투빅 (2BiC)	24시간후
+46	NS Yoon-G	If You Love Me (Feat. 박재범)
+47	허각, 지아 (Zia)	I Need You
+48	박보영	나의 왕자님 (My Prince)
+49	더 원 (The One)	사랑아
+50	긱스 (Geeks)	Officially Missing You
+51	더 씨야 (The Seeya)	내 맘은 죽어가요 (Feat. Speed)
+52	유승우	My Son
+53	딕펑스 (Dick Punks)	연극이 끝난후
+54	별	나빠
+55	DK (디셈버)	깊은밤 슬픈노래
+56	스피카 (Spica)	Lonely
+57	김종국	남자가 다 그렇지 뭐
+58	10cm	Fine Thank You And You
+59	프라이머리 (Primary)	독 (Feat. E-Sens)
+60	싸이 (Psy)	강남스타일
+61	윤건	걷다
+62	가비엔제이 (Gavy NJ)	이쁘네요
+63	티아라 (T-ara)	Sexy Love
+64	에픽하이 (EPIK HIGH)	Up
+65	정준영	잊었니
+66	동방신기	Humanoids
+67	예성 (YESUNG)	사랑에 멀어서
+68	어반 자카파 (Urban Zakapa)	River
+69	어반 자카파 (Urban Zakapa)	니가 싫어
+70	G-Dragon	그XX
+71	로이킴	서울의 달
+72	에픽하이 (Epik High)	Don`t Hate Me
+73	먼데이 키즈 (Monday Kiz)	확률
+74	왁스 (Wax)	떨어진다 눈물이
+75	국카스텐 (Guckkasten)	모나리자 (원곡가수 조용필)
+76	싸이 (Psy)	어땠을까 (Feat. 박정현)
+77	이승철	아마추어
+78	김지수	사랑, 그건 거짓말
+79	가인	노스텔지아
+80	C-Clown (씨클라운)	멀어질까봐
+81	딕펑스 (Dick Punks)	나비
+82	허각	아프다
+83	Carly Rae Jepsen	Call Me Maybe
+84	노을	여인
+85	시크릿 (Secret)	Poison
+86	프라이머리 (Primary)	축하해 (Feat. 다이나믹 듀오, 박재범)
+87	B.A.P	하지마 (Stop It)
+88	씨스타 (Sistar)	Loving U (러빙유)
+89	정은지, 서인국	우리 사랑 이대로
+90	포맨 (4Men)	Hello!
+91	레드애플 (LEDApple)	바람아 불어라
+92	15&amp; (박지민, 백예린)	I Dream
+93	에일리 (Ailee)	저녁 하늘
+94	로이킴	청개구리
+95	박명수	꿈이었을까
+96	영지	행복해라
+97	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+98	먼데이 키즈 (Monday Kiz)	My Love
+99	존 박	철부지
+100	송중기	정말

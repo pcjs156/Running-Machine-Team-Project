@@ -1,0 +1,101 @@
+./data/2016년 29주차 차트.txt
+1	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+2	원더걸스 (Wonder girls)	Why So Lonely
+3	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+4	비와이(BewhY)	Forever (Prod. by GRAY)
+5	언니쓰	Shut Up (Feat. 유희열)
+6	씨스타 (Sistar)	I Like That
+7	TWICE	CHEER UP
+8	샵건 (#Gun)	미친놈 (Feat. 제시)
+9	사이먼 도미닉 (Simon Dominic), GRAY, 원 (ONE)	맘 편히 (Comfortable)
+10	사이먼 도미닉 (Simon Dominic), 원(ONE), 지투(G2), BewhY	니가 알던 내가 아냐 (Prod. by GRAY)
+11	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+12	씨잼(Cjamm)	아름다워 (Beautiful) (Feat. 지코 (ZICO))
+13	보이비 (Boi B)	호랑나비 (Feat. Gill, 리듬파워)
+14	자이언티(Zion.T)	쿵 (Knock)
+15	비스트 (Beast)	리본 (Ribbon)
+16	백예린	Bye bye my blue
+17	비와이 (BewhY)	The Time Goes On
+18	태연 (TAEYEON)	Why
+19	매드 클라운 (Mad Clown), 샵건 (#Gun)	비행소년 (Going Home)
+20	백아연	쏘쏘
+21	The Quiett, Superbee, myunDo, Flowsik, Dok2	공중도덕 (Air DoTheQ)
+22	자이언티(Zion.T), 씨잼(Cjamm), 레디(Reddy), 서출구	신사 ($insa)
+23	태연 (TAEYEON)	Starlight (Feat. DEAN)
+24	벤 (Ben)	꿈처럼
+25	정은지	하늘바라기 (Feat. 하림)
+26	KUSH, 자이언티(Zion.T)	Machine Gun (Feat. MINO)
+27	박경	자격지심 (Feat. 은하 of 여자친구)
+28	씨잼(Cjamm) &amp; 레디(Reddy)	현상수배 (Wanted)
+29	DEAN	D (half moon) (Feat. 개코)
+30	수지	Ring My Bell
+31	엠씨더맥스 (M.C The Max)	어디에도
+32	레디(Reddy)	Like this (Feat. BOBBY)
+33	산이(San E), 레이나	달고나
+34	EXO	Monster
+35	정승환	너였다면
+36	서현진, 유승우	사랑이 뭔데
+37	EXID	L.I.E
+38	로꼬, GRAY (그레이)	GOOD (Feat. ELO)
+39	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+40	슈퍼비	냉탕에 상어 (Feat. 블랙넛)
+41	자이언티(Zion.T), 서출구 (Xitsuh)	드러머 (Drummer) (Feat. 올티)
+42	비스트 (Beast)	Butterfly
+43	다비치	이 사랑
+44	정준일	안아줘
+45	AOA	Good Luck
+46	김나영	가슴이 말해
+47	거미	You Are My Everything
+48	TWICE	OOH-AHH하게
+49	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경)
+50	키썸(Kisum), 임슬옹	틀린그림찾기
+51	지코 (ZICO)	너는 나 나는 너
+52	악동뮤지션 (AKMU)	RE-BYE
+53	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+54	10cm	봄이 좋냐??
+55	SUPERBEE	썬 블락 (Sun Block) (Feat. Microdot)
+56	정엽	그 애 (愛)
+57	이적	걱정말아요 그대
+58	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+59	케이윌 (K.Will)	말해! 뭐해?
+60	박용인, 권순일	No Way
+61	마마무 (Mamamoo)	넌 is 뭔들
+62	손승연	보란듯이 (Feat. 앤덥)
+63	도끼 (Dok2)	1llusion
+64	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+65	이하이	한숨
+66	보아(BoA), 빈지노(Beenzino)	No Matter What
+67	태연 (TAEYEON)	Rain
+68	세븐틴	아주 NICE
+69	SUPERBEE, myunDo	Beverly 1lls
+70	SG 워너비	사랑하자
+71	로이킴	어쩌면 나
+72	매드 클라운 (Mad Clown), 도넛맨 (Donutman), 보이비 (Boi B), 샵건 (#Gun)	무궁화
+73	임창정	또 다시 사랑
+74	10cm	스토커
+75	블락비 (Block B)	Toy
+76	EXO	Lucky One
+77	에릭남	못참겠어 (Feat. 로꼬)
+78	윤미래 (T)	ALWAYS
+79	크러쉬 (CRUSH)	우아해 (woo ah)
+80	윤하	Sunflower
+81	아이오아이 (I.O.I)	Dream Girls
+82	원더걸스 (Wonder girls)	아름다운 그대에게
+83	Justin Bieber	Love Yourself
+84	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+85	서출구 (Xitsuh)	끝 (AND) (Feat. 수란)
+86	Sam Smith	I`m Not The Only One
+87	린 (LYn)	그대만의 것 (Feat. soulman)
+88	플로우식 (Flowsik), 더 콰이엇 (The Quiett), 도끼(Dok2)	RAPSTAR (remix)
+89	방탄소년단	불타오르네 (FIRE)
+90	유엔 (UN)	파도
+91	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+92	악동뮤지션 (AKMU)	사람들이 움직이는 게
+93	정기고 (Junggigo)	Only U
+94	매드 클라운 (Mad Clown), 김나영	다시 너를
+95	정키 (Jung Key)	바라지 않아 (feat.소정 of 레이디스 코드)
+96	존 박	네 생각
+97	태연 (TAEYEON)	제주도의 푸른 밤
+98	10cm	니가 참 좋아
+99	솔라	꿈에
+100	검정치마 (The Black Skirts)	기다린 만큼, 더

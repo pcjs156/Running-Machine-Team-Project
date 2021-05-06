@@ -1,0 +1,101 @@
+./data/2013년 11주차 차트.txt
+1	거미	눈꽃
+2	씨스타19	있다 없으니까 (Gone Not Around Any Longer)
+3	허각, 유승우	모노드라마
+4	다비치	거북이
+5	더 원 (The One)	겨울사랑
+6	리쌍	눈물 (Feat. 유진)
+7	배치기	눈물샤워 (Feat. 에일리)
+8	2AM	어느 봄날
+9	샤이니 (SHINee)	Dream Girl
+10	허각	1440
+11	포맨 (4Men)	안녕 나야
+12	악동뮤지션 (AKMU)	라면인건가
+13	다비치	모르시나요
+14	버벌진트 (Verbal Jint)	이게 사랑이 아니면 (Feat. 에일리)
+15	이하이	It`s Over
+16	씨엔블루 (CNBLUE)	I’m Sorry
+17	서인국	너 땜에 못살아 (Feat. 버벌진트)
+18	틴 탑 (Teen Top)	긴 생머리 그녀 (Miss Right)
+19	에일리 (Ailee)	얼음꽃
+20	라디 (Ra. D)	오랜만이죠 (Feat. 신지수)
+21	레인보우 (Rainbow)	Tell Me Tell Me
+22	포맨 (4Men)	My Angel (Feat. 윤후)
+23	소녀시대	I Got A Boy
+24	김보경	혼자라고 생각말기
+25	긱스 (Geeks), 소유	Officially Missing You, Too
+26	보아 (BoA)	그런 너 (Disturbance)
+27	개코 (다이나믹 듀오)	될 대로 되라고 해 (느낌 So Good)
+28	알리 (ALi)	지우개
+29	애즈 원 (As One), 미스에스 (Miss $)	좋을거야
+30	노을	어떤가요
+31	자이언티(Zion.T)	뻔한 멜로디 (Feat. Crush)
+32	이승기	되돌리다
+33	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+34	김태우	Cosmic Girl
+35	Carly Rae Jepsen	Call Me Maybe
+36	정형돈	강북멋쟁이
+37	우현, 심규선 (Lucia)	선인장 (Duet)
+38	예성 (YESUNG)	먹지
+39	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+40	양요섭	카페인
+41	버벌진트 (Verbla Jint)	시작이 좋아 (Feat. 강민희)
+42	백지영	싫다
+43	버블 시스터즈 (Bubble Sisters)	사랑도 이별도 아닌 기억
+44	써니힐 (Sunny Hill)	Goodbye To Romance
+45	인피니트H	Special Girl (Feat. Bumkey)
+46	하리 (Hari)	귀요미송
+47	노을	하지 못한 말
+48	나얼	바람기억
+49	나인 뮤지스 (Nine Muses)	돌스 (Dolls)
+50	씨스타19	나도 여자인데 (A Girl In Love)
+51	비스트 (Beast)	Black Paradise
+52	포미닛 투윤 (2Yoon)	24/7
+53	방예담	Sir Duke
+54	디셈버 (December)	기억을 걷다보면
+55	신용재	가수가 된 이유
+56	에일리 (Ailee)	보여줄게
+57	용준형, 필독, LE	어이없네
+58	노을	반창꼬
+59	효린, 전효성, 현아, 니콜, 나나	이사람
+60	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+61	악동뮤지션 (AKMU)	매력있어
+62	이하이	Special
+63	B.A.P	One Shot
+64	배치기	행복하니
+65	이하이	1,2,3,4 (원,투,쓰리,포)
+66	소녀시대	Dancing Queen
+67	옥주현	그림자 놀이
+68	별, 권정열 (10cm)	귀여워
+69	한승희 (먼데이키즈)	사랑해 사랑해
+70	클래지콰이 (Clazziquai)	러브 레시피
+71	정은지, 서인국	All For You
+72	로이킴, 정준영	먼지가 되어
+73	긱스 (Geeks)	Officially Missing You
+74	허각	사랑하고 싶어서
+75	에일리 (Ailee)	저녁 하늘
+76	김보아 (스피카)	Tears Fallin`
+77	허각, 지아 (Zia)	I Need You
+78	형돈이와 대준이	희맨사항
+79	주니엘 (Juniel)	나쁜 사람
+80	이예준	가수가 된 이유
+81	샤이니 (SHINee)	방백 (Aside)
+82	걸스데이 (Girl`s Day)	White Day
+83	어반 자카파 (Urban Zakapa)	똑같은 사랑 똑같은 이별
+84	소향	잊지말아요
+85	디유닛 (D-Unit)	얼굴보고 얘기해
+86	소울스타 (Soul Star)	없는 번호
+87	이하이	짝사랑
+88	Justin Bieber	Baby (Feat. Ludacris)
+89	윤종신, 김연우	No Schedule
+90	틴 탑 (Teen Top)	사랑하고 싶어
+91	10cm	오예
+92	살찐 고양이	눈물비
+93	2AM	너를 읽어보다
+94	임정희, 헤르쯔 아날로그 (Herz Analog)	오랜만이다
+95	JK 김동욱	못
+96	악동뮤지션 (AKMU)	다리꼬지마
+97	더 넛츠 (The Nuts)	사랑노트
+98	먼데이 키즈 (Monday Kiz)	You ＆ I
+99	샤이니 (SHINee)	아름다워 (Beautiful)
+100	나몰라패밀리N	떠나지마

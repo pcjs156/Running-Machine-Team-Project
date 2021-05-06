@@ -1,0 +1,101 @@
+./data/2013년 39주차 차트.txt
+1	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+2	윤미래 (T)	Touch Love
+3	EXO	으르렁 (Growl)
+4	G-Dragon	니가 뭔데 (Who You?)
+5	G-Dragon	Black (Feat. Jennie Kim)
+6	효린	미치게 만들어
+7	G-Dragon	삐딱하게 (Crooked)
+8	선미	24시간이 모자라
+9	드렁큰 타이거 (Drunken Tiger), 윤미래 (T), Bizzy	살자 (The Cure)
+10	산이 (San E)	아는사람 얘기
+11	범키	갖고놀래 (Feat. 다이나믹 듀오)
+12	크레용팝 (Crayon Pop)	빠빠빠
+13	지아 (Zia), 이해리	사랑했었다면
+14	서인국	겁도 없이
+15	에이핑크 (Apink)	NoNoNo
+16	카라 (KARA)	숙녀가 못 돼 (Damaged Lady)
+17	에일리 (Ailee)	U & I
+18	나비 (Navi)	집에 안갈래
+19	이승철	My Love
+20	백지영	울고만있어
+21	거미	낮과 밤
+22	G-Dragon	쿠데타 (COUP D`ETAT)
+23	에일리 (Ailee)	Higher (Feat. 이루마)
+24	f(x)	첫 사랑니 (Rum Pum Pum Pum)
+25	허각	넌 내꺼라는걸 (Feat. 스윙스)
+26	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+27	레이디스 코드 (Ladies` Code)	예뻐 예뻐
+28	틴 탑 (Teen Top)	장난아냐 (Rocking)
+29	투빅 (2BiC)	사랑하고 있습니다
+30	박진영	놀만큼 놀아봤어 (Had Enough Parties)
+31	박진영	사랑이 제일 낫더라
+32	김종국	모르나요
+33	멜로디데이	All About
+34	스피카 (SPICA)	Tonight
+35	다이나믹 듀오 (Dynamic Duo)	Baaam (Feat. Muzie)
+36	다비치	오늘따라 보고싶어서 그래
+37	유성은	Be OK (Feat. 배치기)
+38	린 (LYn)	이 노래 좋아요
+39	노을	만약에 말야 (전우성 Solo)
+40	G-Dragon	R.O.D.
+41	김예림 (투개월)	Voice
+42	비스트 (Beast)	Shadow (그림자)
+43	씨스타 (Sistar)	Give It To Me
+44	2NE1 (투애니 원)	Do You Love Me
+45	윤종신, 성시경	내일 할 일
+46	김예림 (투개월)	Rain
+47	G-Dragon	미치Go (Go)
+48	허각, 정은지 (에이핑크)	짧은머리
+49	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+50	임정희	Luv is
+51	브라운 아이드 걸스	Kill Bill
+52	드렁큰 타이거, 윤미래 (T), Bizzy	Beautiful Life
+53	포맨 (4Men)	사랑해 사랑해 사랑해
+54	송희진	기억속의 먼 그대에게
+55	스윙스 (Swings)	A Real Lady (Feat. Beenzino, Gray & Zi...
+56	승리	할말 있어요 (Gotta Talk To U)
+57	한경일	내 삶의 반
+58	G-Dragon	너무 좋아 (I Love It) [Feat. Zion.T & Boys...
+59	DJ Gollum Vs. EmpyreOne	The Bad Touch (Gordon & Doyle Edit)
+60	걸스데이 (Girl`s Day)	여자 대통령
+61	김예림 (투개월)	All Right
+62	하동균	좋아보여
+63	홍대광	너와 나
+64	2NE1 (투애니 원)	Falling In Love
+65	이적	그땐 미처 알지 못했지
+66	강승윤	비가 온다
+67	드렁큰 타이거, 윤미래 (T), Bizzy	첫눈이 오면 설레였던 꼬마아이 (Time Travel)
+68	다이나믹 듀오 (Dynamic Duo)	날개뼈 (Hot Wings)
+69	G-Dragon	늴리리야 (Niliria) (Missy Elliott Ver.)
+70	버벌진트 (Verbal Jint)	비범벅 (Feat. 범키)
+71	투빅 (2BiC)	단, 하루
+72	김나영, 장원기	Street Life
+73	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+74	포맨 (4Men)	청혼하는 거예요
+75	씨스타 (Sistar)	넌 너무 야해 (The Way You Make Me Melt) (Fe...
+76	임재욱	홍대거리에서 (그 남자..)
+77	포맨 (4Men)	너 하나야
+78	빈지노 (Beenzino)	Boogie On & On
+79	G-Dragon	세상을 흔들어 (Shake The World)
+80	제국의아이들 (ZE:A)	바람의 유령
+81	아웃사이더	슬피 우는 새 (Feat. 이수영)
+82	카라 (KARA)	둘 중에 하나 (Runaway)
+83	인피니트 (Infinite)	Destiny
+84	더 원 (The One)	울지마 사랑아
+85	일렉트로보이즈 (Electroboyz)	비가 와
+86	G-Dragon	Runaway
+87	디셈버 (December)	니 입술 그 맛 (Feat. EB)
+88	손승연	미친게 아니라구요 (Feat. MC 스나이퍼)
+89	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+90	씨스타 (Sistar)	바빠 (Bad Boy)
+91	긱스 (Geeks), 소유	Officially Missing You, Too
+92	걸스데이 (Girl`s Day)	말해줘요
+93	A.T	Don`t Be (Feat. 긱스)
+94	신용재	가수가 된 이유
+95	파이브돌스 (F-ve Dolls)	사랑한다? 안한다!
+96	임슬옹 (2AM), 에피톤프로젝트 (Epitone Project)	여름, 밤
+97	포미닛 (4Minute)	이름이 뭐예요?
+98	다이나믹 듀오 (Dynamic Duo)	쌔끈해 (Three Dopeboyz)
+99	승리	GG Be (지지베) (Feat. Jennie Kim)
+100	드렁큰 타이거, 윤미래 (T), Bizzy	Get It In

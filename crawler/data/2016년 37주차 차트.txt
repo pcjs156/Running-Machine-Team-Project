@@ -1,0 +1,101 @@
+./data/2016년 37주차 차트.txt
+1	임창정	내가 저지른 사랑
+2	한동근	이 소설의 끝을 다시 써보려 해
+3	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+4	BLACKPINK	휘파람
+5	에일리 (Ailee)	If You
+6	거미	구르미 그린 달빛
+7	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+8	첸, 백현, 시우민 (EXO)	너를 위해
+9	한동근	그대라는 사치
+10	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+11	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+12	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+13	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+14	원더걸스 (Wonder girls)	Why So Lonely
+15	소유, 유승우	잠은 다 잤나봐요
+16	TWICE	CHEER UP
+17	스탠딩 에그(Standing Egg)	여름밤에 우린
+18	BLACKPINK	붐바야
+19	존 박	네 생각
+20	비와이(BewhY)	Forever (Prod. by GRAY)
+21	보이비 (Boi B)	호랑나비 (Feat. Gill, 리듬파워)
+22	바비 (BOBBY)	꽐라
+23	EXO	Lotto
+24	다비치	그대를 잊는다는 건
+25	DEAN	D (half moon) (Feat. 개코)
+26	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+27	김범수	사랑해요
+28	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+29	엠씨더맥스 (M.C The Max)	어디에도
+30	아이오아이 (I.O.I)	Whatta Man (Good man)
+31	슈퍼비	냉탕에 상어 (Feat. 블랙넛)
+32	임창정	또 다시 사랑
+33	씨스타 (Sistar)	I Like That
+34	임창정	노래 한번 할게요
+35	정준일	안아줘
+36	환희	사랑이 아프다
+37	정승환	너였다면
+38	볼빨간사춘기	우주를 줄게
+39	비와이 (BewhY)	The Time Goes On
+40	양다일, 효린	그리워
+41	백예린	Bye bye my blue
+42	허각, 정은지(Apink)	바다
+43	MINO (WINNER)	몸
+44	로꼬, 펀치(Punch)	Say Yes
+45	정준영	공감 (Feat. 서영은)
+46	샵건 (#Gun)	미친놈 (Feat. 제시)
+47	사이먼 도미닉 (Simon Dominic), GRAY, 원 (ONE)	맘 편히 (Comfortable)
+48	정은지	하늘바라기 (Feat. 하림)
+49	벤 (Ben)	꿈처럼
+50	사이먼 도미닉 (Simon Dominic), 원(ONE), 지투(G2), BewhY	니가 알던 내가 아냐 (Prod. by GRAY)
+51	임창정	이별 후
+52	백아연	쏘쏘
+53	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+54	언니쓰	Shut Up (Feat. 유희열)
+55	박경	자격지심 (Feat. 은하 of 여자친구)
+56	박보람	거짓말이라도 해줘요
+57	박재범	Me like yuh (k) (Feat. Hoody)
+58	태연 (TAEYEON)	Why
+59	EXO	Monster
+60	비스트 (Beast)	리본 (Ribbon)
+61	10cm	스토커
+62	거미	You Are My Everything
+63	kei (러블리즈) &amp; myunDo	Y (Feat. BUMZU)
+64	임창정	그 곳에 멈춰서
+65	크러쉬 (CRUSH), 한상원	SKIP
+66	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+67	다비치	이 사랑
+68	씨잼(Cjamm)	아름다워 (Beautiful) (Feat. 지코 (ZICO))
+69	현아 (HyunA)	어때?
+70	이적	걱정말아요 그대
+71	이하이	한숨
+72	TWICE	OOH-AHH하게
+73	Justin Bieber	Love Yourself
+74	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+75	비와이(BewhY), Talib Kweli (탈립콸리)	International Wave
+76	지코 (ZICO)	너는 나 나는 너
+77	박용인, 권순일	No Way
+78	MOBB	빨리 전화해 (Feat. KUSH)
+79	나다	Sticky (Prod. by San E) (Feat. San E)
+80	마마무 (Mamamoo)	Angel (솔라 & 휘인)
+81	산들	마음을 삼킨다
+82	아이오아이 (I.O.I)	사랑해 기억해
+83	Sam Smith	I`m Not The Only One
+84	미료	Ain`t Got Nobody (Prod by. DEAN) (Feat...
+85	임창정	화해
+86	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+87	The Quiett, Superbee, myunDo, Flowsik, Dok2	공중도덕 (Air DoTheQ)
+88	임창정	내 생에 가장 아름다운
+89	볼빨간사춘기	나만 안되는 연애
+90	오마이걸 (OH MY GIRL)	내 얘길 들어봐 (A-ing) (Feat. 스컬&하하)
+91	SG 워너비	사랑하자
+92	자이언티(Zion.T)	쿵 (Knock)
+93	마마무 (Mamamoo)	넌 is 뭔들
+94	나다, 전소연	무서워 (Prod. by KUSH)
+95	육지담	No Thx (Prod. by DEAN) (Feat. 수란, DEAN...
+96	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경)
+97	EXO	Lucky One
+98	가인	Carnival (The Last Day)
+99	서현진, 유승우	사랑이 뭔데
+100	매드 클라운 (Mad Clown), 샵건 (#Gun)	비행소년 (Going Home)

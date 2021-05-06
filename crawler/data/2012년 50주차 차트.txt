@@ -1,0 +1,101 @@
+./data/2012년 50주차 차트.txt
+1	이승기	되돌리다
+2	양요섭	카페인
+3	긱스 (Geeks), 소유	Officially Missing You, Too
+4	이하이	1,2,3,4 (원,투,쓰리,포)
+5	악동뮤지션 (AKMU)	다리꼬지마
+6	노을	하지 못한 말
+7	에일리 (Ailee)	보여줄게
+8	로이킴	힐링이 필요해
+9	주니엘 (Juniel)	나쁜 사람
+10	케이윌 (K.Will), 소유, 정민	하얀 설레임 (White Love)
+11	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+12	이하이	허수아비
+13	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+14	로이킴, 정준영	먼지가 되어
+15	로이킴	스쳐간다
+16	로이킴	휘파람
+17	가인	노스텔지아
+18	별, 권정열 (10cm)	귀여워
+19	넬 (Nell)	백야
+20	김범수, 박정현	하얀 겨울
+21	이승기	숲
+22	Miss A	남자 없이 잘 살아
+23	나얼	바람기억
+24	시크릿 (Secret)	Talk That
+25	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+26	가인	피어나
+27	정준영	응급실
+28	뚱스	쩔어
+29	이승기	사랑한다는 말
+30	지아 (Zia)	눈물이 툭 (Feat. 박경)
+31	이정	말리꽃 (원곡가수 이승철)
+32	현아 (HyunA)	Ice Cream
+33	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+34	어반 자카파 (Urban Zakapa)	똑같은 사랑 똑같은 이별
+35	손담비	눈물이 주르륵
+36	정은지, 서인국	All For You
+37	블락비 (Block B)	닐리리맘보
+38	이정	사랑해 봤니
+39	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+40	XIA(준수)	사랑은 눈꽃처럼
+41	DK (디셈버)	깊은밤 슬픈노래
+42	Dal★Shabet (달샤벳)	있기 없기
+43	G-Dragon	Missing You (Feat. 김윤아)
+44	허각, 지아 (Zia)	I Need You
+45	G-Dragon	크레용 (Crayon)
+46	NS Yoon-G	If You Love Me (Feat. 박재범)
+47	하림	사랑이 다른 사랑으로 잊혀지네
+48	긱스 (Geeks)	Officially Missing You
+49	별	니 얼굴 떠올라
+50	용감한 녀석들	자꾸만
+51	걸스데이 (Girl`s Day)	나를 잊지마요
+52	딕펑스 (Dick Punks)	떠나지마
+53	허밍 어반 스테레오 (Humming Urban Stereo)	Love Jam
+54	김성규	60초
+55	비원에이포 (B1A4)	걸어 본다
+56	프라이머리 (Primary)	독 (Feat. E-Sens)
+57	더 원 (The One)	사랑아
+58	더 씨야 (The Seeya)	내 맘은 죽어가요 (Feat. Speed)
+59	10cm	Fine Thank You And You
+60	싸이 (Psy)	강남스타일
+61	유승우	My Son
+62	이승기	나에게 초대
+63	티아라 (T-ara)	Sexy Love
+64	스피카 (Spica)	Lonely
+65	투빅 (2BiC)	24시간후
+66	박보영	나의 왕자님 (My Prince)
+67	버벌진트 (Verbal Jint), 팬텀 (Phantom), 애즈원 (As One), 미스에스 (Miss $), 스윙스 (Swings), 앤썬 (N-SON), 범키	Happy Brand New Year
+68	김종국	남자가 다 그렇지 뭐
+69	더 씨야 (The Seeya)	독약 (毒藥) (Feat. 해리)
+70	에픽하이 (EPIK HIGH)	Up
+71	윤건	걷다
+72	별	나빠
+73	Alicia Keys	Tears Always Win
+74	G-Dragon	그XX
+75	딕펑스 (Dick Punks)	연극이 끝난후
+76	어반 자카파 (Urban Zakapa)	니가 싫어
+77	어반 자카파 (Urban Zakapa)	River
+78	정동하	바라보나봐
+79	왁스 (Wax)	떨어진다 눈물이
+80	먼데이 키즈 (Monday Kiz)	My Love
+81	화요비	나는 위험해
+82	에픽하이 (Epik High)	Don`t Hate Me
+83	소향	살다가 (원곡가수 SG워너비)
+84	싸이 (Psy)	어땠을까 (Feat. 박정현)
+85	정준영	잊었니
+86	YB, 리쌍	MadMan
+87	Carly Rae Jepsen	Call Me Maybe
+88	이승철	아마추어
+89	클래지콰이 (Clazziquai)	함께라면 (Feat. 김진표)
+90	넬 (Nell)	Holding Onto Gravity
+91	밥&amp;김 (바비킴, 김태우)	그런 걸 (Girl)
+92	에일리 (Ailee)	저녁 하늘
+93	먼데이 키즈 (Monday Kiz)	확률
+94	동방신기	Humanoids
+95	C-Clown (씨클라운)	멀어질까봐
+96	로이킴	서울의 달
+97	더 원 (The One)	그녀를 사랑해줘요 (원곡가수 하동균)
+98	신혜성	그대라면 좋을텐데
+99	프라이머리 (Primary)	축하해 (Feat. 다이나믹 듀오, 박재범)
+100	딕펑스 (Dick Punks)	나비

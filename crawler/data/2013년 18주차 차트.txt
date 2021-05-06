@@ -1,0 +1,101 @@
+./data/2013년 18주차 차트.txt
+1	싸이 (Psy)	Gentleman
+2	로이킴	봄봄봄
+3	조용필	Bounce
+4	린 (LYn)	오늘 밤 (Feat. 배치기)
+5	케이윌 (K.Will)	Love Blossom (러브블러썸)
+6	다비치	녹는 중 (Feat. 버벌진트)
+7	긱스 (Geeks)	어때 (Feat. 하림)
+8	조용필	Hello (Feat. 버벌진트)
+9	이하이	Rose
+10	악동뮤지션 (AKMU)	외국인의 고백
+11	다비치	거북이
+12	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+13	악동뮤지션 (AKMU)	I Love You
+14	15&amp; (박지민, 백예린)	Somebody
+15	서인국	웃다 울다
+16	백지영	봄비
+17	악동뮤지션 (AKMU)	Crescendo (크레셴도)
+18	자이언티(Zion.T)	Babay (Feat. Gaeko)
+19	걸스데이 (Girl`s Day)	기대해
+20	악동뮤지션 (AKMU)	Officially Missing You
+21	포맨 (4Men)	Thank You
+22	홍대광	굿바이
+23	태연 (TAEYEON)	그리고 하나
+24	거미	눈꽃
+25	박재범	좋아 (Joah)
+26	배치기, 신보라	사랑하니까
+27	써니힐 (Sunny Hill), 데이브레이크 (Daybreak)	들었다 놨다 (Love Actually)
+28	더 원 (The One)	겨울사랑
+29	어반 자카파 (Urban Zakapa)	그냥 조금
+30	다비치	둘이서 한잔해
+31	허각, 유승우	모노드라마
+32	홍대광	멀어진다
+33	씨스타19	있다 없으니까 (Gone Not Around Any Longer)
+34	가비엔제이 (Gavy NJ)	이별극장
+35	인피니트 (Infinite)	Man In Love (남자가 사랑할때)
+36	리쌍	눈물 (Feat. 유진)
+37	2AM	어느 봄날
+38	슈프림팀 (Supreme Team)	그대로 있어도 돼 (Feat. Crush)
+39	배치기	눈물샤워 (Feat. 에일리)
+40	C-CLOWN(씨클라운)	흔들리고 있어
+41	지아 (Zia)	꿈에서라도
+42	악동뮤지션 (AKMU)	사랑은 은하수 다방에서
+43	틴 탑 (Teen Top)	긴 생머리 그녀 (Miss Right)
+44	주니엘 (Juniel)	귀여운 남자
+45	버벌진트 (Verbal Jint)	이게 사랑이 아니면 (Feat. 에일리)
+46	다비치	모르시나요
+47	에일리 (Ailee)	여인의 향기
+48	이하이	It`s Over
+49	가인, 조형우	Brunch
+50	알리 (ALi)	그땐 그랬지
+51	레이디스 코드 (Ladies` Code)	나쁜여자
+52	허각	1440
+53	신용재	가수가 된 이유
+54	이상곤	사랑이 아프다
+55	긱스 (Geeks), 소유	Officially Missing You, Too
+56	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+57	일렉트로보이즈 (Electroboyz)	Ma Boy 3 (Feat. 나나 Of 오렌지캬라멜)
+58	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+59	포맨 (4Men)	안녕 나야
+60	레인보우 (Rainbow)	Tell Me Tell Me
+61	샤이니 (SHINee)	Dream Girl
+62	지나(G.NA)	Oops! (Feat. 정일훈 (BTOB))
+63	포미닛 (4Minute)	이름이 뭐예요?
+64	윤하	아니야
+65	악동뮤지션 (AKMU)	라면인건가
+66	김진표	너는 나를 (Feat. 조현아)
+67	김태우	Goodbye (굿바이)
+68	자이언티(Zion.T)	She (Feat. Beenzino)
+69	알리 (ALi)	지우개
+70	딕펑스 (Dick Punks)	Viva청춘
+71	조용필	걷고 싶다
+72	Carly Rae Jepsen	Call Me Maybe
+73	백아연	사랑학개론
+74	윤하	멀리서 안부
+75	케이윌 (K.Will)	Lay Back
+76	조용필	Bounce
+77	라디 (Ra. D)	고마워 고마워
+78	티파니 (TIFFANY)	한걸음
+79	유지애	Delight
+80	임재범	비가
+81	버스커 버스커 (Busker Busker)	여수 밤바다
+82	비투비 (BTOB)	두 번째 고백
+83	버스커 버스커 (Busker Busker)	첫사랑
+84	윤도현	당신이 만든 날씨
+85	나얼	바람기억
+86	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+87	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+88	40 (포티)	봄을 노래하다
+89	긱스 (Geeks)	Officially Missing You
+90	노을	어떤가요
+91	린 (LYn)	유리 심장 (Feat. 용준형)
+92	더블 케이 (Double K)	HOTpants
+93	홍대광	웃으며 안녕
+94	서인국	너 땜에 못살아 (Feat. 버벌진트)
+95	틴 탑 (Teen Top)	길을 걷다가... (Walk By...)
+96	포맨 (4Men)	비나리
+97	백지영	아카시아
+98	김보경	혼자라고 생각말기
+99	옥상달빛	새로와
+100	이지영	사랑이 불어온다

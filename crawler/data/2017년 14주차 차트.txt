@@ -1,0 +1,101 @@
+./data/2017년 14주차 차트.txt
+1	아이유 (IU)	밤편지
+2	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+3	하이라이트(Highlight)	얼굴 찌푸리지 말아요
+4	TWICE	KNOCK KNOCK
+5	구윤회	Marry Me
+6	WINNER	REALLY REALLY
+7	볼빨간사춘기	좋다고 말해
+8	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+9	태연 (TAEYEON)	Fine
+10	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+11	레드벨벳(Red Velvet)	Rookie
+12	태연 (TAEYEON)	Make Me Love You
+13	크러쉬 (CRUSH)	Beautiful
+14	아이유 (IU)	사랑이 잘 (With 오혁)
+15	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+16	블락비 (Block B)	YESTERDAY
+17	볼빨간사춘기	우주를 줄게
+18	방탄소년단	봄날
+19	신현희와김루트	오빠야
+20	최하민(Osshun Gum)	Come for you (Feat. HOMEBOY & FNRL.)
+21	걸스데이 (Girl`s Day)	I`ll be yours
+22	여자친구 (GFRIEND)	FINGERTIP
+23	볼빨간사춘기	나만 안되는 연애
+24	비투비 (BTOB)	MOVIE
+25	매드 클라운 (Mad Clown)	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+26	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+27	TWICE	TT
+28	빅뱅	에라 모르겠다
+29	레드벨벳(Red Velvet)	Would U
+30	소유, 백현 (BAEKHYUN)	비가와 (Rain)
+31	자이언티(Zion.T)	노래
+32	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+33	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+34	BLACKPINK	불장난
+35	Ed Sheeran	Shape of You
+36	한동근	그대라는 사치
+37	에디킴	이쁘다니까
+38	소유 (SOYOU)	I Miss You
+39	WINNER	FOOL
+40	DEAN	넘어와 (Feat. 백예린)
+41	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+42	한동근	이 소설의 끝을 다시 써보려 해
+43	하이라이트(Highlight)	아름답다
+44	볼빨간사춘기	You(=I)
+45	창모 (CHANGMO)	마에스트로 (Maestro)
+46	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+47	헨리 (Henry)	그리워요 (Girlfriend)
+48	헤이즈 (Heize)	저 별
+49	정준일	첫 눈
+50	개코	코끼리 (Feat. 랩몬스터)
+51	임창정	내가 저지른 사랑
+52	다이나믹 듀오 (Dynamic Duo) &amp; 첸 (CHEN)	기다렸다 가
+53	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+54	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+55	황광희 X 개코	당신의 밤 (Feat. 오혁)
+56	김선재	종 (Feat. 효린)
+57	정승환	너였다면
+58	AOA	Excuse Me
+59	Justin Bieber	Love Yourself
+60	TWICE	CHEER UP
+61	샘김	Who are you
+62	정승환	이 바보야
+63	The Chainsmokers	Closer (Feat. Halsey)
+64	DEAN	D (half moon) (Feat. 개코)
+65	기리보이, 서출구, 양홍원 (Young B)	Bunzi (번지)
+66	볼빨간사춘기	심술
+67	매드 클라운 (Mad Clown)	사랑은 지옥에서 온 개 (Feat. 수란)
+68	태연 (TAEYEON)	11_11
+69	빅뱅	LAST DANCE
+70	자이언티(Zion.T)	Complex (Feat. G-DRAGON)
+71	아이오아이 (I.O.I)	너무너무너무
+72	정준일	바램
+73	방탄소년단	피 땀 눈물
+74	수지	행복한 척
+75	어반 자카파 (Urban Zakapa)	소원
+76	에릭남, 소미	유후 (You, Who?)
+77	엠씨더맥스 (M.C The Max)	어디에도
+78	세정	꽃길 (Prod. By ZICO)
+79	박효신	숨
+80	비투비 (BTOB)	언젠가 (SOMEDAY)
+81	10cm	봄이 좋냐??
+82	자이언티(Zion.T)	미안해 (Feat. Beenzino)
+83	Sam Smith	I`m Not The Only One
+84	Ariana Grande, John Legend	Beauty and the Beast (영화 미녀와 야수 삽입곡 (B...
+85	창모 (CHANGMO)	아름다워
+86	희철, 민경훈	나비잠 (Sweet Dream)
+87	양홍원 (Young B)	Better man (Feat. 크루셜 스타)
+88	기리보이(Giriboy)	고속 (Prod. By Big Pie)
+89	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+90	지코 (ZICO)	BERMUDA TRIANGLE (Feat. Crush, DEAN)
+91	PRISTIN (프리스틴)	WEE WOO
+92	아이오아이 (I.O.I)	소나기
+93	10cm	내 눈에만 보여
+94	방탄소년단	Not Today
+95	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+96	비투비 (BTOB)	기도 (I`ll Be Your Man)
+97	BLACKPINK	휘파람
+98	정준일	안아줘
+99	CHEEZE	좋아해 (bye)
+100	비투비 (BTOB)	봄날의 기억

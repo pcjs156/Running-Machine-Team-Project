@@ -1,0 +1,101 @@
+./data/2015년 32주차 차트.txt
+1	혁오 (hyukoh)	위잉위잉
+2	자이언티(Zion.T)	양화대교
+3	혁오 (hyukoh)	와리가리
+4	씨스타 (Sistar)	SHAKE IT
+5	에이핑크 (Apink)	Remember
+6	AOA	심쿵해 (Heart Attack)
+7	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+8	자이언티(Zion.T)	꺼내 먹어요
+9	소녀시대	PARTY
+10	Sik-K (식케이), 릴보이(Lil Boi), 지구인	RESPECT (Feat. 로꼬 & GRAY & DJ Pumkin)
+11	빅뱅	IF YOU
+12	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+13	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+14	비스트 (Beast)	예이 (YeY)
+15	비스트 (Beast)	일하러 가야 돼
+16	빅뱅	맨정신
+17	걸스데이 (Girl`s Day)	링마벨 (Ring My Bell)
+18	프라이머리 (Primary)	아끼지마 (Don`t Be Shy) (Feat. 초아 (AOA) & ...
+19	백아연	이럴거면 그러지말지 (Feat. 영현)
+20	빅뱅	BAE BAE
+21	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+22	리쌍(LeeSSang)	주마등 (Feat. MI-WOO)
+23	인피니트 (Infinite)	Bad
+24	혁오 (hyukoh)	Hooka
+25	아이유 (IU)	마음
+26	화생방실 클레오파트라	사랑할수록 (화생방실 클레오파트라)
+27	로꼬 (LOCO)	AWESOME (feat. 박재범 & Gray)
+28	빅뱅	LOSER
+29	빅뱅	WE LIKE 2 PARTY
+30	엠씨더맥스 (M.C The Max)	그 남잔 말야
+31	수지	왜 이럴까
+32	유승우	예뻐서 (You`re beautiful)
+33	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+34	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+35	박재범	몸매 (MOMMAE) (Feat. Ugly Duck)
+36	화생방실 클레오파트라	가질 수 없는 너  (화생방실 클레오파트라) (Bonus Track)
+37	Maroon 5	Sugar
+38	로꼬 (LOCO)	RESPECT (Feat. GRAY & DJ Pumkin)
+39	노래왕 퉁키	나를 슬프게 하는 사람들 (노래왕 퉁키)
+40	화생방실 클레오파트라	만약에 말야 (화생방실 클레오파트라) (Bonus Track)
+41	슈퍼주니어 (Super Junior)	Devil
+42	박재범	My Last (Feat. 로꼬 & GRAY)
+43	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+44	EXO	LOVE ME RIGHT
+45	키썸 (Kisum)	심상치 않아 (Feat. 주영)
+46	지코 (ZICO), 소진	아프다
+47	산이 (San E)	Me You (Feat. 백예린 of 15&)
+48	화생방실 클레오파트라	사랑.. 그 놈 (화생방실 클레오파트라)
+49	비투비 (BTOB)	괜찮아요
+50	EXID	아예 (Ah Yeah)
+51	박진영	어머님이 누구니 (Feat. 제시)
+52	샤이니 (SHINee)	View
+53	혁오 (hyukoh)	큰새
+54	김범수	사랑의 시작은 고백에서부터
+55	프라이머리 (Primary)	마일리지 (Mileage) (Feat. 팔로알토 & 화사 of 마마무...
+56	혁오 (hyukoh)	Ohio
+57	나얼	같은 시간 속의 너
+58	화생방실 클레오파트라	이 밤이 지나면 (화생방실 클레오파트라) (Bonus Track)
+59	아이유 (IU)	너의 의미 (Feat. 김창완)
+60	GOT7	딱 좋아 (Just right)
+61	허각, 정인	동네술집
+62	다비치	두사랑 (Feat. 매드클라운)
+63	EXO	CALL ME BABY
+64	규현 (KYUHYUN)	우리가 사랑한 시간
+65	범키	느껴 (My Everything)
+66	산이(San E), 레이나	한여름밤의 꿀
+67	정승환	너를 사랑한 시간
+68	Sam Smith	I`m Not The Only One
+69	miss A	다른 남자 말고 너
+70	지민, 아이언	Puss (Prod.by 라이머)
+71	이승기	그리고 안녕
+72	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+73	박보람	연예할래
+74	허각	사월의 눈
+75	Adam Levine	Lost Stars
+76	혁오 (hyukoh)	공드리
+77	엠씨더맥스 (M.C The Max)	바라보기
+78	Ariana Grande	Best Mistake (Feat. Big Sean)
+79	비스트 (Beast)	스위트 룸
+80	비스트 (Beast)	그곳에서
+81	EXID	위아래
+82	신용재	니가 보여
+83	나얼	바람기억
+84	쿨 (Cool)	한여름 밤의 고백
+85	박효신	야생화
+86	비스트 (Beast)	가져가
+87	2PM	우리집
+88	비스트 (Beast)	Oh Honey
+89	블락비 바스타즈	품행제로
+90	버벌진트(Verbal Jint), 산체스	싫대 (Feat. 범키)
+91	방탄소년단	I NEED U
+92	나인 뮤지스 (Nine Muses)	다쳐 (Hurt Locker)
+93	자이언티(Zion.T)	뻔한 멜로디 (Feat. Crush)
+94	도끼 (DOK2)	내가 (Feat. Beenzino & The Quiett)
+95	포맨 (4Men)	넌 나의 집
+96	자메즈 (Ja Mezz), 앤덥(Andup), 송민호	거북선 (Feat. 팔로알토)
+97	인피니트 (Infinite)	마주보며 서 있어
+98	슬리피(Sleepy), 송지은	쿨밤
+99	인피니트 (Infinite)	Moonlight
+100	노을	만약에 말야 (전우성 Solo)

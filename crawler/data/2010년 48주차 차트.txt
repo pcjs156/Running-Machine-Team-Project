@@ -1,0 +1,101 @@
+./data/2010년 48주차 차트.txt
+1	허각	언제나
+2	소녀시대	훗 (Hoot)
+3	2AM	전활 받지 않는 너에게
+4	카라 (KARA)	점핑 (Jumping)
+5	백지영	그여자
+6	강승윤	본능적으로 (Feat. Swings)
+7	비스트 (Beast)	Beautiful
+8	싸이 (Psy)	Right Now
+9	태연, 더 원 (The One)	별처럼
+10	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+11	장재인	가로수 그늘 아래 서면
+12	2AM	미친 듯이
+13	거미	죽어도 사랑해
+14	miss A	Breathe
+15	SG 워너비	해바라기
+16	존 박	빗속에서
+17	지나 (G.NA), 현아 (4Minute)	Say You Love Me
+18	2PM	I`ll Be Back
+19	2NE1 (투애니 원)	아파 (Slow)
+20	레인보우 (Rainbow)	Mach (마하)
+21	V.O.S	내겐 네가 흘러서..
+22	2NE1 (투애니 원)	Go Away
+23	가인	돌이킬 수 없는
+24	지아 (Zia), 포맨 (4Men)	울고, 불고...
+25	비스트 (Beast)	숨
+26	디셈버 (December)	눈부신 눈물
+27	2NE1 (투애니 원)	Can`t Nobody
+28	김보경	Because Of You
+29	허각	하늘을 달리다
+30	이정	헤어지는 일 (Feat. 리쌍)
+31	오렌지 캬라멜 (Orange Caramel)	아잉♡
+32	버즈 (Buzz)	여자가 싫다 (Feat. Venny)
+33	Ab에비뉴	여자는..알아요 (노는여자)
+34	싸이 (Psy)	내 눈에는 (Feat. 이재훈)
+35	포맨 (4Men)	미안해 (Feat. 美)
+36	성시경, 아이유 (IU)	그대네요
+37	임재범	후회합니다
+38	산이 (San E)	LoveSick
+39	싸이 (Psy)	Thank You (Feat. 서인영)
+40	KCM	사랑곰
+41	임정희	진짜일 리 없어
+42	신승훈	두 번 헤어지는 일 (Vocal 다비치)
+43	모세 (Mose)	좋은 사람 (Feat.마리오)
+44	샤이니 (SHINee)	Hello
+45	미스에스 (Miss $)	Promise U (Feat. 정슬기)
+46	이적	하늘을 달리다
+47	슈퍼스타K2 TOP11	The Dreamers
+48	슈프림팀, 영준 (브라운 아이드 소울)	왜
+49	허각	행복한 나를 (Feat. 존박)
+50	2NE1 (투애니 원)	박수쳐
+51	민경훈	상처투성이
+52	신지	이 모양 이 꼴로...
+53	박보람	세월이 가면
+54	BMK	사랑은 이별보다 빨라서
+55	화요비	나 같은 여자
+56	남녀공학	Too Late
+57	아웃사이더	주인공 (Feat. LMNOP)
+58	남녀공학	삐리뽐 빼리뽐
+59	Far East Movement	Like a G6 (Feat. Dev & The Cataracs)
+60	소야 (Soya), 김종국	매일매일 사랑해
+61	허각	My Heart
+62	바비 킴, Double K	너 하나만 못해
+63	Kelly Clarkson	Because Of You
+64	왁스 (Wax)	두 여자
+65	신승훈	로미오 & 줄리엣 (Vocal 슈프림팀(Supreme Team))
+66	김범수	나타나
+67	임정희	헤어지러 가는 길 (Feat. 조권)
+68	숙희	가슴아 안돼
+69	강승윤	당신께 쓰는 편지
+70	걸스데이 (Girl`s Day)	잘해줘봐야
+71	신혜성	안녕 그리고 안녕 (Feat. 에릭 & 남규리)
+72	소녀시대	첫눈에... (Snowy Wish)
+73	소녀시대	내 잘못이죠 (Mistake)
+74	지피 베이직 (GP Basic)	I′ll be there (부제 _ J에게)
+75	김지수, 장재인	신데렐라 (Super Week Ver.)
+76	Black Eyed Peas	The Time (Dirty Bit)
+77	디셈버 (December)	세상에 소리쳐
+78	낯선	One (With 지오 of MBLAQ)
+79	레인보우 (Rainbow)	A
+80	오원빈	사랑해 또 사랑해 (Feat. 미료)
+81	샤이니 (SHINee)	하루 (Haru)
+82	비스트 (Beast)	Lights Go On Again
+83	JYJ	찾았다
+84	포맨 (4Men)	Hello!
+85	씨스타 (Sistar)	가식걸
+86	마이티 마우스 (Mighty Mouth)	사랑이란 (Feat. 김희선)
+87	miss A	Bad Girl Good Girl
+88	에스프레소	눈물로 이 노래를 부릅니다
+89	서영은	자꾸만
+90	창민 (2AM), 이현 (에이트)	밥만 잘 먹더라
+91	이승철	그 사람
+92	휘성	결혼까지 생각했어
+93	박지헌	별보다 달보다
+94	태사비애	어느 영화에서처럼... (Duet. 드림걸스)
+95	포맨 (4Men), 美	Here I am
+96	포맨 (4Men)	U
+97	HybRefine(하이브리파인), 성훈(브라운아이드소울), 상신	Rain U
+98	Ke$ha	We R Who We R
+99	Ne-Yo	Cause I Said So
+100	비스트 (Beast)	니가 제일 좋아

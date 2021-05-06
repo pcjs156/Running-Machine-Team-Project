@@ -1,0 +1,101 @@
+./data/2013년 19주차 차트.txt
+1	로이킴	봄봄봄
+2	싸이 (Psy)	Gentleman
+3	포미닛 (4Minute)	이름이 뭐예요?
+4	악동뮤지션 (AKMU)	I Love You
+5	조용필	Bounce
+6	린 (LYn)	오늘 밤 (Feat. 배치기)
+7	케이윌 (K.Will)	Love Blossom (러브블러썸)
+8	다비치	녹는 중 (Feat. 버벌진트)
+9	조용필	Hello (Feat. 버벌진트)
+10	긱스 (Geeks)	Wash Away (Feat. 에일리)
+11	긱스 (Geeks)	어때 (Feat. 하림)
+12	다비치	거북이
+13	린 (LYn)	유리 심장 (Feat. 용준형)
+14	이하이	Rose
+15	악동뮤지션 (AKMU)	외국인의 고백
+16	주니엘 (Juniel)	귀여운 남자
+17	시크릿 (Secret)	Yoo Hoo
+18	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+19	바이브 (Vibe)	꼭 한번 만나고 싶다
+20	15&amp; (박지민, 백예린)	Somebody
+21	백지영	봄비
+22	서인국	웃다 울다
+23	악동뮤지션 (AKMU)	Crescendo (크레셴도)
+24	티아라 N4	전원일기 (田園日記)
+25	걸스데이 (Girl`s Day)	기대해
+26	샤이니 (SHINee)	Why So Serious?
+27	자이언티(Zion.T)	Babay (Feat. Gaeko)
+28	악동뮤지션 (AKMU)	Officially Missing You
+29	딕펑스 (Dick Punks)	Viva청춘
+30	박재범	좋아 (Joah)
+31	포맨 (4Men)	Thank You
+32	홍대광	굿바이
+33	거미	눈꽃
+34	태연 (TAEYEON)	그리고 하나
+35	윤하	우리가 헤어진 진짜 이유
+36	더 원 (The One)	겨울사랑
+37	허각, 유승우	모노드라마
+38	씨스타19	있다 없으니까 (Gone Not Around Any Longer)
+39	써니힐 (Sunny Hill), 데이브레이크 (Daybreak)	들었다 놨다 (Love Actually)
+40	배치기, 신보라	사랑하니까
+41	어반 자카파 (Urban Zakapa)	그냥 조금
+42	다비치	둘이서 한잔해
+43	양요섭, Cube Girls	Perfume
+44	리쌍	눈물 (Feat. 유진)
+45	인피니트 (Infinite)	Man In Love (남자가 사랑할때)
+46	배치기	눈물샤워 (Feat. 에일리)
+47	2AM	어느 봄날
+48	슈프림팀 (Supreme Team)	그대로 있어도 돼 (Feat. Crush)
+49	긱스 (Geeks)	집앞에서 (전화 받지 마 Part 2)
+50	틴 탑 (Teen Top)	긴 생머리 그녀 (Miss Right)
+51	지아 (Zia)	꿈에서라도
+52	악동뮤지션 (AKMU)	사랑은 은하수 다방에서
+53	버벌진트 (Verbal Jint)	이게 사랑이 아니면 (Feat. 에일리)
+54	C-CLOWN(씨클라운)	흔들리고 있어
+55	유승우	너와 나
+56	신용재	가수가 된 이유
+57	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+58	다비치	모르시나요
+59	틴 탑 (Teen Top)	길을 걷다가... (Walk By...)
+60	긱스 (Geeks), 소유	Officially Missing You, Too
+61	가비엔제이 (Gavy NJ)	이별극장
+62	포맨 (4Men)	안녕 나야
+63	홍대광	멀어진다
+64	허각	1440
+65	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+66	알리 (ALi)	지우개
+67	이하이	It`s Over
+68	조용필	Bounce
+69	레이디스 코드 (Ladies` Code)	나쁜여자
+70	이상곤	사랑이 아프다
+71	알리 (ALi)	그땐 그랬지
+72	샤이니 (SHINee)	Dream Girl
+73	레인보우 (Rainbow)	Tell Me Tell Me
+74	긱스 (Geeks)	비가오네
+75	Carly Rae Jepsen	Call Me Maybe
+76	윤하	멀리서 안부
+77	일렉트로보이즈 (Electroboyz)	Ma Boy 3 (Feat. 나나 Of 오렌지캬라멜)
+78	히스토리 (HISTORY)	Dreamer
+79	이예준	그대가 그대를
+80	악동뮤지션 (AKMU)	라면인건가
+81	에일리 (Ailee)	여인의 향기
+82	지나(G.NA)	Oops! (Feat. 정일훈 (BTOB))
+83	윤하	아니야
+84	김진표	너는 나를 (Feat. 조현아)
+85	자이언티(Zion.T)	She (Feat. Beenzino)
+86	헬로비너스 (Hello Venus)	차 마실래?
+87	케이윌 (K.Will)	Lay Back
+88	가인, 조형우	Brunch
+89	비스트 (Beast), 비투비 (BTOB)	Bye Bye Love
+90	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+91	유지애	Delight
+92	긱스 (Geeks)	Officially Missing You
+93	신용재	평범한 사랑
+94	긱스 (Geeks)	아마
+95	백아연	사랑학개론
+96	조용필	걷고 싶다
+97	나얼	바람기억
+98	디셈버 (December)	Going Home
+99	노을	어떤가요
+100	버스커 버스커 (Busker Busker)	첫사랑

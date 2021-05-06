@@ -1,0 +1,101 @@
+./data/2017년 28주차 차트.txt
+1	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+2	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+3	헤이즈 (Heize)	널 너무 모르고
+4	BLACKPINK	마지막처럼
+5	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+6	볼빨간 사춘기, 스무살	남이 될 수 있을까
+7	에이핑크 (Apink)	FIVE
+8	G-Dragon	무제(無題) (Untitled, 2014)
+9	황치열	매일 듣는 노래 (A Daily Song)
+10	볼빨간사춘기	처음부터 너와 나
+11	Ed Sheeran	Shape of You
+12	싸이 (Psy)	New Face
+13	지코 (ZICO)	Artist
+14	TWICE	SIGNAL
+15	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+16	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+17	청하	Why Don`t You Know (Feat. 넉살)
+18	WINNER	REALLY REALLY
+19	국민의 아들	NEVER
+20	싸이 (Psy)	I LUV IT
+21	아이유 (IU)	밤편지
+22	한동근	미치고 싶다
+23	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+24	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+25	씨스타 (Sistar)	LONELY
+26	구윤회	Marry Me
+27	아이유 (IU)	사랑이 잘 (With 오혁)
+28	언니쓰	맞지?
+29	볼빨간사춘기	좋다고 말해
+30	헤이즈 (Heize)	먹구름 (Feat. nafla)
+31	양홍원 (Young B)	아침에 (Feat. Bryn)
+32	크러쉬 (CRUSH)	Outside (Feat. Beenzino)
+33	윤종신	좋니
+34	TWICE	KNOCK KNOCK
+35	혁오 (hyukoh)	TOMBOY
+36	지코 (ZICO)	ANTI (Feat. G.Soul)
+37	FTISLAND (FT 아일랜드)	사랑앓이 (With 김나영)
+38	볼빨간사춘기	우주를 줄게
+39	BLACKPINK	불장난
+40	볼빨간사춘기	나만 안되는 연애
+41	창모 (CHANGMO)	아름다워
+42	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+43	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+44	The Chainsmokers	Closer (Feat. Halsey)
+45	신현희와김루트	오빠야
+46	방탄소년단	봄날
+47	마마무 (Mamamoo)	아재개그 (Narr. 김대희, 김준호)
+48	The Chainsmokers, Coldplay	Something Just Like This
+49	정승환	너였다면
+50	지코 (ZICO)	FANXY CHILD (Feat. FANXY CHILD)
+51	레드벨벳(Red Velvet)	You Better Know
+52	슬레이트	Oh Little Girl
+53	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+54	로꼬 (LOCO)	지나쳐 (FEAT. DEAN)
+55	한동근	그대라는 사치
+56	DEAN	D (half moon) (Feat. 개코)
+57	크러쉬 (CRUSH)	Beautiful
+58	TWICE	TT
+59	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+60	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+61	PRODUCE 101	나야 나 (PICK ME)
+62	Justin Bieber	Love Yourself
+63	아이오아이 (I.O.I)	소나기
+64	하이라이트(Highlight)	CALLING YOU
+65	싸이 (Psy)	어땠을까 (Feat. 박정현)
+66	엠씨더맥스 (M.C The Max)	어디에도
+67	하이라이트(Highlight)	얼굴 찌푸리지 말아요
+68	레드벨벳(Red Velvet)	Rookie
+69	볼빨간사춘기	You(=I)
+70	한동근	이 소설의 끝을 다시 써보려 해
+71	PRODUCE 101	Hands on me
+72	Knock	열어줘
+73	G-Dragon	개소리 (BULLSHIT)
+74	지코 (ZICO)	She`s a Baby
+75	아이유 (IU)	이 지금
+76	뉴이스트 (NU`EST)	여보세요
+77	아이유 (IU)	이런 엔딩
+78	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+79	효린, 키썸	FRUITY (Prod. GroovyRoom)
+80	이효리	Seoul (Feat. Killagramz)
+81	TWICE	CHEER UP
+82	유승우, 산들	오빠 (PROD.Brother Su)
+83	G-Dragon	SUPER STAR
+84	딥플로우(Deepflow)	작두 (Feat. 넉살, Huckleberry P)
+85	케이시 (Kassy)	굿모닝 (Good Morning)
+86	창모 (CHANGMO)	마에스트로 (Maestro)
+87	빅뱅	에라 모르겠다
+88	서은광, 임현식, 육성재	알듯 말듯해
+89	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+90	세븐틴	울고 싶지 않아
+91	레드벨벳(Red Velvet)	Zoo
+92	지코 (ZICO)	천재 (Behind the scene)
+93	박효신	숨
+94	임창정	내가 저지른 사랑
+95	시우민 (XIUMIN), 마크 (MARK)	Young & Free
+96	PRODUCE 101	Super Hot
+97	길구봉구	바람이 불었으면 좋겠어
+98	볼빨간사춘기	심술
+99	어반 자카파 (Urban Zakapa)	혼자
+100	백아연	달콤한 빈말 (Feat. 바버렛츠)

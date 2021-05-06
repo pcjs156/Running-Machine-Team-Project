@@ -1,0 +1,101 @@
+./data/2016년 48주차 차트.txt
+1	TWICE	TT
+2	희철, 민경훈	나비잠 (Sweet Dream)
+3	BLACKPINK	불장난
+4	볼빨간사춘기	우주를 줄게
+5	태연 (TAEYEON)	11_11
+6	세정	꽃길 (Prod. By ZICO)
+7	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+8	아이오아이 (I.O.I)	너무너무너무
+9	한동근	이 소설의 끝을 다시 써보려 해
+10	산이 (San E)	나쁜X (BAD YEAR)
+11	한동근	그대라는 사치
+12	긱스 (Geeks)	가끔 (Feat. Crush, 기리보이)
+13	임창정	내가 저지른 사랑
+14	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+15	로꼬 (LOCO)	남아있어 (Feat. Crush)
+16	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+17	볼빨간사춘기	나만 안되는 연애
+18	박효신	숨
+19	다비치	내 옆에 그대인 걸
+20	MC몽	널 너무 사랑해서 (Feat. 정은지 of 에이핑크)
+21	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+22	임슬옹, 조이	이별을 배웠어 (Always In My Heart)
+23	크러쉬 (CRUSH)	어떻게 지내
+24	방탄소년단	피 땀 눈물
+25	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+26	어반 자카파 (Urban Zakapa)	그런 밤
+27	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+28	BLACKPINK	휘파람
+29	TWICE	CHEER UP
+30	정승환	너였다면
+31	거미	구르미 그린 달빛
+32	신용재	빌려줄게
+33	EXO-CBX (첸백시)	Hey Mama!
+34	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+35	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+36	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+37	에일리 (Ailee)	If You
+38	DEAN	D (half moon) (Feat. 개코)
+39	유재석, EXO	Dancing King
+40	린 (LYn)	Love Story
+41	볼빨간사춘기	심술
+42	비투비 (BTOB)	기도 (I`ll Be Your Man)
+43	매드 클라운 (Mad Clown)	거짓말 (Feat. 이해리 of 다비치)
+44	존 박	네 생각
+45	윤미래 (T)	그대라는 세상
+46	성시경	다정하게, 안녕히
+47	알리 (ALi)	또 생각이 나서 (with 임창정)
+48	볼빨간사춘기	You(=I)
+49	젝스키스	세 단어
+50	엠씨더맥스 (M.C The Max)	어디에도
+51	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+52	규현 (KYUHYUN)	블라블라(Prod.by 윤종신)(Blah Blah)
+53	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+54	BLACKPINK	STAY
+55	비와이(BewhY)	Forever (Prod. by GRAY)
+56	SG 워너비	아임미싱유
+57	첸, 백현, 시우민 (EXO)	너를 위해
+58	정준일	안아줘
+59	에이핑크 (Apink)	내가 설렐 수 있게
+60	임창정	또 다시 사랑
+61	박원	노력
+62	EXO	Monster
+63	홍대광, 키썸	힙합이 뭔데?
+64	BLACKPINK	붐바야
+65	권진아	끝
+66	규현 (KYUHYUN)	여전히 아늑해(Prod.by 성시경)(Still)
+67	EXO	Lotto
+68	박보검	내 사람
+69	원더걸스 (Wonder girls)	Why So Lonely
+70	MC몽	블랙홀 (Feat. 에일리)
+71	엠씨더맥스 (M.C The Max)	그대 그대 그대
+72	바닐라 어쿠스틱 (Vanilla Acoustic)	울컥해
+73	다비치	그대를 잊는다는 건
+74	벤 (Ben)	안갯길 (Prod. By 진영(B1A4))
+75	Sam Smith	I`m Not The Only One
+76	박효신	야생화
+77	김범수	사랑해요
+78	정준영	공감 (Feat. 서영은)
+79	방탄소년단	불타오르네 (FIRE)
+80	샤이니 (SHINee)	Tell Me What To Do
+81	다비치	받는 사랑이 주는 사랑에게
+82	볼빨간사춘기	심술
+83	바이브 (Vibe)	외로운 놈
+84	박효신	Home
+85	기리보이(Giriboy)	술자리
+86	Bruno Mars	24K Magic
+87	인피니트 (Infinite)	태풍 (The Eye)
+88	EXO	Lucky One
+89	이적	걱정말아요 그대
+90	Justin Bieber	Love Yourself
+91	소유, 유승우	잠은 다 잤나봐요
+92	비와이 (BewhY)	The Time Goes On
+93	10cm	스토커
+94	The Chainsmokers	Closer (Feat. Halsey)
+95	아이오아이 (I.O.I)	잠깐만
+96	벤 (Ben)	꿈처럼
+97	김건모	다 당신 덕분이라오
+98	방탄소년단	21세기 소녀
+99	백예린	Bye bye my blue
+100	스탠딩 에그(Standing Egg)	여름밤에 우린

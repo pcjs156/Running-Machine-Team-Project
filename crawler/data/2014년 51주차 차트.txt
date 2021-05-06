@@ -1,0 +1,101 @@
+./data/2014년 51주차 차트.txt
+1	정승환	사랑에 빠지고 싶다
+2	에이핑크 (Apink)	LUV
+3	EXID	위아래
+4	성시경, 권진아	잊지 말기로 해
+5	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+6	윤미래, 타이거JK, 비지	Angel
+7	토이 (Toy)	세 사람 (With 성시경)
+8	다이나믹 듀오 (Dynamic Duo), 박정현	싱숭생숭 (SsSs)
+9	GD X TAEYANG	GOOD BOY
+10	박효신	HAPPY TOGETHER
+11	AOA	사뿐사뿐 (Like a Cat)
+12	HI SUHYUN	나는 달라 (Feat. BOBBY)
+13	Ariana Grande	Problem (Feat. Iggy Azalea)
+14	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+15	케이윌(K.will), 씨스타, 정기고(Junggigo), 매드 클라운(Mad Clown), 보이프렌드, 주영	Love Is You
+16	MC몽	내가 그리웠니 (Feat. 진실 of Mad Soul Child)
+17	효린, 주영	지워 (Feat. 아이언)
+18	비스트 (Beast)	12시 30분
+19	MC몽	내 생애 가장 행복한 시간 (Feat. 허각)
+20	이진아	시간아 천천히
+21	에픽하이 (Epik High)	헤픈엔딩 (Feat. 조원선 of 롤러코스터)
+22	포스트맨 (Postmen)	신촌을 못가
+23	10cm	쓰담쓰담
+24	토이 (Toy)	U & I (With Crush & 빈지노)
+25	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+26	MASTA WU	이리와봐 (Feat. Dok2, BOBBY)
+27	휘성, 알리 (ALi)	아무일 없었다는 듯
+28	Adam Levine	Lost Stars
+29	윤현상	언제쯤이면 (Duet.아이유)
+30	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+31	MC몽	죽을만큼 아파서 Part 2 (Feat. 스웨덴세탁소)
+32	에일리 (Ailee)	손대지마
+33	김조한	사랑에 빠지고 싶다
+34	박효신	야생화
+35	성시경	Winter Wonderland
+36	WINNER	공허해
+37	MC몽	도망가자 (Feat. 린)
+38	개코	화장 지웠어 (Feat. Zion.T, HA_TFELT) (No ma...
+39	로이킴	피노키오
+40	홍진영	산다는 건 (Cheer Up)
+41	엠씨더맥스 (M.C The Max)	바라보기
+42	MC몽	마음 단단히 먹어 (Feat. 에일리)
+43	버벌진트(Verbal Jint), 산이(San E), 팬텀(Phantom), 애즈원(As One), 피타입(P-Type), 태완, 강민희, 칸토, 샴페인&amp;캔들, 양다일, DJ IT	Brand New Day
+44	투빅 (2BiC)	우리 다시 사랑한다면
+45	김동률	그게나야
+46	지아(Zia)	나쁜 소문
+47	바비 (BOBBY)	연결고리#힙합
+48	소유, 권순일, 박용인	틈
+49	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+50	토이 (Toy)	그녀가 말했다 (With 권진아)
+51	WINNER	끼부리지마
+52	김범수	집 밥 (Feat. 긱스, 이희선여사)
+53	이승환	어떻게 사랑이 그래요
+54	MC몽	New York (Feat. 백지영)
+55	태양	눈, 코, 입
+56	이설아	엄마로 산다는 것은
+57	어쿠스틱 콜라보	묘해, 너와
+58	아이유 (IU)	너의 의미 (Feat. 김창완)
+59	윤미래 (T)	너를 사랑해
+60	악동뮤지션 (AKMU)	시간과 낙엽
+61	MC몽	고장난 선풍기 (Feat. 개리, 효린 of 씨스타)
+62	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+63	알리 (ALi)	펑펑
+64	토이 (Toy)	인생은 아름다워 (With 다이나믹듀오 & Zion. T & Crus...
+65	어쿠스틱 콜라보	너무 보고 싶어
+66	곽진언, 김필, 임도혁	당신만이
+67	MC몽	Whatever (Feat. 민아 of 걸스데이)
+68	마마무 (Mamamoo)	Piano Man
+69	토이 (Toy)	Goodbye sun, Goodbye moon (With 이수현 of...
+70	에픽하이 (Epik High)	스포일러
+71	비투비 (BTOB)	울어도 돼
+72	지코 (ZICO)	Tough Cookie (Feat. Don Mills)
+73	포스트맨, 6 to 8	술이 너보다 낫더라
+74	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+75	10cm	그리워라
+76	이적	거짓말 거짓말 거짓말
+77	걸스데이 (Girl`s Day)	보고싶어
+78	산이(San E), 레이나	한여름밤의 꿀
+79	수지 &amp; 버나드 박	대낮에 한 이별
+80	Adam Levine	No One Else Like You
+81	블락비 (Block B)	HER
+82	성시경, 에일리	Baby It`s Cold Outside
+83	곽진언, 김필	걱정말아요 그대
+84	김나영	니 말대로
+85	아이언	독기
+86	토이 (Toy)	Reset (With 이적)
+87	Maroon 5	Maps
+88	토이 (Toy)	너의 바다에 머무네 (With 김동률)
+89	바비 (BOBBY)	가드올리고 Bounce
+90	에이핑크 (Apink)	Secret
+91	아이유 (IU)	소격동
+92	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+93	인피니트F	가슴이 뛴다
+94	손승연	첫눈이 온다구요
+95	성시경, 박효신, 서인국, 빅스 (VIXX), 여동생	겨울 고백
+96	샤넌	새벽비
+97	임창정	친한사람 (Original Ver.)
+98	MC몽	What could I do (Feat. 범키)
+99	GOT7	하지하지마
+100	어반 자카파 (Urban Zakapa)	야야야

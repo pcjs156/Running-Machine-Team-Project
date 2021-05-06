@@ -1,0 +1,101 @@
+./data/2013년 49주차 차트.txt
+1	2NE1 (투애니 원)	그리워해요
+2	다비치	편지
+3	성시경	너에게
+4	산이 (San E)	이별식탁 (Feat. 산체스)
+5	miss A	Hush
+6	효린	너 밖에 몰라 (One Way Love)
+7	에일리 (Ailee)	눈물이 맘을 훔쳐서
+8	박효신	It`s YOU
+9	허각	향기만 남아
+10	이적	거짓말 거짓말 거짓말
+11	노을	밤이 오는 거리 (Feat. 다이나믹 듀오)
+12	트러블메이커 (Trouble Maker)	내일은 없어
+13	하이니 (Hi.ni)	가질 수 없는 너
+14	T.O.P	DOOM DADA
+15	태양	링가 링가 (RINGA LINGA)
+16	효린	Lonely
+17	형용돈죵 (정형돈 &amp; G-DRAGON)	해볼라고
+18	산이 (San E)	어디서 잤어 (Feat. 버벌진트, 스윙스)
+19	박지윤	미스터리 (Feat. San E)
+20	노을	잊혀진다는 거
+21	아이유 (IU)	분홍신
+22	윤하	괜찮다
+23	케이윌 (K.will)	촌스럽게 왜 이래 (You Don`t Know Love)
+24	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+25	창민 (2AM)	Moment
+26	임창정	나란놈이란
+27	2AM	그냥 있어줘
+28	하우두유둘 (유재석 &amp; 유희열)	Please Don`t Go My Girl (Feat. 김조한)
+29	버스커 버스커 (Busker Busker)	처음엔 사랑이란게
+30	어반 자카파 (Urban Zakapa)	코끝에 겨울
+31	산이 (San E)	전 여자친구에게 (Feat. 선우정아)
+32	G-Dragon	삐딱하게 (Crooked)
+33	이적, 정인	비포 선라이즈
+34	효린	스토커 (Stalker) (Feat. 매드클라운)
+35	비원에이포 (B1A4)	그대와 함께
+36	브라운 아이드 소울 (Brown Eyed Soul)	Always Be There
+37	EXO	으르렁 (Growl)
+38	장미하관 (노홍철 &amp; 장미여관)	오빠라고 불러다오
+39	티아라 (T-ara)	넘버나인 (No.9)
+40	이정, 하동균	같이 사랑했는데
+41	김예림 (투개월)	Goodbye 20
+42	2AM	후회할거야
+43	문명진	또 운다
+44	정준영	이별 10분 전
+45	효린	사랑 하지 마 (Don`t Love Me)
+46	윤미래 (T)	Touch Love
+47	레이디스 코드 (Ladies` Code)	예뻐 예뻐
+48	로이킴	서울 이곳은
+49	신지훈	아프고 아프다
+50	버스커 버스커 (Busker Busker)	잘할 걸
+51	노을	만약에 말야 (전우성 Solo)
+52	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+53	Ylvis	The Fox
+54	산이 (San E)	아는사람 얘기
+55	정키 (Jung Key)	홀로 (Feat. 김나영)
+56	휘성, 거미	Special Love
+57	투빅 (2BiC)	She (Feat. 79)
+58	김예림 (투개월)	행복한 나를
+59	나비 (Navi)	불치병 (Feat. 키비)
+60	블락비 (Block B)	Very Good
+61	FTISLAND (FT 아일랜드)	미치도록
+62	YB (윤도현 밴드), 박정현	회상
+63	버스커 버스커 (Busker Busker)	사랑은 타이밍
+64	에이핑크 (Apink)	NoNoNo
+65	박정현	마음으로만
+66	김범수	끝사랑
+67	이홍기 (FT아일랜드)	말이야
+68	장미여관	장가가고 싶은 남자 시집가고 싶은 여자
+69	최진혁	돌아보지 마
+70	범키	갖고놀래 (Feat. 다이나믹 듀오)
+71	G-Dragon	니가 뭔데 (Who You?)
+72	빅스 (VIXX)	저주인형
+73	효린	립스틱 짙게 바르고 (Red Lipstick) (Feat. ZICO)
+74	애즈 원 (As One)	2013 원하고 원망하죠
+75	효린	마사지 (Massage) (Feat. Dok2)
+76	유성은	Healing
+77	어반 자카파 (Urban Zakapa)	거꾸로 걷는다
+78	G-Dragon	Black (Feat. Jennie Kim)
+79	언터쳐블 (Untouchable)	배인 (Vain) (Feat. Koonta)
+80	임정희	Feel So Good (Feat. 홍대광)
+81	크레용팝 (Crayon Pop)	꾸리스마스
+82	무한도전	그래, 우리 함께
+83	먼데이 키즈 (Monday Kiz)	그대여
+84	김보경	그때로 가고싶다
+85	병살 (정준하 &amp; 김C)	사라질것들 (Feat. 이소라, Beenzino)
+86	딕펑스 (Dick Punks)	안녕 여자친구
+87	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+88	이승철	My Love
+89	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+90	M&amp;N	오늘밤
+91	효린	미치게 만들어
+92	임창정	문을 여시오 (Feat. 김창렬) (New Ver.)
+93	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+94	가비엔제이 (Gavy NJ), 더 씨야 (The SeeYa)	눈물이 핑돌아
+95	크레용팝 (Crayon Pop)	빠빠빠
+96	임정희	시간에 기대어
+97	효린	O.M.G (Feat. 긱스 릴보이)
+98	아이유 (IU)	누구나 비밀은 있다 (Feat. 가인)
+99	씨엔블루 (CNBLUE)	Lady
+100	샤이니 (SHINee)	Everybody

@@ -1,0 +1,101 @@
+./data/2013년 51주차 차트.txt
+1	서인국, 지아 (Zia)	이별남녀
+2	효린	너 밖에 몰라 (One Way Love)
+3	2NE1 (투애니 원)	그리워해요
+4	휘성, 거미	Special Love
+5	EXO	12월의 기적 (Miracles in December)
+6	성시경	너에게
+7	성시경, 박효신, 서인국, 빅스 (VIXX), 여동생	겨울 고백
+8	어반 자카파 (Urban Zakapa)	코끝에 겨울
+9	다비치	편지
+10	김예림 (투개월)	행복한 나를
+11	휘성	가슴 시린 이야기 (Feat. 용준형)
+12	산이 (San E)	이별식탁 (Feat. 산체스)
+13	miss A	Hush
+14	허각	향기만 남아
+15	에일리 (Ailee)	눈물이 맘을 훔쳐서
+16	하이니 (Hi.ni)	가질 수 없는 너
+17	박효신	It`s YOU
+18	박정현	마음으로만
+19	윤하	없어 (Feat. 이루펀트)
+20	휘성	결혼까지 생각했어
+21	디아 (DIA)	날 위한 이별
+22	노을	잊혀진다는 거
+23	트러블메이커 (Trouble Maker)	내일은 없어
+24	이적	거짓말 거짓말 거짓말
+25	T.O.P	DOOM DADA
+26	노을	밤이 오는 거리 (Feat. 다이나믹 듀오)
+27	태양	링가 링가 (RINGA LINGA)
+28	윤하	괜찮다
+29	효린	Lonely
+30	크레용팝 (Crayon Pop)	꾸리스마스
+31	박지윤	미스터리 (Feat. San E)
+32	아이유 (IU)	분홍신
+33	EXO	첫 눈
+34	이해리	해바라기
+35	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+36	산이 (San E)	어디서 잤어 (Feat. 버벌진트, 스윙스)
+37	창민 (2AM)	Moment
+38	형용돈죵 (정형돈 &amp; G-DRAGON)	해볼라고
+39	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+40	EXO	Christmas Day
+41	임창정	나란놈이란
+42	휘성	With Me
+43	루이	이 시간에 (Feat. 유성은, Young Luffy)
+44	케이윌 (K.will)	촌스럽게 왜 이래 (You Don`t Know Love)
+45	G-Dragon	삐딱하게 (Crooked)
+46	시크릿 (Secret)	I Do I Do
+47	버스커 버스커 (Busker Busker)	처음엔 사랑이란게
+48	문명진	또 운다
+49	티아라 (T-ara)	나 어떡해
+50	EXO	으르렁 (Growl)
+51	40 (포티), 임정희	영화처럼
+52	XIA(준수)	사랑합니다
+53	비원에이포 (B1A4)	그대와 함께
+54	효린	스토커 (Stalker) (Feat. 매드클라운)
+55	나인 뮤지스 (Nine Muses)	글루 (Glue)
+56	버벌진트 (Verbal Jint)	크리스마스를 부탁해 (Feat. 신승훈)
+57	신보라	꽁꽁
+58	하우두유둘 (유재석 &amp; 유희열)	Please Don`t Go My Girl (Feat. 김조한)
+59	정키 (Jung Key)	홀로 (Feat. 김나영)
+60	티아라 (T-ara)	넘버나인 (No.9)
+61	정준영	이별 10분 전
+62	레이디스 코드 (Ladies` Code)	예뻐 예뻐
+63	윤미래 (T)	Touch Love
+64	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+65	로이킴	서울 이곳은
+66	Ylvis	The Fox
+67	이민호	아픈 사랑
+68	산이 (San E)	전 여자친구에게 (Feat. 선우정아)
+69	노을	만약에 말야 (전우성 Solo)
+70	이종현, 주니엘 (JUNIEL)	사랑이 내려
+71	투빅 (2BiC)	Lonely Christmas
+72	브라운 아이드 소울 (Brown Eyed Soul)	Always Be There
+73	김범수	끝사랑
+74	2AM	후회할거야
+75	산이 (San E)	아는사람 얘기
+76	이적, 정인	비포 선라이즈
+77	버스커 버스커 (Busker Busker)	잘할 걸
+78	장미하관 (노홍철 &amp; 장미여관)	오빠라고 불러다오
+79	이정, 하동균	같이 사랑했는데
+80	이승환, 김예림 (투개월)	비누
+81	프리스타일 (Free Style)	Winter Song (Feat. Navi)
+82	에이핑크 (Apink)	NoNoNo
+83	Mariah Carey	All I Want For Christmas Is You
+84	휘성	Insomnia (불면증)
+85	EXO	My Turn To Cry
+86	손승연	너의 목소리가 들려
+87	효린	사랑 하지 마 (Don`t Love Me)
+88	스윗소로우(Sweet Sorrow)	몇번이고 (Feat. 박지윤)
+89	어반 자카파 (Urban Zakapa)	어떤 하루
+90	휘성	안되나요
+91	빅스 (VIXX)	저주인형
+92	범키	갖고놀래 (Feat. 다이나믹 듀오)
+93	G-Dragon	니가 뭔데 (Who You?)
+94	2AM	그냥 있어줘
+95	용준형	Flower
+96	이홍기 (FT아일랜드)	말이야
+97	EXO	The Star
+98	케이윌 (K.will)	눈사탕 (Snow Candy)
+99	블락비 (Block B)	Very Good
+100	나비 (Navi)	불치병 (Feat. 키비)

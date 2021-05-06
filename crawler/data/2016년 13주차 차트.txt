@@ -1,0 +1,101 @@
+./data/2016년 13주차 차트.txt
+1	다비치	이 사랑
+2	거미	You Are My Everything
+3	케이윌 (K.Will)	말해! 뭐해?
+4	매드 클라운 (Mad Clown), 김나영	다시 너를
+5	윤미래 (T)	ALWAYS
+6	첸(CHEN), 펀치 (Punch)	Everytime
+7	장범준	그녀가 곁에 없다면 (결혼 행진곡을 활용한 신곡)
+8	마마무 (Mamamoo)	넌 is 뭔들
+9	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+10	이하이	한숨
+11	엠씨더맥스 (M.C The Max)	어디에도
+12	소녀온탑	같은 곳에서
+13	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+14	지코 (ZICO)	너는 나 나는 너
+15	에릭남, 웬디	봄인가 봐 (Spring Love)
+16	장범준	사랑에 빠졌죠 (당신만이)
+17	PRODUCE 101	PICK ME
+18	마카롱 꿀떡	Yum-Yum (얌얌)
+19	지민 (AOA)	야 하고 싶어 (Feat.시우민 of EXO)
+20	태연 (TAEYEON)	Rain
+21	이하이	손잡아 줘요
+22	TWICE	OOH-AHH하게
+23	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+24	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+25	장범준	빗속으로
+26	수지, 백현 (BAEKHYUN)	Dream
+27	이적	걱정말아요 그대
+28	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+29	Pinkrush	Fingertips
+30	레드벨벳(Red Velvet)	7월 7일 (One Of These Nights)
+31	임창정	또 다시 사랑
+32	마마무 (Mamamoo)	I Miss You
+33	마마무 (Mamamoo)	1cm의 자존심
+34	오혁	소녀
+35	WINNER	센치해
+36	박재범	사실은 (The truth is)
+37	화려강산	Don`t Matter
+38	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+39	Jessie J, Ariana Grande, Nicki Minaj	Bang Bang
+40	기리보이(Giriboy)	예쁘잖아
+41	지코 (ZICO)	유레카 (Feat. Zion.T)
+42	Gary (개리)	또 하루 (Feat. 개코)
+43	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+44	케이윌 (K.Will)	니가 하면 로맨스 (feat.다비치)
+45	김범수	그댄 행복에 살텐데
+46	장범준	봄비
+47	장범준	회상
+48	백예린	우주를 건너
+49	린 (LYn)	With You
+50	러블리즈	Ah-Choo
+51	김필	청춘 (Feat. 김창완)
+52	에디킴	팔당댐 (feat.빈지노)
+53	거미	친구라도 될 걸 그랬어
+54	장범준	사랑에 빠져요 (금세 사랑에 빠지는)
+55	Adele	Hello
+56	정준영	공감 (Feat. 서영은)
+57	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+58	유주 (여자친구), 선율 (업텐션)	보일 듯 말 듯
+59	이하이	WORLD TOUR (비행) (Feat. MINO of WINNER)
+60	iKON	취향저격
+61	장범준	그녀가 웃었죠
+62	태연 (TAEYEON)	I (Feat. 버벌진트)
+63	김나영	어땠을까
+64	노을	함께
+65	스탠딩 에그(Standing Egg)	무지개 (Feat. 윤닭 Of 오브로젝트)
+66	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+67	윤아 (YOONA)	덕수궁 돌담길의 봄 (Feat. 10cm)
+68	Make Some Noise	24시간
+69	자이언티(Zion.T)	No Make Up
+70	장범준	떠나야만해
+71	아이유 (IU)	스물셋
+72	서인국	너 라는 계절
+73	AOA	심쿵해 (Heart Attack)
+74	에릭남	Good For You
+75	싸이 (Psy)	DADDY (Feat. CL of 2NE1)
+76	버스커 버스커 (Busker Busker)	꽃송이가
+77	백지영, 치타 (CHEETAH)	사랑이 온다
+78	Sam Smith	I`m Not The Only One
+79	EXID	HOT PINK
+80	박보람	혜화동 (혹은 쌍문동)
+81	송민호	겁 (Feat. 태양)
+82	장범준	홍대와 건대 사이
+83	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+84	산이(San E), 매드 클라운(Mad Clown)	못먹는 감 (Sour Grapes)
+85	GOT7	Fly
+86	백아연	이럴거면 그러지말지 (Feat. 영현)
+87	레드벨벳(Red Velvet)	Dumb Dumb
+88	Justin Bieber	Love Yourself
+89	자이언티(Zion.T)	꺼내 먹어요
+90	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+91	송민호, 지코(ZICO)	Okey Dokey
+92	장범준	애태우는 여자
+93	박효신	야생화
+94	싸이 (Psy)	나팔바지
+95	이하이	FXXK WIT US (Feat. DOK2)
+96	솔지하니(EXID)	ONLY ONE
+97	엠씨더맥스 (M.C The Max)	그 남잔 말야
+98	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+99	에일리 (Ailee)	사랑이니까
+100	DEAN	D (half moon) (Feat. 개코)

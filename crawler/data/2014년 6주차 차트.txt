@@ -1,0 +1,101 @@
+./data/2014년 6주차 차트.txt
+1	Idina Menzel	Let It Go
+2	효린	안녕
+3	걸스데이 (Girl`s Day)	Something
+4	가인	Fxxk U (feat. 범키)
+5	에일리 (Ailee)	노래가 늘었어
+6	Idina Menzel	Let It Go
+7	엠씨더맥스 (M.C The Max)	그대가 분다
+8	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+9	Gary (개리)	조금 이따 샤워해 (Feat. Crush)
+10	린 (LYn)	My Destiny
+11	허각	오늘 같은 눈물이
+12	비 (Rain)	LA SONG
+13	AOA	짧은 치마 (Miniskirt)
+14	Kristen Bell	Do You Want To Build A Snowman?
+15	비원에이포 (B1A4)	LONELY (없구나)
+16	케이윌(K.will)	별처럼
+17	휘성	가슴 시린 이야기 (Feat. 용준형)
+18	홍대광	답이 없었어
+19	거미	내 생각날 거야
+20	윤하	별에서 온 그대
+21	Kristen Bell	For The First Time In Forever
+22	휘성	결혼까지 생각했어
+23	레인보우 블랙	Cha Cha
+24	지아 (Zia)	나 이런 여자예요 (With 예지, 체스카 Of 피에스타)
+25	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+26	Kristen Bell, Santino Fontana	Love Is An Open Door
+27	스피카(SPICA)	You Don`t Love Me
+28	동방신기	Something
+29	포미닛 (4minute)	살만찌고
+30	휘성, 거미	Special Love
+31	Kristen Bell	Do You Want To Build A Snowman?
+32	에이핑크 (Apink)	Good Morning Baby
+33	엠씨더맥스 (M.C The Max)	그때 우리
+34	빈지노 (Beenzino)	Dali, Van, Picasso
+35	브라운 아이드 소울 (Brown Eyed Soul)	너를
+36	성시경	너에게
+37	서인국, 지아 (Zia)	이별남녀
+38	가인	진실 혹은 대담
+39	Dal★Shabet (달샤벳)	B.B.B (Big Baby Baby)
+40	효린	너 밖에 몰라 (One Way Love)
+41	허각	향기만 남아
+42	저스트 (Just)	I Love You
+43	B.A.P	1004 (Angel)
+44	범키, 버벌진트 (Verbal Jint)	너에게만
+45	EXO	으르렁 (Growl)
+46	에일리 (Ailee)	눈물이 맘을 훔쳐서
+47	Gary (개리)	XX몰라 (ZOTTO MOLA)
+48	엠씨더맥스 (M.C The Max)	백야
+49	2NE1 (투애니 원)	그리워해요
+50	프리스타일 (Free Style)	Maybe (Feat. 호란)
+51	심은경	나성에 가면
+52	김범수	끝사랑
+53	써니힐(Sunny Hill)	아무말도 하지마요
+54	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+55	성시경, 박효신, 서인국, 빅스 (VIXX), 여동생	겨울 고백
+56	miss A	Hush
+57	Kristen Bell, Santino Fontana	Love Is An Open Door
+58	다비치	편지
+59	버벌진트, San E, 범키, 스윙스, 팬텀, 칸토	You Make Me Feel BRAND NEW
+60	산이 (San E)	이별식탁 (Feat. 산체스)
+61	긱스(Geeks)	F.I.L.A (Fall In Love Again) (feat. DJ...
+62	EXO	12월의 기적 (Miracles in December)
+63	트러블메이커 (Trouble Maker)	내일은 없어
+64	G-Dragon	삐딱하게 (Crooked)
+65	정키 (Jung Key)	홀로 (Feat. 김나영)
+66	GOT7	Girls Girls Girls
+67	비 (Rain)	30 SEXY
+68	소유 (SOYOU)	한번만
+69	임창정	나란놈이란
+70	정우, 유연석, 손호준	너만을 느끼며
+71	어반 자카파 (Urban Zakapa)	코끝에 겨울
+72	김예림 (투개월)	행복한 나를
+73	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+74	지아 (Zia)	울어본 적 있나요
+75	엠씨더맥스 (M.C The Max)	입술의 말
+76	아이유 (IU)	분홍신
+77	지아 (Zia)	그런 줄 알았어
+78	하이니 (Hi.ni)	가질 수 없는 너
+79	디아 (DIA)	날 위한 이별
+80	Gary (개리)	술 취한 밤의 노래 (Feat. Jung In)
+81	휘성	With Me
+82	심은경	하얀 나비
+83	박효신	It`s YOU
+84	김성균, 도희	운명
+85	노을	만약에 말야 (전우성 Solo)
+86	버스커 버스커 (Busker Busker)	처음엔 사랑이란게
+87	더 씨야 (The Seeya)	Tell me
+88	Kristen Bell	For The First Time In Forever
+89	레이디스 코드 (Ladies` Code)	예뻐 예뻐
+90	마마무 (Mamamoo), 범키	행복하지마
+91	투빅 (2BiC)	행복하기를 (I Love You)
+92	Demi Lovato	Let It Go (Single Ver.)
+93	가인	Q&A (Feat.조권)
+94	T.O.P	DOOM DADA
+95	이적	거짓말 거짓말 거짓말
+96	엠씨더맥스 (M.C The Max)	하루만 빌려줘
+97	노지훈	너를 노래해 (Feat. 쇼리)
+98	박지윤	미스터리 (Feat. San E)
+99	바이브 (Vibe)	천국 (feat.이영현,신용재of포맨,임세준,원지of벨라포)
+100	샤넌	Remember You (Feat. 스피드 종국)

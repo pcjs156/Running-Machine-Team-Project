@@ -1,0 +1,101 @@
+./data/2018년 7주차 차트.txt
+1	iKON	사랑을 했다 (LOVE SCENARIO)
+2	장덕철	그날처럼
+3	로이킴	그때 헤어지면 돼
+4	레드벨벳(Red Velvet)	Bad Boy
+5	모모랜드 (MOMOLAND)	뿜뿜
+6	선미	주인공
+7	멜로망스(Melomance)	선물
+8	Camila Cabello	Havana (Feat. Young Thug)
+9	문문 (MoonMoon)	비행운
+10	청하	Roller Coaster
+11	볼빨간사춘기	#첫사랑
+12	DEAN	instagram
+13	정승환	눈사람
+14	펀치 (Punch)	밤이 되니까
+15	TWICE	Heart Shaker
+16	수지	다른사람을 사랑하고 있어
+17	Fitz &amp; The Tantrums	HandClap
+18	윤종신	좋니
+19	김동률	답장
+20	TWICE	LIKEY
+21	나얼	기억의 빈자리
+22	방탄소년단	DNA
+23	레드벨벳(Red Velvet)	피카부 (Peek-A-Boo)
+24	길구봉구	이 별
+25	박원	all of my life
+26	윤종신, 민서	좋아
+27	비투비 (BTOB)	그리워하다
+28	Ed Sheeran	Shape of You
+29	다비치	너 없는 시간들
+30	아이유 (IU)	밤편지
+31	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+32	볼빨간사춘기	썸 탈꺼야
+33	펀치 (Punch)	오늘밤도
+34	먼데이 키즈 (Monday Kiz)	가을 안부
+35	종현 (JONGHYUN)	Lonely (Feat. 태연)
+36	어반 자카파 (Urban Zakapa)	그때의 나, 그때의 우리
+37	선미	가시나
+38	Wanna One (워너원)	Beautiful
+39	Shawn Mendes	There`s Nothing Holdin` Me Back
+40	세븐틴	고맙다
+41	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+42	박원	노력
+43	허각	바보야
+44	에일리 (Ailee)	다시 쓰고 싶어
+45	에픽하이 (EPIK HIGH)	연애소설 (Feat. 아이유)
+46	방탄소년단	봄날
+47	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+48	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+49	다이나믹 듀오 (Dynamic Duo)	봉제선 (Feat. 수란)
+50	오마이걸 (OH MY GIRL)	비밀정원
+51	BLACKPINK	마지막처럼
+52	멜로망스(MeloMance)	짙어져
+53	볼빨간사춘기	나의 사춘기에게
+54	박효신	겨울소리
+55	수지	HOLIDAY (Feat. DPR LIVE)
+56	EXO	Universe
+57	임창정	그 사람을 아나요
+58	WINNER	REALLY REALLY
+59	Wanna One (워너원)	에너제틱 (Energetic)
+60	자이언티(Zion.T)	눈 (Feat. 이문세)
+61	멜로망스(MeloMance)	You
+62	양다일	미안해
+63	볼빨간사춘기	Blue
+64	EXID	덜덜덜
+65	이하이	한숨
+66	포맨 (4Men)	눈 떠보니 이별이더라
+67	황치열	매일 듣는 노래 (A Daily Song)
+68	방탄소년단	고민보다 Go
+69	이수	My Way
+70	The Chainsmokers	Closer (Feat. Halsey)
+71	양요섭	별
+72	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+73	EXO	Ko Ko Bop
+74	허각	마지막으로 안아도 될까
+75	볼빨간 사춘기, 스무살	남이 될 수 있을까
+76	엠씨더맥스 (M.C The Max)	어디에도
+77	인피니트 (Infinite)	Tell Me
+78	길구봉구	바람이 불었으면 좋겠어
+79	iKON	LONG TIME NO SEE
+80	방탄소년단	MIC Drop
+81	권진아	이별 뒷면
+82	버즈 (Buzz)	사랑하지 않은 것처럼
+83	JBJ	꽃이야
+84	아이유 (IU)	가을 아침
+85	10cm	폰서트
+86	EXO	Power
+87	소유, 성시경	뻔한 이별
+88	에픽하이 (EPIK HIGH)	빈차 (Feat. 오혁)
+89	종현 (JONGHYUN)	빛이 나 (Shinin`)
+90	The Chainsmokers, Coldplay	Something Just Like This
+91	방탄소년단	피 땀 눈물
+92	세븐틴	박수
+93	박보람	애쓰지 마요
+94	헤이즈 (Heize)	널 너무 모르고
+95	세븐틴	지금 널 찾아가고 있어
+96	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+97	볼빨간사춘기	처음부터 너와 나
+98	Imagine Dragons	Thunder
+99	지아 (Zia)	바보에게 바보가
+100	Justin Bieber	Love Yourself

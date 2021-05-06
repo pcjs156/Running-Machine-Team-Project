@@ -1,0 +1,101 @@
+./data/2015년 28주차 차트.txt
+1	씨스타 (Sistar)	SHAKE IT
+2	AOA	심쿵해 (Heart Attack)
+3	백아연	이럴거면 그러지말지 (Feat. 영현)
+4	빅뱅	IF YOU
+5	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+6	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+7	빅뱅	맨정신
+8	EXO	LOVE ME RIGHT
+9	아이유 (IU)	마음
+10	빅뱅	WE LIKE 2 PARTY
+11	빅뱅	LOSER
+12	빅뱅	BAE BAE
+13	엠씨더맥스 (M.C The Max)	그 남잔 말야
+14	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+15	범키	느껴 (My Everything)
+16	자이언티(Zion.T)	꺼내 먹어요
+17	비투비 (BTOB)	괜찮아요
+18	샤이니 (SHINee)	View
+19	이승기	그리고 안녕
+20	김범수	사랑의 시작은 고백에서부터
+21	산이 (San E)	Me You (Feat. 백예린 of 15&)
+22	에일리 (Ailee)	Johnny (쟈니)
+23	지코 (ZICO), 소진	아프다
+24	Maroon 5	Sugar
+25	버벌진트(Verbal Jint), 산체스	싫대 (Feat. 범키)
+26	EXO	CALL ME BABY
+27	2PM	우리집
+28	EXID	아예 (Ah Yeah)
+29	허각, 정인	동네술집
+30	박진영	어머님이 누구니 (Feat. 제시)
+31	규현 (KYUHYUN)	우리가 사랑한 시간
+32	화생방실 클레오파트라	사랑.. 그 놈 (화생방실 클레오파트라)
+33	나얼	같은 시간 속의 너
+34	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+35	박보람	연예할래
+36	miss A	다른 남자 말고 너
+37	다비치	두사랑 (Feat. 매드클라운)
+38	씨스타 (Sistar)	애처럼 굴지마 (Feat. 기리보이)
+39	EXO	TENDER LOVE
+40	틴 탑 (Teen Top)	아침부터 아침까지 (ah-ah)
+41	허각	사월의 눈
+42	포맨 (4Men)	넌 나의 집
+43	슬리피(Sleepy), 송지은	쿨밤
+44	지민, 아이언	Puss (Prod.by 라이머)
+45	윤미래 (T)	너의 얘길 들어줄게
+46	박재범	몸매 (MOMMAE) (Feat. Ugly Duck)
+47	벤 (Ben)	두근두근
+48	키썸 (Kisum)	#화이트 스타일 (Feat. 김호연 of 달 좋은밤)
+49	어반 자카파 (Urban Zakapa)	Get (Feat. Beenzino)
+50	타이거 JK	Reset (Feat. 진실 of Mad Soul Child)
+51	Sam Smith	I`m Not The Only One
+52	프라이머리 (Primary)	마네퀸 (Feat. Beenzino, 수란)
+53	지누션	한번 더 말해줘 (Feat. 장한나)
+54	방탄소년단	I NEED U
+55	육성재	Love Song (Feat. 박혜수)
+56	켄(빅스), 하니(EXID)	빈틈
+57	블락비 바스타즈	품행제로
+58	산이(San E), 레이나	한여름밤의 꿀
+59	노을	만약에 말야 (전우성 Solo)
+60	EXID	위아래
+61	도끼 (DOK2)	111%
+62	Adam Levine	Lost Stars
+63	포맨 (4Men)	이불킥
+64	레드벨벳(Red Velvet)	Ice Cream Cake
+65	나얼	바람기억
+66	보아 (BoA)	Who Are You (Feat. 개코)
+67	백지영	새벽 가로수길 (With 송유빈)
+68	도끼 (DOK2)	내가 (Feat. Beenzino & The Quiett)
+69	박효신	야생화
+70	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+71	씨스타 (Sistar)	나쁜놈 (Feat. 매드클라운)
+72	프라이머리 (Primary)	조만간 봐요 (Feat. BSK, 개코)
+73	치타, 에일리	아무도 모르게 (Prod. by MC몽)
+74	홍대광	잘됐으면 좋겠다
+75	케이윌 (K.will)	꽃이 핀다
+76	카라 (Kara)	CUPID
+77	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+78	EXO	약속 (EXO 2014)
+79	노을	목소리
+80	Ariana Grande	Problem (Feat. Iggy Azalea)
+81	MC몽	사랑 범벅 (Feat. 챈슬러 of the channels)
+82	엠씨더맥스 (M.C The Max)	바라보기
+83	아이유 (IU)	너의 의미 (Feat. 김창완)
+84	Maroon 5	Maps
+85	나인 뮤지스 (Nine Muses)	다쳐 (Hurt Locker)
+86	방탄소년단	쩔어
+87	EXO	FIRST LOVE
+88	G.Soul	Love Me Again
+89	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+90	어쿠스틱 콜라보	너무 보고 싶어
+91	NS Yoon-G	꿀썸머
+92	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+93	김연우	To Be With You
+94	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+95	배치기	바람에 날려 (Feat. 펀치 (Punch))
+96	렉스디(Rex.D)	#불편해 (Feat. 강민희 (미스에스))
+97	백지영	And... 그리고
+98	GD X TAEYANG	GOOD BOY
+99	윤하	기도
+100	윤종신	굿나잇 (With 에디킴)

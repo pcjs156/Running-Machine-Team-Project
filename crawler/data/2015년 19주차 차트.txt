@@ -1,0 +1,101 @@
+./data/2015년 19주차 차트.txt
+1	산이 (San E)	Me You (Feat. 백예린 of 15&)
+2	박진영	어머님이 누구니 (Feat. 제시)
+3	EXID	아예 (Ah Yeah)
+4	miss A	다른 남자 말고 너
+5	지민, 아이언	Puss (Prod.by 라이머)
+6	지누션	한번 더 말해줘 (Feat. 장한나)
+7	박보람	연예할래
+8	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+9	EXO	CALL ME BABY
+10	다비치	두사랑 (Feat. 매드클라운)
+11	빅뱅	LOSER
+12	허각	사월의 눈
+13	블락비 바스타즈	품행제로
+14	프라이머리 (Primary)	조만간 봐요 (Feat. BSK, 개코)
+15	빅뱅	BAE BAE
+16	레드벨벳(Red Velvet)	Ice Cream Cake
+17	나얼	같은 시간 속의 너
+18	치타, 에일리	아무도 모르게 (Prod. by MC몽)
+19	케이윌 (K.will)	꽃이 핀다
+20	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+21	박효신	Shine Your Light
+22	Maroon 5	Sugar
+23	백지영	새벽 가로수길 (With 송유빈)
+24	MC몽	사랑 범벅 (Feat. 챈슬러 of the channels)
+25	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+26	EXID	위아래
+27	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+28	백현	두근거려 (Beautiful)
+29	거미	해줄 수 없는 일
+30	지민, 슬옹	시작이 좋아 2015 (Prod. By 버벌진트)
+31	가인	Apple (Feat. 박재범)
+32	노을	목소리
+33	김예림 (투개월)	Awoo
+34	이문세	봄바람 (Feat. 나얼)
+35	치타 (CHEETAH)	Coma 07` (Prod.by DJ Juice, D.Theo)
+36	제시(Jessi), 치타, 강남	My Type (Prod. by 버벌진트)
+37	키썸(Kisum), 릴샴(Lilcham), 제이스(Jace), 보라, 아둥가	Feedback (피드백)
+38	키썸, San E, 태완	슈퍼스타 (Prod. by D.O)
+39	Sam Smith	I`m Not The Only One
+40	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+41	방탄소년단	I NEED U
+42	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+43	박진영	대낮에 한 이별 (Feat. 선예)
+44	엠씨더맥스 (M.C The Max)	그 남잔 말야
+45	박효신	야생화
+46	민아 (걸스데이)	나도 여자예요
+47	제시(Jessi)	나이고 싶어
+48	Ariana Grande	Problem (Feat. Iggy Azalea)
+49	Adam Levine	Lost Stars
+50	매드 클라운 (Mad Clown)	화 (Feat. 진실 of Mad Soul Child)
+51	다비치	또 운다 또
+52	정승환	사랑에 빠지고 싶다
+53	GRAY (그레이)	하기나 해 (Feat. Loco)
+54	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+55	러블리즈	안녕 (Hi~)
+56	산이(San E)	모두가 내 발아래 (Feat. MC그리)
+57	에이핑크 (Apink)	LUV
+58	포미닛 (4minute)	미쳐
+59	김예림 (투개월)	알면 다쳐
+60	AOA	사뿐사뿐 (Like a Cat)
+61	소유, 기리보이 (Giriboy)	팔베개 (Pillow) (Feat. 기현)
+62	프라이머리 (Primary)	U (Feat. 권진아, 랩몬스터)
+63	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+64	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+65	15&amp; (박지민, 백예린)	사랑은 미친짓 (Feat. 칸토 of 트로이)
+66	장재인	환청 (Feat. 나쑈(NaShow))
+67	제시(Jessi)	Unpretty Dreams (Prod.by GRAY)
+68	GD X TAEYANG	GOOD BOY
+69	엠씨더맥스 (M.C The Max)	바라보기
+70	나얼	바람기억
+71	키썸 (Kisum)	To.Mom (Feat. 인순이)
+72	EXO	EXODUS
+73	프라이머리 (Primary)	머리 세웠어 (Feat. 정기고)
+74	신보라	미스매치 (Feat. VASCO)
+75	산이 (San E)	She`s (Feat. 정인)
+76	Dal★Shabet (달샤벳)	JOKER
+77	빈지노 (Beenzino)	어쩌라고 (So What)
+78	아이유 (IU)	너의 의미 (Feat. 김창완)
+79	Maroon 5	Maps
+80	지민, J.DON	GOD
+81	포스트맨 (Postmen)	신촌을 못가
+82	가인	Paradise Lost
+83	정승환, 박윤하	슬픔 속에 그댈 지워야만 해
+84	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+85	산이(San E), 레이나	한여름밤의 꿀
+86	어쿠스틱 콜라보	너무 보고 싶어
+87	토이 (Toy)	세 사람 (With 성시경)
+88	바이브 (Vibe), 포맨 (4Men), 벤 (Ben), 임세준, 미 (MIIII)	축가 (Celebrate Love)
+89	어쿠스틱 콜라보	묘해, 너와
+90	육지담, 백예린	On & On (Prod. By The Quiett)
+91	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+92	소녀시대	Catch Me If You Can
+93	MC몽	내 생애 가장 행복한 시간 (Feat. 허각)
+94	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+95	나비(Navi)	잘지내니
+96	Bruno Mars	Treasure
+97	다비치	행복해서 미안해
+98	EXO	PLAYBOY
+99	윤종신	The Color (With 빈지노)
+100	환희	아프다

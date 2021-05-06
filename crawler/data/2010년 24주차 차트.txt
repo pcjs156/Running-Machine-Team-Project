@@ -1,0 +1,101 @@
+./data/2010년 24주차 차트.txt
+1	원더걸스 (Wonder Girls)	2 Different Tears
+2	씨엔블루 (CNBLUE)	Love
+3	다비치	시간아 멈춰라
+4	포미닛 (4minute)	HUH
+5	f(x)	NU 예삐오 (NU ABO)
+6	엠블랙 (MBLAQ)	Y
+7	슈퍼주니어 (Super Junior)	미인아 (BONAMANA)
+8	뜨거운 감자	고백
+9	바이브 (Vibe)	다시 와주라
+10	디셈버 (December)	별이될께
+11	서인국	사랑해 U
+12	SS501	Love Ya
+13	화요비	Bye Bye Bye
+14	아이유 (IU), 슬옹 (2AM)	잔소리
+15	에이트 (8eight)	이별이 온다
+16	2PM	Without U
+17	씨엔블루 (CNBLUE)	사랑 빛
+18	먼데이 키즈 (Monday Kiz)	흩어져
+19	린 (LYn)	자기야 여보야 사랑아
+20	거미	남자라서
+21	서영은, 정엽	이 거지같은 말
+22	서인영	사랑이라 쓰고 아픔이라 부른다
+23	브라운 아이드 소울 (Brown Eyed Soul)	Love Ballad
+24	시크릿 (Secret)	Magic
+25	먼데이 키즈 (Monday Kiz)	가지마
+26	왁스 (Wax)	벌써 일년
+27	비 (Rain)	Hip Song
+28	정엽	가시꽃
+29	환희 &amp; 숙희	바보가슴
+30	케이윌, 미료	버스가 떠난 뒤에
+31	다비치	사랑을 못해 이별을 못해
+32	이효리	Chitty Chitty Bang Bang (Feat. Ceejay ...
+33	포맨 (4Men), 장혜진	웃지마 울지마
+34	비 (Rain)	널 붙잡을 노래
+35	예성 (YESUNG)	너 아니면 안돼
+36	길미	사랑은 전쟁이다 (Feat. 아웃사이더)
+37	애프터스쿨 (After School)	뱅 (Bang) !
+38	거미	사랑은 없다
+39	SG워너비 &amp; 옥주현	페이지원 (Part 1)
+40	서인영	잘가요 로맨스
+41	엠투엠 (M To M)	기념사진
+42	크리스탈 (f(x))	melody (Moderato)
+43	소녀시대	Run Devil Run
+44	이승기 &amp; 김연아	Smile Boy (Rock Ver.)
+45	하하	술병 (with 타이거JK)
+46	이석훈	정거장
+47	티아라 (T-ara)	너 때문에 미쳐
+48	소녀시대 ＆ 2PM	Cabi Song
+49	2AM	잘못했어
+50	디셈버 (December)	배운게 사랑이라
+51	비스트 (Beast)	Shock
+52	정슬기	주변인 (Song Ver.) (Feat. ZICO of 블록버스터)
+53	브라운 아이드 소울 (Brown Eyed Soul)	비켜줄께
+54	2AM	바보처럼
+55	바이브 (Vibe)	미친거니
+56	포맨 (4Men)	못해 (Feat. 美)
+57	이석훈	그대를 사랑하는 10가지 이유
+58	씨야 (SeeYa)	가슴이 뭉클
+59	거미	Because Of You
+60	MC 몽 &amp; 서인영	Bubble Love
+61	B.O.B	Nothin` On You (Feat. Bruno Mars)
+62	디셈버 (December)	Once Upon A Time
+63	2AM	No.1 (남아공 월드컵 공식 주제가)
+64	이지혜	사랑 하나때문에 (Feat. PK헤만)
+65	카라 (KARA)	루팡 (Lupin)
+66	씨엔블루 (CNBLUE)	Sweet Holiday
+67	슈프림팀 (Supreme Team)	땡땡땡
+68	먼데이 키즈 (Monday Kiz)	Goodbye My Princess
+69	티맥스 (T-MAX)	해줄 수 있는 말
+70	플라워 (Flower)	기억해...사랑해...
+71	보람 (씨야), 효민, 지연 (티아라)	우유보다 커피
+72	박혜경	새 남자친구
+73	티아라 (T-ara)	내가 너무 아파
+74	씨스타 (Sistar)	Push Push
+75	이승환	반의 반
+76	뚱`s	Go칼로리 (Feat. 정인)
+77	코요태(KYT)	사랑하긴 했니
+78	이비아 (e-via)	쉐이크 (Shake)!
+79	정슬기	결국 제자리
+80	카라 (KARA)	We`re With You
+81	Ke$ha	Tik Tok
+82	비스트 (Beast)	Special
+83	Eminem	Not Afraid
+84	럼블피쉬	1초 2초
+85	윤하	말도 안돼 (개인의 취향 OST)
+86	제아, 미료 (브라운 아이드 걸스)	Love Is...
+87	다비치	떠나지마 (Feat. 백찬)
+88	바이브 (Vibe)	별이 빛나는 밤에
+89	케이윌 (K.Will)	선물 (Feat.은지원)
+90	바이브 (Vibe)	좋은 오빠 동생으로만
+91	이정현	수상한 남자
+92	마이티마우스 &amp; 백지영	사랑이올까요
+93	임재범	사랑에 아파한 날들 (Duet. 윤하)
+94	바비 킴 (Bobby Kim)	남자답게
+95	아웃사이더	주변인
+96	소녀시대	Oh!
+97	럼블피쉬	어쩌지
+98	길학미	Super Soul
+99	양정승 (Kiroy Y), KCM &amp; No Noo	밤하늘의 별을..
+100	빅뱅, 트랜스픽션	승리의 함성 (The Shouts Of Reds Part 2) (Fe...

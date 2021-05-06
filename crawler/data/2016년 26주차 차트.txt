@@ -1,0 +1,101 @@
+./data/2016년 26주차 차트.txt
+1	사이먼 도미닉 (Simon Dominic), 원(ONE), 지투(G2), BewhY	니가 알던 내가 아냐 (Prod. by GRAY)
+2	The Quiett, Superbee, myunDo, Flowsik, Dok2	공중도덕 (Air DoTheQ)
+3	자이언티(Zion.T), 씨잼(Cjamm), 레디(Reddy), 서출구	신사 ($insa)
+4	씨스타 (Sistar)	I Like That
+5	TWICE	CHEER UP
+6	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+7	백예린	Bye bye my blue
+8	산이(San E), 레이나	달고나
+9	백아연	쏘쏘
+10	로꼬, GRAY (그레이)	GOOD (Feat. ELO)
+11	EXO	Monster
+12	벤 (Ben)	꿈처럼
+13	박경	자격지심 (Feat. 은하 of 여자친구)
+14	보아(BoA), 빈지노(Beenzino)	No Matter What
+15	매드 클라운 (Mad Clown), 도넛맨 (Donutman), 보이비 (Boi B), 샵건 (#Gun)	무궁화
+16	정은지	하늘바라기 (Feat. 하림)
+17	DEAN	D (half moon) (Feat. 개코)
+18	서현진, 유승우	사랑이 뭔데
+19	정승환	너였다면
+20	EXID	L.I.E
+21	엠씨더맥스 (M.C The Max)	어디에도
+22	EXO	Lucky One
+23	AOA	Good Luck
+24	악동뮤지션 (AKMU)	RE-BYE
+25	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경)
+26	도끼 (Dok2)	1llusion
+27	비와이 (BewhY)	The Time Goes On
+28	다비치	이 사랑
+29	10cm	봄이 좋냐??
+30	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+31	거미	You Are My Everything
+32	10cm	니가 참 좋아
+33	로이킴	어쩌면 나
+34	TWICE	OOH-AHH하게
+35	지코 (ZICO)	너는 나 나는 너
+36	케이윌 (K.Will)	말해! 뭐해?
+37	크러쉬 (CRUSH)	우아해 (woo ah)
+38	이적	걱정말아요 그대
+39	블락비 (Block B)	Toy
+40	iKON	오늘 모해 (#WYD)
+41	마마무 (Mamamoo)	넌 is 뭔들
+42	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+43	아이오아이 (I.O.I)	Dream Girls
+44	악동뮤지션 (AKMU)	사람들이 움직이는 게
+45	정준일	안아줘
+46	태연 (TAEYEON)	Starlight (Feat. DEAN)
+47	정키 (Jung Key)	바라지 않아 (feat.소정 of 레이디스 코드)
+48	SG 워너비	사랑하자
+49	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+50	백예린	그의 바다
+51	사이먼 도미닉 (Simon Dominic), GRAY, 원 (ONE)	맘 편히 (Comfortable)
+52	EXO	Heaven
+53	윤미래 (T)	ALWAYS
+54	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+55	스탠딩 에그(Standing Egg)	뚝뚝뚝 (with 예슬)
+56	이하이	한숨
+57	검정치마 (The Black Skirts)	기다린 만큼, 더
+58	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+59	장기하와 얼굴들	ㅋ
+60	10cm	스토커
+61	방탄소년단	불타오르네 (FIRE)
+62	임창정	또 다시 사랑
+63	태연 (TAEYEON)	Rain
+64	헤이즈 (Heize)	Shut Up & Groove (Feat. DEAN)
+65	매드 클라운 (Mad Clown), 김나영	다시 너를
+66	빈지노 (Beenzino)	토요일의 끝에서 (Feat. Blacknut)
+67	키썸 (Kisum)	맥주 두 잔
+68	매드 클라운 (Mad Clown), 샵건 (#Gun)	비행소년 (Going Home)
+69	첸(CHEN), 펀치 (Punch)	Everytime
+70	EXO	Artificial Love
+71	Justin Bieber	Love Yourself
+72	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+73	소녀온탑	같은 곳에서
+74	아이오아이 (I.O.I)	벚꽃이 지면
+75	우리 동네 음악대장	매일 매일 기다려 (우리동네 음악대장)
+76	백예린	Zero
+77	GRAY (그레이)	하기나 해 (Feat. Loco)
+78	XIA(준수)	How Can I Love You
+79	엠씨더맥스 (M.C The Max)	그대, 바람이 되어
+80	태연 (TAEYEON)	제주도의 푸른 밤
+81	EXO	백색소음(White Noise)
+82	하현우	아주 오래된 연인들 (우리 동네 음악대장)
+83	지코 (ZICO)	유레카 (Feat. Zion.T)
+84	Sam Smith	I`m Not The Only One
+85	DEAN	21
+86	PRODUCE 101	PICK ME
+87	배치기	술김에 (Feat. 제시)
+88	EXO	Cloud 9
+89	하면 된다 백수탈출	녹턴 (Nocturn) (하면 된다 백수탈출)
+90	하현우	Lazenca, Save Us (우리 동네 음악대장) (Bonus T...
+91	로꼬 (LOCO)	너도 (Feat. Cha Cha Malone)
+92	산이 (San E)	마치 비행기 (Feat. 개리)
+93	EXO	Stronger
+94	다비치	여자이니까
+95	XIA(준수)	내게 기대
+96	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+97	EXO	유리어항(One and Only)
+98	장범준	사랑에 빠졌죠 (당신만이)
+99	하현우	일상으로의 초대 (우리 동네 음악대장) (Bonus Track)
+100	씨스타 (Sistar)	끈

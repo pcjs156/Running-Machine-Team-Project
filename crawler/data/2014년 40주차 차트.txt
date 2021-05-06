@@ -1,0 +1,101 @@
+./data/2014년 40주차 차트.txt
+1	곽진언, 김필, 임도혁	당신만이
+2	포스트맨 (Postmen)	신촌을 못가
+3	Adam Levine	Lost Stars
+4	윤미래 (T)	너를 사랑해
+5	아이언	독기
+6	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+7	NS Yoon-G, 기리보이(Giriboy)	설렘주의
+8	WINNER	공허해
+9	Adam Levine	No One Else Like You
+10	소녀시대-태티서(Girls` Generation-TTS)	Holler
+11	씨스타 (Sistar)	I Swear
+12	바비 (BOBBY)	연결고리#힙합
+13	산이(San E), 레이나	한여름밤의 꿀
+14	바비 (BOBBY)	가드올리고 Bounce
+15	에일리 (Ailee)	손대지마
+16	Keira Knightley	Tell Me If You Wanna Go Home
+17	자이언티(Zion.T)	양화대교
+18	씨스타 (Sistar)	Touch my body
+19	블락비 (Block B)	HER
+20	소녀시대-태티서(Girls` Generation-TTS)	내가 네게 (Whisper)
+21	다비치	괜찮아 사랑이야
+22	에이트 (8eight)	미치지말자
+23	Keira Knightley	A Step You Can`t Take Back
+24	소유, 권순일, 박용인	틈
+25	스윙스(Swings), 에일리	A Real Man
+26	2PM	미친거 아니야?
+27	걸스데이(Girl`s Day)	Darling
+28	아이유 (IU)	너의 의미 (Feat. 김창완)
+29	바이브 (Vibe)	Because I Love You
+30	Keira Knightley	Lost Stars
+31	Adam Levine	A Higher Place
+32	바비 (BOBBY)	L4L (Lookin` For Luv) (Feat. Dok2 & Th...
+33	어쿠스틱 콜라보	너무 보고 싶어
+34	산이 (San E)	Body Language (Feat. 범키)
+35	Keira Knightley	Like A Fool
+36	크러쉬 (CRUSH)	잠 못드는 밤 (feat. 펀치(Punch))
+37	태양	눈, 코, 입
+38	Keira Knightley	Coming Up Roses
+39	레이디스 코드 (Ladies` Code)	I`m Fine Thank You
+40	노을	늦은 얘기들
+41	어쿠스틱 콜라보	묘해, 너와
+42	에일리 (Ailee)	잠시 안녕처럼
+43	틴 탑 (Teen Top)	쉽지않아 (Missing)
+44	울랄라세션	Love Fiction
+45	장범준	어려운 여자
+46	첸 (CHEN)	최고의 행운
+47	B.I (비아이)	BE I
+48	이선희	그 중에 그대를 만나
+49	현아 (HyunA)	빨개요
+50	울랄라세션, 아이유(IU)	애타는 마음
+51	Maroon 5	Maps
+52	AOA	단발머리 (Short Hair)
+53	WINNER	컬러링
+54	김범수	눈물나는 내 사랑
+55	Maroon 5	Animals
+56	버벌진트 (Verbal Jint)	가을냄새 (Feat. 에디킴)
+57	바비 (BOBBY)	가
+58	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+59	Gary (개리), 정인	사람냄새
+60	박효신	야생화
+61	정인, Gary(개리)	자전거
+62	에디킴	너 사용법
+63	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+64	블락비 (Block B)	Jackpot
+65	Adam Levine	Lost Stars (Into The Night Mix)
+66	WINNER	끼부리지마
+67	장범준	사랑이란 말이 어울리는 사람 (사말어사)
+68	카라 (KARA)	맘마미아
+69	지아 (Zia)	보란 듯이
+70	허각, 정은지	이제 그만 싸우자
+71	송지은	쳐다보지마
+72	산이 (San E)	나 왜이래
+73	엠씨더맥스 (M.C The Max)	U
+74	Keira Knightley	Tell Me If You Wanna Go Home (Rooftop ...
+75	스윙스(Swings), 유성은	Trap
+76	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+77	존 박	U
+78	에일리, 2LSON	I`m in love
+79	티아라 (T-ara)	Sugar Free (BigRoom Ver.)
+80	케이윌 (K.Will)	오늘부터 1일 (Day 1)
+81	윤건	가을에 만나
+82	에이핑크 (Apink)	Mr. Chu (On Stage)
+83	시크릿 (Secret)	I`m In Love
+84	크리스탈 (f(x))	울컥
+85	윤하	우산
+86	소녀시대-태티서(Girls` Generation-TTS)	아드레날린 (Adrenaline)
+87	로꼬 (LOCO), 마마무 (Mamamoo)	이 노래
+88	아이유 (IU)	나의 옛날 이야기
+89	투빅 (2BiC)	요즘 바쁜가봐
+90	오렌지 캬라멜 (Orange Caramel)	나처럼 해봐요
+91	홍대광	I Feel You
+92	윤도현	우리 사랑했던 시간만큼
+93	god	하늘색 약속
+94	스윙스(Swings)	전화번호 (feat. 버벌진트, 40)
+95	지나(G.NA)	우리 (Feat. 김태우)
+96	레드벨벳(Red Velvet)	행복 (Happiness)
+97	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+98	아이언	I AM
+99	에일리 (Ailee)	미치지 않고서야 (Feat. 다이나믹듀오)
+100	윤민수, 신용재	인연

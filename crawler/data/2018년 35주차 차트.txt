@@ -1,0 +1,101 @@
+./data/2018년 35주차 차트.txt
+1	숀 (SHAUN)	Way Back Home
+2	방탄소년단	IDOL
+3	레드벨벳(Red Velvet)	Power Up
+4	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+5	TWICE	Dance The Night Away
+6	10cm	매트리스
+7	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+8	마마무 (Mamamoo)	너나 해 (Egotistic)
+9	지코 (ZICO)	SoulMate (Feat. 아이유)
+10	(여자)아이들	한(一)
+11	볼빨간사춘기	여행
+12	에이핑크 (Apink)	1도 없어
+13	벤 (Ben)	열애중
+14	BLACKPINK	Forever Young
+15	방탄소년단	Euphoria
+16	닐로 (Nilo)	지나오다
+17	방탄소년단	I`m Fine
+18	방탄소년단	FAKE LOVE
+19	멜로망스(MeloMance)	동화
+20	청하	Love U
+21	승리	셋 셀테니 (1, 2, 3!)
+22	로꼬, 화사	주지마
+23	비투비 (BTOB)	너 없인 안 된다
+24	iKON	죽겠다 (KILLING ME)
+25	iKON	사랑을 했다 (LOVE SCENARIO)
+26	폴킴	비
+27	모모랜드 (MOMOLAND)	BAAM
+28	멜로망스(MeloMance)	You
+29	방탄소년단	Answer _ Love Myself
+30	장덕철	그날처럼
+31	로이킴	왜 몰랐을까
+32	여자친구 (GFRIEND)	밤 (Time for the moon night)
+33	양다일	미안해
+34	Camila Cabello	Havana (Feat. Young Thug)
+35	여자친구 (GFRIEND)	여름여름해 (Sunny Summer)
+36	방탄소년단	전하지 못한 진심 (Feat. Steve Aoki)
+37	로이킴	그때 헤어지면 돼
+38	Fitz &amp; The Tantrums	HandClap
+39	모모랜드 (MOMOLAND)	뿜뿜
+40	방탄소년단	Epiphany
+41	마마무 (Mamamoo)	별이 빛나는 밤
+42	이수	My Way
+43	방탄소년단	DNA
+44	닐로 (Nilo)	넋두리
+45	멜로망스(Melomance)	선물
+46	방탄소년단	봄날
+47	TWICE	What is Love?
+48	용준형	소나기 (Feat. 10cm)
+49	아이유 (IU)	밤편지
+50	Ed Sheeran	Shape of You
+51	(여자)아이들	LATATA
+52	청하	Roller Coaster
+53	방탄소년단	Trivia 轉 _ Seesaw
+54	방탄소년단	Trivia 起 _ Just Dance
+55	AOA	빙글뱅글 (Bingle Bangle)
+56	먼데이 키즈 (Monday Kiz)	가을 안부
+57	국.슈 (국프의 핫이슈)	Rumor
+58	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+59	김하온 (HAON)	붕붕 (Feat. Sik-K) (Prod. GroovyRoom)
+60	세븐틴	A-TEEN
+61	방탄소년단	Trivia 承 _ Love
+62	방탄소년단	Anpanman
+63	Imagine Dragons	Thunder
+64	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+65	백현 (BAEKHYUN), 로꼬	YOUNG
+66	마마무 (Mamamoo)	장마
+67	멜로망스(MeloMance)	좋은 날
+68	빅뱅	꽃 길
+69	비투비 (BTOB)	그리워하다
+70	Troye Sivan	Youth
+71	세븐틴	어쩌나
+72	EXO	Universe
+73	BLACKPINK	마지막처럼
+74	Wanna One (워너원)	에너제틱 (Energetic)
+75	방탄소년단	Airplane pt.2
+76	길구봉구	이 별
+77	Sia	Chandelier
+78	Wanna One (워너원)	켜줘 (Light)
+79	오반 (OVAN)	스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))
+80	뉴이스트 W	Dejavu
+81	Wanna One (워너원) - 트리플포지션	캥거루 (Kangaroo) (Prod. ZICO)
+82	크러쉬 (CRUSH)	Cereal (Feat. ZICO)
+83	다비치	마치 우린 없었던 사이 (Prod. 정키)
+84	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+85	기억 조작단	너에게 닿기를 (To reach you)
+86	윤종신	좋니
+87	기리보이, Kid Milli, NO:EL, 스윙스 (Swings)	flex (Prod. By 기리보이)
+88	WINNER	EVERYDAY
+89	Wanna One (워너원)	BOOMERANG (부메랑)
+90	Wanna One (워너원)	Beautiful
+91	벤 (Ben)	미워도 다시 한 번
+92	멜로망스(MeloMance)	욕심
+93	펀치 (Punch)	밤이 되니까
+94	러브포션	Rollin` Rollin`
+95	뉴이스트 W	AND I
+96	방탄소년단	Serendipity (Full Length Edition)
+97	레드벨벳(Red Velvet)	Bad Boy
+98	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+99	박원	all of my life
+100	방탄소년단	Magic Shop

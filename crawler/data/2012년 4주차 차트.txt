@@ -1,0 +1,101 @@
+./data/2012년 4주차 차트.txt
+1	티아라 (T-ara)	Lovey-Dovey
+2	10cm	애상
+3	아이유 (IU)	너랑 나
+4	다이나믹 듀오 (Dynamic Duo)	거기서거기 (Without You)
+5	효린	널 사랑하겠어
+6	트러블메이커 (Trouble Maker)	Trouble Maker
+7	정준하	키 큰 노총각 이야기
+8	다비치, 티아라	우리 사랑했잖아
+9	써니힐 (SunnyHill)	베짱이 찬가
+10	틴 탑 (Teen Top)	미치겠어
+11	엠블랙 (MBLAQ)	전쟁이야
+12	티아라 (T-ara)	Cry Cry
+13	노을	살기 위해서
+14	허각, LE(EXID)	그 노래를 틀때마다
+15	원티드 (Wanted)	너에게로 간다
+16	노을	그리워 그리워
+17	리쌍, BMK	광대
+18	비스트 (Beast)	이럴 줄 알았어
+19	원더걸스 (Wonder girls)	Be My Baby
+20	유재석	더위 먹은 갈매기 (Feat. 송은이 & 김숙)
+21	지아 (Zia)	속상해서 (술 한잔 해요 Part 2)
+22	원티드 (Wanted)	Like You (Feat. 아이유)
+23	원더걸스 (Wonder Girls)	The DJ Is Mine
+24	영준 (브라운아이드소울)	잊어요
+25	울랄라세션	서쪽 하늘
+26	제시카 &amp; 김진표	어쩜
+27	일렉트로보이즈 (Electroboyz)	Ma Boy 2 (Feat. 효린)
+28	에이핑크 (Apink)	My My
+29	이현 (에이트)	너니까
+30	하하	바보에게 바보가 (Feat. 스컬)
+31	린 (LYn)	시간을 거슬러
+32	제이세라 (J-Cera)	사랑시 고백구 행복동
+33	Adele	Rolling In The Deep
+34	허각	죽고 싶단 말 밖에
+35	알리 (ALi)	촌스럽게 굴지마 (Feat. 용준형)
+36	나인 뮤지스 (Nine Muses)	뉴스 (News)
+37	송지은	추워요
+38	포맨 (4Men), 미 (美)	그 남자 그 여자
+39	레인보우 픽시 (Pixie)	호이 호이 (Hoi Hoi)
+40	길 (리쌍)	삼바의 매력 (Feat. 개리 & 정인)
+41	살찐고양이	예쁜게 다니
+42	코요태(KYT)	했던 말 또 하고
+43	소녀시대	The Boys
+44	베이비소울＋유지아	그녀는 바람둥이야 (Feat. 동우 Of 인피니트)
+45	아이유 (IU)	삼촌 (Feat. 이적)
+46	정형돈	영계백숙 (Feat. 뮤지컬 & 앙상블 13인)
+47	태사비애	내가 사랑한 너 너를 사랑한 나 (Duet 비비안 Jy Sy)
+48	LMFAO, Steve Aoki	Livin` My Love
+49	아이유 (IU)	비밀
+50	엠블랙 (MBLAQ)	낙서
+51	버스커 버스커 (Busker Busker)	서울사람들
+52	애즈 원 (As One)	Only U (Feat. 동해 Of 슈퍼주니어)
+53	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+54	NS Yoon-G	마녀가 된 이유
+55	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+56	김연우	더 가까이
+57	박명수	광대 (Feat. 김범수)
+58	버스커 버스커 (Busker Busker)	동경소녀
+59	오렌지 캬라멜 (Orange Caramel)	Funny Hunny
+60	영준 (브라운아이드소울)	꽃보다 그대가 (Feat. Simon D)
+61	M시그널	둘이서 (Feat. 투개월 김예림)
+62	Jason Mraz	I Won`t Give Up
+63	환희	가지마
+64	슈퍼주니어-K.R.Y (Super Junior-K.R.Y)	회상
+65	Bueno Clinic	Sex Apeal (Max Farenthide Radio Edit) ...
+66	먼데이 키즈 (Monday Kiz)	미행
+67	소녀시대	Mr.Taxi (Korean Ver.)
+68	허각	Hello
+69	노홍철	사랑의 서약 (Feat. 다이나믹 듀오 & 노라조)
+70	다이나믹 듀오 (Dynamic Duo)	불타는 금요일 (Friday Night)
+71	시크릿 (Secret)	사랑은 Move
+72	이승기	친구잖아
+73	배수정	실화 (원곡가수 린)
+74	포이트리	Lost (Feat. 정엽)
+75	버스커 버스커 (Busker Busker)	막걸리나
+76	동해, 은혁	떴다 오빠 (Oppa, Oppa)
+77	다이나믹 듀오 (Dynamic Duo)	참고 살아 (be...)
+78	이영현	이별사랑
+79	다비치	안녕이라고 말하지마
+80	제아 (브라운 아이드 걸스)	그대 바보
+81	버스커 버스커 (Busker Busker)	정류장
+82	씨스타 (Sistar)	So Cool (쏘쿨)
+83	에스더 (Esther)	너 따위가 (Feat. 하하)
+84	보이프렌드(Boyfriend)	내가 갈게 (I`ll Be There)
+85	B.A.P	Warrior
+86	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+87	브라운아이드걸스	클렌징크림
+88	원더걸스 (Wonder girls)	G.N.O.
+89	윤미래 (T)	Get It In (Feat. Tiger JK & 정인) (Korea...
+90	스컬 (Skull), 박효신	나 이러고 살아
+91	팀 (Tim)	사랑 참 나쁘다
+92	김지수 &amp; 타루	더 좋아
+93	이승기	연애시대 (Feat. Ra.D / Nar. 한효주)
+94	Dal★Shabet (달샤벳)	Hit U
+95	아이유 (IU)	잠자는 숲 속의 왕자 (Feat. 윤상)
+96	브라이언 (Brian)	너 따윈 버리고 (Feat. 타이거 JK)
+97	해오라 (Heora)	달빛이 지고
+98	박재범	별
+99	나윤권	전부이니까
+100	빅마마 소울	이 사랑이 마지막이다

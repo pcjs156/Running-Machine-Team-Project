@@ -1,0 +1,101 @@
+./data/2013년 47주차 차트.txt
+1	형용돈죵 (정형돈 &amp; G-DRAGON)	해볼라고
+2	성시경	너에게
+3	miss A	Hush
+4	트러블메이커 (Trouble Maker)	내일은 없어
+5	산이 (San E)	어디서 잤어 (Feat. 버벌진트, 스윙스)
+6	다비치	편지
+7	에일리 (Ailee)	눈물이 맘을 훔쳐서
+8	태양	링가 링가 (RINGA LINGA)
+9	박지윤	미스터리 (Feat. San E)
+10	하우두유둘 (유재석 &amp; 유희열)	Please Don`t Go My Girl (Feat. 김조한)
+11	박효신	It`s YOU
+12	허각	향기만 남아
+13	장미하관 (노홍철 &amp; 장미여관)	오빠라고 불러다오
+14	케이윌 (K.will)	촌스럽게 왜 이래 (You Don`t Know Love)
+15	아이유 (IU)	분홍신
+16	노을	밤이 오는 거리 (Feat. 다이나믹 듀오)
+17	브라운 아이드 소울 (Brown Eyed Soul)	Always Be There
+18	창민 (2AM)	Moment
+19	버스커 버스커 (Busker Busker)	처음엔 사랑이란게
+20	임창정	나란놈이란
+21	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+22	이적, 정인	비포 선라이즈
+23	G-Dragon	삐딱하게 (Crooked)
+24	티아라 (T-ara)	넘버나인 (No.9)
+25	병살 (정준하 &amp; 김C)	사라질것들 (Feat. 이소라, Beenzino)
+26	임정희	Feel So Good (Feat. 홍대광)
+27	정준영	이별 10분 전
+28	무한도전	그래, 우리 함께
+29	이정, 하동균	같이 사랑했는데
+30	윤미래 (T)	Touch Love
+31	애즈 원 (As One)	2013 원하고 원망하죠
+32	비원에이포 (B1A4)	그대와 함께
+33	레이디스 코드 (Ladies` Code)	예뻐 예뻐
+34	EXO	으르렁 (Growl)
+35	유성은	Healing
+36	버스커 버스커 (Busker Busker)	잘할 걸
+37	G.A.B (길 &amp; BoA)	G.A.B
+38	로이킴	서울 이곳은
+39	세븐티핑거스 (하하 &amp; 장기하와 얼굴들)	슈퍼 잡초맨
+40	나비 (Navi)	불치병 (Feat. 키비)
+41	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+42	블락비 (Block B)	Very Good
+43	M&amp;N	오늘밤
+44	T.O.P	DOOM DADA
+45	노을	만약에 말야 (전우성 Solo)
+46	버스커 버스커 (Busker Busker)	사랑은 타이밍
+47	어반 자카파 (Urban Zakapa)	거꾸로 걷는다
+48	산이 (San E)	아는사람 얘기
+49	이홍기 (FT아일랜드)	말이야
+50	문명진	또 운다
+51	G-Dragon	니가 뭔데 (Who You?)
+52	김보경	그때로 가고싶다
+53	에이핑크 (Apink)	NoNoNo
+54	범키	갖고놀래 (Feat. 다이나믹 듀오)
+55	샤이니 (SHINee)	Everybody
+56	G-Dragon	Black (Feat. Jennie Kim)
+57	정키 (Jung Key)	홀로 (Feat. 김나영)
+58	이적	거짓말 거짓말 거짓말
+59	아이유 (IU)	누구나 비밀은 있다 (Feat. 가인)
+60	Jin	너만 없다
+61	효린	미치게 만들어
+62	언터쳐블 (Untouchable)	배인 (Vain) (Feat. Koonta)
+63	김범수	끝사랑
+64	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+65	이승철	My Love
+66	크레용팝 (Crayon Pop)	빠빠빠
+67	포맨 (4Men)	가시사랑
+68	버스커 버스커 (Busker Busker)	그대 입술이 (With 채지연 - 풋풋)
+69	먼데이 키즈 (Monday Kiz)	그대여
+70	장미여관	봉숙이
+71	케이윌 (K.Will)	니가 아닌 것 같아 (It`s Not You)
+72	빅스 (VIXX)	대답은 너니까
+73	김진호	살다가
+74	서인국	겁도 없이
+75	거머리 (박명수, 프라이머리)	I Got C (Feat. 개코)
+76	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+77	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+78	유승우	유후 (U Who?) (feat. San E)
+79	서인영	나를 사랑해줘 (Feat. 개코)
+80	에일리 (Ailee)	U & I
+81	자우림	스물다섯, 스물하나
+82	버스커 버스커 (Busker Busker)	시원한 여자
+83	버스커 버스커 (Busker Busker)	밤
+84	박신혜	Story
+85	윤종신, 성시경	내일 할 일
+86	칸토	말만해 (What You Want) (Feat. 김성규)
+87	임창정	오랜만이야
+88	임창정	문을 여시오 (Feat. 김창렬) (New Ver.)
+89	다이나믹 듀오 (Dynamic Duo)	Baaam (Feat. Muzie)
+90	지아 (Zia), 이해리	사랑했었다면
+91	나인 뮤지스 (Nine Muses)	건 (Gun)
+92	선미	24시간이 모자라
+93	Ylvis	The Fox
+94	팬텀(Phantom)	신세계 (Feat. 나비)
+95	버스커 버스커 (Busker Busker)	줄리엣
+96	버스커 버스커 (Busker Busker)	아름다운 나이
+97	김조한	별.달.다 (Feat. 조현아)
+98	울랄라세션	사랑하는 이에게
+99	아이유 (IU)	입술 사이 (50cm)
+100	임창정	소주 한잔

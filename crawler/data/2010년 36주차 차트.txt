@@ -1,0 +1,101 @@
+./data/2010년 36주차 차트.txt
+1	창민 (2AM), 이현 (에이트)	밥만 잘 먹더라
+2	시크릿 (Secret)	Madonna
+3	보아 (BoA)	Hurricane Venus
+4	DJ DOC	나 이런사람이야
+5	miss A	Bad Girl Good Girl
+6	이승기	정신이 나갔었나봐
+7	다비치	난 너에게
+8	나르샤	맘마미아 (with SunnyHill)
+9	지아 (Zia)	웃음만..
+10	레인보우 (Rainbow)	A
+11	MC몽	죽을 만큼 아파서 (Feat. 멜로우)
+12	샤이니 (SHINee)	Lucifer
+13	세븐	Better Together
+14	박효신	널 사랑한다
+15	지나(G.NA)	꺼져 줄게 잘 살아 (Feat. 용준형)
+16	서인국	애기야 (My Baby U)
+17	이루 (Eru)	하얀 눈물
+18	DJ DOC	부치지 못한 편지
+19	나비 (Navi)	끝까지 들어
+20	씨스타 (Sistar)	가식걸
+21	태양	I`ll Be There (Kor.)
+22	박재범 ＆ 용감한형제	울고 싶단 말야
+23	아이유 (IU), 슬옹 (2AM)	잔소리
+24	FTISLAND (FT 아일랜드)	사랑사랑사랑
+25	손담비	queen
+26	포미닛 (4minute)	I My Me Mine
+27	이승철	그 사람
+28	태양	I Need A Girl (Feat. G-dragon)
+29	슈프림팀 (Supreme Team)	땡땡땡
+30	포맨 (4Men)	U
+31	보아 (BoA)	GAME
+32	조성모	바람필래
+33	길미	미안해 사랑해서...(Feat. 케이윌)
+34	신민아	샤랄라
+35	디셈버 (December)	혼자왔어요
+36	아이유 (IU), 유승호	사랑을 믿어요
+37	휘성	결혼까지 생각했어
+38	세븐	Digital Bounce (Feat. T.O.P)
+39	아이유 (IU)	여자라서
+40	남격밴드	사랑해서 사랑해서
+41	나르샤	삐리빠빠
+42	2PM	Thank You
+43	조권 (2AM)	고백하던 날
+44	오렌지 캬라멜 (Orange Caramel)	마법소녀 (魔法少女)
+45	이루 (Eru)	사랑아 (제빵왕 김탁구 삽입곡)
+46	박재범	믿어줄래 (Full Melody Korean Ver.)
+47	DJ DOC	투게더
+48	환희	...하다가
+49	이선희	여우비
+50	Usher	DJ Got Us Fallin` In Love (Feat. Pitbu...
+51	먼데이 키즈 (Monday Kiz), V.O.S	미치겠다
+52	DJ DOC	오늘밤 (Feat. 아이비)
+53	씨스타 (Sistar)	Push Push
+54	명콜 드라이브 (박명수, 니콜)	고래
+55	백지영	시간이 지나면
+56	지나(G.NA)	애인이 생기면 하고 싶은 일 (With 비)
+57	팀 (Tim)	연인선언 (with 성유리)
+58	간미연	미쳐가 (Feat. 미르)
+59	슈프림팀 (Supreme Team)	너 때문이야 (Feat. Soulman)
+60	이슬비	내가 사랑할 사람 (미호 Theme)
+61	Eminem	Love The Way You Lie (Feat. Rihanna)
+62	채연	봐봐봐
+63	씨엔블루 (CNBLUE)	Love
+64	지아 (Zia)	잘 가..지 마
+65	린 (LYn)	둘이 하나 (Love Theme) (with 봉구 of 길구봉구)
+66	나인 뮤지스 (Nine Muses)	No PlayBoy
+67	디셈버 (December)	별이될께
+68	초신성	그리운 날에
+69	2PM	Fly to Seoul ′Boom Boom Boom′
+70	원더걸스 (Wonder Girls)	2 Different Tears
+71	박지헌	너에게 주고싶은 세가지 (Feat. 허첵)
+72	노블레스 (Noblesse)	이젠 남 (Feat. Vibe of 류재현)
+73	제이큐티 (JQT)	알거 없잖아
+74	브라운 아이드 소울 (Brown Eyed Soul)	Nothing Better
+75	2PM 준수 &amp; 정우	뚝뚝뚝
+76	서인영	사랑이라 쓰고 아픔이라 부른다
+77	씨엔블루 (CNBLUE)	사랑 빛
+78	포미닛 (4minute)	HUH
+79	숙희	라라라
+80	서현	아파도 괜찮아요
+81	환희	바람이 되어서라도
+82	나르샤 (브라운 아이드 걸스)	I`m In Love (with 정성하)
+83	테이 (Tei)	미쳐서 너를 불러
+84	손담비	Can`t U See
+85	T.O.P	Turn It Up
+86	지피 베이직 (GP Basic)	Game
+87	규현 (슈퍼주니어)	희망은 잠들지 않는 꿈
+88	틴 탑 (Teen Top)	박수 (Clap)
+89	다비치	시간아 멈춰라
+90	KCM	죽도록 사랑해 (Feat. Soul Dive)
+91	보아 (BoA)	Dangerous
+92	리디아(Lydia)	헤어지자는 그말 (Feat. Jace)
+93	비욘드 (Beyond)	못잊어 (Feat. 허인창 of B.N.R)
+94	f(x)	NU 예삐오 (NU ABO)
+95	바이브 (Vibe)	미친거니
+96	뜨거운 감자	고백
+97	DJ DOC	In To The Rain  (Feat. YDG)
+98	포맨 (4Men)	Say I Love You
+99	바이브 (Vibe)	다시 와주라
+100	포미닛 (4minute)	Superstar

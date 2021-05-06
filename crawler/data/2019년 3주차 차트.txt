@@ -1,0 +1,201 @@
+./data/2019년 3주차 차트.txt
+1	엠씨더맥스 (M.C The Max)	넘쳐흘러
+2	청하	벌써 12시
+3	벤 (Ben)	180도
+4	Jvcki Wai, Young B, Osshun Gum, 한요한	띵 (Prod. By 기리보이)
+5	하은 (라코스테남)	신용재
+6	제니 (JENNIE)	SOLO
+7	송민호	아낙네
+8	폴킴	너를 만나
+9	WINNER	MILLIONS
+10	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+11	TWICE	YES or YES
+12	케이윌 (K.Will)	내 생에 아름다운
+13	윤건	너도 그냥 날 놓아주면 돼
+14	헤이즈 (Heize)	첫눈에
+15	god	길 (Song by 아이유, 헨리, 조현아, 양다일)
+16	바이브 (Vibe)	가을 타나 봐
+17	EXO	Love Shot
+18	아이유 (IU)	삐삐
+19	폴킴	초록빛
+20	양다일	고백
+21	허각	흔한 이별
+22	숀 (SHAUN)	Way Back Home
+23	Ariana Grande	thank u, next
+24	벤 (Ben)	열애중
+25	숀 (SHAUN)	습관 (Bad Habits)
+26	여자친구 (GFRIEND)	해야 (Sunrise)
+27	임창정	하루도 그대를 사랑하지 않은 적이 없었다
+28	에이핑크 (Apink)	%%(응응)
+29	비투비 (BTOB)	아름답고도 아프구나
+30	방탄소년단	IDOL
+31	임한별	이별하러 가는 길
+32	EXO	Tempo
+33	엠씨더맥스 (M.C The Max)	사계 (하루살이)
+34	pH-1, Kid Milli, 루피 (Loopy)	Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트)
+35	닐로 (Nilo)	지나오다
+36	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+37	IZ*ONE (아이즈원)	라비앙로즈 (La Vie en Rose)
+38	노을	너는 어땠을까
+39	하진	We all lie
+40	선미	사이렌 (Siren)
+41	아이유 (IU)	밤편지
+42	TWICE	Dance The Night Away
+43	양다일	미안해
+44	로이킴	우리 그만하자
+45	폴킴	비
+46	Wanna One (워너원)	봄바람
+47	장덕철	알았다면
+48	펀치 (Punch)	헤어지는 중
+49	방탄소년단	FAKE LOVE
+50	Sia	Snowman
+51	마마무 (Mamamoo)	Wind flower
+52	god	그 남자를 떠나
+53	저스디스 (JUSTHIS), Kid Milli, NO:EL, 영비 (Young B)	IndiGO
+54	로꼬 (LOCO)	시간이 들겠지 (Feat. Colde)
+55	먼데이 키즈 (Monday Kiz)	가을 안부
+56	로이킴	그때 헤어지면 돼
+57	기리보이, Kid Milli, NO:EL, 스윙스 (Swings)	flex (Prod. By 기리보이)
+58	방탄소년단	봄날
+59	오반 (OVAN)	행복
+60	김동률	동화 (Feat. 아이유)
+61	다비치	꿈처럼 내린
+62	iKON	사랑을 했다 (LOVE SCENARIO)
+63	비투비 (BTOB)	너 없인 안 된다
+64	자이언티(Zion.T)	멋지게 인사하는 법 (Feat. 슬기 of Red Velvet)
+65	iKON	이별길 (GOODBYE ROAD)
+66	방탄소년단	DNA
+67	비투비 (BTOB)	그리워하다
+68	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+69	레드벨벳(Red Velvet)	RBB (Really Bad Boy)
+70	먼데이 키즈 (Monday Kiz)	겨울이라 이런 거면 좋겠다
+71	볼빨간사춘기	여행
+72	Queen	Bohemian Rhapsody (2011 Remaster)
+73	장덕철	그날처럼
+74	멜로망스(Melomance)	선물
+75	방탄소년단	I`m Fine
+76	폴킴	사랑 알 수 없나봐
+77	SUPERBEE	수퍼비와 (Feat. BewhY) (Prod. BewhY)
+78	케이시 (Kassy)	그때가 좋았어
+79	Wanna One (워너원)	에너제틱 (Energetic)
+80	엠씨더맥스 (M.C The Max)	시간을 견디면
+81	황치열	그대가 내 안에 박혔다
+82	정승환	잘 지내요
+83	방탄소년단	Euphoria
+84	iKON	I`M OK
+85	Fitz &amp; The Tantrums	HandClap
+86	EXID	알러뷰
+87	Ed Sheeran	Shape of You
+88	EXO	트라우마 (Trauma)
+89	Wanna One (워너원)	Beautiful
+90	홍진영	사랑은 다 이러니
+91	방탄소년단	전하지 못한 진심 (Feat. Steve Aoki)
+92	청하	Roller Coaster
+93	방탄소년단	Answer _ Love Myself
+94	BLACKPINK	Forever Young
+95	Queen	Bohemian Rhapsody
+96	EXO	Wait
+97	김범수	첫눈처럼 너에게 가겠다 (Prod. 로코베리)
+98	Camila Cabello	Havana (Feat. Young Thug)
+99	이수	My Way
+100	마마무 (Mamamoo)	너나 해 (Egotistic)
+101	멜로망스(MeloMance)	You
+102	EXO	Gravity
+103	Ariana Grande	Santa Tell Me
+104	웬디	Goodbye
+105	루피(Loopy)	Save (Feat. 팔로알토) (Prod. 코드 쿤스트)
+106	Wanna One (워너원)	BOOMERANG (부메랑)
+107	EXO	닿은 순간 (Ooh La La La)
+108	EXO	Universe
+109	황인욱	취하고 싶다 (Prod. By 전태익)
+110	승리	셋 셀테니 (1, 2, 3!)
+111	로꼬, 화사	주지마
+112	멜로망스(MeloMance)	동화
+113	정승환	눈사람
+114	닐로 (Nilo)	넋두리
+115	양다일	I`m Here
+116	EXO	24/7
+117	레드벨벳(Red Velvet)	Power Up
+118	TWICE	What is Love?
+119	Wanna One (워너원)	켜줘 (Light)
+120	Troye Sivan	Youth
+121	펀치 (Punch)	이 마음
+122	에이핑크 (Apink)	1도 없어
+123	모모랜드 (MOMOLAND)	뿜뿜
+124	EXO	여기 있을게 (Smile On My Face)
+125	EXO	Sign
+126	방탄소년단	Epiphany
+127	방탄소년단	Anpanman
+128	윤종신	좋니
+129	엠씨더맥스 (M.C The Max)	어디에도
+130	여자친구 (GFRIEND)	밤 (Time for the moon night)
+131	Imagine Dragons	Believer
+132	Alan Walker	All Falls Down (Feat. Noah Cyrus, Digi...
+133	Charlie Puth	Attention
+134	매드클라운, 스텔라장(Stella Jang)	No Question
+135	god	눈을 맞춰
+136	마미손	소년점프 (Feat. 배기성)
+137	Wanna One (워너원)	불꽃놀이 (Flowerbomb)
+138	다이나믹 듀오 (Dynamic Duo)	북향 (Feat. 오혁)
+139	마마무 (Mamamoo)	별이 빛나는 밤
+140	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+141	EXO	Damage
+142	EXO	가끔 (With You)
+143	Coogie, SUPERBEE, D.Ark	사임사임 (Feat. CHANGMO)
+144	어반 자카파 (Urban Zakapa)	이 밤이 특별해진 건
+145	Imagine Dragons	Thunder
+146	EXO	후폭풍 (Bad Dream)
+147	EXO	오아시스 (Oasis)
+148	(여자)아이들	한(一)
+149	Wanna One (워너원)	술래
+150	멜로망스(MeloMance)	좋은 날
+151	길구봉구	이 별
+152	(여자)아이들, Madison Beer, Jaira Burns	POP/STARS
+153	박원	all of my life
+154	Justin Bieber	Love Yourself
+155	에일리(Ailee)	Is You
+156	Wanna One (워너원)	집
+157	청하	Love U
+158	카더가든	명동콜링
+159	지코 (ZICO)	SoulMate (Feat. 아이유)
+160	DEAN	instagram
+161	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+162	펀치 (Punch)	밤이 되니까
+163	정승환	너였다면
+164	허각	Cosmos
+165	Charlie Puth	One Call Away
+166	The Chainsmokers	Closer (Feat. Halsey)
+167	김하온 (HAON)	붕붕 (Feat. Sik-K) (Prod. GroovyRoom)
+168	백아연	그대여야만 해요
+169	The Chainsmokers, Coldplay	Something Just Like This
+170	WINNER	REALLY REALLY
+171	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+172	Charlie Puth	We Don`t Talk Anymore (Feat. Selena Go...
+173	Anne-Marie	2002
+174	BLACKPINK	마지막처럼
+175	방탄소년단	Trivia 轉 _ Seesaw
+176	Alan Walker	Faded
+177	Shawn Mendes	There`s Nothing Holdin` Me Back
+178	박원	노력
+179	용준형	소나기 (Feat. 10cm)
+180	우주소녀	La La Love
+181	10cm	매트리스
+182	엠씨더맥스 (M.C The Max)	그걸로 나는 충분해요
+183	Sam Smith	I`m Not The Only One
+184	Wanna One (워너원)	묻고싶다 (One Love)
+185	엠씨더맥스 (M.C The Max)	너의 목소리가 들려
+186	Wanna One (워너원)	약속해요 (I.P.U.)
+187	TWICE	Heart Shaker
+188	Marshmello &amp; Anne-Marie	FRIENDS
+189	볼빨간사춘기	My Trouble
+190	폴킴	눈
+191	Mike Perry	The Ocean (Feat. Shy Martin) (Radio Ed...
+192	정승환	그대 내게 다시
+193	박효신	야생화
+194	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+195	빅뱅	꽃 길
+196	볼빨간사춘기	나의 사춘기에게
+197	Sia	Chandelier
+198	Adele	Someone Like You
+199	루피(Loopy)	NoNo (Feat. 사이먼 도미닉) (Prod. 코드 쿤스트)
+200	iKON	죽겠다 (KILLING ME)

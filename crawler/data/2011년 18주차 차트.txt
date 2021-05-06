@@ -1,0 +1,101 @@
+./data/2011년 18주차 차트.txt
+1	빅뱅	LOVE SONG
+2	f(x)	피노키오 (Danger)
+3	레인보우 (Rainbow)	To Me (내게로..)
+4	포미닛 (4minute)	거울아 거울아
+5	김범수	제발
+6	걸스데이 (Girl`s Day)	반짝반짝
+7	박봄	Don`t Cry
+8	씨엔블루 (CNBLUE)	직감
+9	오렌지 캬라멜 (Orange Caramel)	방콕시티 (Bangkok City)
+10	포미닛 (4minute)	Heart To Heart
+11	소울 다이브 (Soul Dive)	나쁜 습관 (Feat.예원)
+12	지아 (Zia)	들리나요
+13	양파	아파 아이야
+14	케이윌 (K.Will)	가슴이 뛴다
+15	빅뱅	STUPID LIAR
+16	슈프림팀 (Supreme Team)	배가 불렀지 (Feat. GaeKo Of DYNAMIC DUO)
+17	송지은	미친거니 (Feat. 방용국)
+18	김태우	메아리
+19	김그림	너 밖엔 없더라
+20	브레이브걸스 (Brave Girls)	아나요
+21	휘성	가슴 시린 이야기 (Feat. 용준형)
+22	빅뱅	Tonight
+23	Dal★Shabet (달샤벳)	핑크 로켓 (Pink Rocket)
+24	클로버 (Clover)	La Vida Loca
+25	이현 (에이트)	다며 (Feat. 마이티마우스)
+26	유브이 (UV)	이태원 프리덤 (With JYP)
+27	먼데이 키즈 (Monday Kiz)	슈루룹
+28	이현 (에이트)	내꺼중에 최고
+29	서인국	Broken
+30	장혜진	사랑했나봐
+31	버즈 (Buzz)	My Darling (End)
+32	아이유 (IU)	나만 몰랐던 이야기
+33	김건모	You Are My Lady
+34	빅뱅	Cafe
+35	정엽	아무일도 없었다
+36	가비엔제이 (Gavy NJ)	애정만세
+37	유키스 (U-Kiss)	0330
+38	지나(G.NA)	Black & White
+39	NS Yoon-G	Talk Talk Talk
+40	윤도현	나 항상 그대를 (With YB)
+41	브라이언 (Brian)	사랑하다 끝났어
+42	부활	누구나 사랑을 한다 (With. 정단 박완규 이성욱)
+43	백지영	약속
+44	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+45	아이유 (IU)	좋은 날
+46	윤도현	Dash (With YB)
+47	빅뱅	What Is Right
+48	정용화(Jung Yong Hwa)	처음 사랑하는 연인들을 위해 (반말송)
+49	간미연	파파라치 (Feat. 에릭)
+50	플라워 (Flower)	My Darling
+51	이소라	바람이 분다
+52	에이핑크 (Apink)	몰라요
+53	인피니트 (Infinite)	Nothing`s Over
+54	알리 (ALi)	별 짓 다해봤는데
+55	블락비 (Block B)	그대로 멈춰라!
+56	슈퍼주니어-K.R.Y (Super Junior-K.R.Y)	FLY
+57	이석훈, 베이지 (Beige)	우리 여기까지 하자
+58	김태우	Brothers＆Me (With JYP & Rain)
+59	정인	장마
+60	태사비애	당신께 이 노래를 불러 드릴께요 2
+61	정엽	잊을게
+62	허공	Baby
+63	박정현	첫인상
+64	나비 (Navi)	잘 된 일이야
+65	김진표 (JP)	가지말걸 그랬어 (Feat. 주영)
+66	박보람	언제까지나
+67	5dolls	너 말이야
+68	먼데이키즈, 가비엔제이	사랑은 똑같다
+69	Jennifer Lopez	I`m Into You (Feat. Lil Wayne)
+70	걸스데이 (Girl`s Day)	너의 마음을 내게 준다면
+71	팀 (Tim)	안되니
+72	시크릿 (Secret)	샤이보이 (Shy Boy)
+73	나르샤	아는 여자
+74	제이세라 (J-Cera)	언제나 사랑해
+75	박정현	비오는 날의 수채화
+76	Britney Spears	I Wanna Go
+77	X-5	쇼 하지마
+78	부활	비밀 (Special Vocal. 박완규)
+79	대성	BABY DON`T CRY
+80	김범수	그대 모습은 장미
+81	먼데이 키즈 (Monday Kiz)	이 밤이 지나면
+82	김보경	하루하루
+83	백지영	무시로
+84	이소라	너에게로 또 다시
+85	현빈	가질 수 없는 너
+86	나몰라패밀리JW	사랑이 말을 듣지 않아 (Rain Ver.) (Feat. D.Heav...
+87	다비치	한사람
+88	Lady GaGa	Judas
+89	김수현	Dreaming
+90	먼데이 키즈 (Monday Kiz)	가슴 앓이
+91	GD, TOP  (빅뱅)	Oh Yeah (Feat. 박봄)
+92	정엽	짝사랑
+93	GD, TOP  (빅뱅)	High High
+94	Yolanda Be Cool &amp; DCup	We No Speak Americano (Radio Edit)
+95	아이유 (IU)	Someday
+96	검정치마 (The Black Skirts)	I Like Watching You Go
+97	빅뱅	Somebody To Love
+98	정재욱	몸부림
+99	권리세	Hey Hey Hey
+100	f(x)	아이 (Love)

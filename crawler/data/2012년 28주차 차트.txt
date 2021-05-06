@@ -1,0 +1,101 @@
+./data/2012년 28주차 차트.txt
+1	씨스타 (Sistar)	Loving U (러빙유)
+2	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+3	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+4	f(x)	Electric Shock
+5	원더걸스 (Wonder Girls)	Like this
+6	이현 (에이트)	가슴이 시린 게
+7	허각	한사람
+8	티아라 (T-ara)	Day By Day
+9	빅뱅	Monster
+10	버벌진트 (Verbal Jint)	충분히 예뻐
+11	2NE1 (투애니 원)	I Love You
+12	버스커 버스커 (Busker Busker)	소나기 (주르르루)
+13	포맨 (4Men)	안되겠더라
+14	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+15	슈퍼주니어 (Super Junior)	Sexy, Free & Single
+16	형돈이와 대준이	안좋을때 들으면 더 안좋은 노래
+17	버스커 버스커 (Busker Busker)	네온사인
+18	김진표 (JP)	미안해서 미안해
+19	애프터스쿨(After School)	Flashback
+20	아이유 (IU)	하루 끝
+21	지나(G.NA)	2HOT
+22	빅뱅	STILL ALIVE
+23	씨스타 (Sistar)	나혼자 (Alone)
+24	투빅 (2BiC)	Love Again (feat.에일리)
+25	백지영	목소리 (Feat. 개리)
+26	울랄라세션	굿바이데이
+27	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+28	신보라	그리워 운다
+29	김태우	High High
+30	백지영	Good Boy (Feat. 용준형 of 비스트)
+31	주니엘 (Juniel)	illa illa (일라 일라)
+32	틴 탑 (Teen Top)	To You
+33	울랄라세션	아름다운 밤
+34	처진 달팽이	방구석 날라리
+35	인피니트 (Infinite)	추격자
+36	노을	사랑이라면
+37	Maroon 5	One More Night
+38	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+39	비원에이포 (B1A4)	잘자요 굿나잇
+40	버스커 버스커 (Busker Busker)	기다려주세요
+41	용감한 녀석들	I 돈 Care (Feat. 서수민PD)
+42	윤하	우린 달라졌을까 (With John Park)
+43	마이티 마우스 (Mighty Mouth)	나쁜놈 (Feat. 소야)
+44	양파	사랑...어떡하나요
+45	백청강	All Night
+46	Dal★Shabet (달샤벳)	Mr. BangBang
+47	다비치	너라서
+48	디셈버 (December)	She`s Gone
+49	에이핑크 (Apink)	Hush
+50	버스커 버스커 (Busker Busker)	여수 밤바다
+51	버스커 버스커 (Busker Busker)	첫사랑
+52	조권	I`m Da One (Feat. Zion.T)
+53	빅뱅	EGO
+54	비스트 (Beast)	미운사람
+55	박진영	너뿐이야 (You`re The One)
+56	에일리 (Ailee)	인연
+57	허각	나를 사랑했던 사람아
+58	10cm	Only U
+59	케이윌 (K.Will)	지금처럼 (We Never Go Alone)
+60	소울스타 (Soul Star)	Good-bye Luv
+61	윤하	Run
+62	Maroon 5	Payphone (Feat. Wiz Khalifa)
+63	프라이머리 (Primary)	입장정리 (Feat. 최자, Simon D)
+64	버스커 버스커 (Busker Busker)	꽃송이가
+65	빅뱅	빙글빙글
+66	빅뱅	Fantastic Baby
+67	원더걸스 (Wonder Girls)	Girlfriend
+68	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+69	빅뱅	FEELING
+70	박정현	미안해
+71	김진표 (JP)	아저씨 (Feat. 제이레빗)
+72	이석훈	연애의 시작
+73	포미닛 (4minute)	Volume Up
+74	제국의아이들 (ZE:A)	후유증
+75	리쌍	너에게 배운다 (My Love)
+76	이기찬	어떻게
+77	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+78	투빅, 다비치	오늘같은 밤이면
+79	버스커 버스커 (Busker Busker)	외로움 증폭장치 (브래드 드럼 한판 쉬기)
+80	양요섭, 정은지	Love Day
+81	에일리 (Ailee)	Heaven
+82	버벌진트 (Verbal Jint)	완벽한 날
+83	리쌍	겸손은 힘들어
+84	노을	떠나간다
+85	지아 (Zia)	그대가 올까요
+86	박진영	나는 배우다 Movie star
+87	헬로비너스 (HELLOVENUS)	Venus
+88	버스커 버스커 (Busker Busker)	이상형
+89	에이핑크 (Apink)	BUBIBU (Remix Ver.)
+90	f(x)	제트별 (Jet)
+91	리쌍	Someday (피쳐링. 윤도현 of YB)
+92	창민, 임슬옹	눈물길
+93	윤하	People
+94	헬로비너스 (HELLOVENUS)	파도처럼
+95	치치 (Chi Chi)	Love is Energy
+96	이영현	이미 슬픈 사랑 (원곡가수 야다)
+97	배치기	두 마리
+98	Chris Brown	Wait For You
+99	아이유 (IU)	복숭아
+100	보헤미안 (Bohemian)	태양은 없다

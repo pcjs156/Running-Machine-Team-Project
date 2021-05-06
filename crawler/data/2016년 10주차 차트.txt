@@ -1,0 +1,101 @@
+./data/2016년 10주차 차트.txt
+1	마마무 (Mamamoo)	넌 is 뭔들
+2	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+3	첸(CHEN), 펀치 (Punch)	Everytime
+4	엠씨더맥스 (M.C The Max)	어디에도
+5	윤미래 (T)	ALWAYS
+6	지코 (ZICO)	너는 나 나는 너
+7	태연 (TAEYEON)	Rain
+8	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+9	TWICE	OOH-AHH하게
+10	수지, 백현 (BAEKHYUN)	Dream
+11	이적	걱정말아요 그대
+12	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+13	마마무 (Mamamoo)	I Miss You
+14	PRODUCE 101	PICK ME
+15	지민 (AOA)	야 하고 싶어 (Feat.시우민 of EXO)
+16	다비치	이 사랑
+17	WINNER	센치해
+18	임창정	또 다시 사랑
+19	마마무 (Mamamoo)	1cm의 자존심
+20	오혁	소녀
+21	에디킴	팔당댐 (feat.빈지노)
+22	백지영, 치타 (CHEETAH)	사랑이 온다
+23	Gary (개리)	또 하루 (Feat. 개코)
+24	케이윌 (K.Will)	니가 하면 로맨스 (feat.다비치)
+25	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+26	김필	청춘 (Feat. 김창완)
+27	윤미래 (T)	Because of You
+28	지코 (ZICO)	유레카 (Feat. Zion.T)
+29	김범수	그댄 행복에 살텐데
+30	노을	함께
+31	백예린	우주를 건너
+32	장범준	회상
+33	러블리즈	Ah-Choo
+34	김나영	어땠을까
+35	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+36	Adele	Hello
+37	태연 (TAEYEON)	I (Feat. 버벌진트)
+38	싸이 (Psy)	DADDY (Feat. CL of 2NE1)
+39	거미	친구라도 될 걸 그랬어
+40	iKON	취향저격
+41	박보람	혜화동 (혹은 쌍문동)
+42	에릭남, 웬디	봄인가 봐 (Spring Love)
+43	자이언티(Zion.T)	No Make Up
+44	EXID	HOT PINK
+45	아이유 (IU)	스물셋
+46	매드 클라운 (Mad Clown), 브라더수 (BrotherSu)	만화처럼 (Like Romance Comics)
+47	싸이 (Psy)	나팔바지
+48	AOA	심쿵해 (Heart Attack)
+49	기현(Kihyun)	세월이 가면
+50	정준영	공감 (Feat. 서영은)
+51	산이(San E), 매드 클라운(Mad Clown)	못먹는 감 (Sour Grapes)
+52	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+53	윤미래 (T)	사랑이 맞을거야
+54	Sam Smith	I`m Not The Only One
+55	유재환	꽃같아 (Feat. 버벌진트) (Prod. by G-Park)
+56	디셈버 (December)	네게 줄 수 있는건 오직 사랑뿐
+57	WINNER	BABY BABY
+58	송민호	겁 (Feat. 태양)
+59	박효신	야생화
+60	태민 (TAEMIN)	Press Your Number
+61	자이언티(Zion.T)	꺼내 먹어요
+62	포미닛 (4minute)	싫어 (Hate)
+63	마마무 (Mamamoo)	금요일밤 (Feat. 정기고)
+64	유영진, D.O.	Tell Me (What Is Love)
+65	백아연	이럴거면 그러지말지 (Feat. 영현)
+66	EXO	Sing For You
+67	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+68	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+69	AOA CREAM	질투 나요 BABY
+70	엠씨더맥스 (M.C The Max)	그 남잔 말야
+71	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+72	레드벨벳(Red Velvet)	Dumb Dumb
+73	자이언티(Zion.T)	양화대교
+74	우리 동네 음악대장	걱정말아요 그대 (우리동네 음악대장)
+75	iKON	덤앤더머 (DUMB & DUMBER)
+76	김윤아	길
+77	김필(Kim Feel)	다시 사랑한다면 (니글니글 버터플라이)
+78	방탄소년단	RUN
+79	려욱	어린왕자 (The Little Prince)
+80	Justin Bieber	Love Yourself
+81	박경	보통연애 (Feat. 박보람)
+82	백지영	약도 없대요 (Feat. 버벌진트)
+83	DEAN	what2do (Feat. Crush, Jeff Bernat)
+84	솔지하니(EXID)	ONLY ONE
+85	송민호, 지코(ZICO)	Okey Dokey
+86	iKON	리듬 타 (RHYTHM TA)
+87	박효신	기억 속의 먼 그대에게
+88	EXO	불공평해 (Unfair)
+89	레이디스 코드 (LADIES` CODE)	Galaxy
+90	혁오 (hyukoh)	위잉위잉
+91	엠씨더맥스 (M.C The Max)	어김없이
+92	여은 (멜로디데이)	이젠 잊기로 해요
+93	슬옹, 윤현상	뭔가 될 것 같은 날
+94	터보	다시 (Feat. 유재석)
+95	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+96	소유, 권정열	어깨
+97	엠씨더맥스 (M.C The Max)	괜찮다가도
+98	포맨 (4Men)	안아보자
+99	EXO	LOVE ME RIGHT
+100	엠씨더맥스 (M.C The Max)	아스라이

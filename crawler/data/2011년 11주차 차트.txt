@@ -1,0 +1,101 @@
+./data/2011년 11주차 차트.txt
+1	빅뱅	Tonight
+2	김형준	Girl
+3	아이유 (IU)	나만 몰랐던 이야기
+4	이현 (에이트)	내꺼중에 최고
+5	빅뱅	Cafe
+6	빅뱅	What Is Right
+7	지나(G.NA)	Black & White
+8	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+9	김수현	Dreaming
+10	빅뱅	Hands Up
+11	빅뱅	Somebody To Love
+12	시크릿 (Secret)	샤이보이 (Shy Boy)
+13	아이유 (IU)	좋은 날
+14	아이유 (IU)	Someday
+15	창민, 진운 (2AM)	사랑하면 안될까
+16	나비 (Navi)	잘 된 일이야
+17	강승윤	니가 천국이다
+18	간미연	파파라치 (Feat. 에릭)
+19	아이유 (IU)	잔혹동화
+20	김보경	하루하루
+21	김현정	1분 1초
+22	정용화(Jung Yong Hwa)	처음 사랑하는 연인들을 위해 (반말송)
+23	Dal★Shabet (달샤벳)	Supa Dupa Diva
+24	엠블랙 (MBLAQ)	다시
+25	박진영	못 잊은 거죠(If)
+26	가희	돌아와 나쁜 너
+27	거미	기다리고 싶어
+28	GD, TOP  (빅뱅)	Oh Yeah (Feat. 박봄)
+29	김범수 &amp; 태연	달라
+30	GD, TOP  (빅뱅)	High High
+31	디셈버 (December)	누구보다 널 사랑해
+32	택연 &amp; 닉쿤	My Valentine (Feat. 박진영)
+33	쥬얼리 (Jewelry)	Back It Up
+34	송지은	미친거니 (Feat. 방용국)
+35	케이윌 (K.Will)	기가 차 (Feat. 슈프림팀 & 씨스타)
+36	승리	어쩌라고
+37	동방신기	왜 (Keep Your Head Down)
+38	현빈	그남자
+39	GD, TOP  (빅뱅)	집에 가지마
+40	빅뱅	Intro (Thank You & You)
+41	엠투엠 (M To M)	미쳐
+42	씨야 (SeeYa)	내겐 너무 멋진 그대
+43	엠블랙 (MBLAQ)	Stay
+44	씨스타 (Sistar)	니까짓게
+45	선예 (원더걸스)	Maybe
+46	프리스타일 (Free Style)	별 (Feat. JD)
+47	오스카	눈물자리
+48	더 원 (The One), KCM	두 남자 이야기
+49	플라워 (Flower)	You Are My Everything
+50	왁스 (Wax)	가슴이 뻥 뚫려
+51	티아라 (T-ara)	뷰티풀 걸 (Feat. 일렉트로 보이즈)
+52	택연 &amp; 우영 &amp; 수지 &amp; 김수현 &amp; JOO	드림하이 (Dream High)
+53	장혜진 &amp; 먼데이키즈 &amp; 시몬	눈물을 움켜쥐고
+54	버벌 진트 (Verbal Jint)	어베일러블 (Feat. 레이디 제인)
+55	견우 &amp; 서인영	애인만들기
+56	5dolls	너 말이야
+57	나몰라패밀리JW	헤어진 두 사람 (Feat. 태인)
+58	야다 전인혁	듣고 있니...
+59	레이디 제인 (Lady Jane)	친한 사이
+60	Lady GaGa	Born This Way
+61	제이세라 (J-Cera)	언제나 사랑해
+62	배다해	어떻게 니가
+63	이정	Let`s Dance
+64	주 (Joo)	나쁜 남자
+65	수지	겨울아이
+66	란 (Ran)	너를 위한 10가지 거짓말
+67	가비엔제이 (Gavy NJ)	라떼 한잔 (Feat. 길미)
+68	아이유 (IU)	이게 아닌데
+69	먼데이 키즈 (Monday Kiz)	이 밤이 지나면
+70	이해리	그때 난 사는거야
+71	나윤권	그대가 있어 웃는다
+72	Yolanda Be Cool &amp; DCup	We No Speak Americano (Radio Edit)
+73	김건모	내 모습을
+74	태연 (TAEYEON)	사랑해요 (I Love You)
+75	박효신	사랑이 고프다 (I Promise You)
+76	티아라 (T-ara)	왜 이러니
+77	승리	V.V.I.P
+78	써니사이드 MJ	새벽두시반 (Feat. 미스에스 & 오윤혜 & 김현중 of M.A.C...
+79	부활	비밀 (Special Vocal. 박완규)
+80	이정	사랑은 왜
+81	성시경	너는 나의 봄이다
+82	백지영	그여자
+83	달마시안	그 남자는 반대
+84	이적	같이 걸을까
+85	화요비, 태하	같이 있어줘
+86	신용재	이유
+87	허각	행복한 나를 (Feat. 존박)
+88	GD, TOP  (빅뱅)	뻑이가요
+89	티아라 (T-ara)	yayaya
+90	인피니트 (Infinite)	BTD (Before The Dawn)
+91	양정승 (Kiroy Y)	밤하늘의 별을 3 (Feat.김하늘)
+92	Avril Lavigne	What The Hell
+93	브라운 아이드 소울 (Brown Eyed Soul)	똑같다면
+94	허밍 어반 스테레오 (Humming Urban Stereo)	넌 그날 (Feat. 유인나)
+95	윤종신	너 없이 산다 (Feat. 이현우)
+96	이현 (에이트)	악담
+97	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+98	10cm	그게 아니고
+99	DK (디셈버)	언제나 사랑해 (디셈버 DK)
+100	Far East Movement	Go Ape (Feat. Lil` Jon & Colette Carr)

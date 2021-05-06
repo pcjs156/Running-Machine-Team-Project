@@ -1,0 +1,101 @@
+./data/2017년 29주차 차트.txt
+1	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+2	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+3	지코 (ZICO)	Artist
+4	헤이즈 (Heize)	널 너무 모르고
+5	BLACKPINK	마지막처럼
+6	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+7	볼빨간 사춘기, 스무살	남이 될 수 있을까
+8	황치열	매일 듣는 노래 (A Daily Song)
+9	에이핑크 (Apink)	FIVE
+10	G-Dragon	무제(無題) (Untitled, 2014)
+11	볼빨간사춘기	처음부터 너와 나
+12	Ed Sheeran	Shape of You
+13	EXO	Ko Ko Bop
+14	싸이 (Psy)	New Face
+15	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+16	TWICE	SIGNAL
+17	청하	Why Don`t You Know (Feat. 넉살)
+18	아이유 (IU)	밤편지
+19	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+20	WINNER	REALLY REALLY
+21	지코 (ZICO)	FANXY CHILD (Feat. FANXY CHILD)
+22	싸이 (Psy)	I LUV IT
+23	국민의 아들	NEVER
+24	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+25	지코 (ZICO)	ANTI (Feat. G.Soul)
+26	한동근	미치고 싶다
+27	윤종신	좋니
+28	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+29	구윤회	Marry Me
+30	아이유 (IU)	사랑이 잘 (With 오혁)
+31	씨스타 (Sistar)	LONELY
+32	볼빨간사춘기	좋다고 말해
+33	악동뮤지션 (AKMU)	DINOSAUR
+34	언니쓰	맞지?
+35	양홍원 (Young B)	아침에 (Feat. Bryn)
+36	TWICE	KNOCK KNOCK
+37	혁오 (hyukoh)	TOMBOY
+38	BLACKPINK	불장난
+39	볼빨간사춘기	우주를 줄게
+40	볼빨간사춘기	나만 안되는 연애
+41	창모 (CHANGMO)	아름다워
+42	헤이즈 (Heize)	먹구름 (Feat. nafla)
+43	EXO	전야 (前夜) (The Eve)
+44	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+45	The Chainsmokers	Closer (Feat. Halsey)
+46	FTISLAND (FT 아일랜드)	사랑앓이 (With 김나영)
+47	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+48	The Chainsmokers, Coldplay	Something Just Like This
+49	크러쉬 (CRUSH)	Outside (Feat. Beenzino)
+50	신현희와김루트	오빠야
+51	정승환	너였다면
+52	방탄소년단	봄날
+53	DEAN	D (half moon) (Feat. 개코)
+54	한동근	그대라는 사치
+55	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+56	EXO	What U do?
+57	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+58	박재범	YACHT (k) (Feat. Sik-K)
+59	TWICE	TT
+60	크러쉬 (CRUSH)	Beautiful
+61	마마무 (Mamamoo)	아재개그 (Narr. 김대희, 김준호)
+62	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+63	Justin Bieber	Love Yourself
+64	로꼬 (LOCO)	지나쳐 (FEAT. DEAN)
+65	슬레이트	Oh Little Girl
+66	PRODUCE 101	나야 나 (PICK ME)
+67	아이오아이 (I.O.I)	소나기
+68	엠씨더맥스 (M.C The Max)	어디에도
+69	레드벨벳(Red Velvet)	Rookie
+70	싸이 (Psy)	어땠을까 (Feat. 박정현)
+71	딥플로우(Deepflow)	작두 (Feat. 넉살, Huckleberry P)
+72	볼빨간사춘기	You(=I)
+73	EXO	기억을 걷는 밤 (Walk On Memories)
+74	EXO	Forever
+75	악동뮤지션 (AKMU)	MY DARLING
+76	한동근	이 소설의 끝을 다시 써보려 해
+77	하이라이트(Highlight)	CALLING YOU
+78	아이유 (IU)	이 지금
+79	하이라이트(Highlight)	얼굴 찌푸리지 말아요
+80	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+81	지코 (ZICO)	천재 (Behind the scene)
+82	지코 (ZICO)	She`s a Baby
+83	EXO	너의 손짓 (Touch It)
+84	TWICE	CHEER UP
+85	아이유 (IU)	이런 엔딩
+86	뉴이스트 (NU`EST)	여보세요
+87	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+88	빅뱅	에라 모르겠다
+89	케이시 (Kassy)	굿모닝 (Good Morning)
+90	Knock	열어줘
+91	창모 (CHANGMO)	마에스트로 (Maestro)
+92	EXO	다이아몬드 (Diamond)
+93	G-Dragon	개소리 (BULLSHIT)
+94	박효신	숨
+95	PRODUCE 101	Hands on me
+96	EXO	소름 (Chill)
+97	세븐틴	울고 싶지 않아
+98	길구봉구	바람이 불었으면 좋겠어
+99	EXO	내가 미쳐 (Going Crazy)
+100	임창정	내가 저지른 사랑

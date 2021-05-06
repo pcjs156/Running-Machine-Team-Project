@@ -1,0 +1,101 @@
+./data/2013년 32주차 차트.txt
+1	에일리 (Ailee)	U & I
+2	f(x)	첫 사랑니 (Rum Pum Pum Pum)
+3	에이핑크 (Apink)	NoNoNo
+4	크레용팝 (Crayon Pop)	빠빠빠
+5	다비치	오늘따라 보고싶어서 그래
+6	다이나믹 듀오 (Dynamic Duo)	Baaam (Feat. Muzie)
+7	비스트 (Beast)	Shadow (그림자)
+8	2NE1 (투애니 원)	Falling In Love
+9	브라운 아이드 걸스	Kill Bill
+10	씨스타 (Sistar)	Give It To Me
+11	이승철	My Love
+12	유성은	Be OK (Feat. 배치기)
+13	강승윤	비가 온다
+14	인피니트 (Infinite)	Destiny
+15	걸스데이 (Girl`s Day)	여자 대통령
+16	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+17	허각, 정은지 (에이핑크)	짧은머리
+18	김예림 (투개월)	All Right
+19	브라운 아이드 걸스	레시피
+20	정엽	왜 이제야 왔니
+21	긱스 (Geeks)	Fly
+22	아웃사이더	슬피 우는 새 (Feat. 이수영)
+23	씨스타 (Sistar)	넌 너무 야해 (The Way You Make Me Melt) (Fe...
+24	포미닛 (4minute)	물 좋아?
+25	포맨 (4Men)	너 하나야
+26	다이나믹 듀오 (Dynamic Duo)	쌔끈해 (Three Dopeboyz)
+27	f(x)	미행 (그림자 _ Shadow)
+28	포미닛 (4Minute)	이름이 뭐예요?
+29	로이킴	Love Love Love
+30	버벌진트 (Verbal Jint)	비범벅 (Feat. 범키)
+31	다이나믹 듀오 (Dynamic Duo)	날개뼈 (Hot Wings)
+32	쥬얼리 (Jewelry)	핫 앤 콜드 (Hot ＆ Cold)
+33	미스에스 (Miss $)	니가 아니었기를 (Narr. 버벌진트)
+34	걸스데이 (Girl`s Day)	말해줘요
+35	포맨 (4Men)	청혼하는 거예요
+36	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+37	손승연	미친게 아니라구요 (Feat. MC 스나이퍼)
+38	씨스타 (Sistar)	바빠 (Bad Boy)
+39	코요태(KYT)	Hollywood (Feat. 정준하)
+40	f(x)	Goodbye Summer (f(Amber+Luna+Krystal))
+41	하동균	그대 내 품에
+42	애프터스쿨 (After School)	첫사랑
+43	프리스타일 (Free Style)	썸머시즌
+44	더 원 (The One)	잘 있나요
+45	로이킴	봄봄봄
+46	써니힐 (Sunny Hill)	만인의 연인 (Feat. 하림)
+47	디셈버 (December)	Fire
+48	주니엘 (JUNIEL)	감동이 중요해
+49	태완, 개리 (리쌍), 크러쉬 (Crush)	어디 갈래
+50	다이나믹 듀오 (Dynamic Duo)	거품 안 넘치게 따라줘 (Life Is Good)
+51	DJ Gollum Vs. EmpyreOne	The Bad Touch (Gordon & Doyle Edit)
+52	산이 (San E)	아는사람 얘기
+53	아웃사이더	Bye U (Feat. 지오)
+54	빈지노 (Beenzino)	Boogie On & On
+55	에일리 (Ailee)	No No No
+56	씨스타 (Sistar)	Crying
+57	AOA	MOYA (모야)
+58	긱스 (Geeks)	Wash Away (Feat. 에일리)
+59	Dal★Shabet (달샤벳)	내 다리를 봐 (Be Ambitious)
+60	신승훈	너에겐 들리지 않는 그 말
+61	빅스 (VIXX)	대.다.나.다.너
+62	다이나믹 듀오 (Dynamic Duo)	진격의 거인 둘 (Return Of The Kings)
+63	비스트 (Beast)	괜찮겠니
+64	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+65	시크릿 (Secret)	Yoo Hoo
+66	바이브 (Vibe)	꼭 한번 만나고 싶다
+67	김연지	두눈에. 두볼에. 가슴에 (In My Eyes)
+68	다비치	녹는 중 (Feat. 버벌진트)
+69	걸스데이 (Girl`s Day)	기대해
+70	강승윤	Wild And Young
+71	악동뮤지션 (AKMU)	I Love You
+72	이효리	Bad Girls
+73	언터쳐블 (Untouchable)	연락 좀 자주 해 (Feat. 앤드류 최)
+74	f(x)	Airplane
+75	악동뮤지션 (AKMU)	콩떡빙수
+76	싸이 (Psy)	Gentleman
+77	박재범	I Like 2 Party
+78	신용재	가수가 된 이유
+79	XIA(준수)	Incredible (Feat. Quincy)
+80	헨리 (Henry)	Trap
+81	존 박	Baby
+82	린 (LYn)	오늘 밤 (Feat. 배치기)
+83	아이비 (Ivy)	I Dance (Feat. 유빈)
+84	투빅 (2BiC)	회복이 급해 (Feat. 하림, 호투)
+85	숙희	나쁜놈
+86	다비치	거북이
+87	티아라, 다비치	비키니
+88	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+89	김그림	우리만 있어
+90	알리 (ALi)	In My Dream
+91	긱스 (Geeks), 소유	Officially Missing You, Too
+92	f(x)	시그널 (Signal)
+93	소울스타 (Soul Star)	그 남자와 그 여자의 하루
+94	창민 (2AM), 다희	한 사람만 보여요
+95	김용준 (SG 워너비), 이보람	우리가 사랑하는 방법
+96	김현중	Your Story
+97	비원에이포 (B1A4)	이게 무슨 일이야
+98	바이브 (Vibe)	이 나이 먹도록
+99	베스티 (BESTie)	두근두근
+100	지조(Zizo)	Like That

@@ -1,0 +1,101 @@
+./data/2015년 34주차 차트.txt
+1	빅뱅	우리 사랑하지 말아요
+2	빅뱅	쩔어 (GD&T.O.P)
+3	혁오 (hyukoh)	위잉위잉
+4	원더걸스 (Wonder Girls)	I Feel You
+5	자메즈 (Ja Mezz), 앤덥(Andup), 송민호	거북선 (Feat. 팔로알토)
+6	자이언티(Zion.T)	양화대교
+7	혁오 (hyukoh)	와리가리
+8	사이먼 도미닉 (Simon Dominic)	사이먼 도미닉
+9	씨스타 (Sistar)	SHAKE IT
+10	에이핑크 (Apink)	Remember
+11	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+12	자이언티(Zion.T)	꺼내 먹어요
+13	AOA	심쿵해 (Heart Attack)
+14	송민호, 지코(ZICO), 팔로알토(Paloalto)	moneyflow (다 비켜봐)
+15	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+16	Sik-K (식케이), 릴보이(Lil Boi), 지구인	RESPECT (Feat. 로꼬 & GRAY & DJ Pumkin)
+17	빅뱅	IF YOU
+18	빅뱅	맨정신
+19	소녀시대	PARTY
+20	백아연	이럴거면 그러지말지 (Feat. 영현)
+21	비스트 (Beast)	예이 (YeY)
+22	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+23	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+24	빅뱅	BAE BAE
+25	걸스데이 (Girl`s Day)	링마벨 (Ring My Bell)
+26	유승우	예뻐서 (You`re beautiful)
+27	베이식(Basick), 마이크로닷(Microdot), 블랙넛(Black Nut)	My ZONE (Feat. 산이 & 버벌진트)
+28	비스트 (Beast)	일하러 가야 돼
+29	프라이머리 (Primary)	아끼지마 (Don`t Be Shy) (Feat. 초아 (AOA) & ...
+30	샤이니 (SHINee)	Married To The Music
+31	빅뱅	LOSER
+32	비원에이포 (B1A4)	Sweet Girl
+33	아이유 (IU)	마음
+34	화생방실 클레오파트라	사랑할수록 (화생방실 클레오파트라)
+35	엠씨더맥스 (M.C The Max)	그 남잔 말야
+36	리쌍(LeeSSang)	주마등 (Feat. MI-WOO)
+37	혁오 (hyukoh)	Hooka
+38	빅뱅	WE LIKE 2 PARTY
+39	서인영	사랑했다치자 (Feat. 릴보이)
+40	Maroon 5	Sugar
+41	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+42	노래왕 퉁키	나를 슬프게 하는 사람들 (노래왕 퉁키)
+43	프라이머리 (Primary)	러버 (Feat. 오혁) (Rubber)
+44	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+45	로꼬 (LOCO)	AWESOME (feat. 박재범 & Gray)
+46	치타 (CHEETAH)	My Number
+47	화생방실 클레오파트라	가질 수 없는 너  (화생방실 클레오파트라) (Bonus Track)
+48	인피니트 (Infinite)	Bad
+49	박재범	몸매 (MOMMAE) (Feat. Ugly Duck)
+50	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+51	로꼬 (LOCO)	RESPECT (Feat. GRAY & DJ Pumkin)
+52	화생방실 클레오파트라	만약에 말야 (화생방실 클레오파트라) (Bonus Track)
+53	지코 (ZICO), 소진	아프다
+54	산이 (San E)	Me You (Feat. 백예린 of 15&)
+55	프라이머리 (Primary)	네일 했어 (Feat. 박정현) (Hello)
+56	박진영	어머님이 누구니 (Feat. 제시)
+57	EXID	아예 (Ah Yeah)
+58	혁오 (hyukoh)	큰새
+59	샤이니 (SHINee)	View
+60	나얼	같은 시간 속의 너
+61	화생방실 클레오파트라	사랑.. 그 놈 (화생방실 클레오파트라)
+62	슈퍼주니어 (Super Junior)	Devil
+63	EXO	LOVE ME RIGHT
+64	김범수	사랑의 시작은 고백에서부터
+65	박재범	My Last (Feat. 로꼬 & GRAY)
+66	아이유 (IU)	너의 의미 (Feat. 김창완)
+67	산이(San E), 레이나	한여름밤의 꿀
+68	화생방실 클레오파트라	이 밤이 지나면 (화생방실 클레오파트라) (Bonus Track)
+69	비투비 (BTOB)	괜찮아요
+70	배치기	닥쳐줘요 (Feat. 솔지 Of EXID)
+71	키썸 (Kisum)	심상치 않아 (Feat. 주영)
+72	나얼	바람기억
+73	다비치	두사랑 (Feat. 매드클라운)
+74	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+75	Sam Smith	I`m Not The Only One
+76	수지	왜 이럴까
+77	혁오 (hyukoh)	Ohio
+78	나비(Navi)	여름밤에
+79	티아라(T-ara)	완전 미쳤네 (Korean Ver.)
+80	허각, 정인	동네술집
+81	Redfoo (LMFAO)	New Thang
+82	Adam Levine	Lost Stars
+83	Ariana Grande	Best Mistake (Feat. Big Sean)
+84	EXO	CALL ME BABY
+85	허각	사월의 눈
+86	규현 (KYUHYUN)	우리가 사랑한 시간
+87	엠씨더맥스 (M.C The Max)	바라보기
+88	지민, 아이언	Puss (Prod.by 라이머)
+89	릴보이(Lil Boi), 로꼬(LOCO), 박재범	ON IT + BO$$
+90	miss A	다른 남자 말고 너
+91	정승환	너를 사랑한 시간
+92	이영현	꽃피는 봄이 오면 (노래하는 트리케라톱스)
+93	GOT7	딱 좋아 (Just right)
+94	블랙넛 (Black Nut)	100 (feat. 천재노창)
+95	박효신	야생화
+96	범키	느껴 (My Everything)
+97	신용재	니가 보여
+98	박보람	연예할래
+99	EXID	위아래
+100	프라이머리 (Primary)	마일리지 (Mileage) (Feat. 팔로알토 & 화사 of 마마무...

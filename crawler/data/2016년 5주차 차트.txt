@@ -1,0 +1,101 @@
+./data/2016년 5주차 차트.txt
+1	지코 (ZICO)	너는 나 나는 너
+2	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+3	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+4	수지, 백현 (BAEKHYUN)	Dream
+5	이적	걱정말아요 그대
+6	오혁	소녀
+7	엠씨더맥스 (M.C The Max)	어디에도
+8	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+9	케이윌 (K.Will)	니가 하면 로맨스 (feat.다비치)
+10	Gary (개리)	또 하루 (Feat. 개코)
+11	TWICE	OOH-AHH하게
+12	김나영	어땠을까
+13	김필	청춘 (Feat. 김창완)
+14	노을	함께
+15	지코 (ZICO)	유레카 (Feat. Zion.T)
+16	임창정	또 다시 사랑
+17	박보람	혜화동 (혹은 쌍문동)
+18	이승기	나 군대 간다
+19	싸이 (Psy)	DADDY (Feat. CL of 2NE1)
+20	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+21	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+22	싸이 (Psy)	나팔바지
+23	기현(Kihyun)	세월이 가면
+24	Adele	Hello
+25	디셈버 (December)	네게 줄 수 있는건 오직 사랑뿐
+26	백예린	우주를 건너
+27	윤미래 (T)	사랑이 맞을거야
+28	EXID	HOT PINK
+29	러블리즈	Ah-Choo
+30	iKON	취향저격
+31	아이유 (IU)	스물셋
+32	태연 (TAEYEON)	I (Feat. 버벌진트)
+33	산이(San E), 매드 클라운(Mad Clown)	못먹는 감 (Sour Grapes)
+34	거미	친구라도 될 걸 그랬어
+35	마마무 (Mamamoo)	I Miss You
+36	EXO	Sing For You
+37	여은 (멜로디데이)	이젠 잊기로 해요
+38	자이언티(Zion.T)	No Make Up
+39	유승우	선 (Feat.우효) (45.7cm)
+40	터보	다시 (Feat. 유재석)
+41	소진 (걸스데이)	매일 그대와
+42	iKON	덤앤더머 (DUMB & DUMBER)
+43	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+44	AOA	심쿵해 (Heart Attack)
+45	송민호	겁 (Feat. 태양)
+46	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+47	다비치	화이트 (WHITE) (Feat. 박재범)
+48	EXO	불공평해 (Unfair)
+49	Sam Smith	I`m Not The Only One
+50	바닐라 어쿠스틱 (Vanilla Acoustic)	너와 나의 시간은
+51	자이언티(Zion.T)	꺼내 먹어요
+52	범키	Better Man (Feat. 타블로)
+53	싸이 (Psy)	Dream (Feat. XIA of JYJ)
+54	엠씨더맥스 (M.C The Max)	괜찮다가도
+55	박효신	야생화
+56	윤미래 (T), 펀치 (Punch)	잘 지내고 있니
+57	레드벨벳(Red Velvet)	Dumb Dumb
+58	소유, 권정열	어깨
+59	백아연	이럴거면 그러지말지 (Feat. 영현)
+60	범키	서프라이즈 (Feat. Beenzino)
+61	포맨 (4Men)	안아보자
+62	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+63	노을	이별밖에
+64	방탄소년단	RUN
+65	정인	UUU
+66	자이언티(Zion.T)	양화대교
+67	박효신	기억 속의 먼 그대에게
+68	엠씨더맥스 (M.C The Max)	그 남잔 말야
+69	박경	보통연애 (Feat. 박보람)
+70	싸이 (Psy)	I Remember You (Feat. Zion.T)
+71	WINNER	사랑가시 (민호, 태현)
+72	iKON	리듬 타 (RHYTHM TA)
+73	iKON	지못미
+74	가인	열두 시가 되면
+75	송민호, 지코(ZICO)	Okey Dokey
+76	혁오 (hyukoh)	위잉위잉
+77	엠씨더맥스 (M.C The Max)	아스라이
+78	브라운 아이드 소울 (Brown Eyed Soul)	밤의 멜로디
+79	려욱	어린왕자 (The Little Prince)
+80	앤씨아 (NC.A)	기억날 그날이 와도
+81	엠씨더맥스 (M.C The Max)	어김없이
+82	EXO	LOVE ME RIGHT
+83	아이유 (IU)	푸르던
+84	아이유 (IU)	Zeze
+85	소유, 브라더수	모르나봐
+86	지아 (Zia)	가끔
+87	거미	가질 수 없는 너
+88	DEAN	what2do (Feat. Crush, Jeff Bernat)
+89	지코 (ZICO)	날 (Feat. JTONG)
+90	정진우	유복하게 살았는데
+91	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quie...
+92	f(x)	4 Walls
+93	EXO	CALL ME BABY
+94	Maroon 5	Sugar
+95	예지 (피에스타)	사이다
+96	와블(WABLE)	보라빛향기
+97	엠씨더맥스 (M.C The Max)	pale blue note
+98	정용화, 선우정아	입김 (Hello)
+99	소녀시대-태티서 (Girls’ Generation-TTS)	Dear Santa
+100	다이나믹 듀오 (Dynamic Duo)	꿀잼

@@ -1,0 +1,101 @@
+./data/2012년 41주차 차트.txt
+1	나얼	바람기억
+2	정은지, 서인국	All For You
+3	G-Dragon	크레용 (Crayon)
+4	G-Dragon	Missing You (Feat. 김윤아)
+5	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+6	싸이 (Psy)	강남스타일
+7	티아라 (T-ara)	Sexy Love
+8	시크릿 (Secret)	Poison
+9	허각, 지아 (Zia)	I Need You
+10	G-Dragon	그XX
+11	이승철	아마추어
+12	허각	아프다
+13	정은지, 서인국	우리 사랑 이대로
+14	휘성	너라는 명작
+15	XIA(준수)	사랑은 눈꽃처럼
+16	더 원 (The One)	아시나요 (원곡가수 조성모)
+17	싸이 (Psy)	어땠을까 (Feat. 박정현)
+18	FTISLAND (FT 아일랜드)	좋겠어 (I Wish)
+19	백아연	느린노래
+20	어반 자카파 (Urban Zakapa)	니가 싫어
+21	나얼	Missing You
+22	카라 (KARA)	Pandora
+23	더 원 (The One)	그 남자 (원곡가수 현빈)
+24	마이티 마우스 (Mighty Mouth)	이럴때면 (Feat. 린)
+25	나비 (Navi)	가지마
+26	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+27	씨스타 (Sistar)	Loving U (러빙유)
+28	G-Dragon	One Of A Kind
+29	미스에스 (Miss $)	담배 좀 줄여
+30	나얼	이별시작
+31	더블 케이 (Double K)	멘트 (Feat. 개코)
+32	비스트 (Beast)	아름다운 밤이야
+33	이종현(CNBLUE)	내 사랑아
+34	2NE1 (투애니 원)	I Love You
+35	동방신기	Catch Me
+36	보아 (BoA)	Only One
+37	G-Dragon	결국 (Feat. ? of YG New Girl Group)
+38	나얼	기억리듬
+39	태연 (TAEYEON)	가까이
+40	가인	피어나
+41	이승철	말리꽃
+42	다비치	남자도 우나요
+43	주니엘 (Juniel)	illa illa (일라 일라)
+44	김태우	내가 나를 봐도 슬퍼..
+45	포맨 (4Men)	Hello!
+46	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+47	나얼	여전히 난
+48	라니아(Rania)	STYLE
+49	버벌진트 (Verbal Jint)	충분히 예뻐
+50	김광석	먼지가 되어
+51	케이윌 (K.Will)	사랑은 그대다
+52	스피카(SPICA)	I`ll Be There
+53	G-Dragon	Today (Feat. 김종완 of Nell)
+54	비스트 (Beast)	Midnight (별 헤는 밤)
+55	Maroon 5	One More Night
+56	긱스 (Geeks)	Officially Missing You
+57	B.A.P	대박사건 (Crash)
+58	백지영	사랑아 또 사랑아
+59	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+60	윤하	서쪽 하늘
+61	티아라 (T-ara)	Day By Day
+62	신용재	자꾸만 자꾸만
+63	윤하	눈물이 한방울
+64	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+65	이현 (에이트)	가슴이 시린 게
+66	소울스타 (Soulstar)	강남역 10번 출구
+67	허각	한사람
+68	더 원 (The One)	지나간다 (원곡가수 김범수)
+69	나얼	You & Me
+70	EXID	매일밤
+71	루나플라이(LUNAFLY)	얼마나 좋을까
+72	Ke$ha	Die Young
+73	이석훈	좋으니까
+74	신용재	가수가 된 이유
+75	바이브(Vibe)	My All (Dear My Fan)
+76	김진표 (JP)	미안해서 미안해
+77	나얼	My Girl
+78	싸이 (Psy)	77학개론 (Feat. 리쌍, 김진표)
+79	Carly Rae Jepsen	Call Me Maybe
+80	Maroon 5	Payphone (Feat. Wiz Khalifa)
+81	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+82	피에스타(FIESTAR)	Vista
+83	아이유 (IU), 피에스타(FIESTAR)	달빛바다
+84	씨스타 (Sistar)	나혼자 (Alone)
+85	스컬 (Skull), 하하	부산 바캉스
+86	싸이 (Psy)	청개구리 (Feat. G-Dragon)
+87	임정희	날 사랑하지마
+88	포맨 (4Men)	안되겠더라
+89	신용재	걸음이 느려서
+90	빅뱅	Monster
+91	이영현	잠시만 안녕 (원곡가수 엠씨 더 맥스)
+92	멜로디데이	그때처럼
+93	럼블피쉬	너 그렇게 살지마
+94	허각	나를 사랑했던 사람아
+95	가비엔제이 (Gavy NJ)	가로수길에서
+96	Rihanna	Diamonds
+97	아이유 (IU)	하루 끝
+98	15&amp; (박지민, 백예린)	I Dream
+99	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+100	형돈이와 대준이	오,예!

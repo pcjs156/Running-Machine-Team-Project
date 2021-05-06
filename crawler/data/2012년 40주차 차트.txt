@@ -1,0 +1,101 @@
+./data/2012년 40주차 차트.txt
+1	나얼	바람기억
+2	정은지, 서인국	All For You
+3	G-Dragon	크레용 (Crayon)
+4	G-Dragon	Missing You (Feat. 김윤아)
+5	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+6	싸이 (Psy)	강남스타일
+7	시크릿 (Secret)	Poison
+8	티아라 (T-ara)	Sexy Love
+9	G-Dragon	그XX
+10	허각, 지아 (Zia)	I Need You
+11	허각	아프다
+12	정은지, 서인국	우리 사랑 이대로
+13	나얼	Missing You
+14	백아연	느린노래
+15	카라 (KARA)	Pandora
+16	어반 자카파 (Urban Zakapa)	니가 싫어
+17	FTISLAND (FT 아일랜드)	좋겠어 (I Wish)
+18	나얼	이별시작
+19	싸이 (Psy)	어땠을까 (Feat. 박정현)
+20	나얼	기억리듬
+21	G-Dragon	One Of A Kind
+22	마이티 마우스 (Mighty Mouth)	이럴때면 (Feat. 린)
+23	더 원 (The One)	그 남자 (원곡가수 현빈)
+24	씨스타 (Sistar)	Loving U (러빙유)
+25	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+26	나얼	여전히 난
+27	비스트 (Beast)	아름다운 밤이야
+28	G-Dragon	결국 (Feat. ? of YG New Girl Group)
+29	태연 (TAEYEON)	가까이
+30	이종현(CNBLUE)	내 사랑아
+31	보아 (BoA)	Only One
+32	XIA(준수)	사랑은 눈꽃처럼
+33	2NE1 (투애니 원)	I Love You
+34	동방신기	Catch Me
+35	다비치	남자도 우나요
+36	주니엘 (Juniel)	illa illa (일라 일라)
+37	나얼	You & Me
+38	G-Dragon	Today (Feat. 김종완 of Nell)
+39	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+40	나비 (Navi)	가지마
+41	나얼	My Girl
+42	라니아(Rania)	STYLE
+43	버벌진트 (Verbal Jint)	충분히 예뻐
+44	백지영	사랑아 또 사랑아
+45	임정희	날 사랑하지마
+46	비스트 (Beast)	Midnight (별 헤는 밤)
+47	휘성	너라는 명작
+48	윤하	눈물이 한방울
+49	스피카(SPICA)	I`ll Be There
+50	윤하	서쪽 하늘
+51	포맨 (4Men)	Hello!
+52	바이브(Vibe)	My All (Dear My Fan)
+53	신용재	자꾸만 자꾸만
+54	소울스타 (Soulstar)	강남역 10번 출구
+55	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+56	B.A.P	대박사건 (Crash)
+57	티아라 (T-ara)	Day By Day
+58	이현 (에이트)	가슴이 시린 게
+59	김광석	먼지가 되어
+60	나얼	Stone Of Zion
+61	허각	한사람
+62	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+63	나얼	Love Dawn
+64	Maroon 5	One More Night
+65	긱스 (Geeks)	Officially Missing You
+66	나얼	Soul Fever
+67	스컬 (Skull), 하하	부산 바캉스
+68	김진표 (JP)	미안해서 미안해
+69	더 원 (The One)	지나간다 (원곡가수 김범수)
+70	신용재	걸음이 느려서
+71	포맨 (4Men)	안되겠더라
+72	가비엔제이 (Gavy NJ)	가로수길에서
+73	럼블피쉬	너 그렇게 살지마
+74	형돈이와 대준이	오,예!
+75	신용재	가수가 된 이유
+76	아이유 (IU), 피에스타(FIESTAR)	달빛바다
+77	싸이 (Psy)	77학개론 (Feat. 리쌍, 김진표)
+78	케이윌 (K.Will)	사랑은 그대다
+79	씨스타 (Sistar)	나혼자 (Alone)
+80	장혜진	나쁜사람
+81	빅뱅	Monster
+82	미스에스 (Miss $)	담배 좀 줄여
+83	싸이 (Psy)	청개구리 (Feat. G-Dragon)
+84	버벌진트 (Verbal Jint)	가까이 가까이
+85	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+86	성훈	그대를 봅니다
+87	Maroon 5	Payphone (Feat. Wiz Khalifa)
+88	이승철	아마추어
+89	브라운 아이드 걸스	한여름밤의 꿈
+90	피에스타(FIESTAR)	Vista
+91	나윤권	나를 불러
+92	별	두 뺨에 닿기 전에
+93	더블 케이 (Double K)	멘트 (Feat. 개코)
+94	서인영	Anymore
+95	Carly Rae Jepsen	Call Me Maybe
+96	허각	나를 사랑했던 사람아
+97	아이유 (IU)	하루 끝
+98	성훈 (브라운 아이드 소울)	아무리 (Feat.김진표)
+99	이영현	사랑아
+100	버스커 버스커 (Busker Busker)	벚꽃 엔딩

@@ -1,0 +1,101 @@
+./data/2010년 50주차 차트.txt
+1	브라운 아이드 소울 (Brown Eyed Soul)	똑같다면
+2	백지영	그여자
+3	태연, 더 원 (The One)	별처럼
+4	티아라 (T-ara)	왜 이러니
+5	허각	언제나
+6	소녀시대	훗 (Hoot)
+7	신용재	이유
+8	카라 (KARA)	점핑 (Jumping)
+9	2AM	전활 받지 않는 너에게
+10	허각	하늘을 달리다
+11	지아 (Zia)	몇 월 며칠 몇 시 (Feat. 마이티 마우스)
+12	오렌지 캬라멜 (Orange Caramel)	아잉♡
+13	비스트 (Beast)	Beautiful
+14	강승윤	본능적으로 (Feat. Swings)
+15	김범수	나타나
+16	S.M. The Ballad	너무 그리워 (Miss You)
+17	싸이 (Psy)	Right Now
+18	거미, 바비킴	러브 레시피
+19	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+20	가비엔제이 (Gavy NJ)	전화 좀 받어
+21	허각	행복한 나를 (Feat. 존박)
+22	장재인	가로수 그늘 아래 서면
+23	엠씨더맥스 (M.C The Max)	사랑합니다 (Feat. 부활)
+24	2AM	미친 듯이
+25	거미	죽어도 사랑해
+26	김지수	널 지우는 일
+27	miss A	Breathe
+28	SG 워너비	해바라기
+29	티아라 (T-ara)	yayaya
+30	2NE1 (투애니 원)	아파 (Slow)
+31	레인보우 (Rainbow)	Mach (마하)
+32	브라운 아이드 소울 (Brown Eyed Soul)	With Chocolate
+33	조문근	너라는 걸
+34	씨스타 (Sistar)	니까짓게
+35	백지영	그남자
+36	김보경	Because Of You
+37	디셈버 (December)	눈부신 눈물
+38	2NE1 (투애니 원)	Go Away
+39	존 박	빗속에서
+40	2PM	I`ll Be Back
+41	정슬기	어떻게 한번을 안 마주치니
+42	포맨 (4Men), 美	Here I am
+43	지아 (Zia), 포맨 (4Men)	울고, 불고...
+44	JYP Nation	This Christmas
+45	가인	돌이킬 수 없는
+46	2NE1 (투애니 원)	Can`t Nobody
+47	비스트 (Beast)	숨
+48	린 (LYn)	사랑의 눈보라
+49	길미	우리 사랑 이대로
+50	성시경, 아이유 (IU)	그대네요
+51	테이 (Tei)	그대를 사랑해
+52	버즈 (Buzz)	여자가 싫다 (Feat. Venny)
+53	Bois	상처만
+54	지나 (G.NA), 현아 (4Minute)	Say You Love Me
+55	이기찬	러브 (L.O.V.E) (Feat. 슈프림팀)
+56	팀 (Tim)	남자답지 못한 말
+57	브라운 아이드 소울 (Brown Eyed Soul)	Rainy
+58	싸이 (Psy)	내 눈에는 (Feat. 이재훈)
+59	美	못해
+60	브라운 아이드 소울 (Brown Eyed Soul)	Gone
+61	이정	헤어지는 일 (Feat. 리쌍)
+62	브라운 아이드 소울 (Brown Eyed Soul)	You
+63	V.O.S	내겐 네가 흘러서..
+64	Far East Movement	Like a G6 (Feat. Dev & The Cataracs)
+65	포맨 (4Men)	미안해 (Feat. 美)
+66	서인국	Take
+67	브라운 아이드 소울 (Brown Eyed Soul)	그대
+68	조성모	Only You (Suit Ver.)
+69	박보람	세월이 가면
+70	드라마 (달마시안), 요섭 (비스트)	첫 눈 그리고 첫 키스
+71	SG 워너비, 엄지원	달리기
+72	브라운 아이드 소울 (Brown Eyed Soul)	담배가게 아가씨
+73	싸이 (Psy)	Thank You (Feat. 서인영)
+74	남녀공학	삐리뽐 빼리뽐
+75	산이 (San E)	LoveSick
+76	소야 (Soya), 김종국	매일매일 사랑해
+77	Ab에비뉴	여자는..알아요 (노는여자)
+78	솔비, 타이푼	평생
+79	임정희	진짜일 리 없어
+80	신승훈	두 번 헤어지는 일 (Vocal 다비치)
+81	신혜성	안녕 그리고 안녕 (Feat. 에릭 & 남규리)
+82	윤상현	바라본다
+83	임정희	사랑은 못해요
+84	Black Eyed Peas	The Time (Dirty Bit)
+85	김보경	I Go
+86	케이윌 (K.Will)	태양
+87	이적	하늘을 달리다
+88	브라운 아이드 소울 (Brown Eyed Soul)	Blowin′ My Mind
+89	미스에스 (Miss $)	Promise U (Feat. 정슬기)
+90	Kelly Clarkson	Because Of You
+91	샤이니 (SHINee)	Hello
+92	엠블랙 (MBLAQ)	Bang Bang Bang
+93	브라운 아이드 소울 (Brown Eyed Soul)	Love Ballad
+94	간종욱	내 입술은 할 수 없는 말 (Feat. 별)
+95	2NE1 (투애니 원)	박수쳐
+96	슈프림팀, 영준 (브라운 아이드 소울)	왜
+97	KCM	사랑곰
+98	언터쳐블 (Untouchable)	난리 브루스 (Feat. Vasco)
+99	임재범	후회합니다
+100	브라운 아이드 소울 (Brown Eyed Soul)	He Is Real

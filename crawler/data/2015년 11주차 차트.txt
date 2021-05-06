@@ -1,0 +1,101 @@
+./data/2015년 11주차 차트.txt
+1	MC몽	사랑 범벅 (Feat. 챈슬러 of the channels)
+2	지민, 슬옹	시작이 좋아 2015 (Prod. By 버벌진트)
+3	나얼	같은 시간 속의 너
+4	제시(Jessi), 치타, 강남	My Type (Prod. by 버벌진트)
+5	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+6	포미닛 (4minute)	미쳐
+7	15&amp; (박지민, 백예린)	사랑은 미친짓 (Feat. 칸토 of 트로이)
+8	장재인	환청 (Feat. 나쑈(NaShow))
+9	다비치	또 운다 또
+10	노을	목소리
+11	EXID	위아래
+12	매드 클라운 (Mad Clown)	화 (Feat. 진실 of Mad Soul Child)
+13	케이티 김	니가 있어야 할 곳
+14	신화	표적
+15	소유, 기리보이 (Giriboy)	팔베개 (Pillow) (Feat. 기현)
+16	MC몽	권태중독 (Feat. 선우정아)
+17	정승환, 박윤하	슬픔 속에 그댈 지워야만 해
+18	에이핑크 (Apink)	LUV
+19	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+20	AOA	사뿐사뿐 (Like a Cat)
+21	정승환	사랑에 빠지고 싶다
+22	Ariana Grande	Problem (Feat. Iggy Azalea)
+23	Maroon 5	Sugar
+24	빅스(VIXX)	이별공식
+25	GD X TAEYANG	GOOD BOY
+26	Sam Smith	I`m Not The Only One
+27	XIA(준수)	꽃 (Feat. 타블로 of 에픽하이)
+28	다비치	행복해서 미안해
+29	백지영	Because Of You
+30	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+31	Adam Levine	Lost Stars
+32	키썸, San E, 태완	슈퍼스타 (Prod. by D.O)
+33	박효신	야생화
+34	윤미래, 타이거JK, 비지	Angel
+35	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+36	김범수	오직 너만
+37	토이 (Toy)	세 사람 (With 성시경)
+38	니엘 (NIEL)	못된 여자 (Feat. Dok2)
+39	포스트맨 (Postmen)	신촌을 못가
+40	다이나믹 듀오 (Dynamic Duo), 박정현	싱숭생숭 (SsSs)
+41	나인 뮤지스 (Nine Muses)	드라마 (DRAMA)
+42	MC몽	하얗게 (Feat. 리차드파커스)
+43	알리 (ALi)	별 짓 다해봤는데
+44	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+45	엠씨더맥스 (M.C The Max)	바라보기
+46	MC몽	내 생애 가장 행복한 시간 (Feat. 허각)
+47	비스트 (Beast)	12시 30분
+48	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+49	효린, 주영	지워 (Feat. 아이언)
+50	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+51	정용화(Jung Yong Hwa)	어느 멋진 날
+52	정승환	그날들
+53	홍진영	산다는 건 (Cheer Up)
+54	WINNER	공허해
+55	에일리 (Ailee)	손대지마
+56	지코 (ZICO)	Well Done (Feat. Ja Mezz)
+57	아이유 (IU)	너의 의미 (Feat. 김창완)
+58	육지담	밤샜지 (Prod. By ZICO)
+59	에픽하이 (Epik High)	헤픈엔딩 (Feat. 조원선 of 롤러코스터)
+60	MC몽	내가 그리웠니 (Feat. 진실 of Mad Soul Child)
+61	올티(Olltii)	설레 (Feat. 백예린 of 15&)
+62	에일리 (Ailee)	그대도 같은가요
+63	엠버 (AMBER)	SHAKE THAT BRASS (Feat. 태연 (소녀시대))
+64	종현 (JONGHYUN)	데자-부 (Deja-Boo) (Feat. Zion.T)
+65	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+66	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+67	배치기	악몽 (Feat. 박수진)
+68	Maroon 5	Maps
+69	HI SUHYUN	나는 달라 (Feat. BOBBY)
+70	박효신	HAPPY TOGETHER
+71	어쿠스틱 콜라보	너무 보고 싶어
+72	김건모	잘못된 만남
+73	어쿠스틱 콜라보	묘해, 너와
+74	태양	눈, 코, 입
+75	MC 스나이퍼	사랑비극 Part.1 (Feat. 김신의 of 몽니)
+76	MC몽	DOOM DOOM (DAISHI DANCE TRACK)
+77	10cm	쓰담쓰담
+78	성시경, 권진아	잊지 말기로 해
+79	자이언티(Zion.T)	양화대교
+80	WINNER	끼부리지마
+81	바비 (BOBBY)	연결고리#힙합
+82	긱스 (Geeks)	Is You (Feat.박정현)
+83	이진아	냠냠냠
+84	인피니트H	예뻐
+85	윤현상	언제쯤이면 (Duet.아이유)
+86	산이(San E), 레이나	한여름밤의 꿀
+87	러블리즈	안녕 (Hi~)
+88	개코	화장 지웠어 (Feat. Zion.T, HA_TFELT) (No ma...
+89	포스트맨, 6 to 8	술이 너보다 낫더라
+90	블락비 (Block B)	HER
+91	에릭남	괜찮아 괜찮아
+92	지코 (ZICO)	Tough Cookie (Feat. Don Mills)
+93	김조한	사랑에 빠지고 싶다
+94	박정현	Thank You
+95	신화	Alright
+96	엠씨더맥스 (M.C The Max)	잠시만 안녕 (Original)
+97	유성은	말리꽃
+98	에디킴	My Love
+99	윤미래 (T)	너를 사랑해
+100	Hozier	Take Me To Church

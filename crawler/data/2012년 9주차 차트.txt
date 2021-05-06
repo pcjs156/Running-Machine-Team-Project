@@ -1,0 +1,101 @@
+./data/2012년 9주차 차트.txt
+1	빅뱅	Blue
+2	miss A	Touch
+3	에일리 (Ailee)	Heaven
+4	린 (LYn)	시간을 거슬러
+5	케이윌 (K.Will)	니가 필요해 (I Need You)
+6	다비치	생각날거야
+7	존 박	Falling
+8	FTISLAND (FT 아일랜드)	지독하게
+9	티아라 (T-ara)	Lovey-Dovey
+10	세븐	내가 노래를 못해도
+11	빅뱅	BAD BOY
+12	블락비 (Block B)	난리나
+13	써니힐 (SunnyHill)	베짱이 찬가
+14	10cm	애상
+15	빅뱅	사랑먼지
+16	비스트 (Beast)	이럴 줄 알았어
+17	이기찬	아니기를
+18	케이윌 (K.Will)	내가 싫다
+19	효린	널 사랑하겠어
+20	트러블메이커 (Trouble Maker)	Trouble Maker
+21	김범수	애인 있어요
+22	아이유 (IU)	너랑 나
+23	빅뱅	Fantastic Baby
+24	Dal★Shabet (달샤벳)	Hit U
+25	가비엔제이 (Gavy NJ)	그러고도 남자야 (Feat. 쇼리 Of 마이티마우스)
+26	나윤권	겁이나서 (With 백지영)
+27	이영현 (빅마마)	천년의 사랑 (박완규)
+28	이승철	잊었니
+29	빅뱅	재미없어
+30	틴 탑 (Teen Top)	미치겠어
+31	다이나믹 듀오 (Dynamic Duo)	거기서거기 (Without You)
+32	박재범	Know Your Name (Feat. Dok2)
+33	효린, 지연, 에일리	Super Star
+34	미료 (브라운아이드걸스)	DIRTY
+35	다비치, 티아라	우리 사랑했잖아
+36	노을	그리워 그리워
+37	빅뱅	날개 (대성 SOLO)
+38	Adele	Rolling In The Deep
+39	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+40	브레이브걸스 (Brave Girls)	요즘 너
+41	휘성	눈물길
+42	엠블랙 (MBLAQ)	전쟁이야
+43	타우 &amp; 하하	사랑 (With 개리 & 김그림)
+44	먼데이 키즈 (Monday Kiz)	그림자
+45	제아 (브라운 아이드 걸스)	너 때문에
+46	마리오 (Mario)	문자 (Feat. 백지영)
+47	노을	살기 위해서
+48	예은 (Wondergirls)	Hello To Myself
+49	진운(2AM), Jr, 김지수, 강소라	B급인생
+50	EXID	WHOZ THAT GIRL
+51	티아라 (T-ara)	Cry Cry
+52	용준형	너 없이 사는 것도
+53	빅뱅	INTRO (ALIVE)
+54	스피카(SPICA)	러시안룰렛 (Russian Roulette)
+55	장재인	다른 누구도 아닌 너에게
+56	허각, LE(EXID)	그 노래를 틀때마다
+57	정준하	키 큰 노총각 이야기
+58	숙희	남이 될까봐 (Feat. 제이스 Of 미스에스)
+59	원더걸스 (Wonder girls)	Be My Baby
+60	김그림	너에게 (Original Ver.)
+61	먼데이키즈 &amp; 일락	Holiday
+62	LMFAO, Steve Aoki	Livin` My Love
+63	울랄라세션	서쪽 하늘
+64	리쌍, BMK	광대
+65	나인 뮤지스 (Nine Muses)	뉴스 (News)
+66	해오라 (Heora)	달빛이 지고
+67	투개월	The Romantic
+68	Rachael Yamagata	Be Be Your Love
+69	인피니트 (Infinite)	Cover Girl (Live Ver.)
+70	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+71	김보경	눈을 감아도
+72	제이세라 (J-Cera)	사랑시 고백구 행복동
+73	지아 (Zia)	속상해서 (술 한잔 해요 Part 2)
+74	존 박	이게 아닌데
+75	이정	흐린 가을 하늘에 편지를 써
+76	정엽	입 맞추고 싶어요
+77	Bueno Clinic	Sex Apeal (Max Farenthide Radio Edit) ...
+78	정인	어떡해
+79	일렉트로보이즈 (Electroboyz)	Ma Boy 2 (Feat. 효린)
+80	레인보우 픽시 (Pixie)	호이 호이 (Hoi Hoi)
+81	이기찬	아픈희망
+82	허각	죽고 싶단 말 밖에
+83	에이핑크 (Apink)	My My
+84	포맨 (4Men), 미 (美)	그 남자 그 여자
+85	배수정	직감
+86	살찐고양이	예쁜게 다니
+87	Jason Mraz	I Won`t Give Up
+88	하하	토닥토닥 (with 소향)
+89	엠투엠 (M To M)	그 놈 때문에
+90	알리 (ALi)	촌스럽게 굴지마 (Feat. 용준형)
+91	이루마 (Yiruma), 신용재, 美(미), BIGTONE	Kiss The Rain
+92	Pixie Lott	Mama Do (Uh Oh, Uh Oh)
+93	원티드 (Wanted)	너에게로 간다
+94	존 박	왜 그럴까
+95	원더걸스 (Wonder Girls)	The DJ Is Mine
+96	NS Yoon-G	마녀가 된 이유
+97	윤건 &amp; 서현	Don`t Say No
+98	B.A.P	Warrior
+99	임정희	눈물이 안났어
+100	박진영	Falling

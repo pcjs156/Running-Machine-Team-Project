@@ -1,0 +1,101 @@
+./data/2014년 21주차 차트.txt
+1	god	미운오리새끼
+2	정기고 (Junggigo)	너를 원해 (Feat. Beenzino)
+3	EXO-K	중독 (Overdose)
+4	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+5	악동뮤지션 (AKMU)	200%
+6	박효신	야생화
+7	휘성	Night and Day
+8	에이핑크 (Apink)	Mr. Chu (On Stage)
+9	백지영	불꽃
+10	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+11	악동뮤지션 (AKMU)	Give Love
+12	포맨 (4Men)	지우고 싶다
+13	윤민수, 신용재	인연
+14	에디킴	너 사용법
+15	아이유 (IU)	나의 옛날 이야기
+16	서인국	봄 타나봐 (BOMTANABA)
+17	이선희	그 중에 그대를 만나
+18	15&amp; (박지민, 백예린)	티가 나나봐
+19	전효성	Good-night Kiss
+20	매드 클라운 (Mad Clown)	견딜만해 (Feat. 효린)
+21	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+22	지나(G.NA)	예쁜 속옷
+23	오렌지 캬라멜 (Orange Caramel)	까탈레나 (Catallena)
+24	포맨 (4Men)	예쁘니까 잘 될 거야
+25	브로(Bro)	그런 남자
+26	악동뮤지션 (AKMU)	얼음들
+27	임창정	흔한 노래
+28	로꼬 (LOCO)	감아 (Feat. Crush)
+29	2NE1 (투애니 원)	Come Back Home
+30	배치기	뜨래요 (Feat. 앙리 Of 3B)
+31	아이유 (IU)	사랑이 지나가면
+32	백아연	내게 남은 세가지
+33	EXO-K	Thunder
+34	에일리 (Ailee)	하루하루
+35	아이유 (IU)	삐에로는 우릴보고 웃지
+36	아이유 (IU)	너의 의미 (Feat. 김창완)
+37	스탠딩 에그(Standing Egg)	그래, 너
+38	투빅 (2BiC)	요즘 바쁜가봐
+39	성시경	너의 모든 순간
+40	포미닛 (4minute)	오늘 뭐해
+41	2NE1 (투애니 원)	너 아님 안돼
+42	박정현	그 다음해
+43	AOA	짧은 치마 (Miniskirt)
+44	EXO-K	월광 (Moonlight)
+45	선미	보름달 (Feat. Lena)
+46	Michael Jackson	Love Never Felt So Good
+47	크러쉬 (CRUSH)	가끔
+48	길구봉구	뭘해도 예쁜걸
+49	2NE1 (투애니 원)	살아 봤으면 해
+50	걸스데이 (Girl`s Day)	Something
+51	엠씨더맥스 (M.C The Max)	그대가 분다
+52	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+53	휘성	Best Man (Feat. 에스나)
+54	아이유 (IU)	여름밤의 꿈
+55	아이유 (IU)	꽃
+56	김연우	해독제
+57	소녀시대	Mr.Mr.
+58	악동뮤지션 (AKMU)	인공잔디
+59	에디킴	밀당의 고수
+60	허밍 어반 스테레오 (Humming Urban Stereo)	SCULLY DOESN`T KNOW (Feat. 지나)
+61	에일리 (Ailee)	노래가 늘었어
+62	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+63	정준일	미안해
+64	크레용팝 (Crayon Pop)	어이 (Uh-ee)
+65	악동뮤지션 (AKMU)	지하철에서
+66	아이유 (IU)	꿍따리 샤바라 (Feat. 클론)
+67	매드 클라운 (Mad Clown)	스토커 (Feat. 크루셜스타)
+68	효린	안녕
+69	EXO-K	Run
+70	EXO	으르렁 (Growl)
+71	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+72	악동뮤지션 (AKMU)	작은별
+73	씨엔블루 (CNBLUE)	Can’t Stop
+74	윤건	사랑해도 너무나
+75	EXO-K	Love, Love, Love
+76	신용재	널 사랑한다, 지운다, 또 운다
+77	린 (LYn)	보고 싶어...운다
+78	David Guetta &amp; Showtek	Bad (Feat. Vassy) (Radio Edit)
+79	창민, 진운 (2AM)	사랑한단 말
+80	윤혁 (디셈버)	시계를 보며 계절을 지나
+81	2NE1 (투애니 원)	멘붕 (CL Solo)
+82	허각	오늘 같은 눈물이
+83	케이윌 (K.will), 마마무 (Mamamoo)	썸남썸녀 (Feat. 휘성)
+84	정은지	그대라구요
+85	가비엔제이 (Gavy NJ), 6 to 8	사랑하게 해줘요
+86	홍대광	답이 없었어
+87	휘성	가슴 시린 이야기 (Feat. 용준형)
+88	Jeff Bernat	Call You Mine (Feat. Geologic)
+89	정키 (Jung Key)	홀로 (Feat. 김나영)
+90	아웃사이더	손
+91	포맨 (4Men)	OK
+92	손승연	매일 다른 눈물이
+93	길미	NObody kNOws
+94	악동뮤지션 (AKMU)	길이나
+95	김범수	끝사랑
+96	악동뮤지션 (AKMU)	Galaxy
+97	권진아	씨스루
+98	주니엘 (JUNIEL)	다음날
+99	에디킴	2 Years Apart
+100	루이	사이드미러걸 (Feat. 산체스 of 팬텀)

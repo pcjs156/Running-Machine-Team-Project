@@ -1,0 +1,101 @@
+./data/2012년 23주차 차트.txt
+1	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+2	아이유 (IU)	하루 끝
+3	씨스타 (Sistar)	나혼자 (Alone)
+4	백지영	목소리 (Feat. 개리)
+5	지나(G.NA)	2HOT
+6	용감한 녀석들	I 돈 Care (Feat. 서수민PD)
+7	백지영	Good Boy (Feat. 용준형 of 비스트)
+8	울랄라세션	아름다운 밤
+9	마이티 마우스 (Mighty Mouth)	나쁜놈 (Feat. 소야)
+10	박진영	너뿐이야 (You`re The One)
+11	리쌍	너에게 배운다 (My Love)
+12	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+13	인피니트 (Infinite)	추격자
+14	리쌍	Someday (피쳐링. 윤도현 of YB)
+15	리쌍	겸손은 힘들어
+16	디셈버 (December)	She`s Gone
+17	형돈이와 대준이	올림픽대로 (Feat. MC날유)
+18	에이핑크 (Apink)	Hush
+19	비원에이포 (B1A4)	잘자요 굿나잇
+20	포미닛 (4minute)	Volume Up
+21	버스커 버스커 (Busker Busker)	첫사랑
+22	허각	나를 사랑했던 사람아
+23	아이유 (IU)	복숭아
+24	투빅, 다비치	오늘같은 밤이면
+25	버스커 버스커 (Busker Busker)	여수 밤바다
+26	울랄라세션	다 쓰고 없다
+27	빅뱅	Fantastic Baby
+28	박진영	다른 사람 품에 안겨서 (Someone else) Duet with ...
+29	버스커 버스커 (Busker Busker)	꽃송이가
+30	Maroon 5	Payphone (Feat. Wiz Khalifa)
+31	김태우	High High
+32	태연 (TAEYEON)	미치게 보고싶은
+33	노을	떠나간다
+34	티아라 (T-ara)	빙글빙글
+35	배치기	두 마리
+36	헬로비너스 (HELLOVENUS)	Venus
+37	틴 탑 (Teen Top)	To You
+38	에일리 (Ailee)	Heaven
+39	아이비 (Ivy)	찢긴 가슴
+40	양파, 다비치, HANNA	사랑은 다 그런거래요
+41	버스커 버스커 (Busker Busker)	외로움 증폭장치 (브래드 드럼 한판 쉬기)
+42	버스커 버스커 (Busker Busker)	이상형
+43	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+44	아이유 (IU)	그 애 참 싫다
+45	양파, 이보람 (씨야), 소연 (티아라)	알아요
+46	걸스데이 (Girl`s Day)	Oh! My God
+47	양요섭, 정은지	Love Day
+48	김재중	살아도 꿈인 것처럼
+49	이영현	조금씩 멀어지네요
+50	리쌍	사람들은 모두 변하나봐 (Feat. 정인, 쌈디of 슈프림팀, 바비킴...
+51	이해리	너의 뒤에서
+52	백지영	한참 지나서
+53	리쌍	행복을 찾아서 (Feat. 조현아)
+54	리쌍	개리와 기리... 세번째 이야기
+55	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+56	프라이머리 (Primary)	입장정리 (Feat. 최자, Simon D)
+57	애즈 원 (As One)	Day By Day 2012 (Feat. 버벌진트)
+58	써니힐 (Sunny Hill)	Do It
+59	버스커 버스커 (Busker Busker)	전활 거네
+60	빅뱅	Blue
+61	린 (LYn)	곰인형 (Feat. 해금)
+62	XIA(준수)	사랑이 싫다구요
+63	2AM	너도 나처럼
+64	가비엔제이 (Gavy NJ)	연락하지마 (Feat. LE of EXID)
+65	써니힐 (SunnyHill)	백마는 오고 있는가
+66	JJ Project	Bounce
+67	샤이니 (SHINee)	Sherlock.셜록 (Clue + Note)
+68	버스커 버스커 (Busker Busker)	골목길 어귀에서
+69	용감한 녀석들	기다려 그리고 준비해
+70	버스커 버스커 (Busker Busker)	향수
+71	빅뱅	BAD BOY
+72	김수현	그대 한 사람
+73	씨엔블루 (CNBLUE)	Hey You
+74	Adele	Rolling In The Deep
+75	에일리 (Ailee)	날 떠나지마
+76	50kg	내일을 향해 쏴라
+77	주니엘 (JUNIEL)	바보 (With 정용화 (CNBLUE))
+78	miss A	Touch
+79	이하이	시간이 흐른뒤 (윤미래)
+80	허영생	Crying
+81	지아 (Zia)	그대가 올까요
+82	LMFAO, Steve Aoki	Livin` My Love
+83	손승연	물들어
+84	서인국	밀고 당겨줘 (Tease Me)
+85	케이윌 (K.Will)	사랑이 운다
+86	리쌍	Casanova (피쳐링. 쥬비 of 부가킹즈)
+87	아이유 (IU)	너랑 나
+88	XIA(준수)	Tarantallegra (Feat. Flowsik of Aziati...
+89	리쌍	HOLA (피쳐링. 정인)
+90	정인, 윤종신	오르막길
+91	티아라 (T-ara)	Lovey-Dovey
+92	박완규	부치지 않은 편지 (원곡가수 김광석)
+93	이승철	잊었니
+94	이은미	세상에서 가장 큰 피그미
+95	예성 (YESUNG)	꽃보다 그녀
+96	달마시안	E.R
+97	손승연	미운오리새끼
+98	일렉트로보이즈 (Electroboyz)	웃을까 울을까 (Feat. 백지영)
+99	리쌍	Bururi (피쳐링. 정인)
+100	리쌍	별을 따라… (목소리_ 쥬비)

@@ -1,0 +1,101 @@
+./data/2012년 6주차 차트.txt
+1	린 (LYn)	시간을 거슬러
+2	티아라 (T-ara)	Lovey-Dovey
+3	세븐	내가 노래를 못해도
+4	비스트 (Beast)	이럴 줄 알았어
+5	케이윌 (K.Will)	내가 싫다
+6	FTISLAND (FT 아일랜드)	지독하게
+7	10cm	애상
+8	효린	널 사랑하겠어
+9	써니힐 (SunnyHill)	베짱이 찬가
+10	트러블메이커 (Trouble Maker)	Trouble Maker
+11	아이유 (IU)	너랑 나
+12	다이나믹 듀오 (Dynamic Duo)	거기서거기 (Without You)
+13	틴 탑 (Teen Top)	미치겠어
+14	다비치, 티아라	우리 사랑했잖아
+15	용준형	너 없이 사는 것도
+16	다비치	생각날거야
+17	엠블랙 (MBLAQ)	전쟁이야
+18	휘성	눈물길
+19	Dal★Shabet (달샤벳)	Hit U
+20	미료 (브라운아이드걸스)	DIRTY
+21	블락비 (Block B)	난리나
+22	마리오 (Mario)	문자 (Feat. 백지영)
+23	노을	그리워 그리워
+24	정준하	키 큰 노총각 이야기
+25	노을	살기 위해서
+26	티아라 (T-ara)	Cry Cry
+27	나윤권	겁이나서 (With 백지영)
+28	박재범	Know Your Name (Feat. Dok2)
+29	허각, LE(EXID)	그 노래를 틀때마다
+30	박진영	Falling
+31	이루마 (Yiruma), 신용재, 美(미), BIGTONE	Kiss The Rain
+32	Adele	Rolling In The Deep
+33	리쌍, BMK	광대
+34	수지	You`re My Star
+35	원더걸스 (Wonder girls)	Be My Baby
+36	원티드 (Wanted)	너에게로 간다
+37	지아 (Zia)	속상해서 (술 한잔 해요 Part 2)
+38	해오라 (Heora)	달빛이 지고
+39	울랄라세션	서쪽 하늘
+40	제이세라 (J-Cera)	사랑시 고백구 행복동
+41	제시카 &amp; 김진표	어쩜
+42	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+43	원더걸스 (Wonder Girls)	The DJ Is Mine
+44	에이핑크 (Apink)	My My
+45	일렉트로보이즈 (Electroboyz)	Ma Boy 2 (Feat. 효린)
+46	부가킹즈 (Buga Kingz)	Don`t Go
+47	나인 뮤지스 (Nine Muses)	뉴스 (News)
+48	레인보우 픽시 (Pixie)	호이 호이 (Hoi Hoi)
+49	살찐고양이	예쁜게 다니
+50	유재석	더위 먹은 갈매기 (Feat. 송은이 & 김숙)
+51	이현 (에이트)	너니까
+52	원티드 (Wanted)	Like You (Feat. 아이유)
+53	허각	죽고 싶단 말 밖에
+54	장재인	다른 누구도 아닌 너에게
+55	서영은, 이정	아니라는데
+56	나몰라패밀리JW	사랑해 그 거짓말 같은 (Feat. 태인)
+57	포맨 (4Men), 미 (美)	그 남자 그 여자
+58	LMFAO, Steve Aoki	Livin` My Love
+59	브라이언 (Brian)	너 따윈 버리고 (Feat. 타이거 JK)
+60	알리 (ALi)	촌스럽게 굴지마 (Feat. 용준형)
+61	엠씨더맥스 (M.C The Max)	태양의 그림자
+62	이정	오직 그대만
+63	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+64	NS Yoon-G	마녀가 된 이유
+65	에일리 (Ailee)	Heaven
+66	하하	바보에게 바보가 (Feat. 스컬)
+67	먼데이 키즈 (Monday Kiz)	그림자
+68	B.A.P	Warrior
+69	스컬 (Skull), 박효신	나 이러고 살아
+70	영준 (브라운아이드소울)	잊어요
+71	소녀시대	The Boys
+72	Bueno Clinic	Sex Apeal (Max Farenthide Radio Edit) ...
+73	Jason Mraz	I Won`t Give Up
+74	아이유 (IU)	삼촌 (Feat. 이적)
+75	김경호	하지 못했던 이야기
+76	레드애플 (LEDApple)	Time Is Up
+77	아이유 (IU)	비밀
+78	코요태(KYT)	했던 말 또 하고
+79	버스커 버스커 (Busker Busker)	동경소녀
+80	버스커 버스커 (Busker Busker)	서울사람들
+81	김연우	더 가까이
+82	스윗소로우(Sweet Sorrow)	VIVA! (Feat. 이소라)
+83	스피카(SPICA)	러시안룰렛 (Russian Roulette)
+84	허각	Hello
+85	엠블랙 (MBLAQ)	낙서
+86	송지은	추워요
+87	소녀시대	Mr.Taxi (Korean Ver.)
+88	오렌지 캬라멜 (Orange Caramel)	Funny Hunny
+89	영준 (브라운아이드소울)	꽃보다 그대가 (Feat. Simon D)
+90	먼데이 키즈 (Monday Kiz)	미행
+91	민 (miss A)	바보같이 살았죠
+92	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+93	베이비소울＋유지아	그녀는 바람둥이야 (Feat. 동우 Of 인피니트)
+94	하하	토닥토닥 (with 소향)
+95	길 (리쌍)	삼바의 매력 (Feat. 개리 & 정인)
+96	투개월	The Romantic
+97	태사비애	내가 사랑한 너 너를 사랑한 나 (Duet 비비안 Jy Sy)
+98	버스커 버스커 (Busker Busker)	정류장
+99	별	그래도 그대니까
+100	제아 (브라운 아이드 걸스)	그대 바보

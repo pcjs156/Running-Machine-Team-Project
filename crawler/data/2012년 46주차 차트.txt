@@ -1,0 +1,101 @@
+./data/2012년 46주차 차트.txt
+1	이하이	1,2,3,4 (원,투,쓰리,포)
+2	긱스 (Geeks), 소유	Officially Missing You, Too
+3	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+4	에일리 (Ailee)	보여줄게
+5	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+6	로이킴, 정준영	먼지가 되어
+7	별, 권정열 (10cm)	귀여워
+8	Miss A	남자 없이 잘 살아
+9	가인	피어나
+10	현아 (HyunA)	Ice Cream
+11	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+12	로이킴	휘파람
+13	이정	말리꽃 (원곡가수 이승철)
+14	어반 자카파 (Urban Zakapa)	똑같은 사랑 똑같은 이별
+15	나얼	바람기억
+16	블락비 (Block B)	닐리리맘보
+17	노을	하지 못한 말
+18	정은지, 서인국	All For You
+19	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+20	유승우	My Son
+21	김종국	남자가 다 그렇지 뭐
+22	G-Dragon	크레용 (Crayon)
+23	G-Dragon	Missing You (Feat. 김윤아)
+24	10cm	Fine Thank You And You
+25	NS Yoon-G	If You Love Me (Feat. 박재범)
+26	프라이머리 (Primary)	독 (Feat. E-Sens)
+27	에픽하이 (EPIK HIGH)	Up
+28	걸스데이 (Girl`s Day)	나를 잊지마요
+29	XIA(준수)	사랑은 눈꽃처럼
+30	노을	여인
+31	허각, 지아 (Zia)	I Need You
+32	박명수	꿈이었을까
+33	어반 자카파 (Urban Zakapa)	River
+34	에픽하이 (Epik High)	Don`t Hate Me
+35	싸이 (Psy)	강남스타일
+36	티아라 (T-ara)	Sexy Love
+37	G-Dragon	그XX
+38	로이킴	서울의 달
+39	김종국	남자도 슬프다
+40	홍대광	가족
+41	딕펑스 (Dick Punks)	Muzik
+42	존 박	철부지
+43	시크릿 (Secret)	Poison
+44	에일리 (Ailee)	사랑 첫 느낌
+45	15&amp; (박지민, 백예린)	I Dream
+46	어반 자카파 (Urban Zakapa)	니가 싫어
+47	싸이 (Psy)	어땠을까 (Feat. 박정현)
+48	로이킴	청개구리
+49	송중기	정말
+50	긱스 (Geeks)	Officially Missing You
+51	B.A.P	하지마 (Stop It)
+52	프라이머리 (Primary)	축하해 (Feat. 다이나믹 듀오, 박재범)
+53	허각	아프다
+54	윤건	걷다
+55	정은지, 서인국	우리 사랑 이대로
+56	포지션	죽을 만큼
+57	홍대광	이미 넌 고마운 사람
+58	이기찬	새벽 한시
+59	이승철	아마추어
+60	미스에스 (Miss $)	안자고 뭐해 (Good Night)
+61	FTISLAND (FT 아일랜드)	좋겠어 (I Wish)
+62	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+63	씨스타 (Sistar)	Loving U (러빙유)
+64	포맨 (4Men)	Hello!
+65	김종국	너에게 하고 싶은 말
+66	마이티 마우스 (Mighty Mouth)	이럴때면 (Feat. 린)
+67	이승철	말리꽃
+68	딕펑스 (Dick Punks)	같이 걸을까
+69	에일리 (Ailee)	저녁 하늘
+70	쥬얼리 (Jewelry)	룩앳미 (Look At Me)
+71	2NE1 (투애니 원)	I Love You
+72	별	나빠
+73	더 원 (The One)	아시나요 (원곡가수 조성모)
+74	먼데이 키즈 (Monday Kiz)	확률
+75	더 원 (The One)	그 남자 (원곡가수 현빈)
+76	이종현(CNBLUE)	내 사랑아
+77	동방신기	Catch Me
+78	피에스타(FIESTAR)	Sweet Love (Feat.김연우)
+79	에픽하이 (Epik High)	사랑한다면 해선 안될 말
+80	백승헌	해 뜰때까지
+81	유승우	Butterfly
+82	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+83	프라이머리 (Primary)	3호선 매봉역 (Feat. Paloalto, Beenzino)
+84	휘성	너라는 명작
+85	카라 (KARA)	Pandora
+86	Carly Rae Jepsen	Call Me Maybe
+87	정준영	아웃사이더
+88	프라이머리 (Primary)	I`m Back (Feat. Yankie, Double K, 지오)
+89	백아연	느린노래
+90	Jessica (제시카)	My Lifestyle (Feat. Dok2)
+91	이영현	사랑앓이 (원곡가수 FT아일랜드)
+92	Ne-Yo	Miss Right
+93	손승연	가슴아 가슴아
+94	왁스 (Wax)	떨어진다 눈물이
+95	김그림	연애 (Love Song)
+96	소울스타 (Soulstar)	Baby You (feat. C-Real Ann J)
+97	딕펑스 (Dick Punks)	고추잠자리
+98	김성규	Shine
+99	서인영	Let`s Dance
+100	홍대광	노래만 불렀지

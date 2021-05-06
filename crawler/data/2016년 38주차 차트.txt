@@ -1,0 +1,101 @@
+./data/2016년 38주차 차트.txt
+1	임창정	내가 저지른 사랑
+2	한동근	이 소설의 끝을 다시 써보려 해
+3	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+4	거미	구르미 그린 달빛
+5	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+6	BLACKPINK	휘파람
+7	에일리 (Ailee)	If You
+8	한동근	그대라는 사치
+9	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+10	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+11	첸, 백현, 시우민 (EXO)	너를 위해
+12	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+13	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+14	TWICE	CHEER UP
+15	존 박	네 생각
+16	소유, 유승우	잠은 다 잤나봐요
+17	원더걸스 (Wonder girls)	Why So Lonely
+18	바비 (BOBBY)	꽐라
+19	성시경	다정하게, 안녕히
+20	볼빨간사춘기	우주를 줄게
+21	스탠딩 에그(Standing Egg)	여름밤에 우린
+22	비와이(BewhY)	Forever (Prod. by GRAY)
+23	BLACKPINK	붐바야
+24	보이비 (Boi B)	호랑나비 (Feat. Gill, 리듬파워)
+25	다비치	그대를 잊는다는 건
+26	MINO (WINNER)	몸
+27	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+28	임창정	또 다시 사랑
+29	DEAN	D (half moon) (Feat. 개코)
+30	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+31	MOBB	빨리 전화해 (Feat. KUSH)
+32	EXO	Lotto
+33	김범수	사랑해요
+34	엠씨더맥스 (M.C The Max)	어디에도
+35	슈퍼비	냉탕에 상어 (Feat. 블랙넛)
+36	정승환	너였다면
+37	정준일	안아줘
+38	벤 (Ben)	안갯길 (Prod. By 진영(B1A4))
+39	환희	사랑이 아프다
+40	아이오아이 (I.O.I)	Whatta Man (Good man)
+41	비와이 (BewhY)	The Time Goes On
+42	정준영	공감 (Feat. 서영은)
+43	씨스타 (Sistar)	I Like That
+44	임창정	노래 한번 할게요
+45	로꼬, 펀치(Punch)	Say Yes
+46	백예린	Bye bye my blue
+47	샵건 (#Gun)	미친놈 (Feat. 제시)
+48	정은지	하늘바라기 (Feat. 하림)
+49	허각, 정은지(Apink)	바다
+50	벤 (Ben)	꿈처럼
+51	사이먼 도미닉 (Simon Dominic), GRAY, 원 (ONE)	맘 편히 (Comfortable)
+52	사이먼 도미닉 (Simon Dominic), 원(ONE), 지투(G2), BewhY	니가 알던 내가 아냐 (Prod. by GRAY)
+53	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+54	박경	자격지심 (Feat. 은하 of 여자친구)
+55	태연 (TAEYEON)	All With You
+56	백아연	쏘쏘
+57	가인	Carnival (The Last Day)
+58	임창정	이별 후
+59	양다일, 효린	그리워
+60	태연 (TAEYEON)	Why
+61	박보람	거짓말이라도 해줘요
+62	언니쓰	Shut Up (Feat. 유희열)
+63	10cm	스토커
+64	윤미래 (T)	잠깐만 Baby
+65	거미	You Are My Everything
+66	다비치	이 사랑
+67	씨잼(Cjamm)	아름다워 (Beautiful) (Feat. 지코 (ZICO))
+68	이적	걱정말아요 그대
+69	EXO	Monster
+70	볼빨간사춘기	나만 안되는 연애
+71	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+72	비스트 (Beast)	리본 (Ribbon)
+73	TWICE	OOH-AHH하게
+74	Justin Bieber	Love Yourself
+75	이하이	한숨
+76	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+77	지코 (ZICO)	너는 나 나는 너
+78	산들	마음을 삼킨다
+79	임창정	그 곳에 멈춰서
+80	Sam Smith	I`m Not The Only One
+81	박용인, 권순일	No Way
+82	kei (러블리즈) &amp; myunDo	Y (Feat. BUMZU)
+83	현아 (HyunA)	어때?
+84	박재범	Me like yuh (k) (Feat. Hoody)
+85	나다	Sticky (Prod. by San E) (Feat. San E)
+86	아이오아이 (I.O.I)	사랑해 기억해
+87	나다	Nothing (Prod. by 스윙스) (Feat. 스윙스)
+88	The Quiett, Superbee, myunDo, Flowsik, Dok2	공중도덕 (Air DoTheQ)
+89	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+90	MOBB	붐벼
+91	SG 워너비	사랑하자
+92	마마무 (Mamamoo)	넌 is 뭔들
+93	크러쉬 (CRUSH), 한상원	SKIP
+94	EXO	Lucky One
+95	임창정	화해
+96	레드벨벳(Red Velvet)	Lucky Girl
+97	자이언티(Zion.T)	쿵 (Knock)
+98	방탄소년단	불타오르네 (FIRE)
+99	육지담	No Thx (Prod. by DEAN) (Feat. 수란, DEAN...
+100	임창정	내 생에 가장 아름다운

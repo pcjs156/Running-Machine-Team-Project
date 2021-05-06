@@ -1,0 +1,101 @@
+./data/2018년 37주차 차트.txt
+1	선미	사이렌 (Siren)
+2	숀 (SHAUN)	Way Back Home
+3	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+4	방탄소년단	IDOL
+5	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+6	레드벨벳(Red Velvet)	Power Up
+7	펀치 (Punch)	헤어지는 중
+8	벤 (Ben)	열애중
+9	TWICE	Dance The Night Away
+10	소녀시대-Oh!GG	몰랐니 (Lil’ Touch)
+11	마마무 (Mamamoo)	너나 해 (Egotistic)
+12	(여자)아이들	한(一)
+13	10cm	매트리스
+14	지코 (ZICO)	SoulMate (Feat. 아이유)
+15	볼빨간사춘기	여행
+16	닐로 (Nilo)	지나오다
+17	에이핑크 (Apink)	1도 없어
+18	방탄소년단	I`m Fine
+19	BLACKPINK	Forever Young
+20	방탄소년단	FAKE LOVE
+21	승리	셋 셀테니 (1, 2, 3!)
+22	멜로망스(MeloMance)	동화
+23	김하온 (HAON)	NOAH (Feat. 박재범, Hoody)
+24	백현 (BAEKHYUN), 로꼬	YOUNG
+25	방탄소년단	Euphoria
+26	로꼬, 화사	주지마
+27	청하	Love U
+28	iKON	죽겠다 (KILLING ME)
+29	iKON	사랑을 했다 (LOVE SCENARIO)
+30	비투비 (BTOB)	너 없인 안 된다
+31	양다일	미안해
+32	폴킴	비
+33	장덕철	그날처럼
+34	로이킴	그때 헤어지면 돼
+35	멜로망스(MeloMance)	You
+36	먼데이 키즈 (Monday Kiz)	가을 안부
+37	Camila Cabello	Havana (Feat. Young Thug)
+38	Fitz &amp; The Tantrums	HandClap
+39	정승환	잘 지내요
+40	아이유 (IU)	밤편지
+41	멜로망스(Melomance)	선물
+42	방탄소년단	전하지 못한 진심 (Feat. Steve Aoki)
+43	여자친구 (GFRIEND)	밤 (Time for the moon night)
+44	닐로 (Nilo)	넋두리
+45	로이킴	왜 몰랐을까
+46	이수	My Way
+47	모모랜드 (MOMOLAND)	BAAM
+48	방탄소년단	봄날
+49	방탄소년단	Answer _ Love Myself
+50	방탄소년단	DNA
+51	Ed Sheeran	Shape of You
+52	모모랜드 (MOMOLAND)	뿜뿜
+53	마마무 (Mamamoo)	별이 빛나는 밤
+54	TWICE	What is Love?
+55	청하	Roller Coaster
+56	용준형	소나기 (Feat. 10cm)
+57	(여자)아이들	LATATA
+58	방탄소년단	Epiphany
+59	기리보이, Kid Milli, NO:EL, 스윙스 (Swings)	flex (Prod. By 기리보이)
+60	김하온 (HAON)	붕붕 (Feat. Sik-K) (Prod. GroovyRoom)
+61	멜로망스(MeloMance)	좋은 날
+62	여자친구 (GFRIEND)	여름여름해 (Sunny Summer)
+63	Imagine Dragons	Thunder
+64	방탄소년단	Trivia 轉 _ Seesaw
+65	비투비 (BTOB)	그리워하다
+66	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+67	AOA	빙글뱅글 (Bingle Bangle)
+68	Troye Sivan	Youth
+69	길구봉구	이 별
+70	방탄소년단	Anpanman
+71	세븐틴	A-TEEN
+72	빅뱅	꽃 길
+73	오마이걸 (OH MY GIRL)	불꽃놀이 (Remember Me)
+74	방탄소년단	Trivia 起 _ Just Dance
+75	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+76	국.슈 (국프의 핫이슈)	Rumor
+77	Wanna One (워너원)	에너제틱 (Energetic)
+78	Sia	Chandelier
+79	방탄소년단	Trivia 承 _ Love
+80	BLACKPINK	마지막처럼
+81	박재범	V
+82	EXO	Universe
+83	김동률	노래
+84	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+85	윤종신	좋니
+86	방탄소년단	Airplane pt.2
+87	마마무 (Mamamoo)	장마
+88	세븐틴	어쩌나
+89	Wanna One (워너원)	켜줘 (Light)
+90	스탠딩 에그(Standing Egg)	사랑에 아파본 적 있나요
+91	뉴이스트 W	Dejavu
+92	Wanna One (워너원) - 트리플포지션	캥거루 (Kangaroo) (Prod. ZICO)
+93	펀치 (Punch)	밤이 되니까
+94	다비치	마치 우린 없었던 사이 (Prod. 정키)
+95	Wanna One (워너원)	Beautiful
+96	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+97	김원주, 벤	첫날밤
+98	Wanna One (워너원)	BOOMERANG (부메랑)
+99	EXO-CBX (첸백시)	花요일 (Blooming Day)
+100	오반 (OVAN)	스무살이 왜이리 능글맞아 (Feat. 숀 (SHAUN))

@@ -1,0 +1,101 @@
+./data/2016년 27주차 차트.txt
+1	사이먼 도미닉 (Simon Dominic), GRAY, 원 (ONE)	맘 편히 (Comfortable)
+2	사이먼 도미닉 (Simon Dominic), 원(ONE), 지투(G2), BewhY	니가 알던 내가 아냐 (Prod. by GRAY)
+3	씨스타 (Sistar)	I Like That
+4	자이언티(Zion.T)	쿵 (Knock)
+5	TWICE	CHEER UP
+6	매드 클라운 (Mad Clown), 샵건 (#Gun)	비행소년 (Going Home)
+7	The Quiett, Superbee, myunDo, Flowsik, Dok2	공중도덕 (Air DoTheQ)
+8	태연 (TAEYEON)	Starlight (Feat. DEAN)
+9	자이언티(Zion.T), 씨잼(Cjamm), 레디(Reddy), 서출구	신사 ($insa)
+10	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+11	백예린	Bye bye my blue
+12	백아연	쏘쏘
+13	비스트 (Beast)	Butterfly
+14	산이(San E), 레이나	달고나
+15	언니쓰	Shut Up (Feat. 유희열)
+16	KUSH, 자이언티(Zion.T)	Machine Gun (Feat. MINO)
+17	태연 (TAEYEON)	Why
+18	EXO	Monster
+19	벤 (Ben)	꿈처럼
+20	로꼬, GRAY (그레이)	GOOD (Feat. ELO)
+21	박경	자격지심 (Feat. 은하 of 여자친구)
+22	정은지	하늘바라기 (Feat. 하림)
+23	DEAN	D (half moon) (Feat. 개코)
+24	서현진, 유승우	사랑이 뭔데
+25	정승환	너였다면
+26	EXID	L.I.E
+27	엠씨더맥스 (M.C The Max)	어디에도
+28	매드 클라운 (Mad Clown), 도넛맨 (Donutman), 보이비 (Boi B), 샵건 (#Gun)	무궁화
+29	보아(BoA), 빈지노(Beenzino)	No Matter What
+30	비와이 (BewhY)	The Time Goes On
+31	AOA	Good Luck
+32	악동뮤지션 (AKMU)	RE-BYE
+33	EXO	Lucky One
+34	다비치	이 사랑
+35	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경)
+36	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+37	거미	You Are My Everything
+38	도끼 (Dok2)	1llusion
+39	10cm	봄이 좋냐??
+40	비와이(BewhY)	Forever (Prod. by GRAY)
+41	TWICE	OOH-AHH하게
+42	지코 (ZICO)	너는 나 나는 너
+43	이적	걱정말아요 그대
+44	케이윌 (K.Will)	말해! 뭐해?
+45	로이킴	어쩌면 나
+46	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+47	정준일	안아줘
+48	마마무 (Mamamoo)	넌 is 뭔들
+49	크러쉬 (CRUSH)	우아해 (woo ah)
+50	블락비 (Block B)	Toy
+51	수지	Ring My Bell
+52	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+53	SG 워너비	사랑하자
+54	10cm	니가 참 좋아
+55	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+56	아이오아이 (I.O.I)	Dream Girls
+57	윤미래 (T)	ALWAYS
+58	검정치마 (The Black Skirts)	기다린 만큼, 더
+59	악동뮤지션 (AKMU)	사람들이 움직이는 게
+60	이하이	한숨
+61	iKON	오늘 모해 (#WYD)
+62	태연 (TAEYEON)	Rain
+63	정키 (Jung Key)	바라지 않아 (feat.소정 of 레이디스 코드)
+64	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+65	10cm	스토커
+66	임창정	또 다시 사랑
+67	스탠딩 에그(Standing Egg)	뚝뚝뚝 (with 예슬)
+68	매드 클라운 (Mad Clown), 김나영	다시 너를
+69	EXO	Heaven
+70	방탄소년단	불타오르네 (FIRE)
+71	태연 (TAEYEON)	제주도의 푸른 밤
+72	Justin Bieber	Love Yourself
+73	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+74	GRAY (그레이)	하기나 해 (Feat. Loco)
+75	헤이즈 (Heize)	Shut Up & Groove (Feat. DEAN)
+76	첸(CHEN), 펀치 (Punch)	Everytime
+77	다비치	여자이니까
+78	우리 동네 음악대장	매일 매일 기다려 (우리동네 음악대장)
+79	Sam Smith	I`m Not The Only One
+80	키썸 (Kisum)	맥주 두 잔
+81	소녀온탑	같은 곳에서
+82	보이비 (Boi B)	호랑나비 (Feat. Gill, 리듬파워)
+83	엠씨더맥스 (M.C The Max)	그대, 바람이 되어
+84	빈지노 (Beenzino)	토요일의 끝에서 (Feat. Blacknut)
+85	지코 (ZICO)	유레카 (Feat. Zion.T)
+86	DEAN	21
+87	베이빌론 (Babylon)	처음 본 여자는 다 예뻐 (Feat. 릴보이)
+88	씨잼(Cjamm) &amp; 레디(Reddy)	현상수배 (Wanted)
+89	아이오아이 (I.O.I)	벚꽃이 지면
+90	백예린	그의 바다
+91	XIA(준수)	How Can I Love You
+92	구구단 (gugudan)	Wonderland
+93	EXO	Artificial Love
+94	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+95	PRODUCE 101	PICK ME
+96	키썸 (Kisum)	No Jam
+97	로꼬 (LOCO)	너도 (Feat. Cha Cha Malone)
+98	EXO	백색소음(White Noise)
+99	장기하와 얼굴들	ㅋ
+100	하현우	아주 오래된 연인들 (우리 동네 음악대장)

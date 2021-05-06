@@ -1,0 +1,101 @@
+./data/2012년 20주차 차트.txt
+1	씨스타 (Sistar)	나혼자 (Alone)
+2	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+3	백지영	목소리 (Feat. 개리)
+4	아이유 (IU)	복숭아
+5	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+6	박진영	너뿐이야 (You`re The One)
+7	포미닛 (4minute)	Volume Up
+8	버스커 버스커 (Busker Busker)	첫사랑
+9	박진영	다른 사람 품에 안겨서 (Someone else) Duet with ...
+10	버스커 버스커 (Busker Busker)	여수 밤바다
+11	디셈버 (December)	She`s Gone
+12	빅뱅	Fantastic Baby
+13	허각	나를 사랑했던 사람아
+14	아이비 (Ivy)	찢긴 가슴
+15	버스커 버스커 (Busker Busker)	꽃송이가
+16	노을	떠나간다
+17	Maroon 5	Payphone (Feat. Wiz Khalifa)
+18	가비엔제이 (Gavy NJ)	연락하지마 (Feat. LE of EXID)
+19	태연 (TAEYEON)	미치게 보고싶은
+20	울랄라세션	아름다운 밤
+21	배치기	두 마리
+22	양파, 다비치, HANNA	사랑은 다 그런거래요
+23	버스커 버스커 (Busker Busker)	외로움 증폭장치 (브래드 드럼 한판 쉬기)
+24	버스커 버스커 (Busker Busker)	이상형
+25	에일리 (Ailee)	Heaven
+26	걸스데이 (Girl`s Day)	Oh! My God
+27	아이유 (IU)	하루 끝
+28	양파, 이보람 (씨야), 소연 (티아라)	알아요
+29	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+30	2AM	너도 나처럼
+31	써니힐 (SunnyHill)	백마는 오고 있는가
+32	인피니트 (Infinite)	눈물만
+33	샤이니 (SHINee)	Sherlock.셜록 (Clue + Note)
+34	버스커 버스커 (Busker Busker)	전활 거네
+35	씨엔블루 (CNBLUE)	Hey You
+36	빅뱅	Blue
+37	에이핑크 (Apink)	Hush
+38	일렉트로보이즈 (Electroboyz)	웃을까 울을까 (Feat. 백지영)
+39	알렉스 &amp; 호란	어쩌면 어쩌면
+40	노라조	여자사람
+41	마이티 마우스 (Mighty Mouth)	나쁜놈 (Feat. 소야)
+42	린 (LYn)	곰인형 (Feat. 해금)
+43	블락비 (Block B)	눈감아줄께
+44	버스커 버스커 (Busker Busker)	골목길 어귀에서
+45	백지영	한참 지나서
+46	양요섭, 정은지	Love Day
+47	이하이	시간이 흐른뒤 (윤미래)
+48	빅뱅	BAD BOY
+49	서인국	밀고 당겨줘 (Tease Me)
+50	넬 (Nell)	그리고, 남겨진 것들
+51	버스커 버스커 (Busker Busker)	향수
+52	손승연	안녕
+53	miss A	Touch
+54	신화	Venus
+55	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+56	싸이 (Psy)	아버지 (at 썸머스탠드)
+57	케이윌 (K.Will)	사랑이 운다
+58	소녀시대-태티서(Girls` Generation-TTS)	Baby Steps
+59	김수현	그대 한 사람
+60	버블 시스터즈 (Bubble Sisters)	아프지않게
+61	용감한 녀석들	기다려 그리고 준비해
+62	이은미	너는 아름답다
+63	헬로비너스 (HELLOVENUS)	Venus
+64	이수영	인연
+65	이수영	우리 둘만 아는 길
+66	존 박	Falling
+67	백청강	그리워져 (Feat. 이희성)
+68	Adele	Rolling In The Deep
+69	티아라 (T-ara)	Lovey-Dovey
+70	박지민	Over The Rainbow
+71	백아연	보고싶다 (김범수)
+72	손승연	물들어
+73	버스커 버스커 (Busker Busker)	봄바람
+74	수펄스	Fame
+75	케이윌 (K.Will)	니가 필요해 (I Need You)
+76	아이유 (IU)	너랑 나
+77	씨스타 (Sistar)	Lead Me
+78	다비치	생각날거야
+79	소녀시대-태티서(Girls` Generation-TTS)	OMG (Oh My God)
+80	이승철	잊었니
+81	B.A.P	POWER
+82	박지민	Music Is My Life (임정희)
+83	트러블메이커 (Trouble Maker)	Trouble Maker
+84	옥상달빛	선물할게
+85	빅뱅	사랑먼지
+86	손승연	비와 당신의 이야기
+87	버스커 버스커 (Busker Busker)	골목길
+88	이영현	사랑은 이렇게
+89	씨엔블루 (CNBLUE)	아직 사랑한다
+90	LMFAO, Steve Aoki	Livin` My Love
+91	이하이	Killing Me Softly With His Song (The F...
+92	블락비 (Block B)	난리나
+93	울랄라세션	울랄라
+94	XIA(준수)	사랑이 싫다구요
+95	10cm	애상
+96	린 (LYn)	시간을 거슬러
+97	박정현	도착
+98	이하이	Love (키샤콜)
+99	정인	미워요
+100	Pixie Lott	Dancing On My Own

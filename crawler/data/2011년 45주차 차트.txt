@@ -1,0 +1,101 @@
+./data/2011년 45주차 차트.txt
+1	소녀시대	The Boys
+2	시크릿 (Secret)	사랑은 Move
+3	타블로	나쁘다 (Feat. 진실)
+4	이승기	연애시대 (Feat. Ra.D / Nar. 한효주)
+5	투개월	여우야
+6	버스커 버스커 (Busker Busker)	동경소녀
+7	타블로 (에픽하이)	Airbag (Feat. 나얼)
+8	허각	Hello
+9	노을	그리워 그리워
+10	울랄라세션	달의 몰락
+11	오렌지 캬라멜 (Orange Caramel)	샹하이 로맨스 (上海之戀)
+12	브라운 아이드 걸스	Sixth Sense
+13	울랄라세션	Open Arms (Journey) (Feat. 크리스티나)
+14	투개월	Brown City
+15	버스커 버스커 (Busker Busker)	정류장
+16	울랄라세션	미인
+17	다비치	안녕이라고 말하지마
+18	휘성	놈들이 온다
+19	소녀시대	Mr.Taxi (Korean Ver.)
+20	투개월	Poker Face (Lady GaGa)
+21	김경호	사랑과 우정 사이 (피노키오) (with 김연우)
+22	효린	내겐 너니까
+23	백지영	여기가 아파
+24	다비치	사랑 사랑아
+25	지아 (Zia)	내가 이렇지 (Feat. 하동균)
+26	카라 (KARA)	STEP
+27	리쌍	TV를 껐네...  (Feat. 윤미래, 권정열)
+28	인피니트 (Infinite)	파라다이스 (Paradise)
+29	버스커 버스커 (Busker Busker)	어쩌다 마주친 그대
+30	씨스타 (Sistar)	So Cool (쏘쿨)
+31	윤미래 (T)	Get It In (Feat. Tiger JK & 정인) (Korea...
+32	크리스티나	Lonely
+33	이승기	친구잖아
+34	김현중	Lucky Guy
+35	Simon D. (사이먼 디)	짠해 (Cheerz)
+36	이해리	사랑하는 사람아
+37	성시경	난 좋아
+38	타블로	집 (Feat. 이소라)
+39	리쌍	회상 (Feat. 백지영)
+40	임재범	Desperado (eagles)
+41	투개월	달팽이
+42	프리스타일 (Free Style)	안부
+43	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+44	FTISLAND (FT 아일랜드)	새들처럼
+45	브라운 아이드 걸스	Hot Shot
+46	2NE1 (투애니 원)	Ugly
+47	정엽	눈물나
+48	지나(G.NA)	Top Girl
+49	이영현	사랑이라 쓰고 아픔이라 부른다
+50	알리 (ALi)	뭐 이런 게 다 있어
+51	울랄라세션	나쁜 남자
+52	리쌍	나란 놈은 답은 너다 (Feat. 하림)
+53	티아라 (T-ara)	Roly-Poly
+54	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+55	김건모	어제보다 슬픈 오늘
+56	소녀시대	텔레파시 (Telepathy)
+57	지아 (Zia)	그대이길 바래요 (With 케이윌)
+58	김범수	끝사랑
+59	소녀시대	Trick
+60	타블로	밑바닥에서 (Feat. Bumkey)
+61	클로버 (Clover)	아는 오빠
+62	JYJ	Get Out
+63	2보람	2Love
+64	하동균, 이정	기다릴게
+65	소녀시대	봄날 (How Great Is Your Love)
+66	엠스트리트 (M. Street)	사랑했다..사랑한다
+67	김완선, 용준형	Be Quiet
+68	버스커 버스커 (Busker Busker)	Livin`La Vida Loca (Ricky Martin)
+69	브라운 아이드 소울 (Brown Eyed Soul)	Brown City
+70	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+71	디셈버, 제이세라	가슴으로 운다 (Feat. 아이린, 윤미)
+72	SG 워너비	사랑법
+73	miss A	Good-bye Baby
+74	소녀시대	Say Yes
+75	Kelly Clarkson	I Forgive You
+76	소녀시대	비타민 (Vitamin)
+77	소녀시대	Top Secret
+78	윤민수	체념 (빅마마) (with 이영현)
+79	제이제이 (JJ)	바본가봐 Part 2 (Feat. 마이티마우스)
+80	이정아	Desperado (Eagles)
+81	JYJ	In Heaven (Narr. 김정은)
+82	서영은	그저 너 하나
+83	인피니트 (Infinite)	내꺼하자
+84	타블로	밀물 (Scratch by DJ Friz)
+85	유브이 (UV)	Who Am I (Feat. 유희열, 정재형)
+86	유브이 (UV)	문나이트 (Feat. D.O)
+87	슈퍼주니어 (Super Junior)	Mr. Simple
+88	노을	말하지 않아도
+89	YB (윤도현 밴드)	꿈을 뺏고 있는 범인을 찾아라
+90	김경호	암연 (고한우)
+91	슈퍼주니어 (Super Junior)	A-Cha
+92	소녀시대	My J
+93	비스트 (Beast)	비가 오는 날엔
+94	먼데이 키즈 (Monday Kiz)	다음 사람에게는
+95	포맨 (4Men)	살다가 한번쯤
+96	2NE1 (투애니 원)	내가 제일 잘 나가
+97	소녀시대	Lazy Girl (Dolce Far Niente)
+98	나윤권, 잔디	..더라면
+99	소녀시대	Oscar
+100	김경호	못찾겠다 꾀꼬리 (조용필)

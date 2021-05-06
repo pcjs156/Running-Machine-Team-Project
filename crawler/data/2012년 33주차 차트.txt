@@ -1,0 +1,101 @@
+./data/2012년 33주차 차트.txt
+1	싸이 (Psy)	강남스타일
+2	씨스타 (Sistar)	Loving U (러빙유)
+3	보아 (BoA)	Only One
+4	2NE1 (투애니 원)	I Love You
+5	다비치	남자도 우나요
+6	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+7	이종현(CNBLUE)	내 사랑아
+8	비스트 (Beast)	Midnight (별 헤는 밤)
+9	비스트 (Beast)	아름다운 밤이야
+10	티아라 (T-ara)	Day By Day
+11	주니엘 (Juniel)	illa illa (일라 일라)
+12	싸이 (Psy)	어땠을까 (Feat. 박정현)
+13	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+14	이현 (에이트)	가슴이 시린 게
+15	신용재	자꾸만 자꾸만
+16	브라운 아이드 걸스	한여름밤의 꿈
+17	틴 탑 (Teen Top)	나랑 사귈래?
+18	버벌진트 (Verbal Jint)	충분히 예뻐
+19	용감한 녀석들	봄 여름 여름 여름
+20	아이유 (IU), 피에스타(FIESTAR)	달빛바다
+21	허각	한사람
+22	f(x)	Electric Shock
+23	싸이 (Psy)	청개구리 (Feat. G-Dragon)
+24	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+25	싸이 (Psy)	77학개론 (Feat. 리쌍, 김진표)
+26	빅뱅	Monster
+27	원더걸스 (Wonder Girls)	Like this
+28	스컬 (Skull), 하하	부산 바캉스
+29	슈퍼주니어 (Super Junior)	SPY
+30	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+31	포맨 (4Men)	안되겠더라
+32	가인, 라디 (Ra. D)	Take Out
+33	버벌진트 (Verbal Jint)	약한 사람 (Feat. 허인창)
+34	처진 달팽이	방구석 날라리
+35	제국의아이들 (ZE:A)	후유증
+36	김진표 (JP)	미안해서 미안해
+37	씨스타 (Sistar)	나혼자 (Alone)
+38	길미	내가 먼저
+39	아이유 (IU)	하루 끝
+40	애프터스쿨(After School)	Flashback
+41	Maroon 5	One More Night
+42	슈퍼주니어 (Super Junior)	Sexy, Free & Single
+43	김태우	High High
+44	싸이 (Psy)	Never Say Goodbye (Feat. 윤도현)
+45	디셈버 (December)	Unfinished
+46	형돈이와 대준이	안좋을때 들으면 더 안좋은 노래
+47	버스커 버스커 (Busker Busker)	소나기 (주르르루)
+48	비스트 (Beast)	내가 아니야
+49	투빅 (2BiC)	Love Again (feat.에일리)
+50	김민종	아름다운 아픔 (2012 New Ver.)
+51	울랄라세션	굿바이데이
+52	지나(G.NA)	2HOT
+53	수지	그래도 사랑해
+54	장재인	여름밤
+55	비스트 (Beast)	니가 보고 싶어지면
+56	이루	미워요 (Feat. 용준형 Of 비스트)
+57	틴 탑 (Teen Top)	To You
+58	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+59	백지영	목소리 (Feat. 개리)
+60	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+61	빅뱅	STILL ALIVE
+62	인피니트 (Infinite)	추격자
+63	울랄라세션	아름다운 밤
+64	숙희	Baby I Love You
+65	버스커 버스커 (Busker Busker)	네온사인
+66	B.A.P	NO MERCY
+67	장우영 (2PM)	Sexy Lady
+68	에이핑크 (Apink)	BUBIBU (Remix Ver.)
+69	공유	너라서 (Special Track)
+70	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+71	비원에이포 (B1A4)	잘자요 굿나잇
+72	양파	사랑...어떡하나요
+73	노을	사랑이라면
+74	Maroon 5	Payphone (Feat. Wiz Khalifa)
+75	디셈버 (December)	She`s Gone
+76	신용재	가수가 된 이유
+77	버스커 버스커 (Busker Busker)	여수 밤바다
+78	소향	하늘을 달리다 (원곡가수 이적)
+79	씨엔블루 (CNBLUE)	Friday (T.G.I.Friday`s Brand Song)
+80	백지영	Good Boy (Feat. 용준형 of 비스트)
+81	허각	나를 사랑했던 사람아
+82	다비치	너라서
+83	마이티 마우스 (Mighty Mouth)	나쁜놈 (Feat. 소야)
+84	마리오 (Mario)	Mayday (Feat. 김창렬)
+85	버스커 버스커 (Busker Busker)	첫사랑
+86	원더걸스 (Wonder Girls)	Like Money
+87	가비엔제이(Gavy NJ), 포스트맨 (Postmen)	청소
+88	Dal★Shabet (달샤벳)	Mr. BangBang
+89	프라이머리 (Primary)	입장정리 (Feat. 최자, Simon D)
+90	비스트 (Beast)	미운사람
+91	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+92	C-CLOWN(씨클라운)	SOLO
+93	팬텀(Phantom)	미역국
+94	장동건	나보다 더
+95	장재인	Rainy Day
+96	디유닛 (D-Unit)	Im Missin` You
+97	10cm	어느 날
+98	용감한 녀석들	I 돈 Care (Feat. 서수민PD)
+99	빅뱅	Fantastic Baby
+100	에일리 (Ailee)	3! 4!

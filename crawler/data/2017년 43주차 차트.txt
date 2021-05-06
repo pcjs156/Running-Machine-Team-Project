@@ -1,0 +1,101 @@
+./data/2017년 43주차 차트.txt
+1	에픽하이 (EPIK HIGH)	연애소설 (Feat. 아이유)
+2	멜로망스(Melomance)	선물
+3	에픽하이 (EPIK HIGH)	빈차 (Feat. 오혁)
+4	볼빨간사춘기	썸 탈꺼야
+5	윤종신	좋니
+6	비투비 (BTOB)	그리워하다
+7	에픽하이 (EPIK HIGH)	노땡큐 (Feat. MINO, 사이먼 도미닉, 더콰이엇)
+8	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+9	볼빨간사춘기	나의 사춘기에게
+10	아이유 (IU)	가을 아침
+11	선미	가시나
+12	볼빨간사춘기	Blue
+13	임창정	그 사람을 아나요
+14	박원	all of my life
+15	방탄소년단	DNA
+16	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+17	에픽하이 (EPIK HIGH)	상실의 순기능 (Feat. 수현)
+18	아이유 (IU)	밤편지
+19	아이유 (IU)	잠 못 드는 밤 비는 내리고
+20	김나영	헤어질 수 밖에
+21	Ed Sheeran	Shape of You
+22	포맨 (4Men)	눈 떠보니 이별이더라
+23	황치열	매일 듣는 노래 (A Daily Song)
+24	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+25	에픽하이 (EPIK HIGH)	HERE COME THE REGRETS (Feat. 이하이)
+26	BLACKPINK	마지막처럼
+27	Wanna One (워너원)	에너제틱 (Energetic)
+28	뉴이스트 W	WHERE YOU AT
+29	볼빨간 사춘기, 스무살	남이 될 수 있을까
+30	에픽하이 (EPIK HIGH)	문배동 단골집 (Feat. 크러쉬)
+31	버즈 (Buzz)	사랑하지 않은 것처럼
+32	다비치	나에게 넌
+33	윤종신	너를 찾아서
+34	헤이즈 (Heize)	널 너무 모르고
+35	볼빨간사춘기	고쳐주세요
+36	하이라이트(Highlight)	어쩔 수 없지 뭐
+37	에픽하이 (EPIK HIGH)	난 사람이 제일 무서워
+38	볼빨간사춘기	상상
+39	길구봉구	이 별
+40	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+41	방탄소년단	봄날
+42	에픽하이 (EPIK HIGH)	개화(開花) (Feat. 김종완 of 넬)
+43	볼빨간사춘기	처음부터 너와 나
+44	에릭남, 치즈 (CHEEZE)	Perhaps Love (사랑인가요) (Prod. by 박근태)
+45	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+46	방탄소년단	고민보다 Go
+47	아이유 (IU)	비밀의 화원
+48	지코 (ZICO)	Artist
+49	현아 (HyunA)	베베 (BABE)
+50	멜로망스(MeloMance)	짙어져
+51	넉살, 한해, 조우찬, 라이노	N분의 1 (Feat. 다이나믹듀오)
+52	에픽하이 (EPIK HIGH)	어른 즈음에
+53	GRAY (그레이)	잘 (I`m fine) (With 슬리피, 로꼬, 후디)
+54	뉴이스트 W	있다면
+55	에픽하이 (EPIK HIGH)	BLEED
+56	G-Dragon	무제(無題) (Untitled, 2014)
+57	10cm	폰서트
+58	행주, 양홍원 (Young B), Hash Swan, 킬라그램(Killagramz)	요즘것들 (Feat. ZICO & DEAN)
+59	뉴이스트 (NU`EST)	여보세요
+60	펀치 (Punch)	밤이 되니까
+61	EXO	Ko Ko Bop
+62	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+63	다비치	오늘도 그리워 그리워
+64	행주	Red Sun (Feat. ZICO, Swings)
+65	볼빨간사춘기	나만 안되는 연애
+66	WINNER	REALLY REALLY
+67	볼빨간사춘기	좋다고 말해
+68	엠씨더맥스 (M.C The Max)	어디에도
+69	구윤회	Marry Me
+70	수지	I Love You Boy
+71	방탄소년단	Best Of Me
+72	휘인	그림자
+73	뉴이스트 W	하루만
+74	The Chainsmokers	Closer (Feat. Halsey)
+75	청하	Why Don`t You Know (Feat. 넉살)
+76	볼빨간사춘기	우주를 줄게
+77	케이윌 (K.Will)	실화
+78	정승환	너였다면
+79	악동뮤지션 (AKMU)	DINOSAUR
+80	아이유 (IU)	사랑이 잘 (With 오혁)
+81	EXO	Power
+82	길구봉구	바람이 불었으면 좋겠어
+83	방탄소년단	MIC Drop
+84	먼데이 키즈 (Monday Kiz)	가을 안부
+85	아이유 (IU)	어젯밤 이야기
+86	방탄소년단	피 땀 눈물
+87	스탠딩 에그(Standing Egg)	바보야 (With 이해리 of 다비치)
+88	The Chainsmokers, Coldplay	Something Just Like This
+89	태민 (TAEMIN)	MOVE
+90	BLACKPINK	불장난
+91	여자친구 (GFRIEND)	귀를 기울이면 (LOVE WHISPER)
+92	아이유 (IU)	매일 그대와
+93	박진영	후회해 (Duet. 헤이즈)
+94	젝스키스	특별해
+95	에픽하이 (EPIK HIGH)	TAPE 2002年 7月 28日
+96	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+97	Justin Bieber	Love Yourself
+98	Wanna One (워너원)	활활 (Burn It Up)
+99	DEAN	D (half moon) (Feat. 개코)
+100	방탄소년단	보조개

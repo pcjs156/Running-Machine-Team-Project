@@ -1,0 +1,201 @@
+./data/2019년 39주차 차트.txt
+1	장범준	흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야
+2	볼빨간사춘기	워커홀릭
+3	악동뮤지션 (AKMU)	어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+4	폴킴	안녕
+5	펀치 (Punch)	가끔 이러다
+6	마크툽 (Maktub)	오늘도 빛나는 너에게 (To You My Light) (Feat.이라...
+7	케이시 (Kassy)	가을밤 떠난 너
+8	HYNN(박혜원)	시든 꽃에 물을 주듯
+9	임재현	조금 취했어 (Prod. 2soo)
+10	거미	기억해줘요 내 모든 날과 그때를
+11	휘인	헤어지자 (Prod. 정키)
+12	송하예	니 소식
+13	황인욱	포장마차
+14	태연 (TAEYEON)	그대라는 시
+15	TWICE	Feel Special
+16	전상근	사랑이란 멜로는 없어
+17	장혜진, 윤민수	술이 문제야
+18	Anne-Marie	2002
+19	임재현	사랑에 연습이 있었다면 (Prod. 2soo)
+20	펀치 (Punch)	Done For Me
+21	먼데이 키즈 (Monday Kiz)	사랑이 식었다고 말해도 돼
+22	벤 (Ben)	내 목소리 들리니
+23	Shawn Mendes, Camila Cabello	Senorita
+24	벤 (Ben)	헤어져줘서 고마워
+25	선미	날라리 (LALALAY)
+26	10cm	나의 어깨에 기대어요
+27	Billie Eilish	bad guy
+28	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+29	악동뮤지션 (AKMU)	달
+30	헤이즈 (Heize)	내 맘을 볼 수 있나요
+31	방탄소년단	작은 것들을 위한 시 (Boy With Luv) (Feat. Hals...
+32	크러쉬 (CRUSH)	나빠(NAPPA)
+33	이해리	나만 아픈 일
+34	ITZY (있지)	ICY
+35	김나영	솔직하게 말해서 나
+36	닐로 (Nilo)	벗
+37	창모, Hash Swan, ASH ISLAND, 김효은	BAND
+38	Naomi Scott	Speechless (Full)
+39	폴킴	너를 만나
+40	다비치	너에게 못했던 내 마지막 말은
+41	케이시 (Kassy)	그때가 좋았어
+42	V.O.S	다시 만날까 봐
+43	태연 (TAEYEON)	사계 (Four Seasons)
+44	악동뮤지션 (AKMU)	뱃노래
+45	멜로망스(MeloMance)	인사
+46	먼데이 키즈 (Monday Kiz), 펀치 (Punch)	Another Day
+47	볼빨간사춘기	XX
+48	장범준	노래방에서
+49	청하	Snapping
+50	레드벨벳(Red Velvet)	음파음파 (Umpah Umpah)
+51	볼빨간사춘기	25
+52	악동뮤지션 (AKMU)	FREEDOM
+53	악동뮤지션 (AKMU)	물 만난 물고기
+54	이우	내 안부
+55	Lauv	Paris In The Rain
+56	스윙스(Swings), Kid Milli, 매드 클라운	담아 (Feat. 염따, pH-1) (Prod. BOYCOLD)
+57	TWICE	FANCY
+58	잔나비	주저하는 연인들을 위해
+59	악동뮤지션 (AKMU)	밤 끝없는 밤
+60	X1 (엑스원)	FLASH
+61	비와이(BewhY)	가라사대
+62	ITZY (있지)	달라달라
+63	폴킴	비
+64	청하	그 끝에 그대
+65	기리보이(Giriboy)	아퍼 (Feat. Kid Milli, Lil tachi, 김승민, N...
+66	헤이즈 (Heize)	We don`t talk together (Feat. 기리보이) (P...
+67	윤하	비가 내리는 날에는
+68	악동뮤지션 (AKMU)	더 사랑해줄걸
+69	악동뮤지션 (AKMU)	고래
+70	엠씨더맥스 (M.C The Max)	사계 (하루살이)
+71	첸 (CHEN)	사월이 지나면 우리 헤어져요 (Beautiful goodbye)
+72	Imagine Dragons	Believer
+73	박효신	Goodbye
+74	볼빨간사춘기	나만, 봄
+75	디오 (D.O.)	괜찮아도 괜찮아 (That`s okay)
+76	숀 (SHAUN)	Way Back Home
+77	엔플라잉 (N.Flying)	옥탑방
+78	악동뮤지션 (AKMU)	작별 인사
+79	오마이걸 (OH MY GIRL)	Destiny (나의 지구)
+80	악동뮤지션 (AKMU)	시간을 갖자
+81	송하예	Say Goodbye
+82	에이치코드 (H:CODE)	꿈속에 너 (Feat. 전상근)
+83	핑클	남아있는 노래처럼
+84	볼빨간사춘기	Taste
+85	서동현	문제 (Feat. 쿠기 (Coogie))
+86	청하	벌써 12시
+87	방탄소년단	봄날
+88	권진아	시계 바늘
+89	엠씨더맥스 (M.C The Max)	넘쳐흘러
+90	윤비(YunB), 영비(Young B)	트루먼 쇼
+91	Woodie Gochild, 최엘비 (CHOILB), BIG Naughty (서동현), 영비, Chillin Homie	바다 (Feat. 기리보이) (Prod. 기리보이)
+92	방탄소년단	IDOL
+93	볼빨간사춘기	낮 (Day off)
+94	양다일	너만 너만 너만
+95	Jeremy Zucker	comethru
+96	세븐틴	독 _ Fear
+97	X1 (엑스원)	웃을 때 제일 예뻐
+98	영비	Sold Out (Feat. 빈첸) (Prod. Doplamingo,...
+99	오마이걸 (OH MY GIRL)	BUNGEE (Fall in Love)
+100	Mena Massoud, Naomi Scott	A Whole New World
+101	BLACKPINK	Kill This Love
+102	아이유 (IU)	밤편지
+103	임한별	이별하러 가는 길
+104	Ed Sheeran, Justin Bieber	I Don`t Care
+105	하은 (라코스테남)	비오는 날 뭐해
+106	우디(Woody)	대충 입고 나와
+107	EXO	Love Shot
+108	CHANGMO, Hash Swan, ASH ISLAND, 김효은, Leellamarz &amp; The Quiett	비워 (Beer) (Prod. Way Ched)
+109	어반 자카파 (Urban Zakapa)	서울 밤 (Feat. 빈지노)
+110	폴킴	초록빛
+111	X1 (엑스원)	U GOT IT (X1 Ver.)
+112	바이브 (Vibe)	가을 타나 봐
+113	닐로 (Nilo)	지나오다
+114	염따 (YumDDa)	돈 Call Me (Prod. BRLLNT)
+115	홍진영	오늘 밤에
+116	벤 (Ben)	180도
+117	X1 (엑스원)	움직여 (MOVE) (Prod. by ZICO) (X1 Ver.)
+118	방탄소년단	소우주 (Mikrokosmos)
+119	볼빨간사춘기	별 보러 갈래?
+120	볼빨간사춘기	여행
+121	10cm	방에 모기가 있어 (Do You Think Of Me?)
+122	Ed Sheeran	Shape of You
+123	태용 (TAEYONG), 펀치 (Punch)	러브 델루나
+124	TWICE	Dance The Night Away
+125	X1 (엑스원)	괜찮아요
+126	백현 (BAEKHYUN)	UN Village
+127	AOA	너나 해 (Egotistic)
+128	케이시 (Kassy)	진심이 담긴 노래 (True Song)
+129	장범준	당신과는 천천히
+130	Marshmello, Anne-Marie	FRIENDS
+131	아이유 (IU)	삐삐
+132	정효빈	달라진 니 마음
+133	Troye Sivan	Youth
+134	Ariana Grande	7 rings
+135	케이윌 (K.Will)	내 생에 아름다운
+136	먼데이 키즈 (Monday Kiz)	가을 안부
+137	Maroon 5	Memories
+138	우디(Woody)	이 노래가 클럽에서 나온다면
+139	Alan Walker, Sabrina Carpenter, Farruko	On My Way
+140	이하이	누구 없소 (NO ONE) (Feat. B.I of iKON)
+141	TWICE	YES or YES
+142	Ariana Grande	thank u, next
+143	pH-1, Kid Milli, 루피 (Loopy)	Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트)
+144	세븐틴	Snap Shoot
+145	Khalid, Disclosure	Talk
+146	양다일	고백
+147	임창정	하루도 그대를 사랑하지 않은 적이 없었다
+148	(여자)아이들	Uh-Oh
+149	Alan Walker	All Falls Down (Feat. Noah Cyrus, Digi...
+150	펀치넬로 (punchnello)	MAGMA (Feat. 행주, BewhY) (Prod. BewhY)
+151	Charlie Puth	Attention
+152	Lauv, Anne-Marie	fuck, i`m lonely
+153	기리보이(Giriboy)	교통정리 (Feat. 헤이즈)
+154	세븐틴	거짓말을 해
+155	Shawn Mendes	If I Can`t Have You
+156	레드벨벳(Red Velvet)	짐살라빔 (Zimzalabim)
+157	벤 (Ben)	열애중
+158	임창정	십삼월 (Never ending)
+159	황인욱	취하고 싶다 (Prod. By 전태익)
+160	백예린	그건 아마 우리의 잘못은 아닐 거야
+161	Post Malone	Goodbyes (Feat. Young Thug)
+162	Charlie Puth	One Call Away
+163	세븐틴	Home
+164	하은 (라코스테남)	신용재
+165	X1 (엑스원)	Stand Up (Intro.)
+166	방탄소년단	Make It Right
+167	오마이걸 (OH MY GIRL)	다섯 번째 계절 (SSFWL)
+168	세븐틴	Let me hear you say
+169	Camila Cabello	Havana (Feat. Young Thug)
+170	Pink Sweat$	Honesty
+171	Lauv, Troye Sivan	i`m so tired...
+172	세븐틴	Second Life
+173	멜로망스(Melomance)	선물
+174	볼빨간사춘기	나의 사춘기에게
+175	세븐틴	247
+176	EK	Diablo (Feat. JUSTHIS)
+177	윤비 (YunB), 김승민, YUNHWAY, 도넛맨 (Donutman)	덜어 (Feat. Kid Milli, 스윙스) (Prod. BOYCO...
+178	여자친구 (GFRIEND)	열대야 (Fever)
+179	Imagine Dragons	Thunder
+180	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+181	펀치넬로 (punchnello), 짱유 (JJANGYOU), ZENE THE ZILLA, Mckdaddy	BAMN (Prod. millic)
+182	WINNER	AH YEAH (아예)
+183	The Chainsmokers	Closer (Feat. Halsey)
+184	양다일	미안해
+185	노을	너는 어땠을까
+186	폴킴	헤어질 걸 알아
+187	Post Malone &amp; Swae Lee	Sunflower (Spider-Man _ Into The Spide...
+188	장덕철	그날처럼
+189	이소라	신청곡 (Feat. SUGA of BTS)
+190	Fitz &amp; The Tantrums	HandClap
+191	IZ*ONE (아이즈원)	비올레타
+192	Adam Levine	Lost Stars
+193	세븐틴	Happy Ending (Korean Ver.)
+194	Jvcki Wai, Young B, Osshun Gum, 한요한	띵 (Prod. By 기리보이)
+195	Martin Garrix	Summer Days (Feat. Macklemore & Patric...
+196	Adele	Someone Like You
+197	FTISLAND (FT아일랜드)	관둬 (Quit)
+198	황인욱	친구로 지내자면서 (Prod. By 전태익)
+199	Shawn Mendes	There`s Nothing Holdin` Me Back
+200	Justin Bieber	Love Yourself

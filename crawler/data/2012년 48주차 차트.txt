@@ -1,0 +1,101 @@
+./data/2012년 48주차 차트.txt
+1	이하이	1,2,3,4 (원,투,쓰리,포)
+2	긱스 (Geeks), 소유	Officially Missing You, Too
+3	노을	하지 못한 말
+4	에일리 (Ailee)	보여줄게
+5	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+6	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+7	로이킴, 정준영	먼지가 되어
+8	로이킴	힐링이 필요해
+9	별, 권정열 (10cm)	귀여워
+10	로이킴	휘파람
+11	Miss A	남자 없이 잘 살아
+12	지아 (Zia)	눈물이 툭 (Feat. 박경)
+13	이승기	되돌리다
+14	정준영	응급실
+15	가인	피어나
+16	현아 (HyunA)	Ice Cream
+17	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+18	주니엘 (Juniel)	나쁜 사람
+19	이정	말리꽃 (원곡가수 이승철)
+20	나얼	바람기억
+21	어반 자카파 (Urban Zakapa)	똑같은 사랑 똑같은 이별
+22	이하이	허수아비
+23	블락비 (Block B)	닐리리맘보
+24	정은지, 서인국	All For You
+25	손담비	눈물이 주르륵
+26	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+27	딕펑스 (Dick Punks)	떠나지마
+28	XIA(준수)	사랑은 눈꽃처럼
+29	더 씨야 (The Seeya)	내 맘은 죽어가요 (Feat. Speed)
+30	G-Dragon	Missing You (Feat. 김윤아)
+31	G-Dragon	크레용 (Crayon)
+32	별	나빠
+33	박보영	나의 왕자님 (My Prince)
+34	김종국	남자가 다 그렇지 뭐
+35	걸스데이 (Girl`s Day)	나를 잊지마요
+36	더 원 (The One)	사랑아
+37	유승우	My Son
+38	투빅 (2BiC)	24시간후
+39	딕펑스 (Dick Punks)	연극이 끝난후
+40	NS Yoon-G	If You Love Me (Feat. 박재범)
+41	Dal★Shabet (달샤벳)	있기 없기
+42	비원에이포 (B1A4)	걸어 본다
+43	허각, 지아 (Zia)	I Need You
+44	이정	사랑해 봤니
+45	김성규	60초
+46	10cm	Fine Thank You And You
+47	긱스 (Geeks)	Officially Missing You
+48	프라이머리 (Primary)	독 (Feat. E-Sens)
+49	에픽하이 (EPIK HIGH)	Up
+50	윤건	걷다
+51	먼데이 키즈 (Monday Kiz)	확률
+52	싸이 (Psy)	강남스타일
+53	정준영	잊었니
+54	티아라 (T-ara)	Sexy Love
+55	이승기	숲
+56	로이킴	서울의 달
+57	C-Clown (씨클라운)	멀어질까봐
+58	에픽하이 (Epik High)	Don`t Hate Me
+59	어반 자카파 (Urban Zakapa)	River
+60	G-Dragon	그XX
+61	어반 자카파 (Urban Zakapa)	니가 싫어
+62	싸이 (Psy)	어땠을까 (Feat. 박정현)
+63	노을	여인
+64	이승기	사랑한다는 말
+65	시크릿 (Secret)	Poison
+66	송중기	정말
+67	박명수	꿈이었을까
+68	15&amp; (박지민, 백예린)	I Dream
+69	스피카 (Spica)	Lonely
+70	존 박	철부지
+71	허각	아프다
+72	정은지, 서인국	우리 사랑 이대로
+73	B.A.P	하지마 (Stop It)
+74	프라이머리 (Primary)	축하해 (Feat. 다이나믹 듀오, 박재범)
+75	딕펑스 (Dick Punks)	Muzik
+76	씨스타 (Sistar)	Loving U (러빙유)
+77	허가윤	내사랑 내곁에
+78	로이킴	청개구리
+79	이재훈	미워할 걸 그랬죠
+80	이승철	아마추어
+81	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+82	지나(G.NA)	그만해요
+83	포맨 (4Men)	Hello!
+84	홍대광	가족
+85	레드애플 (LEDApple)	바람아 불어라
+86	Carly Rae Jepsen	Call Me Maybe
+87	에일리 (Ailee)	저녁 하늘
+88	에일리 (Ailee)	사랑 첫 느낌
+89	홍대광	이미 넌 고마운 사람
+90	김종국	남자도 슬프다
+91	더 원 (The One)	아시나요 (원곡가수 조성모)
+92	왁스 (Wax)	떨어진다 눈물이
+93	간종욱	1초라도
+94	딕펑스 (Dick Punks)	같이 걸을까
+95	허밍 어반 스테레오 (Humming Urban Stereo)	more & more
+96	2NE1 (투애니 원)	I Love You
+97	FTISLAND (FT 아일랜드)	좋겠어 (I Wish)
+98	윤건	힐링이 필요해 (October Rain)
+99	이승기	나에게 초대
+100	마이티 마우스 (Mighty Mouth)	이럴때면 (Feat. 린)

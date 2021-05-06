@@ -1,0 +1,101 @@
+./data/2011년 8주차 차트.txt
+1	아이유 (IU)	Someday
+2	지나(G.NA)	Black & White
+3	아이유 (IU)	나만 몰랐던 이야기
+4	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+5	시크릿 (Secret)	샤이보이 (Shy Boy)
+6	창민, 진운 (2AM)	사랑하면 안될까
+7	아이유 (IU)	좋은 날
+8	정용화(Jung Yong Hwa)	처음 사랑하는 연인들을 위해 (반말송)
+9	김범수 &amp; 태연	달라
+10	케이윌 (K.Will)	기가 차 (Feat. 슈프림팀 & 씨스타)
+11	나비 (Navi)	잘 된 일이야
+12	김보경	하루하루
+13	승리	어쩌라고
+14	박진영	못 잊은 거죠(If)
+15	이현 (에이트)	내꺼중에 최고
+16	GD, TOP  (빅뱅)	Oh Yeah (Feat. 박봄)
+17	GD, TOP  (빅뱅)	High High
+18	현빈	그남자
+19	Dal★Shabet (달샤벳)	Supa Dupa Diva
+20	선예 (원더걸스)	Maybe
+21	동방신기	왜 (Keep Your Head Down)
+22	김수현	Dreaming
+23	가희	돌아와 나쁜 너
+24	오스카	눈물자리
+25	장혜진 &amp; 먼데이키즈 &amp; 시몬	눈물을 움켜쥐고
+26	GD, TOP  (빅뱅)	집에 가지마
+27	쥬얼리 (Jewelry)	Back It Up
+28	엠블랙 (MBLAQ)	Stay
+29	아이유 (IU)	잔혹동화
+30	씨야 (SeeYa)	내겐 너무 멋진 그대
+31	택연 &amp; 닉쿤	My Valentine (Feat. 박진영)
+32	나몰라패밀리JW	헤어진 두 사람 (Feat. 태인)
+33	티아라 (T-ara)	뷰티풀 걸 (Feat. 일렉트로 보이즈)
+34	씨스타 (Sistar)	니까짓게
+35	주 (Joo)	나쁜 남자
+36	수지	겨울아이
+37	배다해	어떻게 니가
+38	화요비, 태하	같이 있어줘
+39	신지	여자를 울렸으니까
+40	가비엔제이 (Gavy NJ)	라떼 한잔 (Feat. 길미)
+41	태연 (TAEYEON)	사랑해요 (I Love You)
+42	아이유 (IU)	이게 아닌데
+43	양정승 (Kiroy Y)	밤하늘의 별을 3 (Feat.김하늘)
+44	이해리	그때 난 사는거야
+45	승리	V.V.I.P
+46	플라워 (Flower)	You Are My Everything
+47	Lady GaGa	Born This Way
+48	박효신	사랑이 고프다 (I Promise You)
+49	택연 &amp; 우영 &amp; 수지 &amp; 김수현 &amp; JOO	드림하이 (Dream High)
+50	이적	같이 걸을까
+51	성시경	너는 나의 봄이다
+52	GD, TOP  (빅뱅)	뻑이가요
+53	허각	행복한 나를 (Feat. 존박)
+54	이현 (에이트)	악담
+55	티아라 (T-ara)	왜 이러니
+56	태연, 더 원 (The One)	별처럼
+57	신용재	이유
+58	백지영	그여자
+59	Yolanda Be Cool &amp; DCup	We No Speak Americano (Radio Edit)
+60	10cm	그게 아니고
+61	허밍 어반 스테레오 (Humming Urban Stereo)	넌 그날 (Feat. 유인나)
+62	티아라 (T-ara)	yayaya
+63	박혜경	Hello 허니 (Feat. San E)
+64	간미연	파파라치 (Feat. 에릭)
+65	이정	Let`s Dance
+66	틴 탑 (Teen Top)	Supa Luv
+67	크리스탈 (f(x))	나 때문에
+68	브라운 아이드 소울 (Brown Eyed Soul)	똑같다면
+69	부활	비밀 (Special Vocal. 박완규)
+70	인피니트 (Infinite)	BTD (Before The Dawn)
+71	레인보우 (Rainbow)	슬퍼도 로맨틱
+72	견우 &amp; 서인영	애인만들기
+73	양요섭	그 사람을 아껴요
+74	MC 스나이퍼	Break Away (Feat. Room9)
+75	산이 (San E)	어떤이의 꿈 (Feat. 소향)
+76	소녀시대	훗 (Hoot)
+77	Avril Lavigne	What The Hell
+78	준수 (2PM), 임정희	가지마
+79	간미연	Sunshine (Duet. 2PM 준수)
+80	포맨 (4Men), 美	Here I am
+81	일락 (一樂)	장난친거니 (Feat.아웃사이더)
+82	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+83	제아 (브라운아이드걸스), 지오 (엠블랙)	니가 따끔거려서
+84	Jessie J	Price Tag (Feat. B.O.B)
+85	알렉스 (Alex)	되돌릴 수 있다면 (Feat. 제인)
+86	카라 (KARA)	점핑 (Jumping)
+87	오렌지 캬라멜 (Orange Caramel)	아잉♡
+88	노블레스 (Noblesse)	밥은 제때 챙겨 먹는지 (Feat. Ben of BeBe Mignon...
+89	김지수, 박보람	같이 살자
+90	SG 워너비	그대를 사랑합니다
+91	비스트 (Beast)	Beautiful
+92	아이유 (IU)	첫 이별 그날 밤
+93	지아 (Zia)	가지 말아요
+94	달마시안	그 남자는 반대
+95	Britney Spears	Hold It Against Me
+96	아이유 (IU)	나만 몰랐던 이야기 (With Pianist 김광민)
+97	가인	Bad Temper
+98	박정민	Not Alone
+99	허각	언제나
+100	태사비애	당신께 이 노래를 불러 드릴께요

@@ -1,0 +1,101 @@
+./data/2012년 18주차 차트.txt
+1	씨스타 (Sistar)	나혼자 (Alone)
+2	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+3	포미닛 (4minute)	Volume Up
+4	버스커 버스커 (Busker Busker)	첫사랑
+5	박진영	다른 사람 품에 안겨서 (Someone else) Duet with ...
+6	버스커 버스커 (Busker Busker)	여수 밤바다
+7	허각	나를 사랑했던 사람아
+8	빅뱅	Fantastic Baby
+9	노을	떠나간다
+10	버스커 버스커 (Busker Busker)	꽃송이가
+11	Maroon 5	Payphone (Feat. Wiz Khalifa)
+12	태연 (TAEYEON)	미치게 보고싶은
+13	양파, 다비치, HANNA	사랑은 다 그런거래요
+14	버스커 버스커 (Busker Busker)	이상형
+15	버스커 버스커 (Busker Busker)	외로움 증폭장치 (브래드 드럼 한판 쉬기)
+16	에일리 (Ailee)	Heaven
+17	배치기	두 마리
+18	2AM	너도 나처럼
+19	넬 (Nell)	그리고, 남겨진 것들
+20	써니힐 (SunnyHill)	백마는 오고 있는가
+21	걸스데이 (Girl`s Day)	Oh! My God
+22	씨엔블루 (CNBLUE)	Hey You
+23	버스커 버스커 (Busker Busker)	전활 거네
+24	샤이니 (SHINee)	Sherlock.셜록 (Clue + Note)
+25	빅뱅	Blue
+26	케이윌 (K.Will)	사랑이 운다
+27	신화	Venus
+28	서인국	밀고 당겨줘 (Tease Me)
+29	버스커 버스커 (Busker Busker)	골목길 어귀에서
+30	린 (LYn)	곰인형 (Feat. 해금)
+31	백아연	보고싶다 (김범수)
+32	버스커 버스커 (Busker Busker)	향수
+33	백청강	그리워져 (Feat. 이희성)
+34	이하이	시간이 흐른뒤 (윤미래)
+35	빅뱅	BAD BOY
+36	백지영	한참 지나서
+37	miss A	Touch
+38	용감한 녀석들	기다려 그리고 준비해
+39	김수현	그대 한 사람
+40	양요섭, 정은지	Love Day
+41	버스커 버스커 (Busker Busker)	봄바람
+42	존 박	Falling
+43	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+44	이승훈, 백아연	Ma Boy 2 (일렉트로보이즈)
+45	이영현	사랑은 이렇게
+46	MC 스나이퍼	할 수 있어 (With 이루마)
+47	양파 ＆ 신종국	이별은 다 그런거래요
+48	수펄스	Fame
+49	김연우	인기없던노래
+50	이하이	U Go Girl (이효리)
+51	박지민	Over The Rainbow
+52	씨엔블루 (CNBLUE)	아직 사랑한다
+53	버스커 버스커 (Busker Busker)	골목길
+54	케이윌 (K.Will)	니가 필요해 (I Need You)
+55	씨스타 (Sistar)	Lead Me
+56	거미 &amp; 바비킴	러브레시피 II - 요즘 사람들
+57	티아라 (T-ara)	Lovey-Dovey
+58	다비치	생각날거야
+59	이재훈	잊을 수 있을까
+60	빅뱅	사랑먼지
+61	아이비 (Ivy)	찢긴 가슴
+62	린 (LYn)	시간을 거슬러
+63	손승연	물들어
+64	이하이	Love (키샤콜)
+65	이승철	잊었니
+66	김건모	알 수 없는 인생 (Feat. 조PD & 윤일상 (PDIS))
+67	아이유 (IU)	너랑 나
+68	이정	사랑이 서럽다 (MBC 주말드라마 `신들의 만찬` 삽입곡)
+69	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+70	Adele	Rolling In The Deep
+71	일렉트로보이즈 (Electroboyz)	웃을까 울을까 (Feat. 백지영)
+72	가인	너만은 모르길
+73	에이핑크 (Apink)	4월 19일
+74	10cm	애상
+75	트러블메이커 (Trouble Maker)	Trouble Maker
+76	블락비 (Block B)	난리나
+77	간미연, 이현 (에이트)	널 잃고 보니 (Duet 이현)
+78	빅뱅	재미없어
+79	세븐	내가 노래를 못해도
+80	2AM	내꺼였는데
+81	FTISLAND (FT 아일랜드)	지독하게
+82	미(MIIII)	향수
+83	이하이, 박지민	Good-bye Baby (miss A)
+84	서현	기다릴게요
+85	나윤권	겁이나서 (With 백지영)
+86	LMFAO, Steve Aoki	Livin` My Love
+87	노을	그리워 그리워
+88	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+89	EXO-K	MAMA
+90	포이트리	열대야 (Feat. 영준 of  Brown Eyed Soul)
+91	이하이	너를 위해 (임재범)
+92	페퍼톤스 (Peppertones)	행운을 빌어요
+93	효린	널 사랑하겠어
+94	EXID	WHOZ THAT GIRL
+95	박지민	You Raise Me Up (시크릿 가든)
+96	티파니 (TIFFANY)	그대니까요
+97	하예나	희야
+98	손동운	In The Cloud
+99	써니힐 (SunnyHill)	베짱이 찬가
+100	다이나믹 듀오 (Dynamic Duo)	거기서거기 (Without You)

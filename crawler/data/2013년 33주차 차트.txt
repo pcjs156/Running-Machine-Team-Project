@@ -1,0 +1,101 @@
+./data/2013년 33주차 차트.txt
+1	산이 (San E)	아는사람 얘기
+2	크레용팝 (Crayon Pop)	빠빠빠
+3	f(x)	첫 사랑니 (Rum Pum Pum Pum)
+4	에일리 (Ailee)	U & I
+5	에이핑크 (Apink)	NoNoNo
+6	브라운 아이드 걸스	Kill Bill
+7	비스트 (Beast)	Shadow (그림자)
+8	EXO	으르렁 (Growl)
+9	다비치	오늘따라 보고싶어서 그래
+10	다이나믹 듀오 (Dynamic Duo)	Baaam (Feat. Muzie)
+11	이승철	My Love
+12	유성은	Be OK (Feat. 배치기)
+13	씨스타 (Sistar)	Give It To Me
+14	2NE1 (투애니 원)	Falling In Love
+15	2NE1 (투애니 원)	Do You Love Me
+16	인피니트 (Infinite)	Destiny
+17	강승윤	비가 온다
+18	걸스데이 (Girl`s Day)	여자 대통령
+19	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+20	허각, 정은지 (에이핑크)	짧은머리
+21	김예림 (투개월)	All Right
+22	정엽	왜 이제야 왔니
+23	걸스데이 (Girl`s Day)	말해줘요
+24	브라운 아이드 걸스	레시피
+25	긱스 (Geeks)	Fly
+26	아웃사이더	슬피 우는 새 (Feat. 이수영)
+27	씨스타 (Sistar)	넌 너무 야해 (The Way You Make Me Melt) (Fe...
+28	포미닛 (4minute)	물 좋아?
+29	티아라, 다비치	비키니
+30	포맨 (4Men)	너 하나야
+31	쥬얼리 (Jewelry)	핫 앤 콜드 (Hot ＆ Cold)
+32	거미	낮과 밤
+33	포미닛 (4Minute)	이름이 뭐예요?
+34	쿨 (Cool)	이별 앞에 서다
+35	다이나믹 듀오 (Dynamic Duo)	쌔끈해 (Three Dopeboyz)
+36	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+37	버벌진트 (Verbal Jint)	비범벅 (Feat. 범키)
+38	빅스 (VIXX)	대.다.나.다.너
+39	다이나믹 듀오 (Dynamic Duo)	날개뼈 (Hot Wings)
+40	임정희	Luv is
+41	로이킴	Love Love Love
+42	레이디스 코드 (Ladies` Code)	Hate You
+43	f(x)	미행 (그림자 _ Shadow)
+44	포맨 (4Men)	청혼하는 거예요
+45	딕펑스 (Dick Punks)	썬글라스
+46	손승연	미친게 아니라구요 (Feat. MC 스나이퍼)
+47	f(x)	Goodbye Summer (f(Amber+Luna+Krystal))
+48	미스에스 (Miss $)	니가 아니었기를 (Narr. 버벌진트)
+49	씨스타 (Sistar)	바빠 (Bad Boy)
+50	코요태(KYT)	Hollywood (Feat. 정준하)
+51	DJ Gollum Vs. EmpyreOne	The Bad Touch (Gordon & Doyle Edit)
+52	빈지노 (Beenzino)	Boogie On & On
+53	강승윤	Wild And Young
+54	AOA	MOYA (모야)
+55	더 원 (The One)	잘 있나요
+56	로이킴	봄봄봄
+57	하동균	그대 내 품에
+58	애프터스쿨 (After School)	첫사랑
+59	써니힐 (Sunny Hill)	만인의 연인 (Feat. 하림)
+60	이영현 (빅마마)	미라클
+61	샤이니 (SHINee)	너와 나의 거리 (Selene 6.23)
+62	긱스 (Geeks)	Wash Away (Feat. 에일리)
+63	다이나믹 듀오 (Dynamic Duo)	거품 안 넘치게 따라줘 (Life Is Good)
+64	씨스타 (Sistar)	Crying
+65	B.A.P	Badman
+66	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+67	아웃사이더	Bye U (Feat. 지오)
+68	에일리 (Ailee)	No No No
+69	이정	슬퍼지려 하기전에
+70	프리스타일 (Free Style)	썸머시즌
+71	Dal★Shabet (달샤벳)	내 다리를 봐 (Be Ambitious)
+72	노을	눈물이 흐른다
+73	걸스데이 (Girl`s Day)	기대해
+74	주니엘 (JUNIEL)	감동이 중요해
+75	다비치	녹는 중 (Feat. 버벌진트)
+76	디셈버 (December)	Fire
+77	비스트 (Beast)	괜찮겠니
+78	태완, 개리 (리쌍), 크러쉬 (Crush)	어디 갈래
+79	시크릿 (Secret)	Yoo Hoo
+80	바이브 (Vibe)	꼭 한번 만나고 싶다
+81	신용재	가수가 된 이유
+82	f(x)	Airplane
+83	김그림	우리만 있어
+84	악동뮤지션 (AKMU)	I Love You
+85	다이나믹 듀오 (Dynamic Duo)	진격의 거인 둘 (Return Of The Kings)
+86	신승훈	너에겐 들리지 않는 그 말
+87	싸이 (Psy)	Gentleman
+88	긱스 (Geeks), 소유	Officially Missing You, Too
+89	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+90	악동뮤지션 (AKMU)	콩떡빙수
+91	린 (LYn)	오늘 밤 (Feat. 배치기)
+92	이효리	Bad Girls
+93	김연지	두눈에. 두볼에. 가슴에 (In My Eyes)
+94	투빅 (2BiC)	회복이 급해 (Feat. 하림, 호투)
+95	EXO	XOXO
+96	알리 (ALi)	In My Dream
+97	XIA(준수)	Incredible (Feat. Quincy)
+98	제국의아이들 (ZE:A)	Step by Step
+99	헨리 (Henry)	Trap
+100	창민 (2AM), 다희	한 사람만 보여요

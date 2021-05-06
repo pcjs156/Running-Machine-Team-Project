@@ -1,0 +1,101 @@
+./data/2017년 2주차 차트.txt
+1	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+2	황광희 X 개코	당신의 밤 (Feat. 오혁)
+3	크러쉬 (CRUSH)	Beautiful
+4	빅뱅	에라 모르겠다
+5	볼빨간사춘기	좋다고 말해
+6	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+7	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+8	어반 자카파 (Urban Zakapa)	소원
+9	소유 (SOYOU)	I Miss You
+10	에디킴	이쁘다니까
+11	샘김	Who are you
+12	빅뱅	LAST DANCE
+13	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+14	TWICE	TT
+15	헤이즈 (Heize)	저 별
+16	하하 X MINO	쏘아
+17	볼빨간사춘기	우주를 줄게
+18	정준일	첫 눈
+19	볼빨간사춘기	나만 안되는 연애
+20	BLACKPINK	불장난
+21	양세형 X BewhY	만세
+22	10cm	내 눈에만 보여
+23	정승환	이 바보야
+24	유재석 X Dok2	처럼 (Feat. 이하이)
+25	Lasse Lindh	Hush
+26	빅뱅	GIRLFRIEND
+27	한동근	그대라는 사치
+28	정준하 X ZICO	지칠 때면 (Feat. 김종완 of Nell)
+29	한동근	이 소설의 끝을 다시 써보려 해
+30	희철, 민경훈	나비잠 (Sweet Dream)
+31	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+32	세정	꽃길 (Prod. By ZICO)
+33	지코 (ZICO)	BERMUDA TRIANGLE (Feat. Crush, DEAN)
+34	아이오아이 (I.O.I)	너무너무너무
+35	박명수 X 딘딘	독도리 (Feat. 매드클라운)
+36	태연 (TAEYEON)	11_11
+37	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+38	임창정	내가 저지른 사랑
+39	악동뮤지션 (AKMU)	리얼리티
+40	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+41	AOA	Excuse Me
+42	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+43	정승환	너였다면
+44	박효신	숨
+45	방탄소년단	피 땀 눈물
+46	Ryan Gosling &amp; Emma Stone	City Of Stars (From `La La Land` Sound...
+47	TWICE	CHEER UP
+48	볼빨간사춘기	You(=I)
+49	DEAN	D (half moon) (Feat. 개코)
+50	BLACKPINK	휘파람
+51	볼빨간사춘기	심술
+52	악동뮤지션 (AKMU)	그때 그 아이들은
+53	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+54	악동뮤지션 (AKMU)	집에 돌아오는 길
+55	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+56	EXO	For Life
+57	크러쉬 (CRUSH)	어떻게 지내
+58	로꼬 (LOCO)	남아있어 (Feat. Crush)
+59	매드 클라운 (Mad Clown)	거짓말 (Feat. 이해리 of 다비치)
+60	성시경	어디선가 언젠가
+61	다비치	내 옆에 그대인 걸
+62	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+63	엠씨더맥스 (M.C The Max)	어디에도
+64	악동뮤지션 (AKMU)	못생긴 척
+65	권진아	끝
+66	지아 (Zia)	술 한잔해요 오늘
+67	MC몽	널 너무 사랑해서 (Feat. 정은지 of 에이핑크)
+68	EXO	Monster
+69	악동뮤지션 (AKMU)	생방송
+70	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+71	정준일	안아줘
+72	에일리 (Ailee)	If You
+73	Sam Smith	I`m Not The Only One
+74	거미	구르미 그린 달빛
+75	신용재, 벤(Ben)	서로의 서로
+76	악동뮤지션 (AKMU)	CHOCOLADY
+77	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+78	윤미래 (T)	그대라는 세상
+79	이선희	바람꽃
+80	신용재	빌려줄게
+81	EXO	Lotto
+82	비와이(BewhY)	Forever (Prod. by GRAY)
+83	우주소녀	너에게 닿기를 (I Wish)
+84	로이킴, 김이지 (꽃잠프로젝트)	HEAVEN
+85	임슬옹, 조이	이별을 배웠어 (Always In My Heart)
+86	방탄소년단	불타오르네 (FIRE)
+87	EXO	Falling For You
+88	긱스 (Geeks)	가끔 (Feat. Crush, 기리보이)
+89	젝스키스	세 단어
+90	Ryan Gosling &amp; Emma Stone	A Lovely Night (From `La La Land` Soun...
+91	김나영	널 미워하지 않길 (Prod. By 하동균)
+92	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+93	어반 자카파 (Urban Zakapa)	그런 밤
+94	볼빨간사춘기	심술
+95	신화	TOUCH
+96	EXO	Lucky One
+97	La La Land Cast	Another Day Of Sun (From `La La Land` ...
+98	뷔, 진 (방탄소년단)	죽어도 너야
+99	AOA	빙빙 (Bing Bing)
+100	악동뮤지션 (AKMU)	YOU KNOW ME

@@ -1,0 +1,101 @@
+./data/2015년 25주차 차트.txt
+1	EXO	LOVE ME RIGHT
+2	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+3	백아연	이럴거면 그러지말지 (Feat. 영현)
+4	빅뱅	WE LIKE 2 PARTY
+5	빅뱅	LOSER
+6	샤이니 (SHINee)	View
+7	빅뱅	BAE BAE
+8	아이유 (IU)	마음
+9	자이언티(Zion.T)	꺼내 먹어요
+10	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+11	산이 (San E)	Me You (Feat. 백예린 of 15&)
+12	EXO	TENDER LOVE
+13	이승기	그리고 안녕
+14	허각, 정인	동네술집
+15	프라이머리 (Primary)	마네퀸 (Feat. Beenzino, 수란)
+16	EXID	아예 (Ah Yeah)
+17	EXO	CALL ME BABY
+18	포맨 (4Men)	넌 나의 집
+19	박진영	어머님이 누구니 (Feat. 제시)
+20	엠씨더맥스 (M.C The Max)	그 남잔 말야
+21	김범수	사랑의 시작은 고백에서부터
+22	박보람	연예할래
+23	Maroon 5	Sugar
+24	miss A	다른 남자 말고 너
+25	윤미래 (T)	너의 얘길 들어줄게
+26	다비치	두사랑 (Feat. 매드클라운)
+27	EXO	약속 (EXO 2014)
+28	나얼	같은 시간 속의 너
+29	어반 자카파 (Urban Zakapa)	Get (Feat. Beenzino)
+30	허각	사월의 눈
+31	지민, 아이언	Puss (Prod.by 라이머)
+32	타이거 JK	Reset (Feat. 진실 of Mad Soul Child)
+33	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+34	지코 (ZICO), 소진	아프다
+35	보아 (BoA)	Who Are You (Feat. 개코)
+36	EXO	FIRST LOVE
+37	박재범	몸매 (MOMMAE) (Feat. Ugly Duck)
+38	지누션	한번 더 말해줘 (Feat. 장한나)
+39	블락비 바스타즈	품행제로
+40	방탄소년단	I NEED U
+41	레드벨벳(Red Velvet)	Ice Cream Cake
+42	Sam Smith	I`m Not The Only One
+43	프라이머리 (Primary)	조만간 봐요 (Feat. BSK, 개코)
+44	카라 (Kara)	CUPID
+45	EXID	위아래
+46	백지영	새벽 가로수길 (With 송유빈)
+47	벤 (Ben)	두근두근
+48	케이윌 (K.will)	꽃이 핀다
+49	치타, 에일리	아무도 모르게 (Prod. by MC몽)
+50	벤 (Ben)	소개받기로 했어
+51	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+52	나얼	바람기억
+53	MC몽	사랑 범벅 (Feat. 챈슬러 of the channels)
+54	배치기	바람에 날려 (Feat. 펀치 (Punch))
+55	Adam Levine	Lost Stars
+56	노을	목소리
+57	윤하	기도
+58	김성규	너여야만 해
+59	박효신	야생화
+60	어반 자카파 (Urban Zakapa)	둘 하나 둘
+61	프라이머리 (Primary)	그녀는 (Feat. 정인, 최자 Of Dynamic Duo, 행주 &...
+62	Ariana Grande	Problem (Feat. Iggy Azalea)
+63	산이(San E), 레이나	한여름밤의 꿀
+64	EXO	LOVE ME RIGHT (漫游宇宙)
+65	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+66	이정, 하동균	Beautiful Day
+67	걸스데이 (Girl`s Day)	Hello Bubble
+68	홍대광	잘됐으면 좋겠다
+69	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+70	서인영	거짓말 (Feat. 칸토 Of 트로이)
+71	엠씨더맥스 (M.C The Max)	바라보기
+72	김남주, 육성재	사진
+73	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+74	노을	만약에 말야 (전우성 Solo)
+75	샤이니 (SHINee)	Love Sick
+76	전효성	반해
+77	Maroon 5	Maps
+78	GD X TAEYANG	GOOD BOY
+79	웬디 (레드벨벳)	Return (With 육지담)
+80	지민, 슬옹	시작이 좋아 2015 (Prod. By 버벌진트)
+81	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+82	아이유 (IU)	너의 의미 (Feat. 김창완)
+83	윤하	기다리다
+84	나비 (Navi)	음악에 미쳐서
+85	효린	더 가까이
+86	제시(Jessi), 치타, 강남	My Type (Prod. by 버벌진트)
+87	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+88	어쿠스틱 콜라보	너무 보고 싶어
+89	린 (LYn)	단 하루
+90	백청강	화장을 고치고 (미스터리 도장신부)
+91	매드 클라운 (Mad Clown)	화 (Feat. 진실 of Mad Soul Child)
+92	키썸, San E, 태완	슈퍼스타 (Prod. by D.O)
+93	AOA	사뿐사뿐 (Like a Cat)
+94	나비(Navi)	잘지내니
+95	종현&amp;태민(SHINee)	그 이름
+96	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+97	박효신	Shine Your Light
+98	에이핑크 (Apink)	LUV
+99	박진영	대낮에 한 이별 (Feat. 선예)
+100	이승기	바람

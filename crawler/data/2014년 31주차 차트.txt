@@ -1,0 +1,101 @@
+./data/2014년 31주차 차트.txt
+1	씨스타 (Sistar)	Touch my body
+2	산이(San E), 레이나	한여름밤의 꿀
+3	걸스데이(Girl`s Day)	Darling
+4	태양	눈, 코, 입
+5	박명수	명수네 떡볶이 (Feat. 김예림, UL)
+6	허각, 정은지	이제 그만 싸우자
+7	블락비 (Block B)	Jackpot
+8	AOA	단발머리 (Short Hair)
+9	스윙스(Swings)	전화번호 (feat. 버벌진트, 40)
+10	케이윌 (K.Will)	오늘부터 1일 (Day 1)
+11	에일리, 2LSON	I`m in love
+12	인피니트 (Infinite)	Back
+13	윤하	우산
+14	Gary (개리), 정인	사람냄새
+15	Maroon 5	Maps
+16	f(x)	Red Light
+17	god	하늘색 약속
+18	씨스타 (Sistar)	나쁜손 (feat. 버벌진트) (Naughty Hands)
+19	울랄라세션, 아이유(IU)	애타는 마음
+20	아이유 (IU)	너의 의미 (Feat. 김창완)
+21	다이나믹 듀오(Dynamic Duo), DJ Premier	AEAO
+22	산이 (San E)	나 왜이래
+23	빈지노(Beenzino)	How Do I Look?
+24	블락비 (Block B)	HER
+25	비스트 (Beast)	Good Luck
+26	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+27	비원에이포 (B1A4)	SOLO DAY
+28	마마무 (Mamamoo)	Mr.애매모호
+29	브로(Bro)	고백했는데
+30	서인국	돌아오는 길
+31	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+32	박효신	야생화
+33	아이유 (IU)	나의 옛날 이야기
+34	에이핑크 (Apink)	Mr. Chu (On Stage)
+35	EXO-K	중독 (Overdose)
+36	다비치	헤어졌다 만났다
+37	god	우리가 사는 이야기 (Feat. 메건리)
+38	정기고 (Junggigo)	너를 원해 (Feat. Beenzino)
+39	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+40	신용재, 이해리	니가 빈 자리
+41	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+42	씨스타 (Sistar)	But I Love U
+43	마마무 (Mamamoo)	Love Lane
+44	전효성	Good-night Kiss
+45	다이나믹 듀오(Dynamic Duo)	Summer Time (자리비움)
+46	첸 (CHEN)	최고의 행운
+47	god	노래 불러줘요 (Feat. 아이유)
+48	악동뮤지션 (AKMU)	200%
+49	에디킴	너 사용법
+50	AOA	짧은 치마 (Miniskirt)
+51	신용재	사랑하는 그대여
+52	에디킴	Darling
+53	범키	집이 돼줄게
+54	로꼬 (LOCO)	감아 (Feat. Crush)
+55	god	Saturday Night
+56	효민	Nice Body (With 로꼬)
+57	다비치	움직이지마
+58	비스트 (Beast)	이젠 아니야
+59	윤민수, 신용재	인연
+60	f(x)	MILK
+61	크러쉬 (CRUSH)	Hug Me (Feat. Gaeko)
+62	이선희	그 중에 그대를 만나
+63	David Guetta &amp; Showtek	Bad (Feat. Vassy) (Radio Edit)
+64	오렌지 캬라멜 (Orange Caramel)	까탈레나 (Catallena)
+65	헨리 (Henry)	Fantastic
+66	스윙스(Swings)	Gravity (Feat. Mad Clown & 기리보이)
+67	매드 클라운 (Mad Clown)	견딜만해 (Feat. 효린)
+68	아이유 (IU)	사랑이 지나가면
+69	거미	사랑했으니..됐어
+70	정키 (Jung Key)	내가 할 수 없는 말 (Feat. 나비)
+71	태연 (TAEYEON)	사랑 그 한마디
+72	악동뮤지션 (AKMU)	Give Love
+73	휘성	Night and Day
+74	빈지노(Beenzino)	미쳤어 (Feat. Don Mills)
+75	god	보통날 (Original Ver.)
+76	박재정	얼음땡 (feat. 빈지노)
+77	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+78	인피니트 (Infinite)	Diamond
+79	블락비 (Block B)	보기 드문 여자
+80	빈지노(Beenzino)	Up All Night (Feat. Mayson The Soul)
+81	2NE1 (투애니 원)	Come Back Home
+82	성시경	너의 모든 순간
+83	god	미운오리새끼
+84	투빅 (2BiC)	요즘 바쁜가봐
+85	손승연 &amp; 더 원 (The One)	바라만 보네요
+86	임창정	흔한 노래
+87	전민주, 유나킴	비별 (Good bye Rain) (Feat. 현규 of broman...
+88	GOT7	A
+89	f(x)	All Night
+90	다비치	팔베개
+91	Jeff Bernat	Call You Mine (Feat. Geologic)
+92	태양	새벽한시 (1AM)
+93	스컬(SKULL)	결혼해요 (feat. 유진 Of 더 씨야)
+94	Jeff Bernat	Be The One
+95	창민＆이현 (HOMME)	It Girl
+96	씨스타 (Sistar)	Sunshine
+97	버벌진트 (Verbal Jint)	반도의흔한랩퍼 (Feat. San E & 스윙스)
+98	태양	Stay With Me (Feat. G-Dragon of Bigban...
+99	2NE1 (투애니 원)	멘붕 (CL Solo)
+100	배치기	뜨래요 (Feat. 앙리 Of 3B)

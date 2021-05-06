@@ -1,0 +1,101 @@
+./data/2016년 6주차 차트.txt
+1	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+2	엠씨더맥스 (M.C The Max)	어디에도
+3	지코 (ZICO)	너는 나 나는 너
+4	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+5	태연 (TAEYEON)	Rain
+6	수지, 백현 (BAEKHYUN)	Dream
+7	이적	걱정말아요 그대
+8	마마무 (Mamamoo)	I Miss You
+9	TWICE	OOH-AHH하게
+10	오혁	소녀
+11	WINNER	센치해
+12	케이윌 (K.Will)	니가 하면 로맨스 (feat.다비치)
+13	WINNER	BABY BABY
+14	Gary (개리)	또 하루 (Feat. 개코)
+15	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+16	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+17	노을	함께
+18	김필	청춘 (Feat. 김창완)
+19	장범준	회상
+20	김나영	어땠을까
+21	임창정	또 다시 사랑
+22	지코 (ZICO)	유레카 (Feat. Zion.T)
+23	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+24	싸이 (Psy)	DADDY (Feat. CL of 2NE1)
+25	박보람	혜화동 (혹은 쌍문동)
+26	백지영	약도 없대요 (Feat. 버벌진트)
+27	싸이 (Psy)	나팔바지
+28	백예린	우주를 건너
+29	Adele	Hello
+30	러블리즈	Ah-Choo
+31	기현(Kihyun)	세월이 가면
+32	EXID	HOT PINK
+33	태연 (TAEYEON)	I (Feat. 버벌진트)
+34	iKON	취향저격
+35	디셈버 (December)	네게 줄 수 있는건 오직 사랑뿐
+36	윤미래 (T)	사랑이 맞을거야
+37	아이유 (IU)	스물셋
+38	거미	친구라도 될 걸 그랬어
+39	이승기	나 군대 간다
+40	산이(San E), 매드 클라운(Mad Clown)	못먹는 감 (Sour Grapes)
+41	포미닛 (4minute)	싫어 (Hate)
+42	려욱	어린왕자 (The Little Prince)
+43	엠씨더맥스 (M.C The Max)	괜찮다가도
+44	자이언티(Zion.T)	No Make Up
+45	EXO	Sing For You
+46	AOA	심쿵해 (Heart Attack)
+47	DEAN	what2do (Feat. Crush, Jeff Bernat)
+48	여은 (멜로디데이)	이젠 잊기로 해요
+49	유승우	선 (Feat.우효) (45.7cm)
+50	iKON	덤앤더머 (DUMB & DUMBER)
+51	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+52	터보	다시 (Feat. 유재석)
+53	WINNER	사랑가시 (민호, 태현)
+54	바닐라 어쿠스틱 (Vanilla Acoustic)	너와 나의 시간은
+55	송민호	겁 (Feat. 태양)
+56	태연 (TAEYEON)	비밀 (Secret)
+57	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+58	엠씨더맥스 (M.C The Max)	아스라이
+59	소진 (걸스데이)	매일 그대와
+60	엠씨더맥스 (M.C The Max)	어김없이
+61	Sam Smith	I`m Not The Only One
+62	자이언티(Zion.T)	꺼내 먹어요
+63	유승우	뭐 어때 (Feat.크루셜스타) (Whatever)
+64	다비치	화이트 (WHITE) (Feat. 박재범)
+65	박효신	야생화
+66	레드벨벳(Red Velvet)	Dumb Dumb
+67	EXO	불공평해 (Unfair)
+68	백아연	이럴거면 그러지말지 (Feat. 영현)
+69	싸이 (Psy)	Dream (Feat. XIA of JYJ)
+70	소유, 권정열	어깨
+71	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+72	엠씨더맥스 (M.C The Max)	그 남잔 말야
+73	범키	서프라이즈 (Feat. Beenzino)
+74	김범수	그댄 행복에 살텐데
+75	WINNER	철없어
+76	정인	UUU
+77	자이언티(Zion.T)	양화대교
+78	박경	보통연애 (Feat. 박보람)
+79	박효신	기억 속의 먼 그대에게
+80	포맨 (4Men)	안아보자
+81	혁오 (hyukoh)	위잉위잉
+82	노을	이별밖에
+83	WINNER	좋더라 (태현 SOLO)
+84	방탄소년단	RUN
+85	iKON	리듬 타 (RHYTHM TA)
+86	예지 (피에스타)	사이다
+87	검정치마 (The Black Skirts)	EVERYTHING
+88	송민호, 지코(ZICO)	Okey Dokey
+89	가인	열두 시가 되면
+90	iKON	지못미
+91	싸이 (Psy)	I Remember You (Feat. Zion.T)
+92	범키	Better Man (Feat. 타블로)
+93	EXO	LOVE ME RIGHT
+94	엠씨더맥스 (M.C The Max)	pale blue note
+95	윤미래 (T), 펀치 (Punch)	잘 지내고 있니
+96	아이유 (IU)	푸르던
+97	지코 (ZICO)	날 (Feat. JTONG)
+98	김태우	이별이 오지 못하게
+99	브라운 아이드 소울 (Brown Eyed Soul)	밤의 멜로디
+100	손승연	MS.BURGUNDY (미스 버건디)

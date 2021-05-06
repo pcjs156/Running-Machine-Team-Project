@@ -1,0 +1,101 @@
+./data/2010년 43주차 차트.txt
+1	가인	돌이킬 수 없는
+2	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+3	miss A	Breathe
+4	2NE1 (투애니 원)	Go Away
+5	비스트 (Beast)	숨
+6	2PM	I`ll Be Back
+7	2NE1 (투애니 원)	Can`t Nobody
+8	강승윤	본능적으로 (Feat. Swings)
+9	신승훈	두 번 헤어지는 일 (Vocal 다비치)
+10	성시경, 아이유 (IU)	그대네요
+11	샤이니 (SHINee)	Hello
+12	임정희	진짜일 리 없어
+13	거미	죽어도 사랑해
+14	2NE1 (투애니 원)	박수쳐
+15	임정희	헤어지러 가는 길 (Feat. 조권)
+16	윤종신	본능적으로 (Feat. Swings)
+17	슈프림팀, 영준 (브라운 아이드 소울)	왜
+18	싸이 (Psy)	내 눈에는 (Feat. 이재훈)
+19	이승기	지금부터 사랑해 (내 여자친구는 구미호 삽입곡)
+20	씨야 (SeeYa)	이별이 오지 못하게
+21	2NE1 (투애니 원)	아파 (Slow)
+22	씨스타 (Sistar)	가식걸
+23	FTISLAND (FT 아일랜드)	사랑사랑사랑
+24	JYJ	찾았다
+25	남녀공학	Too Late
+26	휘성	결혼까지 생각했어
+27	강승윤	당신께 쓰는 편지
+28	미스에스 (Miss $)	이 나이 먹고 뭐했길래 (Feat. 정슬기)
+29	배다해	My All
+30	서영은	너는 날 녹여 (with 노블레스)
+31	창민 (2AM), 이현 (에이트)	밥만 잘 먹더라
+32	레인보우 (Rainbow)	A
+33	V.O.S	Full Story
+34	JYJ	Ayyy Girl (Feat. Kanye West & Malik Yu...
+35	씨야, 다비치	다 컸잖아
+36	SG 워너비	겨울 나무
+37	포맨 (4Men)	U
+38	보아 (BoA)	Copy & Paste
+39	miss A	Bad Girl Good Girl
+40	정엽	Love You (Feat. Piano by Eco Bridge)
+41	김범수	지나간다
+42	시크릿 (Secret)	Madonna
+43	가비엔제이 (Gavy NJ)	그만하자
+44	마이티 마우스 (Mighty Mouth)	사랑이란 (Feat. 김희선)
+45	티아라 (T-ara)	하늘땅 별땅
+46	이비아 (e-via)	삐까 Chu~♡ (Pick up! U!) (Radio Edit Ve...
+47	이적	그대랑
+48	Jessica (제시카)	Sweet Delight (East4A QM Mix) (Radio E...
+49	2NE1 (투애니 원)	난 바빠
+50	박효신	안녕 사랑아
+51	우은미	부탁해
+52	DJ DOC	나 이런사람이야
+53	화요비	나 같은 여자
+54	2NE1 (투애니 원)	사랑은 아야야
+55	이승철	그 사람
+56	윤하	One Shot (Feat. 주석)
+57	Ab에비뉴	사랑 안녕..
+58	엠블랙 (MBLAQ)	Running & Running
+59	다비치	난 너에게
+60	존 박	내가 다 줄게요
+61	가인	진실
+62	세븐	I`m Going Crazy
+63	오종혁	가슴이 뛰잖아
+64	2PM	Still
+65	산이 (San E)	맛좋은산 (Feat. Min)
+66	장재인	들어줄래
+67	JYJ	Empty
+68	김종국	다시 내게로 돌아와 (Feat. 개리)
+69	비스트 (Beast)	주먹을 꽉 쥐고
+70	허각	My Heart
+71	정엽	Without You
+72	나르샤	맘마미아 (with SunnyHill)
+73	오션 (5tion)	우리 다시 사랑하자
+74	지아 (Zia)	웃음만..
+75	Kelly Clarkson	Because Of You
+76	2PM	I Can`t
+77	싸이 (Psy)	Thank You (Feat. 서인영)
+78	김건모	울어버려
+79	가인	가인 (歌人)
+80	박효신	널 사랑한다
+81	XIA(준수)	Too Love
+82	이승기	정신이 나갔었나봐
+83	MC몽	죽을 만큼 아파서 (Feat. 멜로우)
+84	2PM	니가 나를 떠나도
+85	신승훈	사랑같은건 믿지 않지만
+86	슈퍼주니어 (Super Junior)	Angel
+87	티파니 (TIFFANY)	반지 (Banji)
+88	김지수	사랑이 지나가면
+89	JYJ	Be My Girl
+90	아이유 (IU), 슬옹 (2AM)	잔소리
+91	베이지 &amp; 슈퍼주니어 려욱	친구와 사랑에 빠질 때
+92	노라조	널 부르다 (Feat. Kimm)
+93	노블레스 (Noblesse)	종로에서 명동까지 (Feat. 서영은)
+94	Maroon 5	Give A Little More
+95	보아 (BoA)	Hurricane Venus
+96	브라운 아이드 소울 (Brown Eyed Soul)	그대
+97	샤이니 (SHINee)	Lucifer
+98	김지수	어린 아저씨
+99	DJ DOC	부치지 못한 편지
+100	트랙스 (Trax)	오! 나의 여신님 (Oh! My Goddess)

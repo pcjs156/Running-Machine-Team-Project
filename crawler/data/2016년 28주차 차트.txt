@@ -1,0 +1,101 @@
+./data/2016년 28주차 차트.txt
+1	비와이(BewhY)	Forever (Prod. by GRAY)
+2	원더걸스 (Wonder girls)	Why So Lonely
+3	언니쓰	Shut Up (Feat. 유희열)
+4	사이먼 도미닉 (Simon Dominic), GRAY, 원 (ONE)	맘 편히 (Comfortable)
+5	자이언티(Zion.T)	쿵 (Knock)
+6	씨스타 (Sistar)	I Like That
+7	사이먼 도미닉 (Simon Dominic), 원(ONE), 지투(G2), BewhY	니가 알던 내가 아냐 (Prod. by GRAY)
+8	TWICE	CHEER UP
+9	보이비 (Boi B)	호랑나비 (Feat. Gill, 리듬파워)
+10	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+11	비스트 (Beast)	리본 (Ribbon)
+12	매드 클라운 (Mad Clown), 샵건 (#Gun)	비행소년 (Going Home)
+13	백예린	Bye bye my blue
+14	The Quiett, Superbee, myunDo, Flowsik, Dok2	공중도덕 (Air DoTheQ)
+15	자이언티(Zion.T), 씨잼(Cjamm), 레디(Reddy), 서출구	신사 ($insa)
+16	태연 (TAEYEON)	Why
+17	씨잼(Cjamm) &amp; 레디(Reddy)	현상수배 (Wanted)
+18	태연 (TAEYEON)	Starlight (Feat. DEAN)
+19	KUSH, 자이언티(Zion.T)	Machine Gun (Feat. MINO)
+20	백아연	쏘쏘
+21	자이언티(Zion.T), 서출구 (Xitsuh)	드러머 (Drummer) (Feat. 올티)
+22	벤 (Ben)	꿈처럼
+23	수지	Ring My Bell
+24	정은지	하늘바라기 (Feat. 하림)
+25	박경	자격지심 (Feat. 은하 of 여자친구)
+26	산이(San E), 레이나	달고나
+27	비스트 (Beast)	Butterfly
+28	EXO	Monster
+29	DEAN	D (half moon) (Feat. 개코)
+30	로꼬, GRAY (그레이)	GOOD (Feat. ELO)
+31	엠씨더맥스 (M.C The Max)	어디에도
+32	비와이 (BewhY)	The Time Goes On
+33	서현진, 유승우	사랑이 뭔데
+34	정승환	너였다면
+35	EXID	L.I.E
+36	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+37	AOA	Good Luck
+38	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+39	다비치	이 사랑
+40	거미	You Are My Everything
+41	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경)
+42	SUPERBEE, myunDo	Beverly 1lls
+43	악동뮤지션 (AKMU)	RE-BYE
+44	보아(BoA), 빈지노(Beenzino)	No Matter What
+45	TWICE	OOH-AHH하게
+46	매드 클라운 (Mad Clown), 도넛맨 (Donutman), 보이비 (Boi B), 샵건 (#Gun)	무궁화
+47	10cm	봄이 좋냐??
+48	정준일	안아줘
+49	원더걸스 (Wonder girls)	아름다운 그대에게
+50	지코 (ZICO)	너는 나 나는 너
+51	이적	걱정말아요 그대
+52	손승연	보란듯이 (Feat. 앤덥)
+53	케이윌 (K.Will)	말해! 뭐해?
+54	도끼 (Dok2)	1llusion
+55	EXO	Lucky One
+56	플로우식 (Flowsik), 더 콰이엇 (The Quiett), 도끼(Dok2)	RAPSTAR (remix)
+57	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+58	마마무 (Mamamoo)	넌 is 뭔들
+59	로이킴	어쩌면 나
+60	태연 (TAEYEON)	Rain
+61	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+62	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+63	블락비 (Block B)	Toy
+64	SG 워너비	사랑하자
+65	크러쉬 (CRUSH)	우아해 (woo ah)
+66	세븐틴	아주 NICE
+67	이하이	한숨
+68	윤미래 (T)	ALWAYS
+69	10cm	스토커
+70	정엽	그 애 (愛)
+71	아이오아이 (I.O.I)	Dream Girls
+72	임창정	또 다시 사랑
+73	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+74	원더걸스 (Wonder girls)	Sweet & Easy
+75	박용인, 권순일	No Way
+76	검정치마 (The Black Skirts)	기다린 만큼, 더
+77	정키 (Jung Key)	바라지 않아 (feat.소정 of 레이디스 코드)
+78	악동뮤지션 (AKMU)	사람들이 움직이는 게
+79	Justin Bieber	Love Yourself
+80	매드 클라운 (Mad Clown), 김나영	다시 너를
+81	10cm	니가 참 좋아
+82	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+83	방탄소년단	불타오르네 (FIRE)
+84	iKON	오늘 모해 (#WYD)
+85	샵건 (#Gun)	미친놈 (Feat. 제시)
+86	씨잼(Cjamm)	아름다워 (Beautiful) (Feat. 지코 (ZICO))
+87	Sam Smith	I`m Not The Only One
+88	태연 (TAEYEON)	제주도의 푸른 밤
+89	키썸(Kisum), 임슬옹	틀린그림찾기
+90	윤하	Sunflower
+91	스탠딩 에그(Standing Egg)	뚝뚝뚝 (with 예슬)
+92	첸(CHEN), 펀치 (Punch)	Everytime
+93	EXO	Heaven
+94	DEAN	21
+95	GRAY (그레이)	하기나 해 (Feat. Loco)
+96	주니엘 (JUNIEL)	물고기자리
+97	엠씨더맥스 (M.C The Max)	그대, 바람이 되어
+98	지코 (ZICO)	유레카 (Feat. Zion.T)
+99	우리 동네 음악대장	매일 매일 기다려 (우리동네 음악대장)
+100	비스트 (Beast)	하이라이트 (Highlight)

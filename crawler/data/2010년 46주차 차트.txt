@@ -1,0 +1,101 @@
+./data/2010년 46주차 차트.txt
+1	소녀시대	훗 (Hoot)
+2	2AM	전활 받지 않는 너에게
+3	강승윤	본능적으로 (Feat. Swings)
+4	장재인	가로수 그늘 아래 서면
+5	2AM	미친 듯이
+6	싸이 (Psy)	Right Now
+7	허각	언제나
+8	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+9	miss A	Breathe
+10	가인	돌이킬 수 없는
+11	거미	죽어도 사랑해
+12	2PM	I`ll Be Back
+13	이정	헤어지는 일 (Feat. 리쌍)
+14	지아 (Zia), 포맨 (4Men)	울고, 불고...
+15	2NE1 (투애니 원)	Go Away
+16	포맨 (4Men)	미안해 (Feat. 美)
+17	SG 워너비	해바라기
+18	비스트 (Beast)	숨
+19	존 박	빗속에서
+20	2NE1 (투애니 원)	Can`t Nobody
+21	민경훈	상처투성이
+22	레인보우 (Rainbow)	Mach (마하)
+23	2NE1 (투애니 원)	아파 (Slow)
+24	성시경, 아이유 (IU)	그대네요
+25	싸이 (Psy)	내 눈에는 (Feat. 이재훈)
+26	신승훈	두 번 헤어지는 일 (Vocal 다비치)
+27	싸이 (Psy)	Thank You (Feat. 서인영)
+28	임정희	진짜일 리 없어
+29	왁스 (Wax)	두 여자
+30	BMK	사랑은 이별보다 빨라서
+31	샤이니 (SHINee)	Hello
+32	미스에스 (Miss $)	Promise U (Feat. 정슬기)
+33	화요비	나 같은 여자
+34	아웃사이더	주인공 (Feat. LMNOP)
+35	2NE1 (투애니 원)	박수쳐
+36	슈프림팀, 영준 (브라운 아이드 소울)	왜
+37	남녀공학	Too Late
+38	숙희	가슴아 안돼
+39	신승훈	로미오 & 줄리엣 (Vocal 슈프림팀(Supreme Team))
+40	디셈버 (December)	눈부신 눈물
+41	박재범	베스티 (Bestie)
+42	임정희	헤어지러 가는 길 (Feat. 조권)
+43	마이티 마우스 (Mighty Mouth)	사랑이란 (Feat. 김희선)
+44	강승윤	당신께 쓰는 편지
+45	소녀시대	내 잘못이죠 (Mistake)
+46	소녀시대	첫눈에... (Snowy Wish)
+47	하하	너는 내 운명2
+48	포맨 (4Men)	Hello!
+49	모세 (Mose)	좋은 사람 (Feat.마리오)
+50	산이 (San E)	LoveSick
+51	별	오늘 참 아프다
+52	씨스타 (Sistar)	가식걸
+53	고유진	어떻게 이러니...
+54	Far East Movement	Like a G6 (Feat. Dev & The Cataracs)
+55	휘성	결혼까지 생각했어
+56	김장훈	비처럼 음악처럼
+57	소녀시대	단짝 (My Best Friend)
+58	허각	My Heart
+59	FTISLAND (FT 아일랜드)	사랑사랑사랑
+60	이승기	지금부터 사랑해 (내 여자친구는 구미호 삽입곡)
+61	2AM	다시 사랑하기엔
+62	황보	아직 난 예쁘다
+63	JYJ	찾았다
+64	씨야, 다비치	다 컸잖아
+65	배다해	My All
+66	Kelly Clarkson	Because Of You
+67	선우	눈 코 입 (Feat. 4MEN)
+68	소녀시대	Wake Up
+69	이현 (에이트)	왜 나를 울려요
+70	창민 (2AM), 이현 (에이트)	밥만 잘 먹더라
+71	레인보우 (Rainbow)	A
+72	이적	하늘을 달리다
+73	2AM	이젠 없다
+74	남녀공학	삐리뽐 빼리뽐
+75	윤하	One Shot (Feat. 주석)
+76	Ne-Yo	Cause I Said So
+77	윤종신	본능적으로 (Feat. Swings)
+78	miss A	Bad Girl Good Girl
+79	포맨 (4Men)	U
+80	미스에스 (Miss $)	이 나이 먹고 뭐했길래 (Feat. 정슬기)
+81	JYJ	Ayyy Girl (Feat. Kanye West & Malik Yu...
+82	티파니 (TIFFANY)	반지 (Banji)
+83	디셈버 (December)	세상에 소리쳐
+84	SG 워너비	겨울 나무
+85	신지	이 모양 이 꼴로...
+86	2AM	사랑한단 말 못해
+87	걸스데이 (Girl`s Day)	잘해줘봐야
+88	엠블랙 (MBLAQ)	Running & Running
+89	유브이 (UV)	연예인 D.C
+90	존 박	내가 다 줄게요
+91	레이디 제인 (Lady Jane)	이별 뭐 별거야
+92	이승철	그 사람
+93	윤종신	이별의 온도
+94	양정승 (Kiroy Y)	밤하늘의 별을 2 (Feat. 제이비 & 한지은)
+95	임재범	후회합니다
+96	이문세	사랑은 늘 도망가
+97	휘성	My Way (Dr.Champ)
+98	브로콜리 너마저	졸업
+99	산이 (San E)	맛좋은산 (Feat. Min)
+100	2AM	바로 나야 (Feat. GLAM)

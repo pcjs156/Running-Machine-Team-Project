@@ -1,0 +1,101 @@
+./data/2016년 41주차 차트.txt
+1	볼빨간사춘기	우주를 줄게
+2	박효신	숨
+3	임창정	내가 저지른 사랑
+4	한동근	이 소설의 끝을 다시 써보려 해
+5	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+6	유재석, EXO	Dancing King
+7	한동근	그대라는 사치
+8	거미	구르미 그린 달빛
+9	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+10	볼빨간사춘기	나만 안되는 연애
+11	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+12	박효신	Home
+13	성시경	다정하게, 안녕히
+14	BLACKPINK	휘파람
+15	에이핑크 (Apink)	내가 설렐 수 있게
+16	에일리 (Ailee)	If You
+17	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+18	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+19	젝스키스	세 단어
+20	존 박	네 생각
+21	박효신	Beautiful Tomorrow
+22	첸, 백현, 시우민 (EXO)	너를 위해
+23	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+24	TWICE	CHEER UP
+25	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+26	소유, 유승우	잠은 다 잤나봐요
+27	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+28	DEAN	D (half moon) (Feat. 개코)
+29	원더걸스 (Wonder girls)	Why So Lonely
+30	케이윌, 매드클라운	그게 뭐라고
+31	정승환	너였다면
+32	비와이(BewhY)	Forever (Prod. by GRAY)
+33	다비치	그대를 잊는다는 건
+34	벤 (Ben)	안갯길 (Prod. By 진영(B1A4))
+35	마마무 (Mamamoo)	NEW YORK
+36	임창정	또 다시 사랑
+37	인피니트 (Infinite)	태풍 (The Eye)
+38	샤이니 (SHINee)	1 of 1
+39	엠씨더맥스 (M.C The Max)	그대 그대 그대
+40	유승우	너만이 (Feat. 헤이즈)
+41	스탠딩 에그(Standing Egg)	여름밤에 우린
+42	엠씨더맥스 (M.C The Max)	어디에도
+43	에픽하이 (Epik High)	내 마음 들리나요 (Feat. 이하이)
+44	에일리 (Ailee)	Home (Feat. 윤미래)
+45	보이비 (Boi B)	호랑나비 (Feat. Gill, 리듬파워)
+46	백지영	Love Is Over
+47	BLACKPINK	붐바야
+48	정준일	안아줘
+49	김범수	사랑해요
+50	이하이	내 사랑 (MY LOVE)
+51	EXO	Lotto
+52	권진아	끝
+53	정준영	공감 (Feat. 서영은)
+54	베이지 (Beige)	그리워 그리워서 (라온Ver.)
+55	산들	그렇게 있어 줘
+56	로꼬, 펀치(Punch)	Say Yes
+57	김영근 (슈퍼스타K 2016)	탈진
+58	박효신	The Dreamer (I am A Dreamer)
+59	바비 (BOBBY)	꽐라
+60	백예린	Bye bye my blue
+61	비와이 (BewhY)	The Time Goes On
+62	볼빨간사춘기	You(=I)
+63	벤 (Ben)	꿈처럼
+64	정은지	하늘바라기 (Feat. 하림)
+65	환희	사랑이 아프다
+66	케이윌 (K.Will)	녹는다
+67	백아연	사랑인 듯 아닌 듯
+68	슈퍼비	냉탕에 상어 (Feat. 블랙넛)
+69	10cm	스토커
+70	MINO (WINNER)	몸
+71	볼빨간사춘기	심술
+72	박경	자격지심 (Feat. 은하 of 여자친구)
+73	형돈이와 대준이	결정 (Feat. 아이유)
+74	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+75	씨스타 (Sistar)	I Like That
+76	박효신	Wonderland
+77	MOBB	빨리 전화해 (Feat. KUSH)
+78	Sam Smith	I`m Not The Only One
+79	이적	걱정말아요 그대
+80	EXO	Monster
+81	아이오아이 (I.O.I)	Whatta Man (Good man)
+82	Justin Bieber	Love Yourself
+83	다비치	이 사랑
+84	거미	You Are My Everything
+85	이적	깍지
+86	사이먼 도미닉 (Simon Dominic), GRAY, 원 (ONE)	맘 편히 (Comfortable)
+87	백아연	쏘쏘
+88	박효신	Shine your light
+89	태연 (TAEYEON)	All With You
+90	샵건 (#Gun)	미친놈 (Feat. 제시)
+91	박효신	Li-La (리라)
+92	샤이니 (SHINee)	투명 우산 (Don’t Let Me Go)
+93	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+94	허각, 정은지(Apink)	바다
+95	이하이	한숨
+96	방탄소년단	불타오르네 (FIRE)
+97	박효신	I′m your friend
+98	사이먼 도미닉 (Simon Dominic), 원(ONE), 지투(G2), BewhY	니가 알던 내가 아냐 (Prod. by GRAY)
+99	비스트 (Beast)	리본 (Ribbon)
+100	태연 (TAEYEON)	Why

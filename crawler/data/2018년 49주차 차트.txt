@@ -1,0 +1,101 @@
+./data/2018년 49주차 차트.txt
+1	송민호	아낙네
+2	제니 (JENNIE)	SOLO
+3	폴킴	너를 만나
+4	TWICE	YES or YES
+5	바이브 (Vibe)	가을 타나 봐
+6	아이유 (IU)	삐삐
+7	케이윌 (K.Will)	내 생에 아름다운
+8	비투비 (BTOB)	아름답고도 아프구나
+9	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+10	양다일	고백
+11	Wanna One (워너원)	봄바람
+12	임창정	하루도 그대를 사랑하지 않은 적이 없었다
+13	마마무 (Mamamoo)	Wind flower
+14	레드벨벳(Red Velvet)	RBB (Really Bad Boy)
+15	하은 (라코스테남)	신용재
+16	EXO	Tempo
+17	pH-1, Kid Milli, 루피 (Loopy)	Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트)
+18	숀 (SHAUN)	Way Back Home
+19	허각	흔한 이별
+20	벤 (Ben)	열애중
+21	Ariana Grande	thank u, next
+22	임한별	이별하러 가는 길
+23	김동률	동화 (Feat. 아이유)
+24	로꼬 (LOCO)	시간이 들겠지 (Feat. Colde)
+25	IZ*ONE (아이즈원)	라비앙로즈 (La Vie en Rose)
+26	자이언티(Zion.T)	멋지게 인사하는 법 (Feat. 슬기 of Red Velvet)
+27	로이킴	우리 그만하자
+28	펀치 (Punch)	헤어지는 중
+29	닐로 (Nilo)	지나오다
+30	다비치	꿈처럼 내린
+31	선미	사이렌 (Siren)
+32	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+33	김범수	첫눈처럼 너에게 가겠다 (Prod. 로코베리)
+34	방탄소년단	IDOL
+35	Queen	Bohemian Rhapsody (2011 Remaster)
+36	저스디스 (JUSTHIS), Kid Milli, NO:EL, 영비 (Young B)	IndiGO
+37	폴킴	비
+38	양다일	미안해
+39	아이유 (IU)	밤편지
+40	어반 자카파 (Urban Zakapa)	이 밤이 특별해진 건
+41	EXID	알러뷰
+42	노을	너는 어땠을까
+43	TWICE	Dance The Night Away
+44	Queen	Bohemian Rhapsody
+45	먼데이 키즈 (Monday Kiz)	가을 안부
+46	SUPERBEE	수퍼비와 (Feat. BewhY) (Prod. BewhY)
+47	iKON	이별길 (GOODBYE ROAD)
+48	루피(Loopy)	Save (Feat. 팔로알토) (Prod. 코드 쿤스트)
+49	웬디	Goodbye
+50	기리보이, Kid Milli, NO:EL, 스윙스 (Swings)	flex (Prod. By 기리보이)
+51	로이킴	그때 헤어지면 돼
+52	볼빨간사춘기	여행
+53	황치열	그대가 내 안에 박혔다
+54	Wanna One (워너원)	집
+55	비투비 (BTOB)	너 없인 안 된다
+56	방탄소년단	FAKE LOVE
+57	Wanna One (워너원)	에너제틱 (Energetic)
+58	비투비 (BTOB)	그리워하다
+59	Wanna One (워너원)	Beautiful
+60	멜로망스(Melomance)	선물
+61	Wanna One (워너원)	불꽃놀이 (Flowerbomb)
+62	장덕철	그날처럼
+63	마미손	소년점프 (Feat. 배기성)
+64	마마무 (Mamamoo)	너나 해 (Egotistic)
+65	방탄소년단	봄날
+66	EXO	Gravity
+67	iKON	사랑을 했다 (LOVE SCENARIO)
+68	정승환	잘 지내요
+69	Wanna One (워너원)	술래
+70	벤 (Ben)	180도
+71	뉴이스트 W	HELP ME
+72	레드벨벳(Red Velvet)	Power Up
+73	Coogie, SUPERBEE, D.Ark	사임사임 (Feat. CHANGMO)
+74	EXO	닿은 순간 (Ooh La La La)
+75	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+76	Wanna One (워너원)	BOOMERANG (부메랑)
+77	Wanna One (워너원)	켜줘 (Light)
+78	다이나믹 듀오 (Dynamic Duo)	북향 (Feat. 오혁)
+79	Wanna One (워너원)	묻고싶다 (One Love)
+80	방탄소년단	I`m Fine
+81	Ariana Grande	Santa Tell Me
+82	Fitz &amp; The Tantrums	HandClap
+83	BLACKPINK	Forever Young
+84	멜로망스(MeloMance)	동화
+85	방탄소년단	DNA
+86	멜로망스(MeloMance)	You
+87	EXO	24/7
+88	Wanna One (워너원)	Deeper
+89	로꼬, 화사	주지마
+90	루피(Loopy)	NoNo (Feat. 사이먼 도미닉) (Prod. 코드 쿤스트)
+91	Wanna One (워너원)	Beautiful (Part ll)
+92	Ed Sheeran	Shape of You
+93	승리	셋 셀테니 (1, 2, 3!)
+94	Queen	I Was Born To Love You
+95	Wanna One (워너원)	소나무
+96	볼빨간사춘기	My Trouble
+97	닐로 (Nilo)	넋두리
+98	Wanna One (워너원)	Awake!
+99	이수	My Way
+100	Camila Cabello	Havana (Feat. Young Thug)

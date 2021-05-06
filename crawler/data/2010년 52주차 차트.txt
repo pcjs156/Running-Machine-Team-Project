@@ -1,0 +1,101 @@
+./data/2010년 52주차 차트.txt
+1	아이유 (IU)	좋은 날
+2	씨스타 (Sistar)	니까짓게
+3	태연 (TAEYEON)	사랑해요 (I Love You)
+4	백지영	그여자
+5	브라운 아이드 소울 (Brown Eyed Soul)	똑같다면
+6	티아라 (T-ara)	왜 이러니
+7	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+8	윤하	내 남자친구를 부탁해
+9	박효신	사랑이 고프다 (I Promise You)
+10	티아라 (T-ara)	yayaya
+11	GD, TOP  (빅뱅)	High High
+12	태연, 더 원 (The One)	별처럼
+13	아이유 (IU)	이게 아닌데
+14	GD, TOP  (빅뱅)	Oh Yeah (Feat. 박봄)
+15	애프터스쿨 (After School)	Love Love Love
+16	박칼린, 임정희	아름다운 널
+17	카라 (KARA)	점핑 (Jumping)
+18	신용재	이유
+19	허각	언제나
+20	소녀시대	훗 (Hoot)
+21	아이유 (IU)	첫 이별 그날 밤
+22	오렌지 캬라멜 (Orange Caramel)	아잉♡
+23	비스트 (Beast)	Beautiful
+24	서인영	리듬속으로
+25	2AM	전활 받지 않는 너에게
+26	아이유 (IU)	느리게 하는 일
+27	브라운 아이드 소울 (Brown Eyed Soul)	내려놔요
+28	허각	하늘을 달리다
+29	지아 (Zia)	몇 월 며칠 몇 시 (Feat. 마이티 마우스)
+30	김범수	나타나
+31	이기찬	러브 (L.O.V.E) (Feat. 슈프림팀)
+32	아이유 (IU)	혼자 있는 방
+33	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+34	거미, 바비킴	러브 레시피
+35	포맨 (4Men), 美	Here I am
+36	싸이 (Psy)	Right Now
+37	강승윤	본능적으로 (Feat. Swings)
+38	허각	행복한 나를 (Feat. 존박)
+39	길미	바보처럼 왜이래 (Feat. 나윤권)
+40	성시경, 박효신, 서인국, 브라이언, 리사 (Lisa), 박학기, 김형중, 견우	Christmas Time
+41	2AM	미친 듯이
+42	장재인	가로수 그늘 아래 서면
+43	거미	죽어도 사랑해
+44	디셈버 (December)	눈부신 눈물
+45	가비엔제이 (Gavy NJ)	전화 좀 받어
+46	JYP Nation	This Christmas
+47	왁스 (Wax)	술이 웬수야
+48	백지영	그남자
+49	SG 워너비	해바라기
+50	2NE1 (투애니 원)	아파 (Slow)
+51	miss A	Breathe
+52	박지헌	마지막 사랑
+53	레인보우 (Rainbow)	Mach (마하)
+54	럼블피쉬	OK 끝내 (Feat. 조PD)
+55	김지수	널 지우는 일
+56	김진표 (JP)	이별 뒤에 해야 할 몇 가지 (Feat. 레이디제인)
+57	영지	이 노래 듣지마
+58	S.M. The Ballad	너무 그리워 (Miss You)
+59	엠씨더맥스 (M.C The Max)	사랑합니다 (Feat. 부활)
+60	김연아, 씨스타, 일렉트로보이즈	Super Girl
+61	강민경,  손동운 (비스트)	우동
+62	모세 (Mose)	I`m Sorry (Feat. 미스에스 태혜영)
+63	린 (LYn)	사랑의 눈보라
+64	슈퍼주니어 (Super Junior)	입술을 깨물고
+65	2NE1 (투애니 원)	Go Away
+66	Bois	상처만
+67	존 박	I`m Your Man
+68	조문근	너라는 걸
+69	지아 (Zia), 포맨 (4Men)	울고, 불고...
+70	샤이니 (SHINee)	하루 (X-Mas)
+71	2PM	I`ll Be Back
+72	Far East Movement	Like a G6 (Feat. Dev & The Cataracs)
+73	美	못해
+74	2NE1 (투애니 원)	Can`t Nobody
+75	코요태(KYT)	스키장에서 (White Love)
+76	버벌 진트 (Verbal Jint)	약속해 약속해 (Feat. G.NA)
+77	박효신	눈물날려 그래
+78	비스트 (Beast)	숨
+79	브라운 아이드 소울 (Brown Eyed Soul)	With Chocolate
+80	성시경, 아이유 (IU)	그대네요
+81	존 박	빗속에서
+82	김보경	Because Of You
+83	나윤권	그날 이후로
+84	노라조	멍멍이
+85	Black Eyed Peas	The Time (Dirty Bit)
+86	가인	돌이킬 수 없는
+87	윤상현	바라본다
+88	언터쳐블 (Untouchable)	난리 브루스 (Feat. Vasco)
+89	나윤권	바보랍니다
+90	포맨 (4Men)	미안해 (Feat. 美)
+91	지연 (티아라)	점점 (Acoustic Ver.)
+92	제이세라 (J-Cera)	여자이니까
+93	박효신	Only U
+94	박보람	세월이 가면
+95	싸이 (Psy)	내 눈에는 (Feat. 이재훈)
+96	김현지 (SoulQuin)	Everything
+97	정슬기	어떻게 한번을 안 마주치니
+98	요조	우리는 선처럼 가만히 누워 (Feat. 이상순)
+99	진주	너의 여자가 아니야
+100	Eric Benet	Never Want To Live Without You

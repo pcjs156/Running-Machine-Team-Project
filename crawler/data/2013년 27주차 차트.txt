@@ -1,0 +1,101 @@
+./data/2013년 27주차 차트.txt
+1	씨스타 (Sistar)	Give It To Me
+2	김예림 (투개월)	All Right
+3	이승철	My Love
+4	씨스타 (Sistar)	넌 너무 야해 (The Way You Make Me Melt) (Fe...
+5	허각, 정은지 (에이핑크)	짧은머리
+6	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+7	포맨 (4Men)	너 하나야
+8	로이킴	Love Love Love
+9	버벌진트 (Verbal Jint)	비범벅 (Feat. 범키)
+10	씨스타 (Sistar)	바빠 (Bad Boy)
+11	걸스데이 (Girl`s Day)	여자 대통령
+12	애프터스쿨 (After School)	첫사랑
+13	포미닛 (4Minute)	이름이 뭐예요?
+14	써니힐 (Sunny Hill)	만인의 연인 (Feat. 하림)
+15	최진혁	잘 있나요 (Acoustic Ver.)
+16	아이비 (Ivy)	I Dance (Feat. 유빈)
+17	아웃사이더	슬피 우는 새 (Feat. 이수영)
+18	더 원 (The One)	잘 있나요
+19	Dal★Shabet (달샤벳)	내 다리를 봐 (Be Ambitious)
+20	포맨 (4Men)	청혼하는 거예요
+21	이효리	Bad Girls
+22	비스트 (Beast)	괜찮겠니
+23	정엽	왜 이제야 왔니
+24	로이킴	봄봄봄
+25	백아연	a Good Boy
+26	비스트 (Beast)	I`m Sorry
+27	이승철	사랑하고 싶은 날
+28	악동뮤지션 (AKMU)	콩떡빙수
+29	씨스타 (Sistar)	Crying
+30	긱스 (Geeks)	Wash Away (Feat. 에일리)
+31	시크릿 (Secret)	Yoo Hoo
+32	울랄라세션	거름
+33	투빅 (2BiC)	회복이 급해 (Feat. 하림, 호투)
+34	악동뮤지션 (AKMU)	I Love You
+35	김예림 (투개월)	컬러링
+36	바이브 (Vibe)	꼭 한번 만나고 싶다
+37	레인보우 (Rainbow)	Sunshine
+38	넬 (Nell)	Ocean Of Light
+39	투개월	Number 1
+40	걸스데이 (Girl`s Day)	기대해
+41	비원에이포 (B1A4)	이게 무슨 일이야
+42	싸이 (Psy)	Gentleman
+43	이현우	청춘예찬
+44	바이브 (Vibe)	이 나이 먹도록
+45	티아라 (T-ara)	진통제
+46	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+47	이효리	미스코리아
+48	린 (LYn)	오늘 밤 (Feat. 배치기)
+49	다비치	녹는 중 (Feat. 버벌진트)
+50	수지 (미스에이)	나를 잊지말아요
+51	울랄라세션	한사람 (I`ll Be There)
+52	헨리 (Henry)	Trap
+53	이승기	마지막 그 한마디
+54	CL (2NE1)	나쁜 기집애
+55	소울스타 (Soul Star)	Call My Name
+56	엠블랙 (MBLAQ)	스모키걸(Smoky Girl)
+57	다비치	거북이
+58	리오 케이코아 (Leo Kekoa)	So Good (Feat. 빈지노, 예은)
+59	빈지노 (Beenzino)	Boogie On & On
+60	EXO	늑대와 미녀 (Wolf)
+61	케이윌 (K.Will)	Love Blossom (러브블러썸)
+62	조용필	Bounce
+63	윤하	우리가 헤어진 진짜 이유
+64	포미닛 (4minute)	물 좋아?
+65	계범주	낯선 천장
+66	긱스 (Geeks)	어때 (Feat. 하림)
+67	린 (LYn)	유리 심장 (Feat. 용준형)
+68	티아라 N4	전원일기 (田園日記)
+69	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+70	DJ Gollum Vs. EmpyreOne	The Bad Touch (Gordon & Doyle Edit)
+71	박재범	좋아 (Joah)
+72	악동뮤지션 (AKMU)	Crescendo (크레셴도)
+73	신용재	가수가 된 이유
+74	리쌍	눈물 (Feat. 유진)
+75	정기고 (Junggigo)	좋았나봐
+76	씨스타19	있다 없으니까 (Gone Not Around Any Longer)
+77	자이언티(Zion.T)	Babay (Feat. Gaeko)
+78	신화	This Love
+79	나인 뮤지스 (Nine Muses)	와일드 (Wild)
+80	스윗소로우(Sweet Sorrow)	괜찮아 떠나
+81	서인영	헤어지자
+82	이하이	Rose
+83	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+84	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+85	보아 (BoA)	천국과 지옥 사이 (Between Heaven And Hell)
+86	허각, 유승우	모노드라마
+87	주니엘 (Juniel)	귀여운 남자
+88	로이킴	그대를 사랑한단 말
+89	악동뮤지션 (AKMU)	외국인의 고백
+90	긱스 (Geeks), 소유	Officially Missing You, Too
+91	배치기	눈물샤워 (Feat. 에일리)
+92	김예림 (투개월)	잘 알지도 못하면서
+93	코요태(KYT)	Marry Me
+94	라디 (Ra. D)	어떤 설레임
+95	Carly Rae Jepsen	Call Me Maybe
+96	조용필	Hello (Feat. 버벌진트)
+97	써니힐 (Sunny Hill), 데이브레이크 (Daybreak)	들었다 놨다 (Love Actually)
+98	씨스타 (Sistar)	Summer Time
+99	백지영	봄비
+100	2PM	하.니.뿐.

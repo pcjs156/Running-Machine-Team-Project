@@ -1,0 +1,201 @@
+./data/2020년 10주차 차트.txt
+1	지코 (ZICO)	아무노래
+2	아이유 (IU)	마음을 드려요
+3	방탄소년단	ON
+4	창모 (CHANGMO)	METEOR
+5	IZ*ONE (아이즈원)	FIESTA
+6	레드벨벳(Red Velvet)	Psycho
+7	아이유 (IU)	Blueming
+8	노을	늦은 밤 너의 집 앞 골목길에서
+9	백예린	다시 난, 여기
+10	가호 (Gaho)	시작
+11	장범준	흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야
+12	방탄소년단	Black Swan
+13	방탄소년단	00_00 (Zero O`Clock)
+14	크러쉬 (CRUSH)	둘만의 세상으로 가
+15	악동뮤지션 (AKMU)	어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+16	방탄소년단	작은 것들을 위한 시 (Boy With Luv) (Feat. Hals...
+17	마마무 (Mamamoo)	HIP
+18	방탄소년단	친구
+19	김필	그때 그 아인
+20	아이유 (IU)	Love poem
+21	마크툽 (Maktub)	오늘도 빛나는 너에게 (To You My Light) (Feat.이라...
+22	백예린	Square (2017)
+23	백현 (BAEKHYUN)	너를 사랑하고 있어
+24	Anne-Marie	2002
+25	진민호	반만
+26	방탄소년단	Filter
+27	염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉	아마두 (Feat. 우원재, 김효은, 넉살, Huckleberry P...
+28	전상근	사랑이란 멜로는 없어
+29	폴킴	안녕
+30	김재환	어떤 날엔
+31	임재현	조금 취했어 (Prod. 2soo)
+32	창모 (CHANGMO)	빌었어
+33	HYNN(박혜원)	시든 꽃에 물을 주듯
+34	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+35	방탄소년단	시차
+36	방탄소년단	Moon
+37	V.O.S	다시 만날까 봐
+38	마크툽 (Maktub)	마음이 말하는 행복 (Happiness) (Feat.이라온)
+39	윤미래 (T)	Flower
+40	Billie Eilish	bad guy
+41	청하	솔직히 지친다
+42	다비치	나의 오랜 연인에게
+43	방탄소년단	Inner Child
+44	백지영	다시는 사랑하지 않고, 이별에 아파하기 싫어
+45	황인욱	포장마차
+46	Lauv	Paris In The Rain
+47	먼데이 키즈 (Monday Kiz)	사랑이 식었다고 말해도 돼
+48	폴킴	너를 만나
+49	방탄소년단	We are Bulletproof _ the Eternal
+50	신예영	우리 왜 헤어져야 해
+51	개코 (GAEKO)	바빠서 (Feat. 헤이즈)
+52	방탄소년단	욱 (UGH!)
+53	방탄소년단	Louder than bombs
+54	Anne-Marie	Birthday
+55	임재현	사랑에 연습이 있었다면 (Prod. 2soo)
+56	장덕철	있어줘요
+57	Shawn Mendes, Camila Cabello	Senorita
+58	Ruel	Painkiller
+59	송하예	니 소식
+60	V.O.S	잘 지내고 있는지 궁금해
+61	송하예	새 사랑
+62	Idina Menzel, AURORA	Into the Unknown
+63	창모, Hash Swan, ASH ISLAND, 김효은	BAND
+64	송가인	내 마음의 사진
+65	거미	기억해줘요 내 모든 날과 그때를
+66	김나영, 양다일	헤어진 우리가 지켜야 할 것들
+67	이예준	미친 소리
+68	방탄소년단	Interlude _ Shadow
+69	씨야 (SeeYa)	사랑의 인사
+70	태연 (TAEYEON)	사계 (Four Seasons)
+71	방탄소년단	Respect
+72	황인욱	이별주
+73	Jeremy Zucker	comethru
+74	거미	너의 하루는 좀 어때
+75	다비치	노을
+76	방탄소년단	Outro _ Ego
+77	창모 (CHANGMO), ASH ISLAND, 정기고	PAY DAY (Prod. GRAY)
+78	태연 (TAEYEON)	그대라는 시
+79	잔나비	주저하는 연인들을 위해
+80	Arizona Zervas	ROXANNE
+81	방탄소년단	봄날
+82	에이치코드 (H:CODE)	꿈속에 너 (Feat. 전상근)
+83	KCM	버릇처럼 셋을 센다
+84	바이브 (Vibe)	이 번호로 전화해줘
+85	이승철	내가 많이 사랑해요
+86	볼빨간사춘기	워커홀릭
+87	하현우	돌덩이
+88	백현 (BAEKHYUN)	너에게 가는 이 길 위에서 (너.이.길)
+89	MC몽	인기 (Feat. 송가인, 챈슬러)
+90	HYNN(박혜원)	차가워진 이 바람엔 우리가 써있어(Bad Love)
+91	오반 (OVAN)	어떻게 지내
+92	Conan Gray	Maniac
+93	Maroon 5	Memories
+94	태연 (TAEYEON)	불티 (Spark)
+95	씨야 (SeeYa)	미친 사랑의 노래
+96	V.O.S	잘 살고 있다
+97	New Hope Club, Danna Paola	Know Me Too Well
+98	아이유 (IU)	시간의 바깥
+99	찬열 (CHANYEOL), 펀치 (Punch)	Go away go away
+100	세정	나의 모든 날
+101	장혜진, 윤민수	술이 문제야
+102	폴킴, 청하	Loveship
+103	다비치	너에게 못했던 내 마지막 말은
+104	Dua Lipa	Don`t Start Now
+105	전상근	돌아와 줘
+106	TWICE	Feel Special
+107	EXO	Obsession
+108	케이시 (Kassy)	그때가 좋았어
+109	정승환	십이월 이십오일의 고백
+110	휘인	헤어지자 (Prod. 정키)
+111	케이시 (Kassy)	가을밤 떠난 너
+112	10cm	나의 어깨에 기대어요
+113	임영웅	어느 60대 노부부이야기
+114	태연 (TAEYEON)	내게 들려주고 싶은 말 (Dear Me)
+115	Justin Bieber	Yummy
+116	(여자)아이들	LION
+117	김재환	안녕
+118	Naomi Scott	Speechless (Full)
+119	펀치 (Punch)	영화 속에 나오는 주인공처럼
+120	아이유 (IU)	밤편지
+121	장범준	노래방에서
+122	방탄소년단	IDOL
+123	폴킴	허전해
+124	Idina Menzel, Evan Rachel Wood	Show Yourself
+125	육성재	그날의 바람
+126	Sam Smith	To Die For
+127	방탄소년단	소우주 (Mikrokosmos)
+128	윤건	하루에도 열두 번
+129	윤미래 (T)	Say
+130	영탁	막걸리 한잔
+131	pH-1	Nerdy Love (Feat. 백예린)
+132	Imagine Dragons	Believer
+133	씨야 (SeeYa)	사랑의 인사
+134	Post Malone	Circles
+135	여자친구 (GFRIEND)	교차로 (Crossroads)
+136	Sia	Snowman
+137	김나영	솔직하게 말해서 나
+138	벤 (Ben)	헤어져줘서 고마워
+139	Ariana Grande	7 rings
+140	Lauv	Changes
+141	Tones And I	Dance Monkey
+142	Kiana Lede	EX
+143	TWICE	FANCY
+144	Harry Styles	Falling
+145	아이유 (IU)	unlucky
+146	Liam Payne	Stack It Up (Feat. A Boogie Wit da Hoo...
+147	Ed Sheeran	Shape of You
+148	볼빨간사춘기	나만, 봄
+149	Troye Sivan	Youth
+150	임영웅	바램
+151	엠씨더맥스 (M.C The Max)	사계 (하루살이)
+152	폴킴	비
+153	솔라, 케이시 (Kassy)	이 노랜 꽤 오래된 거야 (A song from the past)
+154	IZ*ONE (아이즈원)	AYAYAYA
+155	태연 (TAEYEON)	숨겨진 세상 (Into the Unknown End Credit Ve...
+156	닐로 (Nilo)	벗
+157	Marshmello, Anne-Marie	FRIENDS
+158	Alan Walker, Sabrina Carpenter, Farruko	On My Way
+159	엠씨더맥스 (M.C The Max)	넘쳐흘러
+160	Dan + Shay, Justin Bieber	10,000 Hours
+161	ITZY (있지)	달라달라
+162	Charlie Puth	Attention
+163	이우	이별행동
+164	10cm	우연인 듯 운명
+165	숀 (SHAUN)	Way Back Home
+166	AOA	날 보러 와요 (Come See Me)
+167	이찬원	진또배기
+168	씨야 (SeeYa)	구두
+169	UMI	Love Affair
+170	Charlie Puth	One Call Away
+171	Christopher	Bad
+172	박효신	Goodbye
+173	가비엔제이 (Gavy NJ)	신촌에 왔어
+174	Khalid, Disclosure	Talk
+175	Harry Styles	Watermelon Sugar
+176	Ariana Grande	thank u, next
+177	Lauv	I Like Me Better
+178	IZ*ONE (아이즈원)	비올레타
+179	ITZY (있지)	ICY
+180	성시경, 아이유 (IU)	첫 겨울이니까
+181	NCT 127	영웅 (英雄; Kick It)
+182	청하	벌써 12시
+183	엔플라잉 (N.Flying)	옥탑방
+184	이수영	날 찾아
+185	주호	그때의 니가 그리워
+186	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+187	DPR LIVE	KISS ME
+188	JP Saxe	If The World Was Ending (Feat. Julia M...
+189	Selena Gomez	Lose You To Love Me
+190	유산슬	사랑의 재개발
+191	멜로망스(Melomance)	선물
+192	아이유 (IU)	삐삐
+193	Alan Walker	All Falls Down (Feat. Noah Cyrus, Digi...
+194	윤토벤 (YounToven)	서툰 이별을 하려해 (Feat.전상근)
+195	Billie Eilish	everything i wanted
+196	볼빨간사춘기	여행
+197	윤하	먹구름
+198	Justin Bieber	Love Yourself
+199	홍진영	오늘 밤에
+200	Pink Sweat$	Honesty

@@ -1,0 +1,101 @@
+./data/2012년 42주차 차트.txt
+1	가인	피어나
+2	나얼	바람기억
+3	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+4	정은지, 서인국	All For You
+5	G-Dragon	크레용 (Crayon)
+6	G-Dragon	Missing You (Feat. 김윤아)
+7	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+8	싸이 (Psy)	강남스타일
+9	티아라 (T-ara)	Sexy Love
+10	허각, 지아 (Zia)	I Need You
+11	시크릿 (Secret)	Poison
+12	G-Dragon	그XX
+13	XIA(준수)	사랑은 눈꽃처럼
+14	15&amp; (박지민, 백예린)	I Dream
+15	10cm	Fine Thank You And You
+16	이승철	아마추어
+17	허각	아프다
+18	김태우	내가 나를 봐도 슬퍼..
+19	정은지, 서인국	우리 사랑 이대로
+20	싸이 (Psy)	어땠을까 (Feat. 박정현)
+21	휘성	너라는 명작
+22	FTISLAND (FT 아일랜드)	좋겠어 (I Wish)
+23	어반 자카파 (Urban Zakapa)	니가 싫어
+24	더 원 (The One)	아시나요 (원곡가수 조성모)
+25	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+26	마이티 마우스 (Mighty Mouth)	이럴때면 (Feat. 린)
+27	백아연	느린노래
+28	카라 (KARA)	Pandora
+29	더 원 (The One)	그 남자 (원곡가수 현빈)
+30	이현 (에이트)	촌스러워서
+31	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+32	나얼	Missing You
+33	이석훈	좋으니까
+34	씨스타 (Sistar)	Loving U (러빙유)
+35	이승철	말리꽃
+36	나비 (Navi)	가지마
+37	동방신기	Catch Me
+38	G-Dragon	One Of A Kind
+39	2NE1 (투애니 원)	I Love You
+40	이종현(CNBLUE)	내 사랑아
+41	비스트 (Beast)	아름다운 밤이야
+42	포맨 (4Men)	Hello!
+43	가인	팅커벨
+44	더블 케이 (Double K)	멘트 (Feat. 개코)
+45	가인	그녀를 만나
+46	미스에스 (Miss $)	담배 좀 줄여
+47	나얼	이별시작
+48	보아 (BoA)	Only One
+49	가비엔제이 (Gavy NJ)	Lady Killer
+50	이수영	착한 여자
+51	G-Dragon	결국 (Feat. ? of YG New Girl Group)
+52	태연 (TAEYEON)	가까이
+53	다비치	남자도 우나요
+54	주니엘 (Juniel)	illa illa (일라 일라)
+55	스피카(SPICA)	I`ll Be There
+56	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+57	Maroon 5	One More Night
+58	버벌진트 (Verbal Jint)	충분히 예뻐
+59	김광석	먼지가 되어
+60	10cm	한강의 작별
+61	긱스 (Geeks)	Officially Missing You
+62	국카스텐 (Guckkasten)	나 혼자 (원곡가수 씨스타)
+63	10cm	오늘밤에
+64	나얼	기억리듬
+65	라니아(Rania)	STYLE
+66	10cm	그대와 나
+67	인피니트 (Infinite)	환상그녀
+68	케이윌 (K.Will)	사랑은 그대다
+69	비스트 (Beast)	Midnight (별 헤는 밤)
+70	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+71	B.A.P	대박사건 (Crash)
+72	G-Dragon	Today (Feat. 김종완 of Nell)
+73	나얼	여전히 난
+74	10cm	냄새나는 여자
+75	윤하	서쪽 하늘
+76	티아라 (T-ara)	Day By Day
+77	백지영	사랑아 또 사랑아
+78	신용재	자꾸만 자꾸만
+79	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+80	허각	한사람
+81	EXID	매일밤
+82	더 원 (The One)	지나간다 (원곡가수 김범수)
+83	이현 (에이트)	가슴이 시린 게
+84	신용재	가수가 된 이유
+85	Carly Rae Jepsen	Call Me Maybe
+86	10cm	너의 꽃
+87	가인	시선
+88	윤하	눈물이 한방울
+89	Maroon 5	Payphone (Feat. Wiz Khalifa)
+90	김진표 (JP)	미안해서 미안해
+91	소냐	굿바이 투 로맨스
+92	소울스타 (Soulstar)	강남역 10번 출구
+93	10cm	고추잠자리
+94	씨스타 (Sistar)	나혼자 (Alone)
+95	쥬얼리 (Jewelry)	룩앳미 (Look At Me)
+96	Ke$ha	Die Young
+97	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+98	럼블피쉬	으라차차 2012
+99	싸이 (Psy)	77학개론 (Feat. 리쌍, 김진표)
+100	선예 (원더걸스)	내게 와줘

@@ -1,0 +1,101 @@
+./data/2016년 23주차 차트.txt
+1	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+2	TWICE	CHEER UP
+3	백아연	쏘쏘
+4	박경	자격지심 (Feat. 은하 of 여자친구)
+5	벤 (Ben)	꿈처럼
+6	정은지	하늘바라기 (Feat. 하림)
+7	iKON	오늘 모해 (#WYD)
+8	AOA	Good Luck
+9	악동뮤지션 (AKMU)	RE-BYE
+10	도끼 (Dok2)	1llusion
+11	서현진, 유승우	사랑이 뭔데
+12	DEAN	D (half moon) (Feat. 개코)
+13	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경)
+14	엠씨더맥스 (M.C The Max)	어디에도
+15	10cm	봄이 좋냐??
+16	다비치	이 사랑
+17	크러쉬 (CRUSH)	우아해 (woo ah)
+18	거미	You Are My Everything
+19	블락비 (Block B)	Toy
+20	악동뮤지션 (AKMU)	사람들이 움직이는 게
+21	아이오아이 (I.O.I)	Dream Girls
+22	케이윌 (K.Will)	말해! 뭐해?
+23	로이킴	어쩌면 나
+24	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+25	빈지노 (Beenzino)	토요일의 끝에서 (Feat. Blacknut)
+26	마마무 (Mamamoo)	넌 is 뭔들
+27	지코 (ZICO)	너는 나 나는 너
+28	이적	걱정말아요 그대
+29	정승환	너였다면
+30	TWICE	OOH-AHH하게
+31	방탄소년단	불타오르네 (FIRE)
+32	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+33	SG 워너비	사랑하자
+34	윤미래 (T)	ALWAYS
+35	키썸 (Kisum)	맥주 두 잔
+36	길 (리쌍)	냉장고 (Feat. 이하이, 버벌진트)
+37	EXID	L.I.E
+38	정준일	안아줘
+39	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+40	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+41	매드 클라운 (Mad Clown), 김나영	다시 너를
+42	산이 (San E)	마치 비행기 (Feat. 개리)
+43	이하이	한숨
+44	Jessica (제시카)	Fly (Feat. Fabolous)
+45	첸(CHEN), 펀치 (Punch)	Everytime
+46	XIA(준수)	How Can I Love You
+47	아이오아이 (I.O.I)	벚꽃이 지면
+48	소녀온탑	같은 곳에서
+49	임창정	또 다시 사랑
+50	어반 자카파 (Urban Zakapa)	궁금해
+51	PRODUCE 101	PICK ME
+52	비와이 (BewhY)	The Time Goes On
+53	엠씨더맥스 (M.C The Max)	그대, 바람이 되어
+54	헤이즈 (Heize)	Shut Up & Groove (Feat. DEAN)
+55	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+56	10cm	스토커
+57	어반 자카파 (Urban Zakapa)	다 좋아
+58	태연 (TAEYEON)	Rain
+59	케이윌, 백현 (BAEKHYUN)	The Day
+60	장범준	사랑에 빠졌죠 (당신만이)
+61	에릭남, 웬디	봄인가 봐 (Spring Love)
+62	Justin Bieber	Love Yourself
+63	로꼬 (LOCO)	너도 (Feat. Cha Cha Malone)
+64	지코 (ZICO)	유레카 (Feat. Zion.T)
+65	악동뮤지션 (AKMU)	새삼스럽게 왜
+66	어반 자카파 (Urban Zakapa)	아직도 나를 사랑한다면
+67	Jessie J, Ariana Grande, Nicki Minaj	Bang Bang
+68	종현 (JONGHYUN)	좋아 (She is)
+69	태연 (TAEYEON)	제주도의 푸른 밤
+70	수지, 백현 (BAEKHYUN)	Dream
+71	XIA(준수)	..IS YOU
+72	MC그리	열아홉
+73	빈지노 (Beenzino)	Time Travel
+74	Sam Smith	I`m Not The Only One
+75	마카롱 꿀떡	Yum-Yum (얌얌)
+76	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+77	바이브 (Vibe)	1년 365일 (Feat.거미)
+78	러블리즈	Ah-Choo
+79	세븐틴	예쁘다
+80	우리 동네 음악대장	매일 매일 기다려 (우리동네 음악대장)
+81	첸 (CHEN), 헤이즈, 바이브	썸타 (Lil` Something)
+82	DEAN	21
+83	젝스키스	커플
+84	우리동네 음악대장	백만송이 장미 (우리 동네 음악대장)
+85	린 (LYn)	바람에 머문다
+86	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+87	블락비 (Block B)	몇 년 후에
+88	김범수	그댄 행복에 살텐데
+89	오혁	소녀
+90	티파니 (TIFFANY)	I Just Wanna Dance
+91	어반 자카파 (Urban Zakapa)	Nearness is to love
+92	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+93	빈지노 (Beenzino)	Life In Color
+94	지민 (AOA)	야 하고 싶어 (Feat.시우민 of EXO)
+95	악동뮤지션 (AKMU)	초록창가
+96	남우현	끄덕끄덕
+97	오마이걸 (OH MY GIRL)	WINDY DAY
+98	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+99	백아연	이럴거면 그러지말지 (Feat. 영현)
+100	러블리즈	Destiny (나의 지구)

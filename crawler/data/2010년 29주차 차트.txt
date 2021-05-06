@@ -1,0 +1,101 @@
+./data/2010년 29주차 차트.txt
+1	miss A	Bad Girl Good Girl
+2	MC몽	죽을 만큼 아파서 (Feat. 멜로우)
+3	조권 (2AM)	고백하던 날
+4	아이유 (IU), 슬옹 (2AM)	잔소리
+5	태양	I Need A Girl (Feat. G-dragon)
+6	손담비	queen
+7	백지영	시간이 지나면
+8	나르샤 (브라운 아이드 걸스)	I`m In Love (with 정성하)
+9	씨스타 (Sistar)	Push Push
+10	T.O.P	Turn It Up
+11	씨엔블루 (CNBLUE)	Love
+12	원더걸스 (Wonder Girls)	2 Different Tears
+13	서인영	사랑이라 쓰고 아픔이라 부른다
+14	슈프림팀 (Supreme Team)	땡땡땡
+15	포미닛 (4minute)	HUH
+16	간미연	미쳐가 (Feat. 미르)
+17	엠블랙 (MBLAQ)	Y
+18	다비치	시간아 멈춰라
+19	포맨 (4Men)	고해요 (Feat. Ben of Bebe Mignon)
+20	환희	바람이 되어서라도
+21	나비 (Navi)	우리 정말 사랑했어요 (with 케이윌)
+22	오렌지 캬라멜 (Orange Caramel)	마법소녀 (魔法少女)
+23	슈퍼주니어 (Super Junior)	너 같은 사람 또 없어 (No Other)
+24	디셈버 (December)	별이될께
+25	화요비	Bye Bye Bye
+26	f(x)	NU 예삐오 (NU ABO)
+27	뜨거운 감자	고백
+28	씨엔블루 (CNBLUE)	사랑 빛
+29	코요태(KYT)	리턴 (RETURN)
+30	서현	아파도 괜찮아요
+31	B.o.B	Nothin` On You (Feat. 재범)
+32	휘성	세상이 우릴 갈라도
+33	바이브 (Vibe)	다시 와주라
+34	포미닛 (4minute)	I My Me Mine
+35	나르샤	삐리빠빠
+36	브라운 아이드 소울 (Brown Eyed Soul)	Can`t Stop Loving You
+37	슈프림팀 (Supreme Team)	너 때문이야 (Feat. Soulman)
+38	린 (LYn)	자기야 여보야 사랑아
+39	Eminem	Love The Way You Lie (Feat. Rihanna)
+40	숙희	One Love (Feat. 가희 of 애프터스쿨)
+41	정엽	혼잣말
+42	서영은, 정엽	이 거지같은 말
+43	이승기 &amp; 김연아	Smile Boy (Rock Ver.)
+44	먼데이 키즈 (Monday Kiz)	흩어져
+45	언터쳐블 (Untouchable)	회전목마 (Feat. 진성 Of 먼데이키즈)
+46	SS501	Love Ya
+47	지나(G.NA)	애인이 생기면 하고 싶은 일 (With 비)
+48	KCM	죽도록 사랑해 (Feat. Soul Dive)
+49	거미	남자라서
+50	일락 (一樂)	눈물이 왈칵 (Feat. 매직플로우)
+51	에이트 (8eight)	이별이 온다
+52	서인국	사랑해 U
+53	다비치	사랑을 못해 이별을 못해
+54	손담비	Can`t U See
+55	시크릿 (Secret)	Magic
+56	2PM	Without U
+57	왁스 (Wax)	벌써 일년
+58	먼데이 키즈 (Monday Kiz)	가지마
+59	바이브 (Vibe)	미친거니
+60	슈퍼주니어 (Super Junior)	미인아 (BONAMANA)
+61	조PD	랄라랜드 (Feat. 나르샤, 제아)
+62	태사비애	헤어졌어요 (Duet. 오윤혜)
+63	플라워 (Flower)	기억해...사랑해...
+64	태양	Just A Feeling
+65	브라운 아이드 소울 (Brown Eyed Soul)	Love Ballad
+66	거미	Because Of You
+67	포맨 (4Men), 장혜진	웃지마 울지마
+68	블랙펄	고고씽
+69	2winS	별놈 (Star)
+70	소연 (티아라)	뭐라고 끝낼까
+71	정엽	가시꽃
+72	태양	You`re My
+73	태양	Superstar
+74	코요태(KYT)	사랑하긴 했니
+75	길미	사랑은 전쟁이다 (Feat. 아웃사이더)
+76	나윤권	바람이 좋은 날
+77	SG워너비 &amp; 옥주현	페이지원 (Part 1)
+78	환희 &amp; 숙희	바보가슴
+79	태양	니가 잠든 후에 (Feat. Swings)
+80	BMK	기다림은 상처만 남기고
+81	예성 (YESUNG)	너 아니면 안돼
+82	비 (Rain)	Hip Song
+83	인피니트 (Infinite)	다시 돌아와
+84	애즈 원 (As One)	Sonnet
+85	브라운 아이드 소울 (Brown Eyed Soul)	Nothing Better
+86	디아나	그대가 올까봐
+87	Ne-Yo	Beautiful Monster
+88	케이윌, 미료	버스가 떠난 뒤에
+89	태양	Move (Feat. Teddy)
+90	애프터스쿨 (After School)	뱅 (Bang) !
+91	Christina Aguilera	Glam
+92	티아라 (T-ara)	너 때문에 미쳐
+93	제국의아이들 (ZE:A)	이별드립
+94	Ke$ha	Tik Tok
+95	이지 라이프 (Ez-Life)	Beggin U (Feat. 다비치 민경)
+96	B.O.B	Nothin` On You (Feat. Bruno Mars)
+97	먼데이 키즈 (Monday Kiz)	가시같은 사랑
+98	원투 (One Two)	Very Good
+99	비 (Rain)	널 붙잡을 노래
+100	거미	사랑은 없다

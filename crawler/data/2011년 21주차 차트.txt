@@ -1,0 +1,101 @@
+./data/2011년 21주차 차트.txt
+1	박봄	Don`t Cry
+2	f(x)	피노키오 (Danger)
+3	씨스타19	Ma Boy (마보이)
+4	박정현	이젠 그랬으면 좋겠네 (조용필)
+5	애프터스쿨 (After School)	Shampoo
+6	2NE1 (투애니 원)	Lonely
+7	임재범	너를 위해
+8	빅뱅	LOVE SONG
+9	걸스데이 (Girl`s Day)	반짝반짝
+10	포미닛 (4minute)	거울아 거울아
+11	김범수	제발
+12	10cm	아메리카노
+13	레인보우 (Rainbow)	To Me (내게로..)
+14	디셈버 (December)	미인
+15	임정희	Golden Lady (Feat. 현아)
+16	이소라	No.1 (보아)
+17	박재범	Abandoned (Feat. Dok2)
+18	토이 (Toy)	여전히 아름다운지 (Feat. 김연우)
+19	서인영	세수
+20	BMK	꽃피는 봄이 오면
+21	김연우	미련 (김건모)
+22	오렌지 캬라멜 (Orange Caramel)	방콕시티 (Bangkok City)
+23	임재범	빈잔 (남진)
+24	miss A	Love Alone
+25	씨엔블루 (CNBLUE)	직감
+26	비스트 (Beast)	비가 오는 날엔
+27	포미닛 (4minute)	Heart To Heart
+28	빅뱅	STUPID LIAR
+29	케이윌 (K.Will)	리얼러브송
+30	지아 (Zia)	들리나요
+31	김그림	너 밖엔 없더라
+32	씨엔블루 (CNBLUE)	LOVE GIRL (New Ver.)
+33	박정현	미아 (迷兒)
+34	케이윌 (K.Will)	가슴이 뛴다
+35	윤도현	마법의 성 (더클래식) (With. YB)
+36	에이핑크 (Apink)	몰라요
+37	양파	아파 아이야
+38	BMK	그대 내게 다시 (변진섭)
+39	김태우	메아리
+40	유브이 (UV)	이태원 프리덤 (With JYP)
+41	휘성	가슴 시린 이야기 (Feat. 용준형)
+42	지나(G.NA)	내 사람이라서
+43	정엽	한 발짝도 난
+44	Dal★Shabet (달샤벳)	핑크 로켓 (Pink Rocket)
+45	클로버 (Clover)	La Vida Loca
+46	허영생	Let It Go (Feat. 현아)
+47	San E, 아웃사이더, 창민 (2AM)	가면 안돼
+48	슈프림팀 (Supreme Team)	배가 불렀지 (Feat. GaeKo Of DYNAMIC DUO)
+49	먼데이 키즈 (Monday Kiz)	슈루룹
+50	5dolls	이러쿵 저러쿵
+51	송지은	미친거니 (Feat. 방용국)
+52	빅뱅	Tonight
+53	언터쳐블 (Untouchable)	You You (Feat. 오진석)
+54	인피니트 (Infinite)	Can U Smile (Broadcasting Ver.)
+55	소녀시대	Mr.TAXI
+56	Of 비스트 (윤두준 &amp; 이기광 &amp; 용준형)	안을까 말까
+57	김재석	노랫말
+58	이현 (에이트)	내꺼중에 최고
+59	이루 (Eru)	촌스럽고 유치하게
+60	박재범	오늘밤 (Feat. 강민경 Of 다비치)
+61	유키스 (U-Kiss)	0330
+62	노라조	포장마차
+63	이현 (에이트)	다며 (Feat. 마이티마우스)
+64	빅뱅	Cafe
+65	이보람 (See Ya)	방안에서
+66	아이유 (IU)	나만 몰랐던 이야기
+67	이기찬 &amp; G.NA	Count On Me
+68	장재인	그대는 철이 없네 (Feat. 김지수)
+69	백청강	J에게
+70	우은미	아프다
+71	김건모	You Are My Lady
+72	장윤정	올래
+73	가비엔제이 (Gavy NJ)	애정만세
+74	지나(G.NA)	Black & White
+75	f(x)	Lollipop (Feat. SHINee)
+76	걸스데이 (Girl`s Day)	너의 마음을 내게 준다면
+77	정엽	아무일도 없었다
+78	아이유 (IU)	좋은 날
+79	윤도현	나 항상 그대를 (With YB)
+80	셰인 (Shayne)	그때 그 사람
+81	이루펀트 (Eluphant)	여전히 아름답네요 (Feat. 권정열)
+82	Beyonce	Run The World (Girls)
+83	백지영	약속
+84	빅뱅	What Is Right
+85	서영은	신부에게
+86	브레이브걸스 (Brave Girls)	아나요
+87	알리 (ALi)	별 짓 다해봤는데
+88	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+89	이소라	바람이 분다
+90	윤도현	Dash (With YB)
+91	정희주	이젠 그랬으면 좋겠네
+92	로맨틱 카우치 (Romantic Couch)	햇살이 눈부신 어느 날 어렴풋이 그대 생각이 나겠지요
+93	Nikolai Lugansky	Beethoven _ Piano Sonata No.23 in F mi...
+94	간미연	파파라치 (Feat. 에릭)
+95	인피니트 (Infinite)	Nothing`s Over
+96	YB (윤도현 밴드)	나는 나비
+97	박정현	첫인상
+98	거미	기다리고 싶어
+99	김연우	사랑한다는 흔한 말
+100	신혜성, 영준 (브라운아이드소울)	조금 더 가까이

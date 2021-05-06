@@ -1,0 +1,201 @@
+./data/2021년 3주차 차트.txt
+1	미란이 (Mirani) , 먼치맨 , Khundi Panda , 머쉬베놈 (MUSHVENOM)	VVS (Feat. JUSTHIS) (Prod. GroovyRoom)
+2	경서	밤하늘의 별을(2020)
+3	방탄소년단	Dynamite
+4	장범준	잠이 오질 않네요
+5	BLACKPINK	Lovesick Girls
+6	산들	취기를 빌려 (취향저격 그녀 X 산들)
+7	임창정	힘든 건 사랑이 아니다
+8	릴보이 (lIlBOI)	내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))
+9	방탄소년단	Life Goes On
+10	릴보이 (lIlBOI)	CREDIT (Feat. 염따, 기리보이, Zion.T)
+11	스탠딩 에그(Standing Egg)	오래된 노래
+12	Jawsh 685, Jason Derulo, BTS	Savage Love (Laxed - Siren Beat) (BTS ...
+13	규현 (KYUHYUN)	내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)
+14	적재	나랑 같이 걸을래 (바른연애 길잡이 X 적재)
+15	아이유 (IU)	에잇 (Prod.&Feat. SUGA of BTS)
+16	악동뮤지션 (AKMU)	어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+17	(여자)아이들	화(火花)
+18	벤 (Ben)	혼술하고 싶은 밤
+19	박진영	When We Disco (Duet with 선미)
+20	아이유 (IU)	Blueming
+21	미란이 (Mirani)	Achoo (Feat. pH-1, HAON) (Prod. Groovy...
+22	노을	늦은 밤 너의 집 앞 골목길에서
+23	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+24	장범준	흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야
+25	릴보이 (lIlBOI)	ON AIR (Feat. 로꼬, 박재범 & GRAY)
+26	오마이걸 (OH MY GIRL)	Dolphin
+27	BLACKPINK	How You Like That
+28	마마무 (Mamamoo)	딩가딩가 (Dingga)
+29	릴보이 (lIlBOI) , 원슈타인 , Chillin Homie , 스카이민혁 (Skyminhyuk)	Freak (Prod. Slom)
+30	창모 (CHANGMO)	METEOR
+31	Khundi Panda	뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom)
+32	조정석	아로하
+33	오반 (OVAN)	어떻게 지내
+34	TWICE	I CAN`T STOP ME
+35	순순희	서면역에서
+36	환불원정대	DON`T TOUCH ME
+37	방탄소년단	작은 것들을 위한 시 (Boy With Luv) (Feat. Hals...
+38	경서예지	사실 나는 (Feat.전건호)
+39	이예준	그날에 나는 맘이 편했을까
+40	Maroon 5	Memories
+41	아이유 (IU)	마음을 드려요
+42	임영웅	이제 나만 믿어요
+43	스윙스(Swings)	악역 (Feat. 이하이 & 사이먼 도미닉) (Prod. 코드 쿤스트...
+44	백지영	거짓말이라도 해서 널 보고싶어
+45	태연 (TAEYEON)	What Do I Call You
+46	아이유 (IU)	Love poem
+47	화사(Hwa Sa)	마리아 (Maria)
+48	허각	우린 어쩌다 헤어진 걸까
+49	IZ*ONE (아이즈원)	Panorama
+50	마크툽 (Maktub)	오늘도 빛나는 너에게 (To You My Light) (Feat.이라...
+51	Anne-Marie	2002
+52	비 (Rain)	나로 바꾸자 (duet with JYP)
+53	황인욱	한잔이면 지워질까
+54	오마이걸 (OH MY GIRL)	살짝 설렜어 (Nonstop)
+55	신예영	우리 왜 헤어져야 해
+56	이승기	뻔한남자
+57	가호 (Gaho)	시작
+58	방탄소년단	봄날
+59	잔나비	가을밤에 든 생각
+60	이승기	잘할게
+61	전상근	사랑은 지날수록 더욱 선명하게 남아
+62	폴킴	너를 만나
+63	이하이	홀로
+64	머쉬베놈 (MUSHVENOM)	고독하구만 (Feat. 수퍼비) (Prod. GroovyRoom)
+65	Sia	Snowman
+66	임창정	소확행
+67	제시(Jessi)	눈누난나 (NUNU NANA)
+68	Tones And I	Dance Monkey
+69	#안녕	너의 번호를 누르고 (Prod. 영화처럼)
+70	엠씨더맥스 (M.C The Max)	처음처럼
+71	머쉬베놈 (MUSHVENOM)	여백의 미 (Feat. Jessi, JUSTHIS ) (Prod. G...
+72	블루 (BLOO)	Downtown Baby
+73	aespa	Black Mamba
+74	폴킴	안녕
+75	먼데이 키즈 (Monday Kiz)	사랑 못해, 남들 쉽게 다 하는 거
+76	이하이	For You (Feat. Crush)
+77	폴킴	너도 아는
+78	청하, Christopher	Bad Boy
+79	Dua Lipa	Don`t Start Now
+80	전미도	사랑하게 될 줄 알았어
+81	윤도(YoonDo)	12월의 어느 겨울…
+82	지코 (ZICO)	아무노래
+83	송하예	행복해
+84	Ariana Grande	Santa Tell Me
+85	싹쓰리 (유두래곤, 린다G, 비룡)	다시 여기 바닷가
+86	Lauv	Paris In The Rain
+87	Mariah Carey	All I Want For Christmas Is You
+88	방탄소년단	ON
+89	원슈타인	적외선 카메라
+90	머쉬베놈 (MUSHVENOM)	가다 (Feat. 사이먼 도미닉, The Quiett) (Prod. ...
+91	Etham	12_45 (Stripped)
+92	방탄소년단	Blue & Grey
+93	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+94	양다일	요즘
+95	Conan Gray	Maniac
+96	마크툽 (Maktub), 이라온	별을 담은 시 (Ode To The Stars)
+97	크러쉬 (CRUSH)	놓아줘 (with 태연)
+98	송이한	밝게 빛나는 별이 되어 비춰줄게
+99	스윙스 (Swings) , 맥대디 (Mckdaddy) , Khakii (카키) , 래원 (Layone)	원해 (Feat. 팔로알토) (Prod. 코드 쿤스트)
+100	머쉬베놈 (MUSHVENOM), 저스디스 (JUSTHIS)	옜다 (TakeIt) (Prod. GroovyRoom)
+101	장덕철	겨울잠
+102	이수	Your Lights
+103	방탄소년단	내 방을 여행하는 법
+104	아이유 (IU)	밤편지
+105	Ariana Grande, Justin Bieber	Stuck with U
+106	HYNN(박혜원)	시든 꽃에 물을 주듯
+107	마미손	사랑은 (Feat.원슈타인)
+108	(여자)아이들	덤디덤디 (DUMDi DUMDi)
+109	Ariana Grande	34+35
+110	Billie Eilish	bad guy
+111	잔나비	주저하는 연인들을 위해
+112	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+113	머쉬베놈 (MUSHVENOM)	부어라 비워라 (Tricker) (Prod. GroovyRoom)
+114	나얼	서로를 위한 것
+115	Ruel	Painkiller
+116	레드벨벳(Red Velvet)	Psycho
+117	ITZY (있지)	Not Shy
+118	BLACKPINK	Pretty Savage
+119	임영웅	어느 60대 노부부이야기
+120	마마무 (Mamamoo)	AYA
+121	태연 (TAEYEON)	사계 (Four Seasons)
+122	pH-1, BIG Naughty (서동현), TRADE L, Woodie Gochild, 박재범, 키드킹 (Kidd King)	VVS (H1GHR Remix) (Feat. JUSTHIS) (Pro...
+123	그루비룸 (GroovyRoom), 저스디스 (JUSTHIS)	Achoo Remix (Feat. 미란이, pH-1, 먼치맨, Ski...
+124	10CM	입김
+125	임영웅	바램
+126	김필	그때 그 아인
+127	(여자)아이들	MOON
+128	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+129	반하나	한 여자가
+130	Christopher	Bad
+131	전상근	사랑이란 멜로는 없어
+132	성시경	너의 모든 순간
+133	조이	좋은 사람 있으면 소개시켜줘
+134	황인욱	포장마차
+135	싱어게인 63호 가수	휘파람
+136	카더가든	밤새 (취향저격 그녀 X 카더가든)
+137	임재현	너밖에 안보여
+138	백예린	Square (2017)
+139	임영웅	오래된 노래
+140	먼데이 키즈 (Monday Kiz)	사랑이 식었다고 말해도 돼
+141	임창정	하루도 그대를 사랑하지 않은 적이 없었다
+142	임재현	사랑에 연습이 있었다면 (Prod. 2soo)
+143	BLACKPINK	Ice Cream (with Selena Gomez)
+144	Sam Smith	To Die For
+145	방탄소년단	잠시
+146	(여자)아이들	한(寒)
+147	마마무 (Mamamoo)	HIP
+148	신용재	첫 줄
+149	기리보이(Giriboy)	사랑이었나봐
+150	여자친구 (GFRIEND)	MAGO
+151	선미	보라빛 밤 (pporappippam)
+152	황인욱	취했나봐
+153	정준일	첫사랑 (Feat. SOLE (쏠))
+154	아이유 (IU)	Into the I-LAND
+155	John K	parachute
+156	Jeremy Zucker	comethru
+157	정승환	어김없이 이 거리에
+158	Pink Sweat$	At My Worst
+159	정승환	눈사람
+160	진민호	반만
+161	오반 (OVAN)	축하해
+162	Peder Elias	Bonfire
+163	백예린	Hate you
+164	장범준	노래방에서
+165	방탄소년단	Stay
+166	박효신	야생화
+167	아이유 (IU)	내 손을 잡아
+168	윤종신	좋니
+169	멜로망스(Melomance)	선물
+170	김호중	만개 (Prod. 신지후)
+171	임재현	조금 취했어 (Prod. 2soo)
+172	IZ*ONE (아이즈원)	FIESTA
+173	지코 (ZICO)	Summer Hate (Feat. 비)
+174	이예준	미친 소리
+175	규현 (KYUHYUN)	화려하지 않은 고백
+176	케이시 (Kassy)	그때가 좋았어
+177	허성현 (Rose de Penny) , dsel (디젤)  , 가오가이 (kaogaii) , Untell (언텔)	윈윈 (Feat. 개코, BewhY) (Prod. BewhY)
+178	송하예	니 소식
+179	적재	별 보러 가자
+180	Ed Sheeran	Shape of You
+181	24kGoldn	Mood (Feat. Iann Dior)
+182	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+183	V.O.S	다시 만날까 봐
+184	MINO	도망가
+185	볼빨간사춘기	나비와 고양이 (Feat. 백현 (BAEKHYUN))
+186	임영웅	미워요
+187	임영웅	HERO
+188	피아노맨 (김세정)	혜화동 거리에서
+189	노을	너의 곁에만 맴돌아
+190	#안녕	붙잡고 싶어도
+191	폴킴	비
+192	KHUNDI PANDA	Hero (Feat. JUSTHIS, Golden) (Prod. Gr...
+193	방탄소년단	병
+194	John K	cheap sunglasses
+195	헤이즈 (Heize), 펀치 (Punch)	밤하늘의 저 별처럼
+196	Imagine Dragons	Believer
+197	임창정	내가 저지른 사랑
+198	Justin Bieber	Holy (Feat. Chance The Rapper)
+199	Harry Styles	Watermelon Sugar
+200	바이브 (Vibe)	가을 타나 봐

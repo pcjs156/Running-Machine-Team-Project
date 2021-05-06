@@ -1,0 +1,101 @@
+./data/2016년 53주차 차트.txt
+1	빅뱅	에라 모르겠다
+2	볼빨간사춘기	좋다고 말해
+3	크러쉬 (CRUSH)	Beautiful
+4	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+5	에디킴	이쁘다니까
+6	빅뱅	LAST DANCE
+7	샘김	Who are you
+8	헤이즈 (Heize)	저 별
+9	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+10	TWICE	TT
+11	볼빨간사춘기	우주를 줄게
+12	빅뱅	GIRLFRIEND
+13	정승환	이 바보야
+14	볼빨간사춘기	나만 안되는 연애
+15	BLACKPINK	불장난
+16	10cm	내 눈에만 보여
+17	Lasse Lindh	Hush
+18	지코 (ZICO)	BERMUDA TRIANGLE (Feat. Crush, DEAN)
+19	희철, 민경훈	나비잠 (Sweet Dream)
+20	세정	꽃길 (Prod. By ZICO)
+21	한동근	그대라는 사치
+22	한동근	이 소설의 끝을 다시 써보려 해
+23	아이오아이 (I.O.I)	너무너무너무
+24	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+25	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+26	태연 (TAEYEON)	11_11
+27	임창정	내가 저지른 사랑
+28	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+29	EXO	For Life
+30	박효신	숨
+31	Ryan Gosling &amp; Emma Stone	City Of Stars (From `La La Land` Sound...
+32	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+33	정승환	너였다면
+34	성시경	어디선가 언젠가
+35	방탄소년단	피 땀 눈물
+36	TWICE	CHEER UP
+37	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+38	DEAN	D (half moon) (Feat. 개코)
+39	볼빨간사춘기	You(=I)
+40	로꼬 (LOCO)	남아있어 (Feat. Crush)
+41	다비치	내 옆에 그대인 걸
+42	볼빨간사춘기	심술
+43	매드 클라운 (Mad Clown)	거짓말 (Feat. 이해리 of 다비치)
+44	BLACKPINK	휘파람
+45	지아 (Zia)	술 한잔해요 오늘
+46	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+47	크러쉬 (CRUSH)	어떻게 지내
+48	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+49	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+50	MC몽	널 너무 사랑해서 (Feat. 정은지 of 에이핑크)
+51	임슬옹, 조이	이별을 배웠어 (Always In My Heart)
+52	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+53	EXO	Monster
+54	엠씨더맥스 (M.C The Max)	어디에도
+55	윤미래 (T)	그대라는 세상
+56	EXO	Falling For You
+57	어반 자카파 (Urban Zakapa)	그런 밤
+58	박경	오글오글
+59	긱스 (Geeks)	가끔 (Feat. Crush, 기리보이)
+60	이선희	바람꽃
+61	산이 (San E)	나쁜X (BAD YEAR)
+62	권진아	끝
+63	에일리 (Ailee)	If You
+64	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+65	신용재	빌려줄게
+66	거미	구르미 그린 달빛
+67	정준일	안아줘
+68	Sam Smith	I`m Not The Only One
+69	EXO	Lotto
+70	Ariana Grande	Santa Tell Me
+71	EXO	What I Want For Christmas
+72	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+73	어쿠루브	잠깐만요
+74	린 (LYn)	Love Story
+75	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+76	존 박	네 생각
+77	비와이(BewhY)	Forever (Prod. by GRAY)
+78	비원에이포 (B1A4)	거짓말이야
+79	젝스키스	세 단어
+80	서인국	BeBe
+81	에이핑크 (Apink)	별의 별
+82	Ryan Gosling &amp; Emma Stone	A Lovely Night (From `La La Land` Soun...
+83	세븐틴	붐붐
+84	젝스키스	커플 (2016)
+85	볼빨간사춘기	심술
+86	La La Land Cast	Another Day Of Sun (From `La La Land` ...
+87	유재석, EXO	Dancing King
+88	소유 (SOYOU)	I Miss You
+89	EXO	Lucky One
+90	방탄소년단	불타오르네 (FIRE)
+91	EXO	Winter Heat
+92	뷔, 진 (방탄소년단)	죽어도 너야
+93	Mariah Carey	All I Want For Christmas Is You
+94	Justin Bieber	Love Yourself
+95	EXO	Twenty Four
+96	김범수	사랑해요
+97	임창정	또 다시 사랑
+98	박지민, 디어	닮아있어
+99	김나영	널 미워하지 않길 (Prod. By 하동균)
+100	백아연	그냥 한번 (Feat. JB Of GOT7)

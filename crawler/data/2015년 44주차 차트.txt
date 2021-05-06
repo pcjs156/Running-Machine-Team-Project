@@ -1,0 +1,101 @@
+./data/2015년 44주차 차트.txt
+1	태연 (TAEYEON)	I (Feat. 버벌진트)
+2	임창정	또 다시 사랑
+3	자이언티(Zion.T)	No Make Up
+4	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quie...
+5	아이유 (IU)	스물셋
+6	소유, 브라더수	모르나봐
+7	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+8	소유, 권정열	어깨
+9	iKON	취향저격
+10	박경	보통연애 (Feat. 박보람)
+11	송민호	겁 (Feat. 태양)
+12	아이유 (IU)	푸르던
+13	빈지노 (Beenzino)	Break
+14	태연 (TAEYEON)	U R
+15	iKON	리듬 타 (RHYTHM TA)
+16	유재환, 김예림	커피 (Prod. by G-Park 박명수)
+17	규현 (KYUHYUN)	밀리언조각 (A Million Pieces)
+18	이유 갓지(GOD G)않은이유(박명수, 아이유)	레옹
+19	XIA(준수)	꼭 어제
+20	허각	밤을 새 (Feat. 베이식)
+21	아이유 (IU)	새 신발
+22	지아 (Zia)	가끔
+23	송민호, 지코(ZICO)	Okey Dokey
+24	에일리 (Ailee)	너나 잘해
+25	레드벨벳(Red Velvet)	Dumb Dumb
+26	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+27	아이유 (IU)	무릎
+28	산이(San E)	그 아버지에 그 아들
+29	인크레더블, 타블로, 지누션	오빠차
+30	아이유 (IU)	Red Queen (feat. Zion.T)
+31	아이유 (IU)	Zeze
+32	소녀시대	Lion Heart
+33	혁오 (hyukoh)	위잉위잉
+34	자이언티(Zion.T)	양화대교
+35	10cm	10월의 날씨
+36	황태지(황광희, 태양, 지드래곤)	맙소사
+37	버즈	Forever Love
+38	플라이 투 더 스카이 (Fly To The Sky)	그렇게 됐어
+39	비투비 (BTOB)	집으로 가는 길
+40	트루디	Bandz Up (Prod. by Dok2 / Feat. Dok2)
+41	자메즈 (Ja Mezz), 앤덥(Andup), 송민호	거북선 (Feat. 팔로알토)
+42	아이유 (IU)	안경
+43	예지	Solo (Remix) (Prod. by 박재범, Cha Cha Ma...
+44	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+45	린(LYn), 하동균, 이정	내가 그댈
+46	빅뱅	우리 사랑하지 말아요
+47	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+48	자이언티(Zion.T)	꺼내 먹어요
+49	백아연	이럴거면 그러지말지 (Feat. 영현)
+50	SG 워너비	가슴 뛰도록
+51	이수 (M.C The Max)	가슴에 내린다
+52	AOA	심쿵해 (Heart Attack)
+53	으뜨거따시(하하, 자이언티)	스폰서 ($ponsor)
+54	iKON	AIRPLANE
+55	코드쿤스트	PARACHUTE (feat. 오혁 & Dok2)
+56	사이먼 도미닉 (Simon Dominic)	사이먼 도미닉
+57	유성은	Nothing (Feat. 문별 of 마마무)
+58	혁오 (hyukoh)	와리가리
+59	TWICE	OOH-AHH하게
+60	마마무 (Mamamoo)	Girl Crush
+61	Maroon 5	Sugar
+62	엠씨더맥스 (M.C The Max)	그 남잔 말야
+63	김민승	쿵쿵쿵
+64	Adam Levine	Lost Stars
+65	씨스타 (Sistar)	SHAKE IT
+66	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+67	태연 (TAEYEON)	쌍둥이자리 (Gemini)
+68	댄싱게놈(유재석, JYP)	I`m So Sexy
+69	빅뱅	IF YOU
+70	오대천왕(정형돈, 밴드 혁오)	멋진헛간
+71	러블리즈	Ah-Choo
+72	어쿠스틱 콜라보	너를 잊을 수 있을까
+73	버즈 (Buzz)	남자를 몰라
+74	빅뱅	BAE BAE
+75	Sam Smith	I`m Not The Only One
+76	아이유 (IU)	마음
+77	버즈 (Buzz)	가시
+78	박보람	미안해요
+79	에이핑크 (Apink)	Remember
+80	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+81	빅뱅	쩔어 (GD&T.O.P)
+82	헤이즈 (Heize)	Me, Myself & I (Prod. by 버벌진트 / Feat. ...
+83	슬리피(Sleepy)	기분탓 (feat. 백아연)
+84	태연 (TAEYEON)	스트레스 (Stress)
+85	프라이머리 (Primary)	아끼지마 (Don`t Be Shy) (Feat. 초아 (AOA) & ...
+86	유빈	싹 다 (Prod. by The Quiett / Feat. The Q...
+87	원더걸스 (Wonder Girls)	I Feel You
+88	시원	너뿐이야
+89	지코 (ZICO), 소진	아프다
+90	백아연	이렇게 우리
+91	나얼	같은 시간 속의 너
+92	빅뱅	맨정신
+93	투빅(2BiC)	지금처럼 사랑할게
+94	빅뱅	LOSER
+95	태연 (TAEYEON)	먼저 말해줘 (Farewell)
+96	효린	사랑 할 때 아니야 (Money) (Prod. by 박재범, Cha ...
+97	Redfoo (LMFAO)	New Thang
+98	릴보이(Lil Boi), 로꼬(LOCO), 박재범	ON IT + BO$$
+99	현아 (HyunA)	잘나가서 그래 (Feat. 정일훈 of BTOB)
+100	송민호, 지코(ZICO), 팔로알토(Paloalto)	moneyflow (다 비켜봐)

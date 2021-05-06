@@ -1,0 +1,101 @@
+./data/2012년 24주차 차트.txt
+1	빅뱅	Monster
+2	원더걸스 (Wonder Girls)	Like this
+3	아이유 (IU)	하루 끝
+4	빅뱅	STILL ALIVE
+5	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+6	백지영	목소리 (Feat. 개리)
+7	지나(G.NA)	2HOT
+8	씨스타 (Sistar)	나혼자 (Alone)
+9	형돈이와 대준이	안좋을때 들으면 더 안좋은 노래
+10	백지영	Good Boy (Feat. 용준형 of 비스트)
+11	울랄라세션	아름다운 밤
+12	용감한 녀석들	I 돈 Care (Feat. 서수민PD)
+13	빅뱅	FEELING
+14	빅뱅	EGO
+15	마이티 마우스 (Mighty Mouth)	나쁜놈 (Feat. 소야)
+16	빅뱅	빙글빙글
+17	박진영	너뿐이야 (You`re The One)
+18	인피니트 (Infinite)	추격자
+19	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+20	리쌍	너에게 배운다 (My Love)
+21	비원에이포 (B1A4)	잘자요 굿나잇
+22	틴 탑 (Teen Top)	To You
+23	디셈버 (December)	She`s Gone
+24	프라이머리 (Primary)	입장정리 (Feat. 최자, Simon D)
+25	형돈이와 대준이	올림픽대로 (Feat. MC날유)
+26	에이핑크 (Apink)	Hush
+27	리쌍	겸손은 힘들어
+28	원더걸스 (Wonder Girls)	Girlfriend
+29	리쌍	Someday (피쳐링. 윤도현 of YB)
+30	지아 (Zia)	그대가 올까요
+31	버스커 버스커 (Busker Busker)	첫사랑
+32	포미닛 (4minute)	Volume Up
+33	허각	나를 사랑했던 사람아
+34	버스커 버스커 (Busker Busker)	여수 밤바다
+35	원더걸스 (Wonder Girls)	R.E.A.L
+36	아이유 (IU)	복숭아
+37	빅뱅	Fantastic Baby
+38	투빅, 다비치	오늘같은 밤이면
+39	원더걸스 (Wonder Girls)	Hey Boy
+40	울랄라세션	다 쓰고 없다
+41	버스커 버스커 (Busker Busker)	꽃송이가
+42	Maroon 5	Payphone (Feat. Wiz Khalifa)
+43	김태우	High High
+44	박진영	다른 사람 품에 안겨서 (Someone else) Duet with ...
+45	원더걸스 (Wonder Girls)	Sorry
+46	헬로비너스 (HELLOVENUS)	Venus
+47	노을	떠나간다
+48	태연 (TAEYEON)	미치게 보고싶은
+49	배치기	두 마리
+50	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+51	에일리 (Ailee)	Heaven
+52	버즈 (Buzz)	가슴이 운다
+53	다비치	너라서
+54	휘성, 이승우 (소울스타)	감기라도 걸릴까
+55	국카스텐 (Guckkasten)	한잔의 추억 (원곡가수 이장희)
+56	티아라 (T-ara)	빙글빙글
+57	양요섭, 정은지	Love Day
+58	버스커 버스커 (Busker Busker)	외로움 증폭장치 (브래드 드럼 한판 쉬기)
+59	Dal★Shabet (달샤벳)	Mr. BangBang
+60	양파, 다비치, HANNA	사랑은 다 그런거래요
+61	버스커 버스커 (Busker Busker)	이상형
+62	걸스데이 (Girl`s Day)	Oh! My God
+63	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+64	아이비 (Ivy)	찢긴 가슴
+65	백지영	한참 지나서
+66	이재훈	잠못드는 밤 비는 내리고 (Feat. Funny Funkiz)
+67	애즈 원 (As One)	Day By Day 2012 (Feat. 버벌진트)
+68	아이유 (IU)	그 애 참 싫다
+69	이해리	너의 뒤에서
+70	이영현	조금씩 멀어지네요
+71	양파, 이보람 (씨야), 소연 (티아라)	알아요
+72	빅뱅	Blue
+73	린 (LYn)	곰인형 (Feat. 해금)
+74	써니힐 (Sunny Hill)	Do It
+75	형돈이와 대준이	되냐 안되냐
+76	버스커 버스커 (Busker Busker)	전활 거네
+77	박지윤	I DO
+78	이영현	시간은
+79	2AM	너도 나처럼
+80	JJ Project	Bounce
+81	리쌍	개리와 기리... 세번째 이야기
+82	빅뱅	FANTASTIC BABY (Special Edition Ver.)
+83	정인, 윤종신	오르막길
+84	예성 (YESUNG)	꽃보다 그녀
+85	버스커 버스커 (Busker Busker)	골목길 어귀에서
+86	가비엔제이 (Gavy NJ)	연락하지마 (Feat. LE of EXID)
+87	써니힐 (SunnyHill)	백마는 오고 있는가
+88	Adele	Rolling In The Deep
+89	원더걸스 (Wonder Girls)	The DJ Is Mine
+90	용감한 녀석들	기다려 그리고 준비해
+91	XIA(준수)	사랑이 싫다구요
+92	블락비 (Block B)	Burn Out
+93	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+94	샤이니 (SHINee)	Sherlock.셜록 (Clue + Note)
+95	유키스 (U-KISS)	Believe
+96	에피톤 프로젝트 (Epitone Project)	새벽녘
+97	형돈이와 대준이	한심포차 (Feat. 보니)
+98	리쌍	사람들은 모두 변하나봐 (Feat. 정인, 쌈디of 슈프림팀, 바비킴...
+99	리쌍	행복을 찾아서 (Feat. 조현아)
+100	이해리	하얀 바람

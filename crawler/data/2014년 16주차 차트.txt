@@ -1,0 +1,101 @@
+./data/2014년 16주차 차트.txt
+1	악동뮤지션 (AKMU)	200%
+2	윤민수, 신용재	인연
+3	박효신	야생화
+4	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+5	에이핑크 (Apink)	Mr. Chu (On Stage)
+6	매드 클라운 (Mad Clown)	견딜만해 (Feat. 효린)
+7	악동뮤지션 (AKMU)	Give Love
+8	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+9	악동뮤지션 (AKMU)	얼음들
+10	브로(Bro)	그런 남자
+11	이선희	그 중에 그대를 만나
+12	오렌지 캬라멜 (Orange Caramel)	까탈레나 (Catallena)
+13	임창정	흔한 노래
+14	2NE1 (투애니 원)	Come Back Home
+15	배치기	뜨래요 (Feat. 앙리 Of 3B)
+16	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+17	악동뮤지션 (AKMU)	지하철에서
+18	로꼬 (LOCO)	감아 (Feat. Crush)
+19	악동뮤지션 (AKMU)	인공잔디
+20	포미닛 (4minute)	오늘 뭐해
+21	악동뮤지션 (AKMU)	작은별
+22	크러쉬 (CRUSH)	가끔
+23	소녀시대	Mr.Mr.
+24	2NE1 (투애니 원)	너 아님 안돼
+25	악동뮤지션 (AKMU)	가르마
+26	선미	보름달 (Feat. Lena)
+27	성시경	너의 모든 순간
+28	악동뮤지션 (AKMU)	안녕
+29	2NE1 (투애니 원)	살아 봤으면 해
+30	매드 클라운 (Mad Clown)	스토커 (Feat. 크루셜스타)
+31	악동뮤지션 (AKMU)	길이나
+32	악동뮤지션 (AKMU)	Galaxy
+33	씨엔블루 (CNBLUE)	Can’t Stop
+34	걸스데이 (Girl`s Day)	Something
+35	크레용팝 (Crayon Pop)	어이 (Uh-ee)
+36	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+37	AOA	짧은 치마 (Miniskirt)
+38	악동뮤지션 (AKMU)	소재
+39	린 (LYn)	보고 싶어...운다
+40	엠씨더맥스 (M.C The Max)	그대가 분다
+41	효린	안녕
+42	루이	사이드미러걸 (Feat. 산체스 of 팬텀)
+43	신용재	널 사랑한다, 지운다, 또 운다
+44	에일리 (Ailee)	노래가 늘었어
+45	권진아	씨스루
+46	NS Yoon-G	야시시
+47	에디킴	2 Years Apart
+48	허각	오늘 같은 눈물이
+49	케이윌 (K.will), 마마무 (Mamamoo)	썸남썸녀 (Feat. 휘성)
+50	2NE1 (투애니 원)	멘붕 (CL Solo)
+51	홍대광	고마워 내사랑
+52	정은지	그대라구요
+53	손승연	살만해졌어
+54	2NE1 (투애니 원)	Crush
+55	홍대광	답이 없었어
+56	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+57	Idina Menzel	Let It Go
+58	휘성	가슴 시린 이야기 (Feat. 용준형)
+59	버스커 버스커 (Busker Busker)	처음엔 사랑이란게
+60	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+61	린 (LYn)	My Destiny
+62	EXO	으르렁 (Growl)
+63	권진아	LOVE
+64	Idina Menzel	Let It Go
+65	더 원 (The One)	사랑이 지는 이 자리
+66	넬 (Nell)	지구가 태양을 네 번
+67	벤 (Ben)	알고 싶어요
+68	레이디스 코드 (LADIES` CODE)	So Wonderful
+69	김보경	가슴이 소리치는 말
+70	이소라	운 듯
+71	Gary (개리)	조금 이따 샤워해 (Feat. Crush)
+72	정키 (Jung Key)	홀로 (Feat. 김나영)
+73	버나드 박	Right here waiting
+74	투빅 (2BiC)	요즘 바쁜가봐
+75	김범수	끝사랑
+76	투하트	Tell me why (Broadcasting Ver.)
+77	비원에이포 (B1A4)	LONELY (없구나)
+78	S.M. THE BALLAD	숨소리(Breath) (Sung by 태연(소녀시대) & 종현(샤이니...
+79	가인	Fxxk U (feat. 범키)
+80	2NE1 (투애니 원)	Happy
+81	스탠딩 에그(Standing Egg)	내게기대 (Feat. 박세영)
+82	알리 (ALi)	나 때문에
+83	2NE1 (투애니 원)	Scream
+84	비 (Rain)	LA SONG
+85	빈지노 (Beenzino)	Dali, Van, Picasso
+86	허각	향기만 남아
+87	이선희	인연 (동녘바람)
+88	김수현	너의 집 앞
+89	범키, 버벌진트 (Verbal Jint)	너에게만
+90	스윙스(Swings)	Fallin` (Feat. 박재범)
+91	투하트 (우현&amp;키)	Delicious
+92	G-Dragon	삐딱하게 (Crooked)
+93	2NE1 (투애니 원)	착한 여자
+94	바이브 (Vibe)	해운대 (Feat. 강민경 Of 다비치)
+95	존 박	술
+96	가비엔제이 (Gavy NJ)	별일 없니?
+97	서인국, 지아 (Zia)	이별남녀
+98	휘성, 거미	Special Love
+99	이승환	너에게만 반응해 (Feat. 이소은)
+100	휘성	결혼까지 생각했어

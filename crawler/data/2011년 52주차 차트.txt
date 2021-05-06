@@ -1,0 +1,101 @@
+./data/2011년 52주차 차트.txt
+1	아이유 (IU)	너랑 나
+2	트러블메이커 (Trouble Maker)	Trouble Maker
+3	티아라 (T-ara)	Cry Cry
+4	원더걸스 (Wonder girls)	Be My Baby
+5	허각, LE(EXID)	그 노래를 틀때마다
+6	노을	그리워 그리워
+7	울랄라세션	서쪽 하늘
+8	노을	살기 위해서
+9	허각	죽고 싶단 말 밖에
+10	아이유 (IU)	비밀
+11	버스커 버스커 (Busker Busker)	서울사람들
+12	아이유 (IU)	삼촌 (Feat. 이적)
+13	포맨 (4Men), 미 (美)	그 남자 그 여자
+14	소녀시대	The Boys
+15	알리 (ALi)	촌스럽게 굴지마 (Feat. 용준형)
+16	먼데이 키즈 (Monday Kiz)	미행
+17	장재인	겨울밤
+18	일렉트로보이즈 (Electroboyz)	Ma Boy 2 (Feat. 효린)
+19	아이유 (IU)	잠자는 숲 속의 왕자 (Feat. 윤상)
+20	이승기	친구잖아
+21	버스커 버스커 (Busker Busker)	막걸리나
+22	버스커 버스커 (Busker Busker)	동경소녀
+23	임재범	사랑..그놈
+24	브라운아이드걸스	클렌징크림
+25	울랄라세션	너와 함께
+26	시크릿 (Secret)	사랑은 Move
+27	인피니트 (Infinite)	하얀 고백 (Lately)
+28	아이유 (IU)	별을 찾는 아이 (Feat. 김광진)
+29	다이나믹 듀오 (Dynamic Duo)	불타는 금요일 (Friday Night)
+30	에이핑크 (Apink)	My My
+31	수지	눈물이 많아서
+32	허각	Hello
+33	50kg	사랑에 빠지고 싶다
+34	이승기	연애시대 (Feat. Ra.D / Nar. 한효주)
+35	버스커 버스커 (Busker Busker)	정류장
+36	아이유 (IU)	벽지무늬
+37	김연우	행복했다...안녕
+38	김동률	Replay
+39	아이유 (IU)	사랑니
+40	원더걸스 (Wonder girls)	G.N.O.
+41	울랄라세션	Swing Baby
+42	에이트 (8eight)	한사람
+43	케이윌 &amp; 씨스타 &amp; 보이프렌드	핑크빛 로맨스 (Pink Romance)
+44	아이유 (IU)	Everything`s Alright (Feat. 김현철)
+45	보이프렌드(Boyfriend)	내가 갈게 (I`ll Be There)
+46	버스커 버스커 (Busker Busker)	그댄 달라요
+47	윤미래 (T)	Get It In (Feat. Tiger JK & 정인) (Korea...
+48	거미	개구쟁이 (Feat. T.O.P) (산울림)
+49	소녀시대	Mr.Taxi (Korean Ver.)
+50	버스커 버스커 (Busker Busker)	I Believe
+51	아이유 (IU)	Last Fantasy
+52	다이나믹 듀오 (Dynamic Duo)	해뜰때까지만 (Girl)
+53	아이유 (IU)	Teacher (Feat. Ra.D)
+54	엠블랙 (MBLAQ)	White Forever
+55	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+56	타블로	Tomorrow (Feat. 태양)
+57	다비치	안녕이라고 말하지마
+58	울랄라세션	달의 몰락
+59	미스에스 (Miss $)	오죽하면 이럴까 (Feat. 정슬기, 임다혜)
+60	울랄라세션	Open Arms (Journey) (Feat. 크리스티나)
+61	서인국, Take#1	Love Again
+62	아이유 (IU)	4AM
+63	브라운 아이드 소울 (Brown Eyed Soul)	Gone
+64	나비 (Navi)	Missing You
+65	오렌지 캬라멜 (Orange Caramel)	샹하이 로맨스 (上海之戀)
+66	손담비 &amp; 애프터스쿨	Love Letter (Feat. 아라, 혜림, 정현, 민현, 동호)
+67	투개월	여우야
+68	원더걸스 (Wonder girls)	Me, in
+69	브라운 아이드 걸스	Sixth Sense
+70	스윗소로우(Sweet Sorrow)	나랑 같이 해줄래
+71	윤민수	나 어떡해 (Feat. 해금) (샌드페블즈)
+72	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+73	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+74	성시경, 브라이언, 서인국, 박학기, 박장현 &amp; 황프로젝트	모두에게 크리스마스
+75	울랄라세션	미인
+76	투개월	Romantico
+77	씨스타 (Sistar)	So Cool (쏘쿨)
+78	버스커 버스커 (Busker Busker) &amp; 투개월	줄리엣
+79	Bueno Clinic	Sex Apeal (Max Farenthide Radio Edit) ...
+80	버스커 버스커 (Busker Busker)	어쩌다 마주친 그대
+81	아이유 (IU)	길 잃은 강아지
+82	타블로	나쁘다 (Feat. 진실)
+83	다비치	사랑 사랑아
+84	제이세라 (J-Cera)	그댄 정말 모를거예요
+85	김경호	사랑과 우정 사이 (피노키오) (with 김연우)
+86	원더걸스 (Wonder girls)	Girls Girls
+87	씨스타 (Sistar)	Hot Place (Feat. Brave Sound)
+88	오렌지 캬라멜 (Orange Caramel)	Funny Hunny
+89	베이비 소울 (Baby Soul)	남보다 못한 사이 (Feat. 휘성)
+90	투개월	Brown City
+91	지아 (Zia)	내가 이렇지 (Feat. 하동균)
+92	제이스 (Jace)	좋아보여 Part 2 (Feat. 오수민)
+93	바비 킴 (Bobby Kim)	회상 (산울림)
+94	에릭남	울다
+95	애프터스쿨 (After School)	잊었나
+96	먼데이 키즈 (Monday Kiz)	고장난 열차 (Feat. 쥬비트레인 Of 부가킹즈)
+97	셰인 (Shayne)	처음 해 본 사랑
+98	김도현	달려갈 거야
+99	어반 자카파 (Urban Zakapa)	Snowing
+100	이정	Lucky Star (Feat. 하동균)

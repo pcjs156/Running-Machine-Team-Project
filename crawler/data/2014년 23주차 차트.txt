@@ -1,0 +1,101 @@
+./data/2014년 23주차 차트.txt
+1	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+2	Gary (개리), 정인	사람냄새
+3	아이유 (IU)	나의 옛날 이야기
+4	아이유 (IU)	너의 의미 (Feat. 김창완)
+5	정기고 (Junggigo)	너를 원해 (Feat. Beenzino)
+6	EXO-K	중독 (Overdose)
+7	god	미운오리새끼
+8	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+9	아이유 (IU)	사랑이 지나가면
+10	악동뮤지션 (AKMU)	200%
+11	에이핑크 (Apink)	Mr. Chu (On Stage)
+12	박효신	야생화
+13	전효성	Good-night Kiss
+14	휘성	Night and Day
+15	유나킴	이젠 너 없이도 (Feat. 윤미래 & 타이거 JK & Bizzy)
+16	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+17	서인국	봄 타나봐 (BOMTANABA)
+18	백지영	여전히 뜨겁게
+19	에디킴	너 사용법
+20	인피니트 (Infinite)	Last Romeo
+21	악동뮤지션 (AKMU)	Give Love
+22	플라이 투 더 스카이 (Fly To The Sky)	전화하지 말아요
+23	아이유 (IU)	삐에로는 우릴보고 웃지
+24	플라이 투 더 스카이 (Fly To The Sky)	니목소리
+25	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+26	윤민수, 신용재	인연
+27	포맨 (4Men)	지우고 싶다
+28	이선희	그 중에 그대를 만나
+29	15&amp; (박지민, 백예린)	Sugar
+30	오렌지 캬라멜 (Orange Caramel)	까탈레나 (Catallena)
+31	아이유 (IU)	여름밤의 꿈
+32	지나(G.NA)	예쁜 속옷
+33	매드 클라운 (Mad Clown)	견딜만해 (Feat. 효린)
+34	지연	1분 1초
+35	15&amp; (박지민, 백예린)	티가 나나봐
+36	백지영	불꽃
+37	김보경, 펀치 (Punch)	지금 술 한잔 했어
+38	산이 (San E)	나 왜이래
+39	2NE1 (투애니 원)	Come Back Home
+40	로꼬 (LOCO)	감아 (Feat. Crush)
+41	정키 (Jung Key)	내가 할 수 없는 말 (Feat. 나비)
+42	오렌지 캬라멜 (Orange Caramel)	아빙아빙 (Abing Abing)
+43	배치기	뜨래요 (Feat. 앙리 Of 3B)
+44	브로(Bro)	그런 남자
+45	아이유 (IU)	꽃
+46	임창정	흔한 노래
+47	신용재	사랑하는 그대여
+48	팬텀 (Phantom)	오늘따라 (Feat. 가인)
+49	악동뮤지션 (AKMU)	얼음들
+50	김진호	가족사진
+51	포맨 (4Men)	예쁘니까 잘 될 거야
+52	빅스 (VIXX)	기적 (ETERNITY)
+53	에일리 (Ailee)	하루하루
+54	투빅 (2BiC)	요즘 바쁜가봐
+55	2NE1 (투애니 원)	너 아님 안돼
+56	태연 (TAEYEON)	사랑 그 한마디
+57	아이유 (IU)	꿍따리 샤바라 (Feat. 클론)
+58	AOA	짧은 치마 (Miniskirt)
+59	성시경	너의 모든 순간
+60	창민(2AM), 멜로디데이	마지막 처음
+61	플라이 투 더 스카이 (Fly To The Sky)	알 수 없는 이별 (Feat. 김나영)
+62	정준영, 윤하	달리 함께
+63	플라이 투 더 스카이 (Fly To The Sky)	거짓말 같다
+64	Jason Mraz	Love Someone
+65	Michael Jackson	Love Never Felt So Good
+66	걸스데이 (Girl`s Day)	Something
+67	2NE1 (투애니 원)	멘붕 (CL Solo)
+68	2NE1 (투애니 원)	살아 봤으면 해
+69	포미닛 (4minute)	오늘 뭐해
+70	크러쉬 (CRUSH)	가끔
+71	플라이 투 더 스카이 (Fly To The Sky)	십년이 지나도
+72	엠씨더맥스 (M.C The Max)	그대가 분다
+73	EXO-K	Thunder
+74	선미	보름달 (Feat. Lena)
+75	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+76	윤종신	New You (With 임슬옹 Of 2AM)
+77	백아연	내게 남은 세가지
+78	David Guetta &amp; Showtek	Bad (Feat. Vassy) (Radio Edit)
+79	EXO	으르렁 (Growl)
+80	어반 자카파 (Urban Zakapa)	Like A Bird
+81	김그림	밀어서 잠금해제
+82	김연우	Move (Feat. 박경 of 블락비)
+83	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+84	에디킴	밀당의 고수
+85	에일리 (Ailee)	노래가 늘었어
+86	김연우	해독제
+87	소녀시대	Mr.Mr.
+88	박서준	내 맘에 들어와
+89	플라이 투 더 스카이 (Fly To The Sky)	너
+90	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+91	길구봉구	뭘해도 예쁜걸
+92	크레용팝 (Crayon Pop)	어이 (Uh-ee)
+93	Jeff Bernat	Call You Mine (Feat. Geologic)
+94	효린	안녕
+95	매드 클라운 (Mad Clown)	스토커 (Feat. 크루셜스타)
+96	정키 (Jung Key)	홀로 (Feat. 김나영)
+97	악동뮤지션 (AKMU)	인공잔디
+98	15&amp; (박지민, 백예린)	Rain & Cry
+99	EXO-K	월광 (Moonlight)
+100	스탠딩 에그(Standing Egg)	그래, 너

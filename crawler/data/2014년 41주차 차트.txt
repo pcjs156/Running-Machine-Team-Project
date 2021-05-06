@@ -1,0 +1,101 @@
+./data/2014년 41주차 차트.txt
+1	소유, 권순일, 박용인	틈
+2	에일리 (Ailee)	손대지마
+3	포스트맨 (Postmen)	신촌을 못가
+4	Adam Levine	Lost Stars
+5	김동률	그게나야
+6	곽진언, 김필, 임도혁	당신만이
+7	아이유 (IU)	소격동
+8	윤미래 (T)	너를 사랑해
+9	아이언	독기
+10	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+11	WINNER	공허해
+12	Adam Levine	No One Else Like You
+13	임도혁, 장우람	야생화
+14	NS Yoon-G, 기리보이(Giriboy)	설렘주의
+15	바비 (BOBBY)	연결고리#힙합
+16	소녀시대-태티서(Girls` Generation-TTS)	Holler
+17	씨스타 (Sistar)	I Swear
+18	김동률	내 사람
+19	산이(San E), 레이나	한여름밤의 꿀
+20	어쿠스틱 콜라보	묘해, 너와
+21	김동률	고백
+22	Keira Knightley	Tell Me If You Wanna Go Home
+23	어쿠스틱 콜라보	너무 보고 싶어
+24	바비 (BOBBY)	가드올리고 Bounce
+25	바이브 (Vibe)	Because I Love You
+26	자이언티(Zion.T)	양화대교
+27	김동률	청춘 (Feat. 이상순)
+28	씨스타 (Sistar)	Touch my body
+29	블락비 (Block B)	HER
+30	Keira Knightley	A Step You Can`t Take Back
+31	박효신	야생화
+32	다비치	괜찮아 사랑이야
+33	아이유 (IU)	너의 의미 (Feat. 김창완)
+34	Adam Levine	A Higher Place
+35	Keira Knightley	Lost Stars
+36	소녀시대-태티서(Girls` Generation-TTS)	내가 네게 (Whisper)
+37	걸스데이(Girl`s Day)	Darling
+38	스윙스(Swings), 에일리	A Real Man
+39	2PM	미친거 아니야?
+40	김동률	동행
+41	김동률	Advice (Feat. John Park)
+42	Keira Knightley	Like A Fool
+43	Keira Knightley	Coming Up Roses
+44	태양	눈, 코, 입
+45	바비 (BOBBY)	L4L (Lookin` For Luv) (Feat. Dok2 & Th...
+46	산이 (San E)	Body Language (Feat. 범키)
+47	크러쉬 (CRUSH)	잠 못드는 밤 (feat. 펀치(Punch))
+48	김동률	내 마음은
+49	에일리 (Ailee)	잠시 안녕처럼
+50	주니엘 (JUNIEL)	연애하나 봐
+51	틴 탑 (Teen Top)	쉽지않아 (Missing)
+52	크리스탈 (f(x))	울컥
+53	에이트 (8eight)	미치지말자
+54	울랄라세션, 아이유(IU)	애타는 마음
+55	이선희	그 중에 그대를 만나
+56	Maroon 5	Maps
+57	레이디스 코드 (Ladies` Code)	I`m Fine Thank You
+58	울랄라세션	Love Fiction
+59	B.I (비아이)	BE I
+60	첸 (CHEN)	최고의 행운
+61	김동률	퍼즐
+62	AOA	단발머리 (Short Hair)
+63	노을	늦은 얘기들
+64	장범준	어려운 여자
+65	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+66	현아 (HyunA)	빨개요
+67	휘성, 긱스(Geeks)	친구로 남아줄게
+68	WINNER	끼부리지마
+69	노을	그날이야 (The Day)
+70	에일리 (Ailee)	미치지 않고서야 (Feat. 다이나믹듀오)
+71	김동률	그 노래
+72	WINNER	컬러링
+73	송지은	쳐다보지마
+74	에디킴	너 사용법
+75	Maroon 5	Animals
+76	Gary (개리), 정인	사람냄새
+77	바비 (BOBBY)	가
+78	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+79	김동률	오늘
+80	Adam Levine	Lost Stars (Into The Night Mix)
+81	블락비 (Block B)	Jackpot
+82	김범수	눈물나는 내 사랑
+83	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+84	허각, 정은지	이제 그만 싸우자
+85	정인, Gary(개리)	자전거
+86	카라 (KARA)	맘마미아
+87	Keira Knightley	Tell Me If You Wanna Go Home (Rooftop ...
+88	장범준	사랑이란 말이 어울리는 사람 (사말어사)
+89	산이 (San E)	나 왜이래
+90	버벌진트 (Verbal Jint)	가을냄새 (Feat. 에디킴)
+91	소녀시대-태티서(Girls` Generation-TTS)	아드레날린 (Adrenaline)
+92	곽진언, 김필	걱정말아요 그대
+93	에이핑크 (Apink)	Mr. Chu (On Stage)
+94	에일리, 2LSON	I`m in love
+95	지아 (Zia)	보란 듯이
+96	케이윌 (K.Will)	오늘부터 1일 (Day 1)
+97	투빅 (2BiC)	요즘 바쁜가봐
+98	아이유 (IU)	나의 옛날 이야기
+99	티아라 (T-ara)	Sugar Free (BigRoom Ver.)
+100	스윙스(Swings), 유성은	Trap

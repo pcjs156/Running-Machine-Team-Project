@@ -1,0 +1,101 @@
+./data/2018년 22주차 차트.txt
+1	볼빨간사춘기	여행
+2	방탄소년단	FAKE LOVE
+3	여자친구 (GFRIEND)	밤 (Time for the moon night)
+4	로꼬, 화사	주지마
+5	닐로 (Nilo)	지나오다
+6	멜로망스(MeloMance)	You
+7	AOA	빙글뱅글 (Bingle Bangle)
+8	TWICE	What is Love?
+9	iKON	사랑을 했다 (LOVE SCENARIO)
+10	방탄소년단	전하지 못한 진심 (Feat. Steve Aoki)
+11	김하온 (HAON)	붕붕 (Feat. Sik-K) (Prod. GroovyRoom)
+12	모모랜드 (MOMOLAND)	뿜뿜
+13	마마무 (Mamamoo)	별이 빛나는 밤
+14	이수	My Way
+15	(여자)아이들	LATATA
+16	장덕철	그날처럼
+17	크러쉬 (CRUSH)	잊을만하면
+18	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+19	용준형	소나기 (Feat. 10cm)
+20	로이킴	그때 헤어지면 돼
+21	방탄소년단	DNA
+22	청하	Roller Coaster
+23	Fitz &amp; The Tantrums	HandClap
+24	빅뱅	꽃 길
+25	WINNER	EVERYDAY
+26	방탄소년단	Anpanman
+27	멜로망스(Melomance)	선물
+28	멜로망스(MeloMance)	욕심
+29	볼빨간사춘기	바람사람
+30	방탄소년단	봄날
+31	Camila Cabello	Havana (Feat. Young Thug)
+32	볼빨간사춘기	Lonely
+33	김하온 (HAON), 이병재 (Vinxen)	바코드 (Prod. GroovyRoom)
+34	방탄소년단	낙원
+35	닐로 (Nilo)	넋두리
+36	방탄소년단	Airplane pt.2
+37	Ed Sheeran	Shape of You
+38	먼데이 키즈 (Monday Kiz)	가을 안부
+39	방탄소년단	Love Maze
+40	펜타곤 (PENTAGON)	빛나리
+41	볼빨간사춘기	야경
+42	방탄소년단	134340
+43	방탄소년단	Magic Shop
+44	길구봉구	이 별
+45	샤이니 (SHINee)	데리러 가 (Good Evening)
+46	헤이즈 (Heize)	Jenga (Feat. Gaeko)
+47	레드벨벳(Red Velvet)	Bad Boy
+48	배연서 (WEBSTER B), 오담률 (CHIN CHILLA)	북 (Prod.SLO)
+49	펀치 (Punch)	밤이 되니까
+50	아이유 (IU)	밤편지
+51	양다일	미안해
+52	볼빨간사춘기	안녕, 곰인형
+53	문문 (MoonMoon)	비행운
+54	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+55	윤종신	좋니
+56	WINNER	REALLY REALLY
+57	DEAN	instagram
+58	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+59	TWICE	Heart Shaker
+60	방탄소년단	So What
+61	벤 (Ben)	열애중
+62	박원	all of my life
+63	김하온(HAON), 박준호(PULLIK)	어린 왕자 (Prod. Godic)
+64	윤건	우리 둘만 아는
+65	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+66	정승환	눈사람
+67	이병재 (Vinxen)	전혀 (Feat. 우원재) (Prod. GroovyRoom)
+68	Imagine Dragons	Thunder
+69	Sondia	어른
+70	포맨 (4Men)	눈 떠보니 이별이더라
+71	TWICE	LIKEY
+72	Wanna One (워너원)	BOOMERANG (부메랑)
+73	길구봉구	다시, 우리
+74	볼빨간사춘기	#첫사랑
+75	EXO-CBX (첸백시)	花요일 (Blooming Day)
+76	방탄소년단	Intro _ Singularity
+77	BLACKPINK	마지막처럼
+78	Shawn Mendes	There`s Nothing Holdin` Me Back
+79	비투비 (BTOB)	그리워하다
+80	볼빨간사춘기	Clip
+81	문문 (MoonMoon)	결혼
+82	Wanna One (워너원)	에너제틱 (Energetic)
+83	방탄소년단	Outro _ Tear
+84	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+85	혁오 (hyukoh)	LOVE YA!
+86	김나영	우리 서로
+87	멜로망스(MeloMance)	짙어져
+88	박원	노력
+89	Wanna One (워너원)	Beautiful
+90	볼빨간사춘기	썸 탈꺼야
+91	폴킴	비
+92	Wanna One (워너원)	약속해요 (I.P.U.)
+93	펀치 (Punch)	이 밤의 끝
+94	선미	주인공
+95	박보람	애쓰지 마요
+96	10cm	폰서트
+97	The Chainsmokers	Closer (Feat. Halsey)
+98	배연서 (WEBSTER B)	이로한 (Feat. ELO, Jessi) (Prod. Padi)
+99	성시경	영원히
+100	헤이즈 (Heize)	내가 더 나빠

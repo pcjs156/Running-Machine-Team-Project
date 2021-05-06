@@ -1,0 +1,101 @@
+./data/2015년 14주차 차트.txt
+1	지민, 아이언	Puss (Prod.by 라이머)
+2	허각	사월의 눈
+3	다비치	두사랑 (Feat. 매드클라운)
+4	치타 (CHEETAH)	Coma 07` (Prod.by DJ Juice, D.Theo)
+5	가인	Apple (Feat. 박재범)
+6	나얼	같은 시간 속의 너
+7	MC몽	사랑 범벅 (Feat. 챈슬러 of the channels)
+8	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+9	지민, 슬옹	시작이 좋아 2015 (Prod. By 버벌진트)
+10	레드벨벳(Red Velvet)	Ice Cream Cake
+11	키썸, San E, 태완	슈퍼스타 (Prod. by D.O)
+12	제시(Jessi)	Unpretty Dreams (Prod.by GRAY)
+13	제시(Jessi), 치타, 강남	My Type (Prod. by 버벌진트)
+14	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+15	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+16	빈지노 (Beenzino)	어쩌라고 (So What)
+17	EXID	위아래
+18	가인	Paradise Lost
+19	백지영	새벽 가로수길 (With 송유빈)
+20	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+21	노을	목소리
+22	포미닛 (4minute)	미쳐
+23	케이윌 (K.will)	꽃이 핀다
+24	장재인	환청 (Feat. 나쑈(NaShow))
+25	매드 클라운 (Mad Clown)	화 (Feat. 진실 of Mad Soul Child)
+26	치타, 에일리	아무도 모르게 (Prod. by MC몽)
+27	다비치	또 운다 또
+28	Maroon 5	Sugar
+29	민아 (걸스데이)	나도 여자예요
+30	15&amp; (박지민, 백예린)	사랑은 미친짓 (Feat. 칸토 of 트로이)
+31	소유, 기리보이 (Giriboy)	팔베개 (Pillow) (Feat. 기현)
+32	에이핑크 (Apink)	LUV
+33	Sam Smith	I`m Not The Only One
+34	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+35	AOA	사뿐사뿐 (Like a Cat)
+36	신화	표적
+37	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+38	긱스 (Geeks)	Is You (Feat.박정현)
+39	Ariana Grande	Problem (Feat. Iggy Azalea)
+40	정승환	사랑에 빠지고 싶다
+41	GD X TAEYANG	GOOD BOY
+42	Adam Levine	Lost Stars
+43	정승환, 박윤하	슬픔 속에 그댈 지워야만 해
+44	박효신	야생화
+45	MFBTY(윤미래, 타이거JK, Bizzy)	Hello Happy (Feat. 유희열)
+46	케이티 김	니가 있어야 할 곳
+47	러블리즈	안녕 (Hi~)
+48	XIA(준수)	꽃 (Feat. 타블로 of 에픽하이)
+49	EXO	CALL ME BABY
+50	다비치	행복해서 미안해
+51	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+52	별	끝난 사이
+53	백지영	Because Of You
+54	윤미래, 타이거JK, 비지	Angel
+55	토이 (Toy)	세 사람 (With 성시경)
+56	포스트맨 (Postmen)	신촌을 못가
+57	빅스(VIXX)	이별공식
+58	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+59	엠씨더맥스 (M.C The Max)	바라보기
+60	기리보이(Giriboy)	왕복 30분 (Feat. 신지수)
+61	MC몽	권태중독 (Feat. 선우정아)
+62	MC몽	내 생애 가장 행복한 시간 (Feat. 허각)
+63	아이유 (IU)	너의 의미 (Feat. 김창완)
+64	자이언티(Zion.T)	무중력
+65	김범수	오직 너만
+66	프라이머리(Primary), 오혁	Bawling
+67	다이나믹 듀오 (Dynamic Duo), 박정현	싱숭생숭 (SsSs)
+68	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+69	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+70	MFBTY(윤미래, 타이거JK, Bizzy)	방뛰기방방
+71	나인 뮤지스 (Nine Muses)	드라마 (DRAMA)
+72	비스트 (Beast)	12시 30분
+73	Maroon 5	Maps
+74	버스커 버스커 (Busker Busker)	꽃송이가
+75	효린, 주영	지워 (Feat. 아이언)
+76	WINNER	공허해
+77	에일리 (Ailee)	손대지마
+78	어쿠스틱 콜라보	묘해, 너와
+79	홍진영	산다는 건 (Cheer Up)
+80	알리 (ALi)	별 짓 다해봤는데
+81	MC몽	내가 그리웠니 (Feat. 진실 of Mad Soul Child)
+82	어쿠스틱 콜라보	너무 보고 싶어
+83	산이(San E), 레이나	한여름밤의 꿀
+84	에픽하이 (Epik High)	헤픈엔딩 (Feat. 조원선 of 롤러코스터)
+85	육지담	밤샜지 (Prod. By ZICO)
+86	NS Yoon-G	Wifey (Feat. MC몽)
+87	바비 (BOBBY)	연결고리#힙합
+88	니엘 (NIEL)	못된 여자 (Feat. Dok2)
+89	지민, MC 메타, 넋업샨(Nuck)	T4SA (Prod. by MC메타)
+90	윤현상	잊는다는 게
+91	로이킴	봄봄봄
+92	스컬, 하하	Beautiful Girl (Feat. 권정열 of 10cm)
+93	에릭남	괜찮아 괜찮아
+94	자이언티(Zion.T)	양화대교
+95	나얼	귀로
+96	졸리 브이 (Jolly V)	괜찮아 (Prod.by SouLime)
+97	양다일, 정키 (JungKey)	우린 알아
+98	10cm	쓰담쓰담
+99	윤현상	언제쯤이면 (Duet.아이유)
+100	케이윌 (K.Will)	Love Blossom (러브블러썸)

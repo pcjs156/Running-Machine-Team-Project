@@ -1,0 +1,101 @@
+./data/2016년 12주차 차트.txt
+1	다비치	이 사랑
+2	거미	You Are My Everything
+3	윤미래 (T)	ALWAYS
+4	첸(CHEN), 펀치 (Punch)	Everytime
+5	마마무 (Mamamoo)	넌 is 뭔들
+6	이하이	한숨
+7	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+8	엠씨더맥스 (M.C The Max)	어디에도
+9	에릭남, 웬디	봄인가 봐 (Spring Love)
+10	지코 (ZICO)	너는 나 나는 너
+11	지민 (AOA)	야 하고 싶어 (Feat.시우민 of EXO)
+12	이하이	손잡아 줘요
+13	태연 (TAEYEON)	Rain
+14	매드 클라운 (Mad Clown), 김나영	다시 너를
+15	PRODUCE 101	PICK ME
+16	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+17	TWICE	OOH-AHH하게
+18	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+19	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+20	수지, 백현 (BAEKHYUN)	Dream
+21	이적	걱정말아요 그대
+22	마마무 (Mamamoo)	I Miss You
+23	마마무 (Mamamoo)	1cm의 자존심
+24	임창정	또 다시 사랑
+25	케이윌 (K.Will)	말해! 뭐해?
+26	WINNER	센치해
+27	오혁	소녀
+28	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+29	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+30	Gary (개리)	또 하루 (Feat. 개코)
+31	케이윌 (K.Will)	니가 하면 로맨스 (feat.다비치)
+32	윤아 (YOONA)	덕수궁 돌담길의 봄 (Feat. 10cm)
+33	이하이	WORLD TOUR (비행) (Feat. MINO of WINNER)
+34	유주 (여자친구), 선율 (업텐션)	보일 듯 말 듯
+35	김범수	그댄 행복에 살텐데
+36	장범준	회상
+37	스탠딩 에그(Standing Egg)	무지개 (Feat. 윤닭 Of 오브로젝트)
+38	지코 (ZICO)	유레카 (Feat. Zion.T)
+39	에디킴	팔당댐 (feat.빈지노)
+40	백예린	우주를 건너
+41	Jessie J, Ariana Grande, Nicki Minaj	Bang Bang
+42	김필	청춘 (Feat. 김창완)
+43	러블리즈	Ah-Choo
+44	서인국	너 라는 계절
+45	레드벨벳(Red Velvet)	7월 7일 (One Of These Nights)
+46	정준영	공감 (Feat. 서영은)
+47	노을	함께
+48	백지영, 치타 (CHEETAH)	사랑이 온다
+49	거미	친구라도 될 걸 그랬어
+50	Adele	Hello
+51	김나영	어땠을까
+52	태연 (TAEYEON)	I (Feat. 버벌진트)
+53	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+54	iKON	취향저격
+55	자이언티(Zion.T)	No Make Up
+56	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+57	아이유 (IU)	스물셋
+58	장범준	그녀가 곁에 없다면 (결혼 행진곡을 활용한 신곡)
+59	싸이 (Psy)	DADDY (Feat. CL of 2NE1)
+60	이하이	FXXK WIT US (Feat. DOK2)
+61	EXID	HOT PINK
+62	박보람	혜화동 (혹은 쌍문동)
+63	AOA	심쿵해 (Heart Attack)
+64	솔지하니(EXID)	ONLY ONE
+65	Sam Smith	I`m Not The Only One
+66	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+67	산이(San E), 매드 클라운(Mad Clown)	못먹는 감 (Sour Grapes)
+68	김윤아	길
+69	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+70	싸이 (Psy)	나팔바지
+71	송민호	겁 (Feat. 태양)
+72	윤미래 (T)	Because of You
+73	자이언티(Zion.T)	꺼내 먹어요
+74	이하이	OFFICIAL (Feat. Incredivle)
+75	박효신	야생화
+76	백아연	이럴거면 그러지말지 (Feat. 영현)
+77	기현(Kihyun)	세월이 가면
+78	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+79	레드벨벳(Red Velvet)	Dumb Dumb
+80	Justin Bieber	Love Yourself
+81	임세준, 벤(Ben)	오늘은 가지마 (Duet Ver.)
+82	기리보이(Giriboy)	예쁘잖아
+83	엠씨더맥스 (M.C The Max)	그 남잔 말야
+84	윤미래 (T)	사랑이 맞을거야
+85	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+86	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+87	EXO	Sing For You
+88	태민 (TAEMIN)	Press Your Number
+89	한해	내가 이래
+90	디셈버 (December)	네게 줄 수 있는건 오직 사랑뿐
+91	DEAN	what2do (Feat. Crush, Jeff Bernat)
+92	박경	보통연애 (Feat. 박보람)
+93	제시(Jessi)	살찐 사랑
+94	송민호, 지코(ZICO)	Okey Dokey
+95	매드 클라운 (Mad Clown), 브라더수 (BrotherSu)	만화처럼 (Like Romance Comics)
+96	WINNER	BABY BABY
+97	방탄소년단	RUN
+98	우리 동네 음악대장	걱정말아요 그대 (우리동네 음악대장)
+99	소녀온탑	같은 곳에서
+100	iKON	덤앤더머 (DUMB & DUMBER)

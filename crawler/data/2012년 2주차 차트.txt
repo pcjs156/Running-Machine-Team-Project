@@ -1,0 +1,101 @@
+./data/2012년 2주차 차트.txt
+1	티아라 (T-ara)	Lovey-Dovey
+2	정준하	키 큰 노총각 이야기
+3	트러블메이커 (Trouble Maker)	Trouble Maker
+4	아이유 (IU)	너랑 나
+5	다이나믹 듀오 (Dynamic Duo)	거기서거기 (Without You)
+6	10cm	애상
+7	다비치, 티아라	우리 사랑했잖아
+8	유재석	더위 먹은 갈매기 (Feat. 송은이 & 김숙)
+9	티아라 (T-ara)	Cry Cry
+10	지아 (Zia)	속상해서 (술 한잔 해요 Part 2)
+11	허각, LE(EXID)	그 노래를 틀때마다
+12	원더걸스 (Wonder girls)	Be My Baby
+13	하하	바보에게 바보가 (Feat. 스컬)
+14	노을	그리워 그리워
+15	길 (리쌍)	삼바의 매력 (Feat. 개리 & 정인)
+16	노을	살기 위해서
+17	틴 탑 (Teen Top)	미치겠어
+18	원티드 (Wanted)	Like You (Feat. 아이유)
+19	리쌍, BMK	광대
+20	정형돈	영계백숙 (Feat. 뮤지컬 & 앙상블 13인)
+21	울랄라세션	서쪽 하늘
+22	이현 (에이트)	너니까
+23	박명수	광대 (Feat. 김범수)
+24	일렉트로보이즈 (Electroboyz)	Ma Boy 2 (Feat. 효린)
+25	알리 (ALi)	촌스럽게 굴지마 (Feat. 용준형)
+26	에이핑크 (Apink)	My My
+27	엠블랙 (MBLAQ)	낙서
+28	허각	죽고 싶단 말 밖에
+29	엠블랙 (MBLAQ)	전쟁이야
+30	노홍철	사랑의 서약 (Feat. 다이나믹 듀오 & 노라조)
+31	포맨 (4Men), 미 (美)	그 남자 그 여자
+32	아이유 (IU)	비밀
+33	영준 (브라운아이드소울)	꽃보다 그대가 (Feat. Simon D)
+34	살찐고양이	예쁜게 다니
+35	아이유 (IU)	삼촌 (Feat. 이적)
+36	소녀시대	The Boys
+37	버스커 버스커 (Busker Busker)	서울사람들
+38	오렌지 캬라멜 (Orange Caramel)	Funny Hunny
+39	Adele	Rolling In The Deep
+40	이영현	이별사랑
+41	박재범	별
+42	버스커 버스커 (Busker Busker)	동경소녀
+43	김연우	더 가까이
+44	NS Yoon-G	마녀가 된 이유
+45	코요태(KYT)	했던 말 또 하고
+46	동해, 은혁	떴다 오빠 (Oppa, Oppa)
+47	먼데이 키즈 (Monday Kiz)	미행
+48	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+49	이승기	친구잖아
+50	Jason Mraz	I Won`t Give Up
+51	소녀시대	Mr.Taxi (Korean Ver.)
+52	시크릿 (Secret)	사랑은 Move
+53	버스커 버스커 (Busker Busker)	막걸리나
+54	제아 (브라운 아이드 걸스)	그대 바보
+55	박완규	고해 (임재범)
+56	허각	Hello
+57	주석	Sun & Star (Feat. 임정희)
+58	다이나믹 듀오 (Dynamic Duo)	불타는 금요일 (Friday Night)
+59	김보경	메아리
+60	바비 킴 (Bobby Kim)	너만이
+61	피기돌스 (Piggy Dolls)	사랑이 뭐길래 (Feat. Simon D)
+62	다이나믹 듀오 (Dynamic Duo)	참고 살아 (be...)
+63	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+64	신효범	이별연습 (인순이)
+65	브라운아이드걸스	클렌징크림
+66	Bueno Clinic	Sex Apeal (Max Farenthide Radio Edit) ...
+67	버스커 버스커 (Busker Busker)	정류장
+68	이승철, 크리스티나 러브 리	I Believe
+69	나인 뮤지스 (Nine Muses)	뉴스 (News)
+70	이승기	연애시대 (Feat. Ra.D / Nar. 한효주)
+71	원더걸스 (Wonder girls)	G.N.O.
+72	다비치	안녕이라고 말하지마
+73	원더걸스 (Wonder Girls)	The DJ Is Mine
+74	아이유 (IU)	잠자는 숲 속의 왕자 (Feat. 윤상)
+75	인피니트 (Infinite)	하얀 고백 (Lately)
+76	수지	눈물이 많아서
+77	윤미래 (T)	Get It In (Feat. Tiger JK & 정인) (Korea...
+78	스피카(SPICA)	독하게
+79	보이프렌드(Boyfriend)	내가 갈게 (I`ll Be There)
+80	브라운 아이드 소울 (Brown Eyed Soul)	Gone
+81	씨스타 (Sistar)	So Cool (쏘쿨)
+82	저스틴 김	한 걸음 더 (원곡 가수 윤상)
+83	울랄라세션	너와 함께
+84	써니힐 (SunnyHill)	베짱이 찬가
+85	원더걸스 (Wonder girls)	Girls Girls
+86	일락 (一樂)	사랑이 뭐길래
+87	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+88	임정희	필라멘트
+89	김원주(4Men)	겨울연가 (Feat. 美) (부제 - 겨울이야)
+90	버스커 버스커 (Busker Busker)	그댄 달라요
+91	윤종신	느낌Good (Feat. 장재인)
+92	장재인	겨울밤
+93	울랄라세션	Swing Baby
+94	레인보우 픽시 (Pixie)	호이 호이 (Hoi Hoi)
+95	김동률	Replay
+96	아이유 (IU)	별을 찾는 아이 (Feat. 김광진)
+97	FIX	말하지마 (Narr. 장지은)
+98	에이트 (8eight)	한사람
+99	김건모	남자의 인생 (Remix Ver.)
+100	케이윌 &amp; 씨스타 &amp; 보이프렌드	핑크빛 로맨스 (Pink Romance)

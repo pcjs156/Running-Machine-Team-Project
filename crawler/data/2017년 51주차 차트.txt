@@ -1,0 +1,101 @@
+./data/2017년 51주차 차트.txt
+1	TWICE	Heart Shaker
+2	멜로망스(Melomance)	선물
+3	종현 (JONGHYUN)	Lonely (Feat. 태연)
+4	나얼	기억의 빈자리
+5	윤종신, 민서	좋아
+6	자이언티(Zion.T)	눈 (Feat. 이문세)
+7	펀치 (Punch)	밤이 되니까
+8	문문 (MoonMoon)	비행운
+9	레드벨벳(Red Velvet)	피카부 (Peek-A-Boo)
+10	윤종신	좋니
+11	어반 자카파 (Urban Zakapa)	그때의 나, 그때의 우리
+12	태연 (TAEYEON)	This Christmas
+13	이하이	한숨
+14	TWICE	LIKEY
+15	Wanna One (워너원)	Beautiful
+16	에픽하이 (EPIK HIGH)	연애소설 (Feat. 아이유)
+17	박원	all of my life
+18	볼빨간사춘기	썸 탈꺼야
+19	Ariana Grande	Santa Tell Me
+20	비투비 (BTOB)	그리워하다
+21	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+22	종현 (JONGHYUN)	하루의 끝 (End of a day)
+23	지아 (Zia)	바보에게 바보가
+24	소유, 성시경	뻔한 이별
+25	임창정	그 사람을 아나요
+26	방탄소년단	DNA
+27	길구봉구	이 별
+28	Shawn Mendes	There`s Nothing Holdin` Me Back
+29	Camila Cabello	Havana (Feat. Young Thug)
+30	볼빨간사춘기	나의 사춘기에게
+31	허각	바보야
+32	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+33	선미	가시나
+34	아이유 (IU)	밤편지
+35	Ed Sheeran	Shape of You
+36	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+37	포맨 (4Men)	눈 떠보니 이별이더라
+38	헤이즈 (Heize)	좋았을걸
+39	에픽하이 (EPIK HIGH)	빈차 (Feat. 오혁)
+40	EXID	덜덜덜
+41	Wanna One (워너원)	에너제틱 (Energetic)
+42	볼빨간사춘기	Blue
+43	박원	노력
+44	크러쉬 (CRUSH)	내 편이 돼줘
+45	방탄소년단	봄날
+46	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+47	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+48	아이유 (IU)	가을 아침
+49	Wanna One (워너원)	갖고 싶어
+50	황치열	매일 듣는 노래 (A Daily Song)
+51	BLACKPINK	마지막처럼
+52	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+53	볼빨간 사춘기, 스무살	남이 될 수 있을까
+54	소유 (SOYOU)	기우는 밤 (Feat. 긱스) (PROD. 프라이머리)
+55	에픽하이 (EPIK HIGH)	노땡큐 (Feat. MINO, 사이먼 도미닉, 더콰이엇)
+56	멜로망스(MeloMance)	짙어져
+57	버즈 (Buzz)	사랑하지 않은 것처럼
+58	장덕철	그날처럼
+59	현아 (HyunA)	Lip & Hip
+60	헤이즈 (Heize)	널 너무 모르고
+61	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+62	WINNER	REALLY REALLY
+63	먼데이 키즈 (Monday Kiz)	가을 안부
+64	이적	나침반
+65	볼빨간사춘기	처음부터 너와 나
+66	10cm	폰서트
+67	Sia	Snowman
+68	아이유 (IU)	잠 못 드는 밤 비는 내리고
+69	수란 (SURAN)	러브스토리 (Feat. 크러쉬)
+70	방탄소년단	고민보다 Go
+71	The Chainsmokers	Closer (Feat. Halsey)
+72	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+73	구윤회	Marry Me
+74	엠씨더맥스 (M.C The Max)	어디에도
+75	김나영	헤어질 수 밖에
+76	벤 (Ben)	갈 수가 없어
+77	길구봉구	바람이 불었으면 좋겠어
+78	TWICE	Merry & Happy
+79	윤하	종이비행기 (Hello) (Feat. pH-1)
+80	지코 (ZICO)	Artist
+81	Wanna One (워너원)	Twilight
+82	XIA(준수), 임창정	우리도 그들처럼
+83	EXO	Ko Ko Bop
+84	방탄소년단	MIC Drop
+85	Maroon 5	What Lovers Do (Feat. SZA)
+86	방탄소년단	피 땀 눈물
+87	종현 (JONGHYUN)	놓아줘 (Let Me Out)
+88	G-Dragon	무제(無題) (Untitled, 2014)
+89	The Chainsmokers, Coldplay	Something Just Like This
+90	뉴이스트 W	WHERE YOU AT
+91	성시경	나의 밤 나의 너
+92	Wanna One (워너원)	Nothing Without You (Intro.)
+93	정승환	너였다면
+94	케이윌, 소유, 보이프렌드, 몬스타엑스, 우주소녀, 매드클라운, 정기고, 샵건, 유승우, 브라더수, 마인드유, 듀에토, 정세운, 이광현	크리스마스데이 (Christmas Day)
+95	Justin Bieber	Love Yourself
+96	볼빨간사춘기	좋다고 말해
+97	볼빨간사춘기	나만 안되는 연애
+98	에릭남, 치즈 (CHEEZE)	Perhaps Love (사랑인가요) (Prod. by 박근태)
+99	Sia	Santa`s Coming For Us
+100	방탄소년단	MIC Drop (Steve Aoki Remix) (Feat. Des...

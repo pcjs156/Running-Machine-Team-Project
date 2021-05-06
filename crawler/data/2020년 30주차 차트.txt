@@ -1,0 +1,201 @@
+./data/2020년 30주차 차트.txt
+1	싹쓰리 (유두래곤, 린다G, 비룡)	다시 여기 바닷가
+2	화사(Hwa Sa)	마리아 (Maria)
+3	BLACKPINK	How You Like That
+4	지코 (ZICO)	Summer Hate (Feat. 비)
+5	싹쓰리 (유두래곤, 린다G, 비룡)	여름 안에서 (Covered By 싹쓰리) (Feat. 황광희)
+6	블루 (BLOO)	Downtown Baby
+7	아이유 (IU)	에잇 (Prod.&Feat. SUGA of BTS)
+8	선미	보라빛 밤 (pporappippam)
+9	조정석	아로하
+10	오마이걸 (OH MY GIRL)	Dolphin
+11	오마이걸 (OH MY GIRL)	살짝 설렜어 (Nonstop)
+12	전미도	사랑하게 될 줄 알았어
+13	아이유 (IU)	Into the I-LAND
+14	Maroon 5	Memories
+15	Tones And I	Dance Monkey
+16	오반 (OVAN)	어떻게 지내
+17	TWICE	MORE & MORE
+18	레드벨벳-아이린&amp;슬기	Monster
+19	청하	PLAY (Feat. 창모)
+20	창모 (CHANGMO)	METEOR
+21	아이유 (IU)	Blueming
+22	장범준	흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야
+23	Dua Lipa	Don`t Start Now
+24	지코 (ZICO)	아무노래
+25	엠씨더맥스 (M.C The Max)	처음처럼
+26	조이	좋은 사람 있으면 소개시켜줘
+27	볼빨간사춘기	나비와 고양이 (Feat. 백현 (BAEKHYUN))
+28	악동뮤지션 (AKMU)	어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+29	가호 (Gaho)	시작
+30	이하이	홀로
+31	Anne-Marie	2002
+32	노을	늦은 밤 너의 집 앞 골목길에서
+33	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+34	레드벨벳(Red Velvet)	Psycho
+35	아이유 (IU)	마음을 드려요
+36	방탄소년단	작은 것들을 위한 시 (Boy With Luv) (Feat. Hals...
+37	식케이, pH-1, 박재범, 김하온	깡 Official Remix
+38	마크툽 (Maktub)	오늘도 빛나는 너에게 (To You My Light) (Feat.이라...
+39	규현 (KYUHYUN)	화려하지 않은 고백
+40	미도와 파라솔	너에게 난, 나에게 넌
+41	IZ*ONE (아이즈원)	환상동화 (Secret Story of the Swan)
+42	에이핑크 (Apink)	덤더럼(Dumhdurum)
+43	방탄소년단	ON
+44	Conan Gray	Maniac
+45	전상근	사랑은 지날수록 더욱 선명하게 남아
+46	임영웅	이제 나만 믿어요
+47	Lauv	Paris In The Rain
+48	아이유 (IU)	Love poem
+49	폴킴	안녕
+50	이수현	아직 너의 시간에 살아
+51	런치	어떻게 지내 (답가)
+52	세븐틴	Left & Right
+53	크러쉬 (CRUSH)	OHIO
+54	신예영	우리 왜 헤어져야 해
+55	김필	그때 그 아인
+56	산들	취기를 빌려 (취향저격 그녀 X 산들)
+57	신용재	첫 줄
+58	하현우	돌덩이
+59	어반 자카파 (Urban Zakapa)	그대 고운 내사랑
+60	IZ*ONE (아이즈원)	FIESTA
+61	휘인	내 눈물 모아
+62	황인욱	취했나봐
+63	ITZY (있지)	WANNABE
+64	진민호	반만
+65	솔지	오늘따라 비가 와서 그런가 봐
+66	폴킴	너를 만나
+67	Ruel	Painkiller
+68	백현 (BAEKHYUN)	Candy
+69	백지영	거짓말이라도 해서 널 보고싶어
+70	폴킴	비
+71	Billie Eilish	bad guy
+72	마마무 (Mamamoo)	HIP
+73	여자친구 (GFRIEND)	Apple
+74	영탁	찐이야
+75	HYNN(박혜원)	시든 꽃에 물을 주듯
+76	백현 (BAEKHYUN)	너를 사랑하고 있어
+77	ASH ISLAND	Error (Feat. Loopy)
+78	방탄소년단	봄날
+79	Sam Smith	To Die For
+80	오반 (OVAN), 주식	불 좀 꺼줄래
+81	영탁	니가 왜 거기서 나와 (Narr. 고은아)
+82	태연 (TAEYEON)	Happy
+83	Ariana Grande, Justin Bieber	Stuck with U
+84	전상근	사랑이란 멜로는 없어
+85	Etham	12_45 (Stripped)
+86	황인욱	포장마차
+87	임영웅	어느 60대 노부부이야기
+88	임재현	조금 취했어 (Prod. 2soo)
+89	방탄소년단	00_00 (Zero O`Clock)
+90	방탄소년단	Black Swan
+91	임영웅	바램
+92	세훈&amp;찬열	10억뷰 (Feat. MOON)
+93	전소미	What You Waiting For
+94	김필	나도 모르는 노래 (Hallelujah)
+95	방탄소년단	친구
+96	폴킴	우리 만남이
+97	마크툽 (Maktub)	너를 그린 우주 (Insomnia2020) (Feat. 이라온)
+98	아이유 (IU)	밤편지
+99	방탄소년단	Moon
+100	Shawn Mendes, Camila Cabello	Senorita
+101	Anne-Marie	Birthday
+102	방탄소년단	Filter
+103	Jeremy Zucker	comethru
+104	Lizzo	Juice
+105	세븐틴	아주 NICE
+106	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+107	먼데이 키즈 (Monday Kiz)	사랑이 식었다고 말해도 돼
+108	백예린	Square (2017)
+109	임재현	사랑에 연습이 있었다면 (Prod. 2soo)
+110	태연 (TAEYEON)	사계 (Four Seasons)
+111	V.O.S	다시 만날까 봐
+112	방탄소년단	We are Bulletproof _ the Eternal
+113	신용재	별이 온다
+114	정승환	언제라도 어디에서라도
+115	방탄소년단	시차
+116	싹쓰리 (유두래곤, 린다G, 비룡)	그 여름을 틀어줘
+117	Imagine Dragons	Believer
+118	잔나비	주저하는 연인들을 위해
+119	Doja Cat	Say So
+120	이우	이별까지는 생각 못 했어
+121	Ed Sheeran	Shape of You
+122	에이프릴(APRIL)	LALALILALA
+123	코요태(KYT)	바다
+124	권진아	Lonely Night
+125	헤이즈 (Heize)	You`re Cold (더 많이 사랑한 쪽이 아프대)
+126	볼빨간사춘기	품
+127	방탄소년단	Inner Child
+128	다비치	너에게 못했던 내 마지막 말은
+129	스탠딩 에그(Standing Egg)	오래된 노래
+130	청하	Stay Tonight
+131	백예린	다시 난, 여기
+132	송하예	니 소식
+133	Troye Sivan	Youth
+134	김호중	나보다 더 사랑해요
+135	Charlie Puth	Attention
+136	태연 (TAEYEON)	그대라는 시
+137	임영웅	보라빛 엽서
+138	#안녕	너의 번호를 누르고 (Prod. 영화처럼)
+139	Arizona Zervas	ROXANNE
+140	샘김	숨 (Breath)
+141	Harry Styles	Watermelon Sugar
+142	미도와 파라솔	밤이 깊었네 (Drama Ver.)
+143	조광일	곡예사
+144	다비치	나의 오랜 연인에게
+145	이예준	미친 소리
+146	숀 (SHAUN)	Way Back Home
+147	The Weeknd	Blinding Lights
+148	EXO	Obsession
+149	Maroon 5	Sugar
+150	장혜진, 윤민수	술이 문제야
+151	엠씨더맥스 (M.C The Max)	넘쳐흘러
+152	Christopher	Bad
+153	케이시 (Kassy)	그때가 좋았어
+154	비 (Rain)	깡
+155	거미	기억해줘요 내 모든 날과 그때를
+156	Naomi Scott	Speechless (Full)
+157	창모 (CHANGMO)	빌었어
+158	Post Malone	Circles
+159	윤토벤 (YounToven)	서툰 이별을 하려해 (Feat.전상근)
+160	Lady Gaga, Ariana Grande	Rain On Me
+161	영탁	막걸리 한잔
+162	볼빨간사춘기	여행
+163	Charlie Puth	One Call Away
+164	오마이걸 (OH MY GIRL)	BUNGEE (Fall in Love)
+165	장덕철	있어줘요
+166	에이치코드 (H:CODE)	꿈속에 너 (Feat. 전상근)
+167	엠씨더맥스 (M.C The Max)	사계 (하루살이)
+168	BLACKPINK	Forever Young
+169	폴킴	집돌이
+170	장범준	노래방에서
+171	방탄소년단	Louder than bombs
+172	정은지	AWay
+173	아이유 (IU)	시간의 바깥
+174	Lauv	Never Not
+175	방탄소년단	욱 (UGH!)
+176	마크툽 (Maktub)	마음이 말하는 행복 (Happiness) (Feat.이라온)
+177	창모, Hash Swan, ASH ISLAND, 김효은	BAND
+178	BENEE	Supalonely (Feat. Gus Dapperton)
+179	세븐틴	My My
+180	DAY6	Zombie
+181	Anne-Marie	To Be Young (Feat. Doja Cat)
+182	Marshmello, Halsey	Be Kind
+183	Alan Walker, Sabrina Carpenter, Farruko	On My Way
+184	송하예	새 사랑
+185	염따, 딥플로우, 팔로알토 (Paloalto), The Quiett, 사이먼 도미닉	아마두 (Feat. 우원재, 김효은, 넉살, Huckleberry P...
+186	거북이	비행기
+187	TWICE	Dance The Night Away
+188	TWICE	Feel Special
+189	BLACKPINK	Kill This Love
+190	BLACKPINK	마지막처럼
+191	박원	My Tale
+192	헤이즈 (Heize)	작사가
+193	방탄소년단	Interlude _ Shadow
+194	Abir	Tango
+195	5 Seconds of Summer	High
+196	HONNE	no song without you
+197	아이유 (IU)	삐삐
+198	The Chainsmokers	Closer (Feat. Halsey)
+199	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+200	신예영	넌 내가 보고 싶지 않나 봐

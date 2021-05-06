@@ -1,0 +1,101 @@
+./data/2013년 48주차 차트.txt
+1	다비치	편지
+2	이적	거짓말 거짓말 거짓말
+3	성시경	너에게
+4	miss A	Hush
+5	노을	밤이 오는 거리 (Feat. 다이나믹 듀오)
+6	박효신	It`s YOU
+7	에일리 (Ailee)	눈물이 맘을 훔쳐서
+8	T.O.P	DOOM DADA
+9	트러블메이커 (Trouble Maker)	내일은 없어
+10	허각	향기만 남아
+11	형용돈죵 (정형돈 &amp; G-DRAGON)	해볼라고
+12	산이 (San E)	어디서 잤어 (Feat. 버벌진트, 스윙스)
+13	2NE1 (투애니 원)	그리워해요
+14	박지윤	미스터리 (Feat. San E)
+15	태양	링가 링가 (RINGA LINGA)
+16	하우두유둘 (유재석 &amp; 유희열)	Please Don`t Go My Girl (Feat. 김조한)
+17	이적, 정인	비포 선라이즈
+18	케이윌 (K.will)	촌스럽게 왜 이래 (You Don`t Know Love)
+19	아이유 (IU)	분홍신
+20	창민 (2AM)	Moment
+21	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+22	임창정	나란놈이란
+23	김예림 (투개월)	Goodbye 20
+24	버스커 버스커 (Busker Busker)	처음엔 사랑이란게
+25	2AM	그냥 있어줘
+26	장미하관 (노홍철 &amp; 장미여관)	오빠라고 불러다오
+27	산이 (San E)	이별식탁 (Feat. 산체스)
+28	브라운 아이드 소울 (Brown Eyed Soul)	Always Be There
+29	G-Dragon	삐딱하게 (Crooked)
+30	이정, 하동균	같이 사랑했는데
+31	티아라 (T-ara)	넘버나인 (No.9)
+32	정준영	이별 10분 전
+33	문명진	또 운다
+34	윤미래 (T)	Touch Love
+35	EXO	으르렁 (Growl)
+36	레이디스 코드 (Ladies` Code)	예뻐 예뻐
+37	비원에이포 (B1A4)	그대와 함께
+38	FTISLAND (FT 아일랜드)	미치도록
+39	버스커 버스커 (Busker Busker)	잘할 걸
+40	로이킴	서울 이곳은
+41	YB (윤도현 밴드), 박정현	회상
+42	노을	만약에 말야 (전우성 Solo)
+43	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+44	나비 (Navi)	불치병 (Feat. 키비)
+45	애즈 원 (As One)	2013 원하고 원망하죠
+46	가비엔제이 (Gavy NJ), 더 씨야 (The SeeYa)	눈물이 핑돌아
+47	임정희	Feel So Good (Feat. 홍대광)
+48	블락비 (Block B)	Very Good
+49	스탠딩 에그(Standing Egg)	넌 이별 난 아직 (Feat. 박신혜)
+50	산이 (San E)	아는사람 얘기
+51	유성은	Healing
+52	무한도전	그래, 우리 함께
+53	병살 (정준하 &amp; 김C)	사라질것들 (Feat. 이소라, Beenzino)
+54	버스커 버스커 (Busker Busker)	사랑은 타이밍
+55	정키 (Jung Key)	홀로 (Feat. 김나영)
+56	이홍기 (FT아일랜드)	말이야
+57	M&amp;N	오늘밤
+58	에이핑크 (Apink)	NoNoNo
+59	투빅 (2BiC)	She (Feat. 79)
+60	장미여관	장가가고 싶은 남자 시집가고 싶은 여자
+61	G-Dragon	니가 뭔데 (Who You?)
+62	범키	갖고놀래 (Feat. 다이나믹 듀오)
+63	어반 자카파 (Urban Zakapa)	거꾸로 걷는다
+64	G.A.B (길 &amp; BoA)	G.A.B
+65	김범수	끝사랑
+66	김보경	그때로 가고싶다
+67	G-Dragon	Black (Feat. Jennie Kim)
+68	언터쳐블 (Untouchable)	배인 (Vain) (Feat. Koonta)
+69	클로버 (Clover)	주르륵
+70	세븐티핑거스 (하하 &amp; 장기하와 얼굴들)	슈퍼 잡초맨
+71	샤이니 (SHINee)	Everybody
+72	효린	미치게 만들어
+73	이승철	My Love
+74	먼데이 키즈 (Monday Kiz)	그대여
+75	아이유 (IU)	누구나 비밀은 있다 (Feat. 가인)
+76	팬텀(Phantom)	신세계 (Feat. 나비)
+77	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+78	크레용팝 (Crayon Pop)	빠빠빠
+79	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+80	임창정	문을 여시오 (Feat. 김창렬) (New Ver.)
+81	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+82	거미 (Gummy), 빅브라더 (Big Brother)	Only One
+83	에일리 (Ailee)	U & I
+84	Ylvis	The Fox
+85	윤종신, 성시경	내일 할 일
+86	장미여관	봉숙이
+87	포맨 (4Men)	가시사랑
+88	버스커 버스커 (Busker Busker)	그대 입술이 (With 채지연 - 풋풋)
+89	다이나믹 듀오 (Dynamic Duo)	Baaam (Feat. Muzie)
+90	서인국	겁도 없이
+91	이적	누가 있나요
+92	이적	사랑이 뭐길래
+93	임창정	오랜만이야
+94	하이니 (Hi.ni)	가질 수 없는 너
+95	김진호	살다가
+96	왁스 (Wax)	사랑 바람
+97	리듬킹 (Rhythmking)	Think About You
+98	산이 (San E)	전 여자친구에게 (Feat. 선우정아)
+99	서인영	나를 사랑해줘 (Feat. 개코)
+100	칸토	말만해 (What You Want) (Feat. 김성규)

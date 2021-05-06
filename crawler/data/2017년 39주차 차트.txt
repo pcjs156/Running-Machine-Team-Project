@@ -1,0 +1,101 @@
+./data/2017년 39주차 차트.txt
+1	아이유 (IU)	가을 아침
+2	윤종신	좋니
+3	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+4	아이유 (IU)	잠 못 드는 밤 비는 내리고
+5	선미	가시나
+6	볼빨간사춘기	썸 탈꺼야
+7	방탄소년단	DNA
+8	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+9	아이유 (IU)	비밀의 화원
+10	아이유 (IU)	밤편지
+11	박원	all of my life
+12	황치열	매일 듣는 노래 (A Daily Song)
+13	볼빨간사춘기	나의 사춘기에게
+14	Wanna One (워너원)	에너제틱 (Energetic)
+15	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+16	아이유 (IU)	매일 그대와
+17	BLACKPINK	마지막처럼
+18	아이유 (IU)	어젯밤 이야기
+19	Ed Sheeran	Shape of You
+20	볼빨간사춘기	Blue
+21	헤이즈 (Heize)	널 너무 모르고
+22	볼빨간 사춘기, 스무살	남이 될 수 있을까
+23	넉살, 한해, 조우찬, 라이노	N분의 1 (Feat. 다이나믹듀오)
+24	행주	Red Sun (Feat. ZICO, Swings)
+25	버즈 (Buzz)	사랑하지 않은 것처럼
+26	행주, 양홍원 (Young B), Hash Swan, 킬라그램(Killagramz)	요즘것들 (Feat. ZICO & DEAN)
+27	현아 (HyunA)	베베 (BABE)
+28	지코 (ZICO)	Artist
+29	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+30	방탄소년단	Best Of Me
+31	케이윌 (K.Will)	실화
+32	방탄소년단	봄날
+33	EXO	Ko Ko Bop
+34	볼빨간사춘기	처음부터 너와 나
+35	아이유 (IU)	개여울
+36	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+37	방탄소년단	고민보다 Go
+38	볼빨간사춘기	고쳐주세요
+39	EXO	Power
+40	볼빨간사춘기	상상
+41	G-Dragon	무제(無題) (Untitled, 2014)
+42	길구봉구	이 별
+43	청하	Why Don`t You Know (Feat. 넉살)
+44	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+45	여자친구 (GFRIEND)	귀를 기울이면 (LOVE WHISPER)
+46	젝스키스	특별해
+47	아이유 (IU)	사랑이 잘 (With 오혁)
+48	방탄소년단	보조개
+49	악동뮤지션 (AKMU)	DINOSAUR
+50	WINNER	REALLY REALLY
+51	10cm	폰서트
+52	멜로망스(Melomance)	선물
+53	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+54	구윤회	Marry Me
+55	여자친구 (GFRIEND)	여름비 (SUMMER RAIN)
+56	넉살 (Nucksal)	필라멘트 (Feat. BSK A.K.A 김범수)
+57	볼빨간사춘기	좋다고 말해
+58	Wanna One (워너원)	활활 (Burn It Up)
+59	싸이 (Psy)	New Face
+60	방탄소년단	MIC Drop
+61	The Chainsmokers	Closer (Feat. Halsey)
+62	볼빨간사춘기	나만 안되는 연애
+63	WINNER	LOVE ME LOVE ME
+64	볼빨간사춘기	우주를 줄게
+65	정승환	너였다면
+66	방탄소년단	Pied Piper
+67	한동근	미치고 싶다
+68	BLACKPINK	불장난
+69	The Chainsmokers, Coldplay	Something Just Like This
+70	DEAN	D (half moon) (Feat. 개코)
+71	지코 (ZICO)	FANXY CHILD (Feat. FANXY CHILD)
+72	TWICE	SIGNAL
+73	엠씨더맥스 (M.C The Max)	어디에도
+74	행주, 양홍원 (Young B)	SEARCH (Feat. 카더가든, ZICO)
+75	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+76	방탄소년단	피 땀 눈물
+77	Justin Bieber	Love Yourself
+78	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+79	에이핑크 (Apink)	FIVE
+80	한동근	그대라는 사치
+81	방탄소년단	Intro _ Serendipity
+82	킬라그램 (Killagramz)	어디 (Feat. DEAN, 지코(ZICO))
+83	비원에이포 (B1A4)	Rollin`
+84	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+85	우원재	또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+86	소녀시대	Holiday
+87	바비 (BOBBY)	사랑해
+88	길구봉구	바람이 불었으면 좋겠어
+89	방탄소년단	Outro _ Her
+90	Wanna One (워너원)	Wanna Be (My Baby)
+91	폴킴	길
+92	뉴이스트 W	있다면
+93	EXO	전야 (前夜) (The Eve)
+94	젝스키스	웃어줘
+95	태양	DARLING
+96	뉴이스트 (NU`EST)	여보세요
+97	양홍원 (Young B)	아침에 (Feat. Bryn)
+98	국민의 아들	NEVER
+99	창모 (CHANGMO)	아름다워
+100	Maroon 5	What Lovers Do (Feat. SZA)

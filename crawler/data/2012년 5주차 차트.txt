@@ -1,0 +1,101 @@
+./data/2012년 5주차 차트.txt
+1	티아라 (T-ara)	Lovey-Dovey
+2	비스트 (Beast)	이럴 줄 알았어
+3	10cm	애상
+4	효린	널 사랑하겠어
+5	다이나믹 듀오 (Dynamic Duo)	거기서거기 (Without You)
+6	아이유 (IU)	너랑 나
+7	트러블메이커 (Trouble Maker)	Trouble Maker
+8	써니힐 (SunnyHill)	베짱이 찬가
+9	틴 탑 (Teen Top)	미치겠어
+10	다비치, 티아라	우리 사랑했잖아
+11	케이윌 (K.Will)	내가 싫다
+12	엠블랙 (MBLAQ)	전쟁이야
+13	세븐	내가 노래를 못해도
+14	정준하	키 큰 노총각 이야기
+15	노을	그리워 그리워
+16	Dal★Shabet (달샤벳)	Hit U
+17	노을	살기 위해서
+18	티아라 (T-ara)	Cry Cry
+19	이루마 (Yiruma), 신용재, 美(미), BIGTONE	Kiss The Rain
+20	허각, LE(EXID)	그 노래를 틀때마다
+21	원티드 (Wanted)	너에게로 간다
+22	리쌍, BMK	광대
+23	FTISLAND (FT 아일랜드)	지독하게
+24	원더걸스 (Wonder girls)	Be My Baby
+25	지아 (Zia)	속상해서 (술 한잔 해요 Part 2)
+26	원더걸스 (Wonder Girls)	The DJ Is Mine
+27	박진영	Falling
+28	린 (LYn)	시간을 거슬러
+29	제시카 &amp; 김진표	어쩜
+30	울랄라세션	서쪽 하늘
+31	유재석	더위 먹은 갈매기 (Feat. 송은이 & 김숙)
+32	Adele	Rolling In The Deep
+33	원티드 (Wanted)	Like You (Feat. 아이유)
+34	제이세라 (J-Cera)	사랑시 고백구 행복동
+35	일렉트로보이즈 (Electroboyz)	Ma Boy 2 (Feat. 효린)
+36	미료 (브라운아이드걸스)	DIRTY
+37	에이핑크 (Apink)	My My
+38	이현 (에이트)	너니까
+39	살찐고양이	예쁜게 다니
+40	영준 (브라운아이드소울)	잊어요
+41	나인 뮤지스 (Nine Muses)	뉴스 (News)
+42	레인보우 픽시 (Pixie)	호이 호이 (Hoi Hoi)
+43	허각	죽고 싶단 말 밖에
+44	스컬 (Skull), 박효신	나 이러고 살아
+45	알리 (ALi)	촌스럽게 굴지마 (Feat. 용준형)
+46	브라이언 (Brian)	너 따윈 버리고 (Feat. 타이거 JK)
+47	하하	바보에게 바보가 (Feat. 스컬)
+48	포맨 (4Men), 미 (美)	그 남자 그 여자
+49	나몰라패밀리JW	사랑해 그 거짓말 같은 (Feat. 태인)
+50	LMFAO, Steve Aoki	Livin` My Love
+51	B.A.P	Warrior
+52	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+53	NS Yoon-G	마녀가 된 이유
+54	소녀시대	The Boys
+55	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+56	코요태(KYT)	했던 말 또 하고
+57	아이유 (IU)	삼촌 (Feat. 이적)
+58	송지은	추워요
+59	아이유 (IU)	비밀
+60	별	그래도 그대니까
+61	엠블랙 (MBLAQ)	낙서
+62	휘성	눈물길
+63	블락비 (Block B)	난리나
+64	버스커 버스커 (Busker Busker)	서울사람들
+65	베이비소울＋유지아	그녀는 바람둥이야 (Feat. 동우 Of 인피니트)
+66	길 (리쌍)	삼바의 매력 (Feat. 개리 & 정인)
+67	김연우	더 가까이
+68	용준형	너 없이 사는 것도
+69	Bueno Clinic	Sex Apeal (Max Farenthide Radio Edit) ...
+70	버스커 버스커 (Busker Busker)	동경소녀
+71	Jason Mraz	I Won`t Give Up
+72	오렌지 캬라멜 (Orange Caramel)	Funny Hunny
+73	스윗소로우(Sweet Sorrow)	VIVA! (Feat. 이소라)
+74	영준 (브라운아이드소울)	꽃보다 그대가 (Feat. Simon D)
+75	정형돈	영계백숙 (Feat. 뮤지컬 & 앙상블 13인)
+76	먼데이 키즈 (Monday Kiz)	미행
+77	태사비애	내가 사랑한 너 너를 사랑한 나 (Duet 비비안 Jy Sy)
+78	소녀시대	Mr.Taxi (Korean Ver.)
+79	허각	Hello
+80	애즈 원 (As One)	Only U (Feat. 동해 Of 슈퍼주니어)
+81	버벌진트 (Verbal Jint)	Classic
+82	다이나믹 듀오 (Dynamic Duo)	불타는 금요일 (Friday Night)
+83	포이트리	Lost (Feat. 정엽)
+84	시크릿 (Secret)	사랑은 Move
+85	이승기	친구잖아
+86	김연지	사랑이 옳아요
+87	마리오 (Mario)	문자 (Feat. 백지영)
+88	환희	가지마
+89	서영은, 이정	아니라는데
+90	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+91	제아 (브라운 아이드 걸스)	그대 바보
+92	거미	영원한 친구 (나미)
+93	버스커 버스커 (Busker Busker)	정류장
+94	박명수	광대 (Feat. 김범수)
+95	다비치	안녕이라고 말하지마
+96	부가킹즈 (Buga Kingz)	Don`t Go
+97	다이나믹 듀오 (Dynamic Duo)	참고 살아 (be...)
+98	보이프렌드(Boyfriend)	내가 갈게 (I`ll Be There)
+99	버스커 버스커 (Busker Busker)	막걸리나
+100	해오라 (Heora)	달빛이 지고

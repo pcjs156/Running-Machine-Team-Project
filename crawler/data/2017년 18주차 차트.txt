@@ -1,0 +1,101 @@
+./data/2017년 18주차 차트.txt
+1	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+2	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+3	아이유 (IU)	사랑이 잘 (With 오혁)
+4	혁오 (hyukoh)	TOMBOY
+5	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+6	WINNER	REALLY REALLY
+7	아이유 (IU)	밤편지
+8	아이유 (IU)	이 지금
+9	아이유 (IU)	이런 엔딩
+10	구윤회	Marry Me
+11	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+12	TWICE	KNOCK KNOCK
+13	지코 (ZICO)	She`s a Baby
+14	아이유 (IU)	잼잼
+15	볼빨간사춘기	좋다고 말해
+16	하이라이트(Highlight)	얼굴 찌푸리지 말아요
+17	신현희와김루트	오빠야
+18	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+19	Ed Sheeran	Shape of You
+20	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+21	레드벨벳(Red Velvet)	Rookie
+22	태연 (TAEYEON)	Fine
+23	아이유 (IU)	이름에게
+24	볼빨간사춘기	우주를 줄게
+25	정은지	너란 봄 (Feat. 하림)
+26	창모 (CHANGMO)	아름다워
+27	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+28	크러쉬 (CRUSH)	Beautiful
+29	볼빨간사춘기	나만 안되는 연애
+30	TWICE	TT
+31	방탄소년단	봄날
+32	빅뱅	에라 모르겠다
+33	창모 (CHANGMO)	마에스트로 (Maestro)
+34	블락비 (Block B)	YESTERDAY
+35	EXID	낮보다는 밤
+36	아이유 (IU)	Black Out
+37	매드 클라운 (Mad Clown)	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+38	BLACKPINK	불장난
+39	한동근	그대라는 사치
+40	태연 (TAEYEON)	Make Me Love You
+41	백현 (BAEKHYUN)	바래다줄게 (Take You Home)
+42	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+43	비투비 (BTOB)	MOVIE
+44	여자친구 (GFRIEND)	FINGERTIP
+45	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+46	The Chainsmokers	Closer (Feat. Halsey)
+47	걸스데이 (Girl`s Day)	I`ll be yours
+48	한동근	이 소설의 끝을 다시 써보려 해
+49	젝스키스	아프지 마요
+50	Justin Bieber	Love Yourself
+51	볼빨간사춘기	You(=I)
+52	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+53	자이언티(Zion.T)	노래
+54	TWICE	CHEER UP
+55	아이유 (IU)	마침표
+56	에디킴	이쁘다니까
+57	PRODUCE 101	나야 나 (PICK ME)
+58	박효신	숨
+59	임창정	내가 저지른 사랑
+60	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+61	소유, 백현 (BAEKHYUN)	비가와 (Rain)
+62	DEAN	넘어와 (Feat. 백예린)
+63	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+64	소유 (SOYOU)	I Miss You
+65	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+66	The Chainsmokers, Coldplay	Something Just Like This
+67	용준형	그대로일까 (Feat. 헤이즈)
+68	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+69	혁오 (hyukoh)	가죽자켓
+70	DEAN	D (half moon) (Feat. 개코)
+71	정승환	너였다면
+72	헤이즈 (Heize)	저 별
+73	엠씨더맥스 (M.C The Max)	어디에도
+74	볼빨간사춘기	심술
+75	최하민(Osshun Gum)	Come for you (Feat. HOMEBOY & FNRL.)
+76	정준일	첫 눈
+77	아이오아이 (I.O.I)	너무너무너무
+78	아이유 (IU)	그렇게 사랑은
+79	방탄소년단	피 땀 눈물
+80	정승환	이 바보야
+81	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+82	다이나믹 듀오 (Dynamic Duo) &amp; 첸 (CHEN)	기다렸다 가
+83	태연 (TAEYEON)	11_11
+84	WINNER	FOOL
+85	Sam Smith	I`m Not The Only One
+86	한동근	미치고 싶다
+87	권진아	Fly away
+88	AOA	Excuse Me
+89	황광희 X 개코	당신의 밤 (Feat. 오혁)
+90	반하나	그대가 나를 본다면
+91	종현 (JONGHYUN)	Lonely (Feat. 태연)
+92	빅뱅	LAST DANCE
+93	길구봉구	바람이 불었으면 좋겠어
+94	이창섭	At The End
+95	세정	꽃길 (Prod. By ZICO)
+96	이해리	미운 날
+97	젝스키스	슬픈 노래
+98	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+99	하이라이트(Highlight)	아름답다
+100	샘김	Who are you

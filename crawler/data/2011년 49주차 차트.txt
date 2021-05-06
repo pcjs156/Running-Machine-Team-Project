@@ -1,0 +1,101 @@
+./data/2011년 49주차 차트.txt
+1	원더걸스 (Wonder girls)	Be My Baby
+2	티아라 (T-ara)	Cry Cry
+3	노을	그리워 그리워
+4	울랄라세션	서쪽 하늘
+5	버스커 버스커 (Busker Busker)	서울사람들
+6	허각	죽고 싶단 말 밖에
+7	소녀시대	The Boys
+8	포맨 (4Men), 미 (美)	그 남자 그 여자
+9	버스커 버스커 (Busker Busker)	막걸리나
+10	브라운아이드걸스	클렌징크림
+11	이승기	친구잖아
+12	다이나믹 듀오 (Dynamic Duo)	해뜰때까지만 (Girl)
+13	버스커 버스커 (Busker Busker)	동경소녀
+14	시크릿 (Secret)	사랑은 Move
+15	김동률	Replay
+16	울랄라세션	Swing Baby
+17	이승기	연애시대 (Feat. Ra.D / Nar. 한효주)
+18	허각	Hello
+19	버스커 버스커 (Busker Busker)	I Believe
+20	일렉트로보이즈 (Electroboyz)	Ma Boy 2 (Feat. 효린)
+21	버스커 버스커 (Busker Busker)	정류장
+22	윤미래 (T)	Get It In (Feat. Tiger JK & 정인) (Korea...
+23	버스커 버스커 (Busker Busker)	그댄 달라요
+24	원더걸스 (Wonder girls)	G.N.O.
+25	타블로	Tomorrow (Feat. 태양)
+26	미스에스 (Miss $)	오죽하면 이럴까 (Feat. 정슬기, 임다혜)
+27	원더걸스 (Wonder girls)	Me, in
+28	울랄라세션	달의 몰락
+29	가비엔제이 (Gavy NJ)	가세요
+30	울랄라세션	Open Arms (Journey) (Feat. 크리스티나)
+31	원더걸스 (Wonder girls)	Girls Girls
+32	투개월	Romantico
+33	투개월	여우야
+34	오렌지 캬라멜 (Orange Caramel)	샹하이 로맨스 (上海之戀)
+35	다비치	안녕이라고 말하지마
+36	소녀시대	Mr.Taxi (Korean Ver.)
+37	타블로	나쁘다 (Feat. 진실)
+38	수지	눈물이 많아서
+39	브라운 아이드 걸스	Sixth Sense
+40	씨스타 (Sistar)	Hot Place (Feat. Brave Sound)
+41	김연우	행복했다...안녕
+42	울랄라세션	너와 함께
+43	성시경	한번의 사랑
+44	김범수	말하지 않아도
+45	울랄라세션	미인
+46	버스커 버스커 (Busker Busker)	어쩌다 마주친 그대
+47	서인영	Oh My Gosh
+48	에이핑크 (Apink)	My My
+49	김경호	헤이 헤이 헤이 (자우림)
+50	제이세라 (J-Cera)	그댄 정말 모를거예요
+51	투개월	Brown City
+52	다비치	사랑 사랑아
+53	베이비 소울 (Baby Soul)	남보다 못한 사이 (Feat. 휘성)
+54	먼데이 키즈 (Monday Kiz)	고장난 열차 (Feat. 쥬비트레인 Of 부가킹즈)
+55	타블로 (에픽하이)	Airbag (Feat. 나얼)
+56	거미	난 행복해 (이소라)
+57	서인영	웃기셔
+58	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+59	김경호	사랑과 우정 사이 (피노키오) (with 김연우)
+60	이승철	서쪽 하늘
+61	팀 (Tim)	하루가 길다
+62	투개월	Poker Face (Lady GaGa)
+63	씨스타 (Sistar)	So Cool (쏘쿨)
+64	백지영	여기가 아파
+65	지아 (Zia)	내가 이렇지 (Feat. 하동균)
+66	라니아 (Rania)	Pop Pop Pop
+67	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+68	비스트 (Beast)	꿈을 꾼다
+69	인피니트 (Infinite)	파라다이스 (Paradise)
+70	김연우	내사랑 내곁에 (김현식)
+71	원더걸스 (Wonder girls)	Act Cool (Feat.San E)
+72	카라 (KARA)	STEP
+73	애즈 원 (As One)	거짓말
+74	성유리	한 사람
+75	Simon D. (사이먼 디)	짠해 (Cheerz)
+76	투개월	니 생각
+77	윤민수	기억상실 (Feat. 美) (거미)
+78	부가킹즈 (Buga Kingz)	넘버원
+79	장우혁	기억에게 외치다 (Feat. 조현아 Of 어반자카파)
+80	리쌍	TV를 껐네...  (Feat. 윤미래, 권정열)
+81	원더걸스 (Wonder girls)	Stop!
+82	정진운 (2AM)	지금이 아니면 (Feat. YB)
+83	다이나믹 듀오 (Dynamic Duo)	불타는 금요일 (Friday Night)
+84	박재범	Girl Friend
+85	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+86	효린	내겐 너니까
+87	제이스 (Jace)	좋아보여 Part 2 (Feat. 오수민)
+88	레드애플(LEDApple)	어쩌다 마주친
+89	휘성	놈들이 온다
+90	티아라 (T-ara)	Roly-Poly
+91	케이윌 &amp; 씨스타 &amp; 보이프렌드	핑크빛 로맨스 (Pink Romance)
+92	김범수	끝사랑
+93	원더걸스 (Wonder girls)	Sweet Dreams
+94	김조한	사랑에 빠지고 싶다
+95	리쌍	회상 (Feat. 백지영)
+96	성시경	난 좋아
+97	스윗소로우(Sweet Sorrow)	첫 데이트
+98	하동균, 이정	기다릴게
+99	클래지 (Clazzi)	우리 변한거잖아 (with 임슬옹 Of 2AM)
+100	바비 킴 (Bobby Kim)	미워도 다시 한 번 (바이브)

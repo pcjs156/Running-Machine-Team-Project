@@ -1,0 +1,101 @@
+./data/2012년 19주차 차트.txt
+1	씨스타 (Sistar)	나혼자 (Alone)
+2	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+3	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+4	포미닛 (4minute)	Volume Up
+5	버스커 버스커 (Busker Busker)	첫사랑
+6	박진영	다른 사람 품에 안겨서 (Someone else) Duet with ...
+7	아이비 (Ivy)	찢긴 가슴
+8	박진영	너뿐이야 (You`re The One)
+9	빅뱅	Fantastic Baby
+10	버스커 버스커 (Busker Busker)	여수 밤바다
+11	허각	나를 사랑했던 사람아
+12	노을	떠나간다
+13	버스커 버스커 (Busker Busker)	꽃송이가
+14	Maroon 5	Payphone (Feat. Wiz Khalifa)
+15	태연 (TAEYEON)	미치게 보고싶은
+16	양파, 다비치, HANNA	사랑은 다 그런거래요
+17	배치기	두 마리
+18	버스커 버스커 (Busker Busker)	이상형
+19	버스커 버스커 (Busker Busker)	외로움 증폭장치 (브래드 드럼 한판 쉬기)
+20	에일리 (Ailee)	Heaven
+21	걸스데이 (Girl`s Day)	Oh! My God
+22	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+23	디셈버 (December)	She`s Gone
+24	써니힐 (SunnyHill)	백마는 오고 있는가
+25	2AM	너도 나처럼
+26	블락비 (Block B)	눈감아줄께
+27	아이유 (IU)	복숭아
+28	씨엔블루 (CNBLUE)	Hey You
+29	샤이니 (SHINee)	Sherlock.셜록 (Clue + Note)
+30	버스커 버스커 (Busker Busker)	전활 거네
+31	일렉트로보이즈 (Electroboyz)	웃을까 울을까 (Feat. 백지영)
+32	빅뱅	Blue
+33	넬 (Nell)	그리고, 남겨진 것들
+34	린 (LYn)	곰인형 (Feat. 해금)
+35	이하이	시간이 흐른뒤 (윤미래)
+36	버스커 버스커 (Busker Busker)	골목길 어귀에서
+37	서인국	밀고 당겨줘 (Tease Me)
+38	신화	Venus
+39	빅뱅	BAD BOY
+40	케이윌 (K.Will)	사랑이 운다
+41	버스커 버스커 (Busker Busker)	향수
+42	가비엔제이 (Gavy NJ)	연락하지마 (Feat. LE of EXID)
+43	백지영	한참 지나서
+44	백청강	그리워져 (Feat. 이희성)
+45	miss A	Touch
+46	양요섭, 정은지	Love Day
+47	백아연	보고싶다 (김범수)
+48	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+49	김수현	그대 한 사람
+50	B.A.P	POWER
+51	용감한 녀석들	기다려 그리고 준비해
+52	박지민	Music Is My Life (임정희)
+53	소녀시대-태티서(Girls` Generation-TTS)	Baby Steps
+54	존 박	Falling
+55	이하이	U Go Girl (이효리)
+56	버스커 버스커 (Busker Busker)	봄바람
+57	수펄스	Fame
+58	박지민	Over The Rainbow
+59	손승연	비와 당신의 이야기
+60	이하이	Killing Me Softly With His Song (The F...
+61	티아라 (T-ara)	Lovey-Dovey
+62	씨스타 (Sistar)	Lead Me
+63	케이윌 (K.Will)	니가 필요해 (I Need You)
+64	이영현	사랑은 이렇게
+65	Adele	Rolling In The Deep
+66	버스커 버스커 (Busker Busker)	골목길
+67	다비치	생각날거야
+68	씨엔블루 (CNBLUE)	아직 사랑한다
+69	손승연	물들어
+70	빅뱅	사랑먼지
+71	소녀시대-태티서(Girls` Generation-TTS)	OMG (Oh My God)
+72	이비아 (e-via)	미친 인연 (Feat. 이수 of M.C The Max)
+73	린 (LYn)	시간을 거슬러
+74	이승철	잊었니
+75	아이유 (IU)	너랑 나
+76	MC 스나이퍼	할 수 있어 (With 이루마)
+77	양파 ＆ 신종국	이별은 다 그런거래요
+78	트러블메이커 (Trouble Maker)	Trouble Maker
+79	블락비 (Block B)	난리나
+80	이하이	Love (키샤콜)
+81	거미 &amp; 바비킴	러브레시피 II - 요즘 사람들
+82	이승훈, 백아연	Ma Boy 2 (일렉트로보이즈)
+83	소녀시대-태티서(Girls` Generation-TTS)	처음이었죠 (Love Sick)
+84	10cm	애상
+85	김건모	알 수 없는 인생 (Feat. 조PD & 윤일상 (PDIS))
+86	LMFAO, Steve Aoki	Livin` My Love
+87	소녀시대-태티서(Girls` Generation-TTS)	Library
+88	Pixie Lott	Dancing On My Own
+89	미(MIIII)	향수
+90	소녀시대-태티서(Girls` Generation-TTS)	안녕 (Good-bye, Hello)
+91	가인	너만은 모르길
+92	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+93	박정현	도착
+94	빅뱅	재미없어
+95	이정	사랑이 서럽다 (MBC 주말드라마 `신들의 만찬` 삽입곡)
+96	노을	그리워 그리워
+97	김연우	인기없던노래
+98	정인	미워요
+99	FTISLAND (FT 아일랜드)	지독하게
+100	세븐	내가 노래를 못해도

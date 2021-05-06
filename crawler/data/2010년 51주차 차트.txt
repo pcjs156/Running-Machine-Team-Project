@@ -1,0 +1,101 @@
+./data/2010년 51주차 차트.txt
+1	씨스타 (Sistar)	니까짓게
+2	아이유 (IU)	좋은 날
+3	브라운 아이드 소울 (Brown Eyed Soul)	똑같다면
+4	백지영	그여자
+5	티아라 (T-ara)	왜 이러니
+6	태연, 더 원 (The One)	별처럼
+7	티아라 (T-ara)	yayaya
+8	신용재	이유
+9	허각	언제나
+10	카라 (KARA)	점핑 (Jumping)
+11	소녀시대	훗 (Hoot)
+12	이기찬	러브 (L.O.V.E) (Feat. 슈프림팀)
+13	오렌지 캬라멜 (Orange Caramel)	아잉♡
+14	비스트 (Beast)	Beautiful
+15	지아 (Zia)	몇 월 며칠 몇 시 (Feat. 마이티 마우스)
+16	2AM	전활 받지 않는 너에게
+17	허각	하늘을 달리다
+18	애프터스쿨 (After School)	Love Love Love
+19	김범수	나타나
+20	박칼린, 임정희	아름다운 널
+21	거미, 바비킴	러브 레시피
+22	슈프림팀, 영준 (브라운 아이드 소울)	그땐 그땐 그땐
+23	싸이 (Psy)	Right Now
+24	강승윤	본능적으로 (Feat. Swings)
+25	허각	행복한 나를 (Feat. 존박)
+26	포맨 (4Men), 美	Here I am
+27	윤하	내 남자친구를 부탁해
+28	2AM	미친 듯이
+29	장재인	가로수 그늘 아래 서면
+30	가비엔제이 (Gavy NJ)	전화 좀 받어
+31	거미	죽어도 사랑해
+32	JYP Nation	This Christmas
+33	S.M. The Ballad	너무 그리워 (Miss You)
+34	성시경, 박효신, 서인국, 브라이언, 리사 (Lisa), 박학기, 김형중, 견우	Christmas Time
+35	엠씨더맥스 (M.C The Max)	사랑합니다 (Feat. 부활)
+36	김지수	널 지우는 일
+37	SG 워너비	해바라기
+38	디셈버 (December)	눈부신 눈물
+39	아이유 (IU)	이게 아닌데
+40	백지영	그남자
+41	miss A	Breathe
+42	레인보우 (Rainbow)	Mach (마하)
+43	2NE1 (투애니 원)	아파 (Slow)
+44	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+45	린 (LYn)	사랑의 눈보라
+46	2NE1 (투애니 원)	Go Away
+47	조문근	너라는 걸
+48	아이유 (IU)	느리게 하는 일
+49	버벌 진트 (Verbal Jint)	약속해 약속해 (Feat. G.NA)
+50	언터쳐블 (Untouchable)	난리 브루스 (Feat. Vasco)
+51	김보경	Because Of You
+52	2PM	I`ll Be Back
+53	지아 (Zia), 포맨 (4Men)	울고, 불고...
+54	럼블피쉬	OK 끝내 (Feat. 조PD)
+55	아이유 (IU)	첫 이별 그날 밤
+56	존 박	빗속에서
+57	브라운 아이드 소울 (Brown Eyed Soul)	With Chocolate
+58	아이유 (IU)	혼자 있는 방
+59	2NE1 (투애니 원)	Can`t Nobody
+60	가인	돌이킬 수 없는
+61	Bois	상처만
+62	비스트 (Beast)	숨
+63	정슬기	어떻게 한번을 안 마주치니
+64	김연아, 씨스타, 일렉트로보이즈	Super Girl
+65	나윤권	바보랍니다
+66	요조	우리는 선처럼 가만히 누워 (Feat. 이상순)
+67	성시경, 아이유 (IU)	그대네요
+68	美	못해
+69	Far East Movement	Like a G6 (Feat. Dev & The Cataracs)
+70	비스트 (Beast)	Loving U
+71	리사 (Lisa), 브라이언	우린 친구가 될 수 없어
+72	솔비, 타이푼	평생
+73	포맨 (4Men)	미안해 (Feat. 美)
+74	싸이 (Psy)	내 눈에는 (Feat. 이재훈)
+75	서인영	리듬속으로
+76	윤상현	바라본다
+77	왁스 (Wax)	술이 웬수야
+78	지나 (G.NA), 현아 (4Minute)	Say You Love Me
+79	박보람	세월이 가면
+80	Black Eyed Peas	The Time (Dirty Bit)
+81	버즈 (Buzz)	여자가 싫다 (Feat. Venny)
+82	남녀공학	삐리뽐 빼리뽐
+83	이정	헤어지는 일 (Feat. 리쌍)
+84	Eric Benet	Never Want To Live Without You
+85	테이 (Tei)	그대를 사랑해
+86	팀 (Tim)	남자답지 못한 말
+87	코요태(KYT)	스키장에서 (White Love)
+88	드라마 (달마시안), 요섭 (비스트)	첫 눈 그리고 첫 키스
+89	브라운 아이드 소울 (Brown Eyed Soul)	You
+90	산이 (San E)	LoveSick
+91	브라운 아이드 소울 (Brown Eyed Soul)	Rainy
+92	브라운 아이드 소울 (Brown Eyed Soul)	Gone
+93	지연 (티아라)	점점 (Acoustic Ver.)
+94	싸이 (Psy)	Thank You (Feat. 서인영)
+95	걸스데이 (Girl`s Day)	잘해줘봐야
+96	Kelly Clarkson	Because Of You
+97	V.O.S	내겐 네가 흘러서..
+98	길미	우리 사랑 이대로
+99	길미	바보처럼 왜이래 (Feat. 나윤권)
+100	신승훈	두 번 헤어지는 일 (Vocal 다비치)

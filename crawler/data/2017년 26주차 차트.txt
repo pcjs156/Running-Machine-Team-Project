@@ -1,0 +1,101 @@
+./data/2017년 26주차 차트.txt
+1	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+2	헤이즈 (Heize)	널 너무 모르고
+3	BLACKPINK	마지막처럼
+4	볼빨간 사춘기, 스무살	남이 될 수 있을까
+5	G-Dragon	무제(無題) (Untitled, 2014)
+6	볼빨간사춘기	처음부터 너와 나
+7	Ed Sheeran	Shape of You
+8	싸이 (Psy)	New Face
+9	TWICE	SIGNAL
+10	에이핑크 (Apink)	FIVE
+11	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+12	국민의 아들	NEVER
+13	황치열	매일 듣는 노래 (A Daily Song)
+14	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+15	싸이 (Psy)	I LUV IT
+16	WINNER	REALLY REALLY
+17	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+18	씨스타 (Sistar)	LONELY
+19	청하	Why Don`t You Know (Feat. 넉살)
+20	한동근	미치고 싶다
+21	언니쓰	맞지?
+22	아이유 (IU)	밤편지
+23	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+24	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+25	아이유 (IU)	사랑이 잘 (With 오혁)
+26	구윤회	Marry Me
+27	헤이즈 (Heize)	먹구름 (Feat. nafla)
+28	볼빨간사춘기	좋다고 말해
+29	혁오 (hyukoh)	TOMBOY
+30	TWICE	KNOCK KNOCK
+31	FTISLAND (FT 아일랜드)	사랑앓이 (With 김나영)
+32	슬레이트	Oh Little Girl
+33	마마무 (Mamamoo)	아재개그 (Narr. 김대희, 김준호)
+34	G-Dragon	개소리 (BULLSHIT)
+35	볼빨간사춘기	우주를 줄게
+36	창모 (CHANGMO)	아름다워
+37	PRODUCE 101	Hands on me
+38	볼빨간사춘기	나만 안되는 연애
+39	신현희와김루트	오빠야
+40	BLACKPINK	불장난
+41	G-Dragon	SUPER STAR
+42	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+43	로꼬 (LOCO)	지나쳐 (FEAT. DEAN)
+44	Knock	열어줘
+45	The Chainsmokers	Closer (Feat. Halsey)
+46	하이라이트(Highlight)	CALLING YOU
+47	정승환	너였다면
+48	PRODUCE 101	나야 나 (PICK ME)
+49	뉴이스트 (NU`EST)	여보세요
+50	방탄소년단	봄날
+51	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+52	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+53	The Chainsmokers, Coldplay	Something Just Like This
+54	이효리	Seoul (Feat. Killagramz)
+55	TWICE	TT
+56	한동근	그대라는 사치
+57	하이라이트(Highlight)	얼굴 찌푸리지 말아요
+58	크러쉬 (CRUSH)	Beautiful
+59	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+60	PRODUCE 101	Super Hot
+61	백아연	달콤한 빈말 (Feat. 바버렛츠)
+62	싸이 (Psy)	어땠을까 (Feat. 박정현)
+63	태일	좋아한다 안 한다 (Duet 세정 of 구구단) (Prod. 박경)
+64	PRODUCE 101	이 자리에 (Always)
+65	Justin Bieber	Love Yourself
+66	아이오아이 (I.O.I)	소나기
+67	아이유 (IU)	이 지금
+68	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+69	지코 (ZICO)	She`s a Baby
+70	아이유 (IU)	이런 엔딩
+71	볼빨간사춘기	You(=I)
+72	세븐틴	울고 싶지 않아
+73	한동근	이 소설의 끝을 다시 써보려 해
+74	창모 (CHANGMO)	마에스트로 (Maestro)
+75	엠씨더맥스 (M.C The Max)	어디에도
+76	어반 자카파 (Urban Zakapa)	혼자
+77	레드벨벳(Red Velvet)	Rookie
+78	DEAN	D (half moon) (Feat. 개코)
+79	빅뱅	에라 모르겠다
+80	TWICE	CHEER UP
+81	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+82	태연 (TAEYEON)	Fine
+83	양홍원 (Young B)	아침에 (Feat. Bryn)
+84	서은광, 임현식, 육성재	알듯 말듯해
+85	임창정	내가 저지른 사랑
+86	박효신	숨
+87	산이 (San E)	모해(mohae) (Feat. 볼빨간사춘기)
+88	크러쉬 (CRUSH)	Outside (Feat. Beenzino)
+89	슬옹	너야 (Feat. 빈지노)
+90	볼빨간사춘기	심술
+91	스탠딩 에그(Standing Egg)	너라면 괜찮아
+92	효린, 키썸	FRUITY (Prod. GroovyRoom)
+93	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+94	매드 클라운 (Mad Clown)	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+95	마마무 (Mamamoo)	Finally
+96	길구봉구	바람이 불었으면 좋겠어
+97	월하소년 (月下少年)	I Know You Know
+98	G-Dragon	INTRO. 권지용 (Middle Fingers-Up)
+99	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+100	블락비 (Block B)	YESTERDAY

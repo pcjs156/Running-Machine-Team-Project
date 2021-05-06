@@ -1,0 +1,101 @@
+./data/2015년 5주차 차트.txt
+1	다비치	또 운다 또
+2	매드 클라운 (Mad Clown)	화 (Feat. 진실 of Mad Soul Child)
+3	정승환, 박윤하	슬픔 속에 그댈 지워야만 해
+4	노을	목소리
+5	EXID	위아래
+6	소유, 기리보이 (Giriboy)	팔베개 (Pillow) (Feat. 기현)
+7	다비치	행복해서 미안해
+8	에이핑크 (Apink)	LUV
+9	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+10	정승환	사랑에 빠지고 싶다
+11	인피니트H	예뻐
+12	Ariana Grande	Problem (Feat. Iggy Azalea)
+13	장재인	환청 (Feat. 나쑈(NaShow))
+14	GD X TAEYANG	GOOD BOY
+15	종현 (JONGHYUN)	데자-부 (Deja-Boo) (Feat. Zion.T)
+16	AOA	사뿐사뿐 (Like a Cat)
+17	윤미래, 타이거JK, 비지	Angel
+18	토이 (Toy)	세 사람 (With 성시경)
+19	다이나믹 듀오 (Dynamic Duo), 박정현	싱숭생숭 (SsSs)
+20	정용화(Jung Yong Hwa)	어느 멋진 날
+21	김건모	잘못된 만남
+22	박효신	야생화
+23	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+24	비스트 (Beast)	12시 30분
+25	포스트맨 (Postmen)	신촌을 못가
+26	Adam Levine	Lost Stars
+27	효린, 주영	지워 (Feat. 아이언)
+28	나인 뮤지스 (Nine Muses)	드라마 (DRAMA)
+29	백지영	Because Of You
+30	HI SUHYUN	나는 달라 (Feat. BOBBY)
+31	배치기	악몽 (Feat. 박수진)
+32	박효신	HAPPY TOGETHER
+33	다비치	두 여자의 방
+34	개코, 얀키(Yankie)	Cheers (Feat. Beenzino, Babylon)
+35	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+36	G.Soul	You
+37	성시경, 권진아	잊지 말기로 해
+38	에디킴	My Love
+39	MC몽	내가 그리웠니 (Feat. 진실 of Mad Soul Child)
+40	Sam Smith	I`m Not The Only One
+41	에픽하이 (Epik High)	헤픈엔딩 (Feat. 조원선 of 롤러코스터)
+42	MC몽	내 생애 가장 행복한 시간 (Feat. 허각)
+43	WINNER	공허해
+44	에일리 (Ailee)	그대도 같은가요
+45	유성은	말리꽃
+46	홍진영	산다는 건 (Cheer Up)
+47	김현정	그녀와의 이별
+48	에일리 (Ailee)	손대지마
+49	엠씨더맥스 (M.C The Max)	바라보기
+50	지누션	전화번호
+51	10cm	쓰담쓰담
+52	케이윌 (K.will)	하나뿐인 사람
+53	포미닛 (4minute)	추운 비
+54	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+55	엄정화	Poison
+56	다비치	너에게
+57	아이유 (IU)	너의 의미 (Feat. 김창완)
+58	로이킴	피노키오
+59	윤현상	언제쯤이면 (Duet.아이유)
+60	김조한	사랑에 빠지고 싶다
+61	김현정	멍
+62	태양	눈, 코, 입
+63	WINNER	끼부리지마
+64	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+65	개코	화장 지웠어 (Feat. Zion.T, HA_TFELT) (No ma...
+66	다비치	봄
+67	지누션	말해줘 (Feat.엄정화)
+68	바비 (BOBBY)	연결고리#힙합
+69	화요비	그사람
+70	터보	나 어릴적 꿈
+71	Maroon 5	Maps
+72	어쿠스틱 콜라보	너무 보고 싶어
+73	지아 (Zia), 하트비	혼잣말
+74	어쿠스틱 콜라보	묘해, 너와
+75	소찬휘	Tears
+76	이진아	시간아 천천히
+77	MC몽	죽을만큼 아파서 Part 2 (Feat. 스웨덴세탁소)
+78	블락비 (Block B)	HER
+79	토이 (Toy)	U & I (With Crush & 빈지노)
+80	리지	쉬운 여자 아니에요 (Feat. 정형돈)
+81	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+82	산이 (San E), 효린	Coach Me (Feat. 주헌)
+83	마마무 (Mamamoo)	Piano Man
+84	윤미래 (T)	너를 사랑해
+85	포스트맨, 6 to 8	술이 너보다 낫더라
+86	종현 (JONGHYUN)	Crazy (Guilty Pleasure) (Feat. 아이언)
+87	술제이 (SOOL J), 현영 (레인보우)	오빠야
+88	산이(San E), 레이나	한여름밤의 꿀
+89	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+90	터보	White Love (스키장에서)
+91	김동률	그게나야
+92	울랄라세션	내 눈물 모아
+93	알리 (ALi)	펑펑
+94	MC몽	도망가자 (Feat. 린)
+95	터보	Love Is (3+3=0)
+96	소유, 권순일, 박용인	틈
+97	먼데이 키즈 (Monday Kiz)	사랑
+98	나비 (Navi)	한강앞에서
+99	도끼 (Dok2)	RIATCH
+100	엄정화	초대

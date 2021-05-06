@@ -1,0 +1,101 @@
+./data/2017년 4주차 차트.txt
+1	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+2	크러쉬 (CRUSH)	Beautiful
+3	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+4	소유 (SOYOU)	I Miss You
+5	볼빨간사춘기	좋다고 말해
+6	빅뱅	에라 모르겠다
+7	수지	행복한 척
+8	다이나믹 듀오 (Dynamic Duo) &amp; 첸 (CHEN)	기다렸다 가
+9	황광희 X 개코	당신의 밤 (Feat. 오혁)
+10	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+11	에디킴	이쁘다니까
+12	샘김	Who are you
+13	어반 자카파 (Urban Zakapa)	소원
+14	헤이즈 (Heize)	Round and round (Feat. 한수지)
+15	TWICE	TT
+16	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+17	정준일	첫 눈
+18	볼빨간사춘기	우주를 줄게
+19	헤이즈 (Heize)	저 별
+20	빅뱅	LAST DANCE
+21	BLACKPINK	불장난
+22	볼빨간사춘기	나만 안되는 연애
+23	아이오아이 (I.O.I)	소나기
+24	비 (Rain)	최고의 선물 (Prod. by PSY)
+25	10cm	내 눈에만 보여
+26	Lasse Lindh	Hush
+27	마마무 (Mamamoo)	LOVE
+28	정승환	이 바보야
+29	신현희와김루트	오빠야
+30	한동근	그대라는 사치
+31	하하 X MINO	쏘아
+32	로이킴, 김이지 (꽃잠프로젝트)	HEAVEN
+33	AOA	Excuse Me
+34	한동근	이 소설의 끝을 다시 써보려 해
+35	샘김, 로꼬	Think About` Chu (Prod. By 박근태)
+36	2NE1 (투애니 원)	안녕
+37	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+38	세정	꽃길 (Prod. By ZICO)
+39	아이오아이 (I.O.I)	너무너무너무
+40	양세형 X BewhY	만세
+41	희철, 민경훈	나비잠 (Sweet Dream)
+42	지코 (ZICO)	BERMUDA TRIANGLE (Feat. Crush, DEAN)
+43	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+44	임창정	내가 저지른 사랑
+45	태연 (TAEYEON)	11_11
+46	빅뱅	GIRLFRIEND
+47	수지	Yes No Maybe
+48	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+49	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+50	박효신	숨
+51	방탄소년단	피 땀 눈물
+52	볼빨간사춘기	심술
+53	정승환	너였다면
+54	볼빨간사춘기	You(=I)
+55	유재석 X Dok2	처럼 (Feat. 이하이)
+56	TWICE	CHEER UP
+57	정준하 X ZICO	지칠 때면 (Feat. 김종완 of Nell)
+58	BLACKPINK	휘파람
+59	DEAN	D (half moon) (Feat. 개코)
+60	김경희 (에이프릴세컨드)	And I`m here
+61	악동뮤지션 (AKMU)	리얼리티
+62	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+63	Ryan Gosling &amp; Emma Stone	City Of Stars (From `La La Land` Sound...
+64	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+65	엠씨더맥스 (M.C The Max)	어디에도
+66	박명수 X 딘딘	독도리 (Feat. 매드클라운)
+67	크러쉬 (CRUSH)	어떻게 지내
+68	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+69	로꼬 (LOCO)	남아있어 (Feat. Crush)
+70	다비치	내 옆에 그대인 걸
+71	매드 클라운 (Mad Clown)	거짓말 (Feat. 이해리 of 다비치)
+72	권진아	끝
+73	구윤회	Marry Me
+74	Sam Smith	I`m Not The Only One
+75	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+76	정준일	안아줘
+77	비와이(BewhY)	Forever (Prod. by GRAY)
+78	지아 (Zia)	술 한잔해요 오늘
+79	에일리 (Ailee)	If You
+80	EXO	For Life
+81	MC몽	널 너무 사랑해서 (Feat. 정은지 of 에이핑크)
+82	성시경	어디선가 언젠가
+83	EXO	Monster
+84	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+85	악동뮤지션 (AKMU)	그때 그 아이들은
+86	방탄소년단	불타오르네 (FIRE)
+87	Justin Bieber	Love Yourself
+88	신용재	빌려줄게
+89	거미	구르미 그린 달빛
+90	볼빨간사춘기	심술
+91	박경	너 앞에서 나는 (Feat. 브라더수)
+92	루나, 하니, 솔라	HONEY BEE (Prod. By 박근태)
+93	산이 (San E)	I Am Me (Feat. 화사 Of 마마무)
+94	EXO	Lotto
+95	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+96	젝스키스	세 단어
+97	한수지	Winter is coming
+98	악동뮤지션 (AKMU)	집에 돌아오는 길
+99	임슬옹, 조이	이별을 배웠어 (Always In My Heart)
+100	김경희 (에이프릴세컨드)	Stuck in love

@@ -1,0 +1,101 @@
+./data/2013년 1주차 차트.txt
+1	이승기	되돌리다
+2	소녀시대	Dancing Queen
+3	양요섭	카페인
+4	악동뮤지션 (AKMU)	매력있어
+5	소녀시대	I Got A Boy
+6	긱스 (Geeks), 소유	Officially Missing You, Too
+7	써니힐 (Sunny Hill)	Goodbye To Romance
+8	제아 (브라운 아이드 걸스)	안아보자
+9	노을	하지 못한 말
+10	효린, 전효성, 현아, 니콜, 나나	이사람
+11	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+12	이하이	1,2,3,4 (원,투,쓰리,포)
+13	에일리 (Ailee)	보여줄게
+14	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+15	시크릿 (Secret)	Talk That
+16	투빅 (2BiC)	다 잊었니
+17	악동뮤지션 (AKMU)	다리꼬지마
+18	주니엘 (Juniel)	나쁜 사람
+19	노을	반창꼬
+20	케이윌 (K.Will)	사랑은 이렇게
+21	지아 (Zia)	일 년째
+22	백지영	싫다
+23	로이킴	힐링이 필요해
+24	로이킴, 정준영	먼지가 되어
+25	정진운 (2AM), 엘조 (틴탑), 이준 (엠블랙), 호야 (인피니트), 이기광 (비스트)	Yesterday
+26	한선화 (시크릿), 영재 (B.A.P)	다 예뻐
+27	케이윌 (K.Will), 소유, 정민	하얀 설레임 (White Love)
+28	디셈버 (December)	Don`t Go
+29	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+30	백아연	키다리 아저씨
+31	빅마마 (BigMama)	서랍정리
+32	더 원 (The One)	그 사람 (원곡가수 이승철)
+33	로이킴	휘파람
+34	별, 권정열 (10cm)	귀여워
+35	김범수, 박정현	하얀 겨울
+36	강지영, 보라, 한선화, 허가윤, 리지	인어공주
+37	나얼	바람기억
+38	조권, 니엘, 지오, 양요섭, 우현	눈물나게 아름다운
+39	김보경	혼자라고 생각말기
+40	이루	아프지마
+41	은지원	아무나 (Feat. 길미)
+42	정은지, 서인국	All For You
+43	이하이	허수아비
+44	로이킴	스쳐간다
+45	XIA(준수)	Thank U For
+46	가인	피어나
+47	Miss A	남자 없이 잘 살아
+48	블락비 (Block B)	닐리리맘보
+49	소녀시대	Express 999
+50	현아 (HyunA)	Ice Cream
+51	하림	사랑이 다른 사랑으로 잊혀지네
+52	이정	말리꽃 (원곡가수 이승철)
+53	긱스 (Geeks)	Officially Missing You
+54	어반 자카파 (Urban Zakapa)	똑같은 사랑 똑같은 이별
+55	넬 (Nell)	백야
+56	장현승, 정은지, 김남주	일년전에
+57	Carly Rae Jepsen	Call Me Maybe
+58	지나 (G.NA), 산체스	Beautiful Day
+59	허각, 지아 (Zia)	I Need You
+60	NS Yoon-G	If You Love Me (Feat. 박재범)
+61	Dal★Shabet (달샤벳)	있기 없기
+62	G-Dragon	크레용 (Crayon)
+63	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+64	손담비	눈물이 주르륵
+65	가인	노스텔지아
+66	소울스타 (Soul Star)	300원짜리 커피
+67	에일리 (Ailee)	저녁 하늘
+68	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+69	소향	인연 (원곡가수 이선희)
+70	정준영	응급실
+71	지아 (Zia)	눈물이 툭 (Feat. 박경)
+72	더 씨야 (The Seeya)	독약 (毒藥) (Feat. 해리)
+73	별	니 얼굴 떠올라
+74	G-Dragon	Missing You (Feat. 김윤아)
+75	XIA(준수)	사랑은 눈꽃처럼
+76	김종국	회상 (Feat. 주석)
+77	더 원 (The One)	썸데이 (원곡가수 김동희)
+78	소녀시대	Baby Maybe
+79	헬로비너스 (Hello Venus)	오늘 뭐해?
+80	에일리 (Ailee)	My Grown Up Christmas List (Christmas ...
+81	오렌지 캬라멜 (Orange Caramel), 뉴이스트 (NU`EST)	흰눈 사이로 하이힐 타고
+82	이승기	숲
+83	걸스데이 (Girl`s Day)	나를 잊지마요
+84	Bruno Mars	Young Girls
+85	프라이머리 (Primary)	독 (Feat. E-Sens)
+86	뚱스	쩔어
+87	하동균	From Mark
+88	싸이 (Psy)	강남스타일
+89	더 원 (The One)	사랑아
+90	한동근, 소울슈프림	Open Arms
+91	S.M. The Performance	Spectrum
+92	이승기	사랑한다는 말
+93	Les Miserables Cast	One Day More (김연아 2012 NRW 트로피 연기곡)
+94	소녀시대	말해봐 (Talk Talk)
+95	이석훈	사랑하면 안돼요
+96	Glam	I Like That
+97	소녀시대	Promise
+98	소녀시대	유리아이 (Lost In Love)
+99	비원에이포 (B1A4)	걸어 본다
+100	티아라 (T-ara)	Sexy Love

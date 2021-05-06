@@ -1,0 +1,101 @@
+./data/2015년 45주차 차트.txt
+1	아이유 (IU)	스물셋
+2	아이유 (IU)	푸르던
+3	태연 (TAEYEON)	I (Feat. 버벌진트)
+4	임창정	또 다시 사랑
+5	자이언티(Zion.T)	No Make Up
+6	f(x)	4 Walls
+7	아이유 (IU)	새 신발
+8	아이유 (IU)	무릎
+9	소유, 브라더수	모르나봐
+10	아이유 (IU)	Zeze
+11	아이유 (IU)	Red Queen (feat. Zion.T)
+12	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+13	iKON	취향저격
+14	소유, 권정열	어깨
+15	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quie...
+16	아이유 (IU)	안경
+17	지아 (Zia)	가끔
+18	송민호	겁 (Feat. 태양)
+19	박경	보통연애 (Feat. 박보람)
+20	빈지노 (Beenzino)	Break
+21	iKON	리듬 타 (RHYTHM TA)
+22	이유 갓지(GOD G)않은이유(박명수, 아이유)	레옹
+23	태연 (TAEYEON)	U R
+24	유재환, 김예림	커피 (Prod. by G-Park 박명수)
+25	송민호, 지코(ZICO)	Okey Dokey
+26	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+27	규현 (KYUHYUN)	밀리언조각 (A Million Pieces)
+28	허각	밤을 새 (Feat. 베이식)
+29	에일리 (Ailee)	너나 잘해
+30	레드벨벳(Red Velvet)	Dumb Dumb
+31	TWICE	OOH-AHH하게
+32	정기고 (Junggigo)	일주일 (247) (feat.Zion.T, Crush, DEAN)
+33	Adele	Hello
+34	인크레더블, 타블로, 지누션	오빠차
+35	XIA(준수)	꼭 어제
+36	혁오 (hyukoh)	위잉위잉
+37	자이언티(Zion.T)	양화대교
+38	소녀시대	Lion Heart
+39	황태지(황광희, 태양, 지드래곤)	맙소사
+40	코드쿤스트	PARACHUTE (feat. 오혁 & Dok2)
+41	자메즈 (Ja Mezz), 앤덥(Andup), 송민호	거북선 (Feat. 팔로알토)
+42	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+43	플라이 투 더 스카이 (Fly To The Sky)	그렇게 됐어
+44	라디(Ra. D), 디어(d.ear), 브라더수(BrotherSu), 주영	너를 그리다
+45	10cm	10월의 날씨
+46	비투비 (BTOB)	집으로 가는 길
+47	자이언티(Zion.T)	꺼내 먹어요
+48	빅뱅	우리 사랑하지 말아요
+49	린(LYn), 하동균, 이정	내가 그댈
+50	백아연	이럴거면 그러지말지 (Feat. 영현)
+51	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+52	AOA	심쿵해 (Heart Attack)
+53	트루디	Bandz Up (Prod. by Dok2 / Feat. Dok2)
+54	SG 워너비	가슴 뛰도록
+55	예지	Solo (Remix) (Prod. by 박재범, Cha Cha Ma...
+56	산이(San E)	그 아버지에 그 아들
+57	팔로알토 (Paloalto)	거북선 Remix (Feat. G2, B-Free, Okasian, ...
+58	엠씨더맥스 (M.C The Max)	그 남잔 말야
+59	김민승	쿵쿵쿵
+60	버즈	Forever Love
+61	사이먼 도미닉 (Simon Dominic)	사이먼 도미닉
+62	혁오 (hyukoh)	와리가리
+63	으뜨거따시(하하, 자이언티)	스폰서 ($ponsor)
+64	시원	너뿐이야
+65	Maroon 5	Sugar
+66	Adam Levine	Lost Stars
+67	이수 (M.C The Max)	가슴에 내린다
+68	러블리즈	Ah-Choo
+69	iKON	AIRPLANE
+70	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+71	키디비 (KittiB)	아슬아슬해 (Prod. by YDG / Feat. 마이크로닷, YDG...
+72	씨스타 (Sistar)	SHAKE IT
+73	Sam Smith	I`m Not The Only One
+74	빅뱅	IF YOU
+75	유성은	Nothing (Feat. 문별 of 마마무)
+76	마마무 (Mamamoo)	Girl Crush
+77	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+78	빅뱅	BAE BAE
+79	댄싱게놈(유재석, JYP)	I`m So Sexy
+80	아이유 (IU)	마음
+81	에이핑크 (Apink)	Remember
+82	오대천왕(정형돈, 밴드 혁오)	멋진헛간
+83	버즈 (Buzz)	남자를 몰라
+84	버즈 (Buzz)	가시
+85	솔라	바보처럼 살았군요
+86	태연 (TAEYEON)	쌍둥이자리 (Gemini)
+87	지아 (Zia)	가을타나 봐 (Duet. 홍대광)
+88	빅뱅	쩔어 (GD&T.O.P)
+89	키썸	Love Talk (feat. 화사 Of 마마무)
+90	f(x)	Traveler (feat. 지코(ZICO))
+91	프라이머리 (Primary)	아끼지마 (Don`t Be Shy) (Feat. 초아 (AOA) & ...
+92	슬리피(Sleepy)	기분탓 (feat. 백아연)
+93	나얼	같은 시간 속의 너
+94	지코 (ZICO), 소진	아프다
+95	태연 (TAEYEON)	스트레스 (Stress)
+96	어쿠스틱 콜라보	너를 잊을 수 있을까
+97	신승훈	이게 나예요
+98	헤이즈 (Heize)	Me, Myself & I (Prod. by 버벌진트 / Feat. ...
+99	f(x)	Diamond
+100	f(x)	Glitter

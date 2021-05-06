@@ -1,0 +1,101 @@
+./data/2018년 39주차 차트.txt
+1	임창정	하루도 그대를 사랑하지 않은 적이 없었다
+2	로이킴	우리 그만하자
+3	선미	사이렌 (Siren)
+4	펀치 (Punch)	헤어지는 중
+5	숀 (SHAUN)	Way Back Home
+6	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+7	벤 (Ben)	열애중
+8	방탄소년단	IDOL
+9	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+10	레드벨벳(Red Velvet)	Power Up
+11	TWICE	Dance The Night Away
+12	기리보이, Kid Milli, NO:EL, 스윙스 (Swings)	flex (Prod. By 기리보이)
+13	마마무 (Mamamoo)	너나 해 (Egotistic)
+14	닐로 (Nilo)	지나오다
+15	볼빨간사춘기	여행
+16	(여자)아이들	한(一)
+17	지코 (ZICO)	SoulMate (Feat. 아이유)
+18	승리	셋 셀테니 (1, 2, 3!)
+19	에이핑크 (Apink)	1도 없어
+20	10cm	매트리스
+21	방탄소년단	FAKE LOVE
+22	BLACKPINK	Forever Young
+23	로이킴	그때 헤어지면 돼
+24	방탄소년단	I`m Fine
+25	멜로망스(MeloMance)	동화
+26	소녀시대-Oh!GG	몰랐니 (Lil’ Touch)
+27	바이브 (Vibe)	가을 타나 봐
+28	정승환	잘 지내요
+29	양다일	미안해
+30	iKON	사랑을 했다 (LOVE SCENARIO)
+31	폴킴	비
+32	로꼬, 화사	주지마
+33	김하온 (HAON)	NOAH (Feat. 박재범, Hoody)
+34	먼데이 키즈 (Monday Kiz)	가을 안부
+35	방탄소년단	Euphoria
+36	장덕철	그날처럼
+37	청하	Love U
+38	비투비 (BTOB)	너 없인 안 된다
+39	멜로망스(MeloMance)	You
+40	iKON	죽겠다 (KILLING ME)
+41	멜로망스(Melomance)	선물
+42	백현 (BAEKHYUN), 로꼬	YOUNG
+43	Fitz &amp; The Tantrums	HandClap
+44	아이유 (IU)	밤편지
+45	Camila Cabello	Havana (Feat. Young Thug)
+46	닐로 (Nilo)	넋두리
+47	방탄소년단	봄날
+48	모트 (Motte)	도망가지마
+49	로이킴	왜 몰랐을까
+50	이수	My Way
+51	방탄소년단	전하지 못한 진심 (Feat. Steve Aoki)
+52	저스디스 (JUSTHIS), Kid Milli, NO:EL, 영비 (Young B)	IndiGO
+53	방탄소년단	DNA
+54	Ed Sheeran	Shape of You
+55	여자친구 (GFRIEND)	밤 (Time for the moon night)
+56	모모랜드 (MOMOLAND)	뿜뿜
+57	멜로망스(MeloMance)	좋은 날
+58	모모랜드 (MOMOLAND)	BAAM
+59	방탄소년단	Answer _ Love Myself
+60	마마무 (Mamamoo)	별이 빛나는 밤
+61	청하	Roller Coaster
+62	김하온 (HAON)	붕붕 (Feat. Sik-K) (Prod. GroovyRoom)
+63	TWICE	What is Love?
+64	10cm	Perfect
+65	임한별	이별하러 가는 길
+66	오마이걸 (OH MY GIRL)	불꽃놀이 (Remember Me)
+67	용준형	소나기 (Feat. 10cm)
+68	Imagine Dragons	Thunder
+69	(여자)아이들	LATATA
+70	Troye Sivan	Youth
+71	길구봉구	이 별
+72	비투비 (BTOB)	그리워하다
+73	방탄소년단	Epiphany
+74	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+75	하은	열애중 (답가)
+76	GOT7	Lullaby
+77	방탄소년단	Trivia 轉 _ Seesaw
+78	여자친구 (GFRIEND)	여름여름해 (Sunny Summer)
+79	세븐틴	A-TEEN
+80	Sia	Chandelier
+81	방탄소년단	Anpanman
+82	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+83	빅뱅	꽃 길
+84	Wanna One (워너원)	에너제틱 (Energetic)
+85	빈첸 (VINXEN)	유재석 (prod. 진대호)
+86	윤종신	좋니
+87	방탄소년단	Trivia 起 _ Just Dance
+88	AOA	빙글뱅글 (Bingle Bangle)
+89	펀치 (Punch)	밤이 되니까
+90	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+91	BLACKPINK	마지막처럼
+92	방탄소년단	Trivia 承 _ Love
+93	EXO	Universe
+94	방탄소년단	Airplane pt.2
+95	세븐틴	어쩌나
+96	Wanna One (워너원) - 트리플포지션	캥거루 (Kangaroo) (Prod. ZICO)
+97	Wanna One (워너원)	켜줘 (Light)
+98	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+99	Imagine Dragons	Believer
+100	Wanna One (워너원)	Beautiful

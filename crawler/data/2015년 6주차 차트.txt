@@ -1,0 +1,101 @@
+./data/2015년 6주차 차트.txt
+1	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+2	다비치	또 운다 또
+3	매드 클라운 (Mad Clown)	화 (Feat. 진실 of Mad Soul Child)
+4	나얼	같은 시간 속의 너
+5	정승환, 박윤하	슬픔 속에 그댈 지워야만 해
+6	노을	목소리
+7	EXID	위아래
+8	소유, 기리보이 (Giriboy)	팔베개 (Pillow) (Feat. 기현)
+9	다비치	행복해서 미안해
+10	장재인	환청 (Feat. 나쑈(NaShow))
+11	에이핑크 (Apink)	LUV
+12	정승환	사랑에 빠지고 싶다
+13	백지영	Because Of You
+14	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+15	Ariana Grande	Problem (Feat. Iggy Azalea)
+16	GD X TAEYANG	GOOD BOY
+17	AOA	사뿐사뿐 (Like a Cat)
+18	윤미래, 타이거JK, 비지	Angel
+19	종현 (JONGHYUN)	데자-부 (Deja-Boo) (Feat. Zion.T)
+20	토이 (Toy)	세 사람 (With 성시경)
+21	인피니트H	예뻐
+22	다이나믹 듀오 (Dynamic Duo), 박정현	싱숭생숭 (SsSs)
+23	정용화(Jung Yong Hwa)	어느 멋진 날
+24	박효신	야생화
+25	Adam Levine	Lost Stars
+26	로꼬 (LOCO)	니가 모르게 (You Don`t Know)
+27	포스트맨 (Postmen)	신촌을 못가
+28	나인 뮤지스 (Nine Muses)	드라마 (DRAMA)
+29	효린, 주영	지워 (Feat. 아이언)
+30	비스트 (Beast)	12시 30분
+31	김건모	잘못된 만남
+32	Sam Smith	I`m Not The Only One
+33	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+34	HI SUHYUN	나는 달라 (Feat. BOBBY)
+35	배치기	악몽 (Feat. 박수진)
+36	MC몽	내 생애 가장 행복한 시간 (Feat. 허각)
+37	에픽하이 (Epik High)	헤픈엔딩 (Feat. 조원선 of 롤러코스터)
+38	MC몽	내가 그리웠니 (Feat. 진실 of Mad Soul Child)
+39	박효신	HAPPY TOGETHER
+40	WINNER	공허해
+41	에일리 (Ailee)	그대도 같은가요
+42	홍진영	산다는 건 (Cheer Up)
+43	엠씨더맥스 (M.C The Max)	바라보기
+44	성시경, 권진아	잊지 말기로 해
+45	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+46	에일리 (Ailee)	손대지마
+47	에디킴	My Love
+48	유성은	말리꽃
+49	다비치	두 여자의 방
+50	Maroon 5	Sugar
+51	10cm	쓰담쓰담
+52	아이유 (IU)	너의 의미 (Feat. 김창완)
+53	개코, 얀키(Yankie)	Cheers (Feat. Beenzino, Babylon)
+54	G.Soul	You
+55	김현정	그녀와의 이별
+56	케이윌 (K.will)	하나뿐인 사람
+57	윤현상	언제쯤이면 (Duet.아이유)
+58	김조한	사랑에 빠지고 싶다
+59	포미닛 (4minute)	추운 비
+60	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+61	지누션	전화번호
+62	태양	눈, 코, 입
+63	WINNER	끼부리지마
+64	로이킴	피노키오
+65	신화	MEMORY
+66	Maroon 5	Maps
+67	엄정화	Poison
+68	개코	화장 지웠어 (Feat. Zion.T, HA_TFELT) (No ma...
+69	어쿠스틱 콜라보	너무 보고 싶어
+70	어쿠스틱 콜라보	묘해, 너와
+71	바비 (BOBBY)	연결고리#힙합
+72	써니힐 (SunnyHill)	교복을 벗고
+73	김현정	멍
+74	블락비 (Block B)	HER
+75	포스트맨, 6 to 8	술이 너보다 낫더라
+76	토이 (Toy)	U & I (With Crush & 빈지노)
+77	마마무 (Mamamoo)	Piano Man
+78	산이(San E), 레이나	한여름밤의 꿀
+79	화요비	그사람
+80	MC몽	죽을만큼 아파서 Part 2 (Feat. 스웨덴세탁소)
+81	윤미래 (T)	너를 사랑해
+82	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+83	터보	나 어릴적 꿈
+84	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+85	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+86	이진아	시간아 천천히
+87	소찬휘	Tears
+88	지누션	말해줘 (Feat.엄정화)
+89	다비치	너에게
+90	술제이 (SOOL J), 현영 (레인보우)	오빠야
+91	길구봉구	좋아 (Joa)
+92	육지담	밤샜지 (Prod. By ZICO)
+93	엠씨더맥스 (M.C The Max)	잠시만 안녕 (Original)
+94	MC몽	도망가자 (Feat. 린)
+95	산이 (San E), 효린	Coach Me (Feat. 주헌)
+96	지아 (Zia), 하트비	혼잣말
+97	지창욱	지켜줄게
+98	터보	White Love (스키장에서)
+99	김동률	그게나야
+100	다비치	봄

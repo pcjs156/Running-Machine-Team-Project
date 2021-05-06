@@ -1,0 +1,101 @@
+./data/2016년 18주차 차트.txt
+1	TWICE	CHEER UP
+2	정은지	하늘바라기 (Feat. 하림)
+3	10cm	봄이 좋냐??
+4	블락비 (Block B)	Toy
+5	다비치	이 사랑
+6	거미	You Are My Everything
+7	케이윌 (K.Will)	말해! 뭐해?
+8	XIA(준수)	How Can I Love You
+9	윤미래 (T)	ALWAYS
+10	SG 워너비	사랑하자
+11	매드 클라운 (Mad Clown), 김나영	다시 너를
+12	마마무 (Mamamoo)	넌 is 뭔들
+13	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+14	엠씨더맥스 (M.C The Max)	어디에도
+15	첸(CHEN), 펀치 (Punch)	Everytime
+16	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경)
+17	지코 (ZICO)	너는 나 나는 너
+18	엠씨더맥스 (M.C The Max)	그대, 바람이 되어
+19	장범준	사랑에 빠졌죠 (당신만이)
+20	바이브 (Vibe)	1년 365일 (Feat.거미)
+21	소녀온탑	같은 곳에서
+22	DEAN	D (half moon) (Feat. 개코)
+23	이하이	한숨
+24	이하이	MY STAR
+25	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+26	로꼬 (LOCO)	너도 (Feat. Cha Cha Malone)
+27	에릭남, 웬디	봄인가 봐 (Spring Love)
+28	TWICE	OOH-AHH하게
+29	블락비 (Block B)	몇 년 후에
+30	크러쉬 (CRUSH)	잊어버리지마 (Feat.태연)
+31	PRODUCE 101	PICK ME
+32	마카롱 꿀떡	Yum-Yum (얌얌)
+33	첸 (CHEN), 헤이즈, 바이브	썸타 (Lil` Something)
+34	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+35	러블리즈	Destiny (나의 지구)
+36	임창정	또 다시 사랑
+37	린 (LYn)	With You
+38	태연 (TAEYEON)	Rain
+39	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+40	장범준	그녀가 곁에 없다면 (결혼 행진곡을 활용한 신곡)
+41	아이오아이 (I.O.I)	Crush
+42	태연 (TAEYEON)	제주도의 푸른 밤
+43	수지, 백현 (BAEKHYUN)	Dream
+44	세븐틴	예쁘다
+45	이적	걱정말아요 그대
+46	지민 (AOA)	야 하고 싶어 (Feat.시우민 of EXO)
+47	장범준	빗속으로
+48	우리 동네 음악대장	Don`t Cry (우리동네 음악대장)
+49	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+50	에릭남	Good For You
+51	Jessie J, Ariana Grande, Nicki Minaj	Bang Bang
+52	이하이	안봐도 비디오 (Feat. BOBBY)
+53	지코 (ZICO)	유레카 (Feat. Zion.T)
+54	이하이	손잡아 줘요
+55	Pinkrush	Fingertips
+56	10cm	스토커
+57	블락비 (Block B)	Walkin` In The Rain
+58	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+59	오혁	소녀
+60	홍대광	홍대에 가면
+61	테이크 (Take)	나비 무덤
+62	용준형	이 노래가 끝나면 (Feat. DAVII)
+63	김범수	그댄 행복에 살텐데
+64	비투비 (BTOB)	봄날의 기억
+65	Justin Bieber	Love Yourself
+66	블락비 (Block B)	사랑이었다 (Song By 태일)
+67	Sam Smith	I`m Not The Only One
+68	박보람	Dynamic Love
+69	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+70	우리동네 음악대장	하여가 (何如歌) (우리동네 음악대장)
+71	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+72	백예린	우주를 건너
+73	더 넛츠 (The Nuts)	사랑의 바보
+74	러블리즈	Ah-Choo
+75	마마무 (Mamamoo)	I Miss You
+76	에이핑크 (Apink)	네가 손짓해주면
+77	Gary (개리)	또 하루 (Feat. 개코)
+78	장범준	봄비
+79	빅스 (VIXX)	다이너마이트
+80	씨엔블루 (CNBLUE)	이렇게 예뻤나 (YOU′RE SO FINE)
+81	WINNER	센치해
+82	마마무 (Mamamoo)	1cm의 자존심
+83	젝스키스	커플
+84	iKON	취향저격
+85	태연 (TAEYEON)	I (Feat. 버벌진트)
+86	거미	친구라도 될 걸 그랬어
+87	유성은	질투 (Duet. 키썸)
+88	마마무 (Mamamoo)	기대해도 좋은 날
+89	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+90	박진영	살아있네
+91	먼데이 키즈 (Monday Kiz)	너의 목소리
+92	Adele	Hello
+93	케이윌 (K.Will)	니가 하면 로맨스 (feat.다비치)
+94	기리보이(Giriboy)	예쁘잖아
+95	정준영	공감 (Feat. 서영은)
+96	송민호, 지코(ZICO)	Okey Dokey
+97	아이유 (IU)	스물셋
+98	자이언티(Zion.T)	No Make Up
+99	장범준	사랑에 빠져요 (금세 사랑에 빠지는)
+100	AOA	심쿵해 (Heart Attack)

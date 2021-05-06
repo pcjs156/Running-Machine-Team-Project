@@ -1,0 +1,101 @@
+./data/2015년 53주차 차트.txt
+1	오혁	소녀
+2	싸이 (Psy)	DADDY (Feat. CL of 2NE1)
+3	윤미래 (T)	사랑이 맞을거야
+4	이적	걱정말아요 그대
+5	터보	다시 (Feat. 유재석)
+6	지코 (ZICO)	유레카 (Feat. Zion.T)
+7	싸이 (Psy)	나팔바지
+8	박보람	혜화동 (혹은 쌍문동)
+9	노을	함께
+10	김필	청춘 (Feat. 김창완)
+11	EXO	Sing For You
+12	다비치	화이트 (WHITE) (Feat. 박재범)
+13	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+14	임창정	또 다시 사랑
+15	산이(San E), 매드 클라운(Mad Clown)	못먹는 감 (Sour Grapes)
+16	백예린	우주를 건너
+17	디셈버 (December)	네게 줄 수 있는건 오직 사랑뿐
+18	TWICE	OOH-AHH하게
+19	소녀시대-태티서 (Girls’ Generation-TTS)	Dear Santa
+20	EXID	HOT PINK
+21	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+22	Adele	Hello
+23	EXO	불공평해 (Unfair)
+24	태연 (TAEYEON)	I (Feat. 버벌진트)
+25	브라운 아이드 소울 (Brown Eyed Soul)	밤의 멜로디
+26	아이유 (IU)	스물셋
+27	iKON	취향저격
+28	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+29	자이언티(Zion.T)	No Make Up
+30	싸이 (Psy)	Dream (Feat. XIA of JYJ)
+31	효린, 범키, 주영	Love Line
+32	노을	이별밖에
+33	iKON	덤앤더머 (DUMB & DUMBER)
+34	가인	Must Have Love (Feat. 에릭남)
+35	포맨 (4Men)	안아보자
+36	러블리즈	Ah-Choo
+37	싸이 (Psy)	I Remember You (Feat. Zion.T)
+38	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+39	가인	열두 시가 되면
+40	초아 (AOA)	불꽃
+41	송민호	겁 (Feat. 태양)
+42	god	웃픈 하루
+43	다이나믹 듀오 (Dynamic Duo)	꿀잼
+44	iKON	지못미
+45	방탄소년단	RUN
+46	EXO	Girl x Friend
+47	서인국, 빅스(VIXX), 박정아, 박윤하	사랑난로
+48	소유, 권정열	어깨
+49	터보	숨바꼭질
+50	소유, 브라더수	모르나봐
+51	브라운 아이드 소울 (Brown Eyed Soul)	HOME
+52	CL	Hello Bitches
+53	f(x)	4 Walls
+54	EXO	발자국 (On the snow)
+55	레드벨벳(Red Velvet)	세가지 소원 (Wish Tree)
+56	바이브, 신용재, 벤, 임세준, 미(MIIII)	넌 나의 크리스마스
+57	로이킴	북두칠성
+58	지코 (ZICO)	오만과 편견 (Feat. 수란)
+59	와블(WABLE)	보라빛향기
+60	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+61	Sam Smith	I`m Not The Only One
+62	아이유 (IU)	푸르던
+63	iKON	아니라고
+64	자이언티(Zion.T)	꺼내 먹어요
+65	iKON	리듬 타 (RHYTHM TA)
+66	솔지(EXID), 유재환, 정형돈	오늘은
+67	거미	가질 수 없는 너
+68	레드벨벳(Red Velvet)	Dumb Dumb
+69	아이유 (IU)	Zeze
+70	박경	보통연애 (Feat. 박보람)
+71	AOA	심쿵해 (Heart Attack)
+72	박효신	야생화
+73	지아 (Zia)	가끔
+74	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+75	40 (포티)	꿀
+76	박효신	기억 속의 먼 그대에게
+77	송민호, 지코(ZICO)	Okey Dokey
+78	거미	친구라도 될 걸 그랬어
+79	자이언티(Zion.T)	양화대교
+80	iKON	왜 또
+81	혁오 (hyukoh)	위잉위잉
+82	지코 (ZICO)	VENI VIDI VICI (Feat. DJ Wegun)
+83	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quie...
+84	EXO	LOVE ME RIGHT
+85	예지 (피에스타)	미친개 (feat.San E)
+86	백아연	이럴거면 그러지말지 (Feat. 영현)
+87	주미연	그대는 눈물겹다
+88	터보	댄싱퀸 (Prod. by 주영훈)
+89	빈지노 (Beenzino)	Break
+90	아이유 (IU)	미리 메리 크리스마스 (Feat. 천둥)
+91	허각	그날을 내 등 뒤로
+92	비원에이포 (B1A4)	크리스마스잖아요
+93	지코 (ZICO)	날 (Feat. JTONG)
+94	터보	잘 지내 (Feat. 박정현)
+95	조권	Heaven
+96	EXO	CALL ME BABY
+97	f(x)	12시 25분 (Wish List)
+98	산이(San E), 버벌진트(Verbal Jint), 범키, 한해, 칸토, 강민희, 양다일, 캔들	몸 좀 녹이자
+99	엠씨더맥스 (M.C The Max)	그 남잔 말야
+100	정키 (Jung Key), 거미, Sisqo	Without You

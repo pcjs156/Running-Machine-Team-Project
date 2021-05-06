@@ -1,0 +1,101 @@
+./data/2017년 8주차 차트.txt
+1	TWICE	KNOCK KNOCK
+2	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+3	레드벨벳(Red Velvet)	Rookie
+4	블락비 (Block B)	YESTERDAY
+5	소유, 백현 (BAEKHYUN)	비가와 (Rain)
+6	자이언티(Zion.T)	노래
+7	크러쉬 (CRUSH)	Beautiful
+8	볼빨간사춘기	좋다고 말해
+9	방탄소년단	봄날
+10	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+11	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+12	DEAN	넘어와 (Feat. 백예린)
+13	매드 클라운 (Mad Clown)	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+14	빅뱅	에라 모르겠다
+15	소유 (SOYOU)	I Miss You
+16	신현희와김루트	오빠야
+17	자이언티(Zion.T)	Complex (Feat. G-DRAGON)
+18	볼빨간사춘기	우주를 줄게
+19	TWICE	TT
+20	다이나믹 듀오 (Dynamic Duo) &amp; 첸 (CHEN)	기다렸다 가
+21	에디킴	이쁘다니까
+22	볼빨간사춘기	나만 안되는 연애
+23	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+24	샘김	Who are you
+25	황광희 X 개코	당신의 밤 (Feat. 오혁)
+26	BLACKPINK	불장난
+27	자이언티(Zion.T)	미안해 (Feat. Beenzino)
+28	CHEEZE	좋아해 (bye)
+29	방탄소년단	피 땀 눈물
+30	어반 자카파 (Urban Zakapa)	소원
+31	수지	행복한 척
+32	구윤회	Marry Me
+33	헤이즈 (Heize)	저 별
+34	정준일	첫 눈
+35	한동근	그대라는 사치
+36	빅뱅	LAST DANCE
+37	방탄소년단	Not Today
+38	AOA	Excuse Me
+39	한동근	이 소설의 끝을 다시 써보려 해
+40	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+41	볼빨간사춘기	You(=I)
+42	정승환	이 바보야
+43	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+44	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+45	MC 몽, 허각	반창고
+46	임창정	내가 저지른 사랑
+47	10cm	내 눈에만 보여
+48	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+49	아이오아이 (I.O.I)	너무너무너무
+50	헤이즈 (Heize)	Round and round (Feat. 한수지)
+51	볼빨간사춘기	심술
+52	TWICE	CHEER UP
+53	태연 (TAEYEON)	11_11
+54	아이오아이 (I.O.I)	소나기
+55	Lasse Lindh	Hush
+56	세정	꽃길 (Prod. By ZICO)
+57	DEAN	D (half moon) (Feat. 개코)
+58	지코 (ZICO)	BERMUDA TRIANGLE (Feat. Crush, DEAN)
+59	희철, 민경훈	나비잠 (Sweet Dream)
+60	정승환	너였다면
+61	정기고, 찬열 (CHANYEOL)	Let Me Love You
+62	박효신	숨
+63	비 (Rain)	최고의 선물 (Prod. by PSY)
+64	첸 (CHEN)	안녕 못해 (I`m Not Okay)
+65	샘김, 로꼬	Think About` Chu (Prod. By 박근태)
+66	마마무 (Mamamoo)	LOVE
+67	BLACKPINK	휘파람
+68	산이 (San E)	내가 너가
+69	엠씨더맥스 (M.C The Max)	어디에도
+70	창모 (CHANGMO)	마에스트로 (Maestro)
+71	양다일	네게
+72	하하 X MINO	쏘아
+73	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+74	허각	혼자, 한잔
+75	비투비 (BTOB)	언젠가 (SOMEDAY)
+76	Justin Bieber	Love Yourself
+77	빅뱅	GIRLFRIEND
+78	권진아	끝
+79	Sam Smith	I`m Not The Only One
+80	먼데이 키즈, 김나영	눈물 (Tears)
+81	방탄소년단	A Supplementary Story _ You Never Walk...
+82	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+83	로이킴, 김이지 (꽃잠프로젝트)	HEAVEN
+84	자이언티(Zion.T)	영화관
+85	크러쉬 (CRUSH)	어떻게 지내
+86	황치열 &amp; 슬기	남녀의 온도차 (Our Story) (feat. 케이시)
+87	방탄소년단	Outro _ Wings
+88	TWICE	녹아요
+89	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+90	양세형 X BewhY	만세
+91	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+92	EXO	Monster
+93	Ryan Gosling &amp; Emma Stone	City Of Stars (From `La La Land` Sound...
+94	EXO	For Life
+95	바닐라 어쿠스틱 (Vanilla Acoustic)	너만 생각나
+96	The Chainsmokers	Closer (Feat. Halsey)
+97	씨잼 (C Jamm), 비와이(BewhY)	puzzle
+98	Ed Sheeran	Shape of You
+99	방탄소년단	Lost
+100	Maroon 5	Cold (Feat. Future)

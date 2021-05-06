@@ -1,0 +1,101 @@
+./data/2011년 39주차 차트.txt
+1	다비치	안녕이라고 말하지마
+2	리쌍	TV를 껐네...  (Feat. 윤미래, 권정열)
+3	씨스타 (Sistar)	So Cool (쏘쿨)
+4	카라 (KARA)	STEP
+5	지나(G.NA)	Top Girl
+6	리쌍	회상 (Feat. 백지영)
+7	2NE1 (투애니 원)	Ugly
+8	리쌍	나란 놈은 답은 너다 (Feat. 하림)
+9	지아 (Zia)	그대이길 바래요 (With 케이윌)
+10	JYJ	Get Out
+11	슈퍼주니어 (Super Junior)	Mr. Simple
+12	miss A	Good-bye Baby
+13	티아라 (T-ara)	Roly-Poly
+14	버벌진트 (Verbal Jint)	좋아보여 (Feat. 검정치마)
+15	성시경	오 나의 여신님
+16	다비치	사랑 사랑아
+17	걸스데이 (Girl`s Day)	너, 한눈 팔지마!
+18	인피니트 (Infinite)	내꺼하자
+19	2NE1 (투애니 원)	Hate You
+20	디셈버, 제이세라	가슴으로 운다 (Feat. 아이린, 윤미)
+21	2NE1 (투애니 원)	내가 제일 잘 나가
+22	10cm	안아줘요
+23	Dal★Shabet (달샤벳)	블링블링 (Bling Bling)
+24	GG	바람났어 (Feat. 박봄)
+25	성시경	난 좋아
+26	먼데이 키즈 (Monday Kiz)	너를 처음 만난 그때
+27	백지영	오늘도 사랑해
+28	현아 (HyunA)	Bubble Pop!
+29	장혜진	가질 수 없는 너 (뱅크)
+30	하동균, 이정	기다릴게
+31	리쌍	Serenade (Feat. 개코 of 다이나믹 듀오, 윈디시티)
+32	리쌍	나 그대에게 모두 드리리 (Feat. 정인)
+33	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+34	임재범	통증
+35	김준수	You Are So Beautiful
+36	엠블랙 (MBLAQ)	모나리자 (Mona Lisa)
+37	브라운 아이드 걸스	Hot Shot
+38	포맨 (4Men)	살다가 한번쯤
+39	리쌍	Grand Final (Feat. 정인 & MC 날유)
+40	인순이	아버지
+41	허각	Hello
+42	처진 달팽이	압구정 날라리
+43	리쌍	죽기 전까지 날아야 하는 새 (To. Bizzy) (Feat. 강산에...
+44	자우림	재즈카페 (신해철)
+45	박정현, 김범수	사랑보다 깊은 상처
+46	유키스 (U-Kiss)	NEVERLAND
+47	JYJ	In Heaven (Narr. 김정은)
+48	SG 워너비	사랑법
+49	윤민수	그리움만 쌓이네 (여진)
+50	2PM	Hands Up
+51	비스트 (Beast)	비가 오는 날엔
+52	김범수	끝사랑
+53	LMFAO	Party Rock Anthem (Feat. Lauren Bennet...
+54	서인국	Shake It Up!
+55	f(x)	Hot Summer
+56	비 (Rain)	부산여자
+57	시크릿 (Secret)	별빛달빛
+58	박재범	Demon
+59	박완규	하루애
+60	김재중	지켜줄게
+61	애프터스쿨 RED	밤 하늘에
+62	창민, 이현 (HOMME)	남자니까 웃는거야
+63	센치한 하하	찹쌀떡
+64	인순이	서른 즈음에 (김광석)
+65	성훈(브라운아이드소울)	Fail In Love (Feat. E-Sens Of Supreme ...
+66	리쌍	강남 사짜 (Feat. PoBi)
+67	윤민수	사랑 그 쓸쓸함에 대하여 (양희은)
+68	비스트 (Beast)	Fiction
+69	틴 탑 (Teen Top)	향수 뿌리지마
+70	지아 (Zia)	그리고 사랑해
+71	박정현	나 가거든 (If I Leave) (조수미)
+72	10cm	기타로 오토바이를 타자
+73	다비치	다신 찾지마
+74	걸스데이 (Girl`s Day)	한번만 안아줘
+75	바비 킴 (Bobby Kim)	너의 결혼식 (윤종신)
+76	환희	죽을 것만 같아
+77	마이티 마우스 (Mighty Mouth)	랄랄라 (Feat. 소야)
+78	10cm	사랑은 은하수 다방에서
+79	리쌍	독기
+80	하하	Rosa
+81	코요태(KYT)	Good Good Time
+82	Nari &amp; Milani, Cristian Marchi	I Got My Eye On You (Cristian Marchi &...
+83	포맨 (4Men)	Love Tonight
+84	아이유 (IU), 김연아	얼음꽃 (Feat. 김세황)
+85	김태우	사랑에 빠지다
+86	티아라 (T-ara)	로그인 (Log-In)
+87	에이트 (8eight)	그 입술을 막아본다
+88	하하	하와유?? 파인 땡큐!! (Feat. Skull)
+89	성시경	우리 참 좋았는데 (Duet With 박정현)
+90	브레이브걸스 (Brave Girls)	툭하면 (Feat. Skull)
+91	장혜진	멀어져간 사람아 (박상민)
+92	포맨 (4Men)	너의 웃음 고마워 (Vision Of Love)
+93	2NE1 (투애니 원)	Lonely
+94	데프콘	래퍼들이 헤어지는 방법 Part 2 (With 걸스데이 민아)
+95	리쌍	Am I? (Feat. Bizzy, 비프리)
+96	김동희	사랑을 받았어
+97	처진 달팽이	말하는 대로
+98	김범수, 박정현	사람, 사랑
+99	장혜진	술이야 (바이브)
+100	애프터스쿨 BLUE	원더보이 (Wonder Boy)

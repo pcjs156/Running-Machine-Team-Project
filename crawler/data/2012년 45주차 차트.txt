@@ -1,0 +1,101 @@
+./data/2012년 45주차 차트.txt
+1	이하이	1,2,3,4 (원,투,쓰리,포)
+2	케이윌 (K.Will)	이러지마 제발 (Please Don`t...)
+3	로이킴, 정준영	먼지가 되어
+4	에일리 (Ailee)	보여줄게
+5	별, 권정열 (10cm)	귀여워
+6	Miss A	남자 없이 잘 살아
+7	가인	피어나
+8	에픽하이 (Epik High)	춥다 (Feat. 이하이)
+9	현아 (HyunA)	Ice Cream
+10	이정	말리꽃 (원곡가수 이승철)
+11	나얼	바람기억
+12	블락비 (Block B)	닐리리맘보
+13	로이킴	휘파람
+14	유승우	My Son
+15	정은지, 서인국	All For You
+16	오렌지 캬라멜 (Orange Caramel)	립스틱 (Lip Stick)
+17	G-Dragon	크레용 (Crayon)
+18	10cm	Fine Thank You And You
+19	박명수	꿈이었을까
+20	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+21	G-Dragon	Missing You (Feat. 김윤아)
+22	에픽하이 (EPIK HIGH)	Up
+23	어반 자카파 (Urban Zakapa)	똑같은 사랑 똑같은 이별
+24	걸스데이 (Girl`s Day)	나를 잊지마요
+25	프라이머리 (Primary)	독 (Feat. E-Sens)
+26	어반 자카파 (Urban Zakapa)	River
+27	XIA(준수)	사랑은 눈꽃처럼
+28	긱스 (Geeks), 소유	Officially Missing You, Too
+29	허각, 지아 (Zia)	I Need You
+30	싸이 (Psy)	강남스타일
+31	티아라 (T-ara)	Sexy Love
+32	존 박	철부지
+33	홍대광	가족
+34	에픽하이 (Epik High)	Don`t Hate Me
+35	노을	여인
+36	김종국	남자도 슬프다
+37	G-Dragon	그XX
+38	시크릿 (Secret)	Poison
+39	15&amp; (박지민, 백예린)	I Dream
+40	싸이 (Psy)	어땠을까 (Feat. 박정현)
+41	어반 자카파 (Urban Zakapa)	니가 싫어
+42	홍대광	이미 넌 고마운 사람
+43	로이킴	청개구리
+44	미스에스 (Miss $)	안자고 뭐해 (Good Night)
+45	B.A.P	하지마 (Stop It)
+46	이승철	아마추어
+47	허각	아프다
+48	정은지, 서인국	우리 사랑 이대로
+49	윤건	걷다
+50	FTISLAND (FT 아일랜드)	좋겠어 (I Wish)
+51	딕펑스 (Dick Punks)	같이 걸을까
+52	소울 다이브 (Soul Dive)	눈물이 말랐대 (With 윤하)
+53	긱스 (Geeks)	Officially Missing You
+54	씨스타 (Sistar)	Loving U (러빙유)
+55	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+56	마이티 마우스 (Mighty Mouth)	이럴때면 (Feat. 린)
+57	이승철	말리꽃
+58	김종국	너에게 하고 싶은 말
+59	포맨 (4Men)	Hello!
+60	쥬얼리 (Jewelry)	룩앳미 (Look At Me)
+61	소울스타 (Soulstar)	Baby You (feat. C-Real Ann J)
+62	더 원 (The One)	아시나요 (원곡가수 조성모)
+63	에픽하이 (Epik High)	사랑한다면 해선 안될 말
+64	동방신기	Catch Me
+65	Jessica (제시카)	My Lifestyle (Feat. Dok2)
+66	더 원 (The One)	그 남자 (원곡가수 현빈)
+67	손승연	가슴아 가슴아
+68	김그림	연애 (Love Song)
+69	딕펑스 (Dick Punks)	고추잠자리
+70	2NE1 (투애니 원)	I Love You
+71	에일리 (Ailee)	저녁 하늘
+72	서인영	Let`s Dance
+73	백아연	느린노래
+74	카라 (KARA)	Pandora
+75	이종현(CNBLUE)	내 사랑아
+76	휘성	너라는 명작
+77	홍대광	노래만 불렀지
+78	김정환	I`ll Be There
+79	보아 (BoA)	LOOKIN` (Feat. The Quiett)
+80	송중기	정말
+81	숙희	나 지금 집앞이야
+82	김종국	남자가 다 그렇지 뭐
+83	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+84	Maroon 5	One More Night
+85	왁스 (Wax)	떨어진다 눈물이
+86	이기찬	새벽 한시
+87	허니지	비켜줄께
+88	김태우	내가 나를 봐도 슬퍼..
+89	다비치	남자도 우나요
+90	NS Yoon-G	If You Love Me (Feat. 박재범)
+91	정준영	매일 매일 기다려
+92	보아 (BoA)	Only One
+93	Carly Rae Jepsen	Call Me Maybe
+94	프라이머리 (Primary)	축하해 (Feat. 다이나믹 듀오, 박재범)
+95	G-Dragon	One Of A Kind
+96	나얼	Missing You
+97	버벌진트 (Verbal Jint)	충분히 예뻐
+98	소향	오직 단 하나
+99	이수영	착한 여자
+100	먼데이 키즈 (Monday Kiz)	우리 명수가 달라졌어요

@@ -1,0 +1,101 @@
+./data/2018년 40주차 차트.txt
+1	임창정	하루도 그대를 사랑하지 않은 적이 없었다
+2	로이킴	우리 그만하자
+3	선미	사이렌 (Siren)
+4	iKON	이별길 (GOODBYE ROAD)
+5	펀치 (Punch)	헤어지는 중
+6	숀 (SHAUN)	Way Back Home
+7	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+8	벤 (Ben)	열애중
+9	바이브 (Vibe)	가을 타나 봐
+10	방탄소년단	IDOL
+11	기리보이, Kid Milli, NO:EL, 스윙스 (Swings)	flex (Prod. By 기리보이)
+12	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+13	박원	나
+14	TWICE	Dance The Night Away
+15	레드벨벳(Red Velvet)	Power Up
+16	닐로 (Nilo)	지나오다
+17	마마무 (Mamamoo)	너나 해 (Egotistic)
+18	볼빨간사춘기	여행
+19	(여자)아이들	한(一)
+20	저스디스 (JUSTHIS), Kid Milli, NO:EL, 영비 (Young B)	IndiGO
+21	로이킴	그때 헤어지면 돼
+22	승리	셋 셀테니 (1, 2, 3!)
+23	지코 (ZICO)	SoulMate (Feat. 아이유)
+24	방탄소년단	FAKE LOVE
+25	에이핑크 (Apink)	1도 없어
+26	방탄소년단	I`m Fine
+27	폴킴	비
+28	10cm	매트리스
+29	정승환	잘 지내요
+30	멜로망스(MeloMance)	동화
+31	BLACKPINK	Forever Young
+32	양다일	미안해
+33	iKON	사랑을 했다 (LOVE SCENARIO)
+34	먼데이 키즈 (Monday Kiz)	가을 안부
+35	소녀시대-Oh!GG	몰랐니 (Lil’ Touch)
+36	장덕철	그날처럼
+37	로꼬, 화사	주지마
+38	멜로망스(MeloMance)	좋은 날
+39	iKON	죽겠다 (KILLING ME)
+40	방탄소년단	Euphoria
+41	멜로망스(MeloMance)	You
+42	멜로망스(Melomance)	선물
+43	아이유 (IU)	밤편지
+44	김하온 (HAON)	NOAH (Feat. 박재범, Hoody)
+45	비투비 (BTOB)	너 없인 안 된다
+46	황치열	어찌 잊으오
+47	청하	Love U
+48	방탄소년단	봄날
+49	닐로 (Nilo)	넋두리
+50	Camila Cabello	Havana (Feat. Young Thug)
+51	Fitz &amp; The Tantrums	HandClap
+52	슬기 (SEULGI), 신비, 청하, 소연	Wow Thing
+53	방탄소년단	전하지 못한 진심 (Feat. Steve Aoki)
+54	이수	My Way
+55	임한별	이별하러 가는 길
+56	모트 (Motte)	도망가지마
+57	방탄소년단	DNA
+58	Ed Sheeran	Shape of You
+59	백현 (BAEKHYUN), 로꼬	YOUNG
+60	로이킴	왜 몰랐을까
+61	여자친구 (GFRIEND)	밤 (Time for the moon night)
+62	방탄소년단	Answer _ Love Myself
+63	모모랜드 (MOMOLAND)	뿜뿜
+64	10cm	Perfect
+65	마마무 (Mamamoo)	별이 빛나는 밤
+66	청하	Roller Coaster
+67	TWICE	What is Love?
+68	모모랜드 (MOMOLAND)	BAAM
+69	용준형	소나기 (Feat. 10cm)
+70	오마이걸 (OH MY GIRL)	불꽃놀이 (Remember Me)
+71	김하온 (HAON)	붕붕 (Feat. Sik-K) (Prod. GroovyRoom)
+72	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+73	Imagine Dragons	Thunder
+74	Troye Sivan	Youth
+75	비투비 (BTOB)	그리워하다
+76	길구봉구	이 별
+77	방탄소년단	Epiphany
+78	(여자)아이들	LATATA
+79	하은	열애중 (답가)
+80	pH-1, Kid Milli, 루피 (Loopy)	Good Day (Feat. 팔로알토) (Prod. 코드 쿤스트)
+81	방탄소년단	Trivia 轉 _ Seesaw
+82	Sia	Chandelier
+83	GOT7	Lullaby
+84	방탄소년단	Anpanman
+85	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+86	Wanna One (워너원)	에너제틱 (Energetic)
+87	윤종신	좋니
+88	세븐틴	A-TEEN
+89	방탄소년단	Trivia 起 _ Just Dance
+90	빅뱅	꽃 길
+91	펀치 (Punch)	밤이 되니까
+92	여자친구 (GFRIEND)	여름여름해 (Sunny Summer)
+93	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+94	방탄소년단	Trivia 承 _ Love
+95	EXO	Universe
+96	소유, Sik-K (식케이)	까만밤 (PROD. GroovyRoom, OREO)
+97	Wanna One (워너원)	켜줘 (Light)
+98	방탄소년단	Airplane pt.2
+99	박원	all of my life
+100	Wanna One (워너원)	Beautiful

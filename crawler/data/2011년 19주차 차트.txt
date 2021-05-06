@@ -1,0 +1,101 @@
+./data/2011년 19주차 차트.txt
+1	레인보우 (Rainbow)	To Me (내게로..)
+2	박봄	Don`t Cry
+3	f(x)	피노키오 (Danger)
+4	빅뱅	LOVE SONG
+5	포미닛 (4minute)	거울아 거울아
+6	소울 다이브 (Soul Dive)	나쁜 습관 (Feat.예원)
+7	걸스데이 (Girl`s Day)	반짝반짝
+8	휘성	가슴 시린 이야기 (Feat. 용준형)
+9	씨엔블루 (CNBLUE)	직감
+10	김범수	제발
+11	오렌지 캬라멜 (Orange Caramel)	방콕시티 (Bangkok City)
+12	포미닛 (4minute)	Heart To Heart
+13	양파	아파 아이야
+14	빅뱅	STUPID LIAR
+15	먼데이 키즈 (Monday Kiz)	슈루룹
+16	지아 (Zia)	들리나요
+17	케이윌 (K.Will)	가슴이 뛴다
+18	슈프림팀 (Supreme Team)	배가 불렀지 (Feat. GaeKo Of DYNAMIC DUO)
+19	김그림	너 밖엔 없더라
+20	김태우	메아리
+21	송지은	미친거니 (Feat. 방용국)
+22	클로버 (Clover)	La Vida Loca
+23	가비엔제이 (Gavy NJ)	애정만세
+24	이현 (에이트)	다며 (Feat. 마이티마우스)
+25	빅뱅	Tonight
+26	유브이 (UV)	이태원 프리덤 (With JYP)
+27	Dal★Shabet (달샤벳)	핑크 로켓 (Pink Rocket)
+28	에이핑크 (Apink)	몰라요
+29	박재범	Abandoned (Feat. Dok2)
+30	씨엔블루 (CNBLUE)	LOVE GIRL (New Ver.)
+31	이현 (에이트)	내꺼중에 최고
+32	걸스데이 (Girl`s Day)	너의 마음을 내게 준다면
+33	San E, 아웃사이더, 창민 (2AM)	가면 안돼
+34	정엽	아무일도 없었다
+35	유키스 (U-Kiss)	0330
+36	아이유 (IU)	나만 몰랐던 이야기
+37	빅뱅	Cafe
+38	지나(G.NA)	Black & White
+39	브레이브걸스 (Brave Girls)	아나요
+40	김건모	You Are My Lady
+41	서인국	Broken
+42	이석훈, 베이지 (Beige)	우리 여기까지 하자
+43	SG 워너비	고작
+44	임정희	해바라기 (ひまわり / Himawari) (후쿠야마 마사하루 리메이크...
+45	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+46	애프터스쿨 (After School)	Shampoo
+47	얀 (Yarn)	그래서 그대는
+48	알리 (ALi)	별 짓 다해봤는데
+49	빅뱅	What Is Right
+50	미미시스터즈	대답해주오 (Feat. 로다운 30)
+51	아이유 (IU)	좋은 날
+52	NS Yoon-G	Talk Talk Talk
+53	윤도현	나 항상 그대를 (With YB)
+54	김진표 (JP)	가지말걸 그랬어 (Feat. 주영)
+55	부활	누구나 사랑을 한다 (With. 정단 박완규 이성욱)
+56	장혜진	사랑했나봐
+57	태사비애	당신께 이 노래를 불러 드릴께요 2
+58	이루 (Eru)	촌스럽고 유치하게
+59	남규리	별빛눈물
+60	윤도현	Dash (With YB)
+61	백지영	약속
+62	브라이언 (Brian)	사랑하다 끝났어
+63	f(x)	Lollipop (Feat. SHINee)
+64	이소라	바람이 분다
+65	간미연	파파라치 (Feat. 에릭)
+66	인피니트 (Infinite)	Nothing`s Over
+67	정인	장마
+68	소녀시대	Mr.TAXI
+69	영준 (브라운아이드소울)	이제
+70	태하	돌아와줘
+71	동방신기	이것만은 알고 가 (Before U Go)
+72	나비 (Navi)	잘 된 일이야
+73	5dolls	너 말이야
+74	김종민	오빠 힘내요
+75	박재범	오늘밤 (Feat. 강민경 Of 다비치)
+76	비원에이포 (B1A4)	O.K
+77	f(x)	Gangsta Boy
+78	셰인 (Shayne)	태양을 피하는 방법
+79	정엽	잊을게
+80	박정현	첫인상
+81	Britney Spears	I Wanna Go
+82	제이세라 (J-Cera)	언제나 사랑해
+83	김완선	Super Love
+84	김태우	Brothers＆Me (With JYP & Rain)
+85	부활	비밀 (Special Vocal. 박완규)
+86	S.E.S.	I`m Your Girl
+87	Terry Winch, Nelson	Love Story
+88	현빈	가질 수 없는 너
+89	Lady GaGa	Judas
+90	시크릿 (Secret)	샤이보이 (Shy Boy)
+91	정엽	잘지내
+92	Vladimir Bunin	리스트：사랑의 꿈 제3번
+93	먼데이 키즈 (Monday Kiz)	이 밤이 지나면
+94	먼데이키즈, 가비엔제이	사랑은 똑같다
+95	이태권	Bad Case Of Lovin` You
+96	백지영	무시로
+97	김범수	그대 모습은 장미
+98	X-5	쇼 하지마
+99	김보경	하루하루
+100	알렉스 진 (Alex Jin)	모짜르트_ 터키 행진곡 (Turkish March - Mozart)

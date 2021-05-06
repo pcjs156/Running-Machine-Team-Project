@@ -1,0 +1,101 @@
+./data/2012년 30주차 차트.txt
+1	싸이 (Psy)	강남스타일
+2	2NE1 (투애니 원)	I Love You
+3	씨스타 (Sistar)	Loving U (러빙유)
+4	티아라 (T-ara)	Day By Day
+5	비스트 (Beast)	Midnight (별 헤는 밤)
+6	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+7	이종현(CNBLUE)	내 사랑아
+8	이현 (에이트)	가슴이 시린 게
+9	허각	한사람
+10	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+11	f(x)	Electric Shock
+12	주니엘 (Juniel)	illa illa (일라 일라)
+13	브라운 아이드 걸스	한여름밤의 꿈
+14	버벌진트 (Verbal Jint)	충분히 예뻐
+15	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+16	싸이 (Psy)	청개구리 (Feat. G-Dragon)
+17	원더걸스 (Wonder Girls)	Like this
+18	싸이 (Psy)	77학개론 (Feat. 리쌍, 김진표)
+19	빅뱅	Monster
+20	처진 달팽이	방구석 날라리
+21	싸이 (Psy)	어땠을까 (Feat. 박정현)
+22	포맨 (4Men)	안되겠더라
+23	길미	내가 먼저
+24	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+25	수지	그래도 사랑해
+26	슈퍼주니어 (Super Junior)	Sexy, Free & Single
+27	디셈버 (December)	Unfinished
+28	버스커 버스커 (Busker Busker)	소나기 (주르르루)
+29	원더걸스 (Wonder Girls)	Like Money
+30	애프터스쿨(After School)	Flashback
+31	김진표 (JP)	미안해서 미안해
+32	싸이 (Psy)	Never Say Goodbye (Feat. 윤도현)
+33	아이유 (IU)	하루 끝
+34	김태우	High High
+35	씨스타 (Sistar)	나혼자 (Alone)
+36	형돈이와 대준이	안좋을때 들으면 더 안좋은 노래
+37	임재범	이 또한 지나 가리라
+38	투빅 (2BiC)	Love Again (feat.에일리)
+39	지나(G.NA)	2HOT
+40	버스커 버스커 (Busker Busker)	네온사인
+41	에이핑크 (Apink)	BUBIBU (Remix Ver.)
+42	양파	사랑...어떡하나요
+43	Maroon 5	One More Night
+44	백지영	목소리 (Feat. 개리)
+45	장우영 (2PM)	Sexy Lady
+46	빅뱅	STILL ALIVE
+47	울랄라세션	굿바이데이
+48	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+49	장동건	나보다 더
+50	틴 탑 (Teen Top)	To You
+51	노을	사랑이라면
+52	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+53	인피니트 (Infinite)	추격자
+54	백지영	Good Boy (Feat. 용준형 of 비스트)
+55	울랄라세션	아름다운 밤
+56	신보라	그리워 운다
+57	비원에이포 (B1A4)	잘자요 굿나잇
+58	다비치	너라서
+59	디셈버 (December)	She`s Gone
+60	제국의아이들 (ZE:A)	후유증
+61	버스커 버스커 (Busker Busker)	여수 밤바다
+62	Dal★Shabet (달샤벳)	Mr. BangBang
+63	마이티 마우스 (Mighty Mouth)	나쁜놈 (Feat. 소야)
+64	용감한 녀석들	I 돈 Care (Feat. 서수민PD)
+65	소향	I Have Nothing (Whitney Houston)
+66	비스트 (Beast)	미운사람
+67	허각	나를 사랑했던 사람아
+68	버스커 버스커 (Busker Busker)	첫사랑
+69	엠블랙 (MBLAQ)	유령 (같이 사랑했잖아)
+70	가비엔제이 (Gavy NJ)	노을이 지면
+71	에이핑크 (Apink)	Hush
+72	Maroon 5	Payphone (Feat. Wiz Khalifa)
+73	GLAM	Party (XXO)
+74	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+75	NS Yoon-G	널 잡았어
+76	허공	어찌 너를 잊어요
+77	프라이머리 (Primary)	입장정리 (Feat. 최자, Simon D)
+78	버스커 버스커 (Busker Busker)	꽃송이가
+79	버스커 버스커 (Busker Busker)	기다려주세요
+80	박진영	너뿐이야 (You`re The One)
+81	빅뱅	Fantastic Baby
+82	빅뱅	EGO
+83	윤하	우린 달라졌을까 (With John Park)
+84	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+85	백청강	All Night
+86	레드애플(LEDApple)	Run To You (Swing)
+87	오윤혜, 디헤븐(D.Heaven)	죽을 것 같아
+88	브라운 아이드 걸스	Come With Me
+89	B.A.P	NO MERCY
+90	빅스타(BIGSTAR)	HOT BOY (핫보이)
+91	10cm	Only U
+92	원더걸스 (Wonder Girls)	Girlfriend
+93	양요섭, 정은지	Love Day
+94	김진표 (JP)	아저씨 (Feat. 제이레빗)
+95	뉴이스트 (NU`EST)	Action
+96	투빅, 다비치	오늘같은 밤이면
+97	티아라 (T-ara)	떠나지마
+98	윤하	Run
+99	조권	I`m Da One (Feat. Zion.T)
+100	케이윌 (K.Will)	지금처럼 (We Never Go Alone)

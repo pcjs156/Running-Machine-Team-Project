@@ -1,0 +1,101 @@
+./data/2018년 14주차 차트.txt
+1	김하온 (HAON), 이병재 (Vinxen)	바코드 (Prod. GroovyRoom)
+2	빅뱅	꽃 길
+3	마마무 (Mamamoo)	별이 빛나는 밤
+4	iKON	사랑을 했다 (LOVE SCENARIO)
+5	모모랜드 (MOMOLAND)	뿜뿜
+6	배연서 (WEBSTER B), 오담률 (CHIN CHILLA)	북 (Prod.SLO)
+7	장덕철	그날처럼
+8	헤이즈 (Heize)	Jenga (Feat. Gaeko)
+9	용준형	소나기 (Feat. 10cm)
+10	김하온(HAON), 박준호(PULLIK)	어린 왕자 (Prod. Godic)
+11	멜로망스(MeloMance)	You
+12	로이킴	그때 헤어지면 돼
+13	WINNER	EVERYDAY
+14	청하	Roller Coaster
+15	이수	My Way
+16	Fitz &amp; The Tantrums	HandClap
+17	멜로망스(Melomance)	선물
+18	레드벨벳(Red Velvet)	Bad Boy
+19	Camila Cabello	Havana (Feat. Young Thug)
+20	Wanna One (워너원)	BOOMERANG (부메랑)
+21	문문 (MoonMoon)	비행운
+22	배연서 (WEBSTER B), 윤진영(Clloud)	Like It (Feat. 행주, 보이비)
+23	헤이즈 (Heize)	내가 더 나빠
+24	정승환	눈사람
+25	Wanna One (워너원)	약속해요 (I.P.U.)
+26	DEAN	instagram
+27	길구봉구	이 별
+28	펀치 (Punch)	밤이 되니까
+29	먼데이 키즈 (Monday Kiz)	가을 안부
+30	닐로 (Nilo)	지나오다
+31	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+32	볼빨간사춘기	#첫사랑
+33	윤종신	좋니
+34	선미	주인공
+35	TWICE	Heart Shaker
+36	박원	all of my life
+37	아이유 (IU)	밤편지
+38	Ed Sheeran	Shape of You
+39	포맨 (4Men)	눈 떠보니 이별이더라
+40	Wanna One (워너원)	Beautiful
+41	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+42	방탄소년단	DNA
+43	오담률 (CHIN CHILLA)	Young Wave (Feat. 행주, 보이비)
+44	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+45	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+46	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+47	비투비 (BTOB)	그리워하다
+48	Wanna One (워너원)	에너제틱 (Energetic)
+49	TWICE	LIKEY
+50	방탄소년단	봄날
+51	헤이즈 (Heize)	괜찮냐고
+52	Shawn Mendes	There`s Nothing Holdin` Me Back
+53	볼빨간사춘기	썸 탈꺼야
+54	레드벨벳(Red Velvet)	피카부 (Peek-A-Boo)
+55	나얼	기억의 빈자리
+56	멜로망스(MeloMance)	짙어져
+57	박원	노력
+58	WINNER	REALLY REALLY
+59	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+60	윤종신, 민서	좋아
+61	BLACKPINK	마지막처럼
+62	Imagine Dragons	Thunder
+63	양다일	미안해
+64	문문 (MoonMoon)	결혼
+65	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+66	EXID	내일해
+67	다비치	너 없는 시간들
+68	어반 자카파 (Urban Zakapa)	그때의 나, 그때의 우리
+69	10cm	봄이 좋냐??
+70	박보람	애쓰지 마요
+71	허각	바보야
+72	김동률	답장
+73	The Chainsmokers	Closer (Feat. Halsey)
+74	길구봉구	바람이 불었으면 좋겠어
+75	에픽하이 (EPIK HIGH)	연애소설 (Feat. 아이유)
+76	수지	다른사람을 사랑하고 있어
+77	볼빨간사춘기	나의 사춘기에게
+78	선미	가시나
+79	닐로 (Nilo)	넋두리
+80	동방신기	운명 (The Chance of Love)
+81	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+82	박준호 (PULLIK)	MADMAX (Feat. Woodie Gochild) (Prod. G...
+83	Wanna One (워너원)	GOLD
+84	WINNER	AIR
+85	종현 (JONGHYUN)	Lonely (Feat. 태연)
+86	Wanna One (워너원)	너의 이름을
+87	펀치 (Punch)	오늘밤도
+88	마마무 (Mamamoo)	매일 봐요
+89	방탄소년단	고민보다 Go
+90	로꼬 (LOCO)	나타나줘 (Feat. 박재범)
+91	폴킴	비
+92	Wanna One (워너원)	보여
+93	10cm	폰서트
+94	Wanna One (워너원)	약속해요 (고백 Ver.)
+95	EXO	Universe
+96	키썸 (Kisum)	남겨둘게 (Feat. 헤이즈)
+97	Wanna One (워너원)	WE ARE
+98	오마이걸 (OH MY GIRL)	비밀정원
+99	The Chainsmokers, Coldplay	Something Just Like This
+100	WINNER	손만 잡고 자자 (TURN OFF THE LIGHT) (MINO SO...

@@ -1,0 +1,201 @@
+./data/2021년 16주차 차트.txt
+1	아이유 (IU)	라일락
+2	브레이브걸스 (Brave Girls)	롤린 (Rollin`)
+3	아이유 (IU)	Celebrity
+4	Justin Bieber	Peaches (Feat. Daniel Caesar & Giveon)
+5	브레이브걸스 (Brave Girls)	운전만해 (We Ride)
+6	아이유 (IU)	Coin
+7	로제 (ROSE)	On The Ground
+8	아이유 (IU)	내 손을 잡아
+9	방탄소년단	Dynamite
+10	양요섭, 정은지	LOVE DAY (2021) (바른연애 길잡이 X 양요섭, 정은지)
+11	다비치	그냥 안아달란 말야
+12	경서	밤하늘의 별을(2020)
+13	아이유 (IU)	봄 안녕 봄
+14	송이한	밝게 빛나는 별이 되어 비춰줄게
+15	장범준	잠이 오질 않네요
+16	아이유 (IU)	Flu
+17	아이유 (IU)	어푸 (Ah puh)
+18	아이유 (IU)	Blueming
+19	아이유 (IU)	에잇 (Prod.&Feat. SUGA of BTS)
+20	산들	취기를 빌려 (취향저격 그녀 X 산들)
+21	아이유 (IU)	아이와 나의 바다
+22	BLACKPINK	Lovesick Girls
+23	적재	나랑 같이 걸을래 (바른연애 길잡이 X 적재)
+24	미란이 (Mirani) , 먼치맨 , Khundi Panda , 머쉬베놈 (MUSHVENOM)	VVS (Feat. JUSTHIS) (Prod. GroovyRoom)
+25	10CM	이 밤을 빌려 말해요 (바른연애 길잡이 X 10CM)
+26	장범준	흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야
+27	아이유 (IU)	돌림노래 (Feat. DEAN)
+28	악동뮤지션 (AKMU)	어떻게 이별까지 사랑하겠어, 널 사랑하는 거지
+29	이예준	그날에 나는 맘이 편했을까
+30	스탠딩 에그(Standing Egg)	오래된 노래
+31	Jawsh 685, Jason Derulo, BTS	Savage Love (Laxed - Siren Beat) (BTS ...
+32	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+33	임창정	힘든 건 사랑이 아니다
+34	오마이걸 (OH MY GIRL)	Dolphin
+35	아이유 (IU)	에필로그
+36	방탄소년단	Life Goes On
+37	Anne-Marie	2002
+38	창모 (CHANGMO)	METEOR
+39	방탄소년단	봄날
+40	Etham	12_45 (Stripped)
+41	아이유 (IU)	Love poem
+42	정동하	추억은 만남보다 이별에 남아
+43	로제 (ROSE)	Gone
+44	경서예지	사실 나는 (Feat.전건호)
+45	노을	늦은 밤 너의 집 앞 골목길에서
+46	방탄소년단	작은 것들을 위한 시 (Boy With Luv) (Feat. Hals...
+47	규현 (KYUHYUN)	내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)
+48	허각	고백 (바른연애 길잡이 X 허각)
+49	조정석	아로하
+50	BLACKPINK	How You Like That
+51	아이유 (IU)	빈 컵 (Empty Cup)
+52	#안녕	너의 번호를 누르고 (Prod. 영화처럼)
+53	소정	함께 했는데 이별은 나 혼자인 거야
+54	오반 (OVAN)	어떻게 지내
+55	임영웅	이제 나만 믿어요
+56	Maroon 5	Memories
+57	ASH ISLAND	멜로디
+58	오마이걸 (OH MY GIRL)	살짝 설렜어 (Nonstop)
+59	아이유 (IU)	마음을 드려요
+60	임창정	되풀이
+61	마크툽 (Maktub)	오늘도 빛나는 너에게 (To You My Light) (Feat.이라...
+62	폴킴	너를 만나
+63	박진영	When We Disco (Duet with 선미)
+64	CHEEZE	이렇게 좋아해 본 적이 없어요
+65	벤 (Ben)	혼술하고 싶은 밤
+66	샤이니 (SHINee)	Don`t Call Me
+67	Tones And I	Dance Monkey
+68	제시(Jessi)	어떤X (What Type of X)
+69	릴보이 (lIlBOI)	내일이 오면 (Feat. 기리보이, BIG Naughty (서동현))
+70	가호 (Gaho)	시작
+71	현아 (HyunA)	I`m Not Cool
+72	황치열	안녕이란 (Two Letters)
+73	허각	우린 어쩌다 헤어진 걸까
+74	선미	꼬리 (TAIL)
+75	Lauv	Paris In The Rain
+76	순순희	서면역에서
+77	신예영	우리 왜 헤어져야 해
+78	이하이	그 한마디 (바른연애 길잡이 X 이하이)
+79	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+80	경서 (경서예지), MJ (써니사이드)	술 한잔 해요
+81	마마무 (Mamamoo)	딩가딩가 (Dingga)
+82	백지영	거짓말이라도 해서 널 보고싶어
+83	IZ*ONE (아이즈원)	Panorama
+84	Dua Lipa	Don`t Start Now
+85	화사(Hwa Sa)	마리아 (Maria)
+86	폴킴	안녕
+87	TWICE	I CAN`T STOP ME
+88	윤하	서른 밤째 (바른연애 길잡이 X 윤하 (YOUNHA))
+89	아이유 (IU)	밤편지
+90	호미들	사이렌 Remix (Feat. UNEDUCATED KID, Paul ...
+91	임창정	소확행
+92	전상근	사랑은 지날수록 더욱 선명하게 남아
+93	블루 (BLOO)	Downtown Baby
+94	샤이니 (SHINee)	Atlantis
+95	Conan Gray	Maniac
+96	Pink Sweat$	At My Worst
+97	이예준	다시 만날까 봐 (Prod.V.O.S)
+98	백현 (BAEKHYUN)	Bambi
+99	이하이	홀로
+100	마크툽 (Maktub)	비로소 너에게 도착했다 (Full Bloom)
+101	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+102	임영웅	별빛 같은 나의 사랑아
+103	Bruno Mars, Anderson .Paak, Silk Sonic	Leave The Door Open
+104	휘인	water color
+105	지코 (ZICO)	아무노래
+106	웬디 (WENDY)	Like Water
+107	엠씨더맥스 (M.C The Max)	처음처럼
+108	STAYC(스테이씨)	ASAP
+109	미란이 (Mirani)	Daisy (Feat. pH-1)
+110	Maroon 5, Megan Thee Stallion	Beautiful Mistakes
+111	청하, Christopher	Bad Boy
+112	John K	parachute
+113	(여자)아이들	화(火花)
+114	잔나비	주저하는 연인들을 위해
+115	릴보이 (lIlBOI)	CREDIT (Feat. 염따, 기리보이, Zion.T)
+116	태연 (TAEYEON)	What Do I Call You
+117	폴킴	사랑하는 당신께
+118	환불원정대	DON`T TOUCH ME
+119	호미들	사이렌
+120	조이 (JOY)	왜 사랑은 언제나 쉽지 않을까? (바른연애 길잡이 X 조이 (JOY)...
+121	제시(Jessi)	눈누난나 (NUNU NANA)
+122	박재범	SUMMERIDE
+123	전미도	사랑하게 될 줄 알았어
+124	Ariana Grande, Justin Bieber	Stuck with U
+125	Ariana Grande	34+35
+126	규현 (KYUHYUN)	커피 (Coffee)
+127	경서예지	모를까봐서(2021) (Feat.아샤트리)
+128	Valley	Like 1999
+129	잔나비	가을밤에 든 생각
+130	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+131	태연 (TAEYEON)	사계 (Four Seasons)
+132	Billie Eilish	bad guy
+133	Christopher	Bad
+134	라붐 (LABOUM)	상상더하기
+135	Justin Bieber	Hold On
+136	D.Ark (디아크)	Cold (Feat. 수퍼비) (Prod. Way Ched)
+137	먼데이 키즈 (Monday Kiz)	사랑 못해, 남들 쉽게 다 하는 거
+138	Sam Smith	To Die For
+139	웬디 (WENDY)	When This Rain Stops
+140	HYNN(박혜원)	시든 꽃에 물을 주듯
+141	임영웅	HERO
+142	싹쓰리 (유두래곤, 린다G, 비룡)	다시 여기 바닷가
+143	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+144	황인욱	한잔이면 지워질까
+145	MC몽	좋은 이별이 있을 리가 없잖아 (Feat. 조현아 Of 어반자카파)
+146	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+147	Olivia Rodrigo	drivers license
+148	Ruel	Painkiller
+149	사이먼 도미닉 (Simon Dominic), 로꼬 (LOCO)	밤이 되면
+150	방탄소년단	ON
+151	김나영	봄 내음보다 너를
+152	백예린	Square (2017)
+153	미란이 (Mirani)	Achoo (Feat. pH-1, HAON) (Prod. Groovy...
+154	산들	More Than Words
+155	마크툽 (Maktub), 이라온	별을 담은 시 (Ode To The Stars)
+156	AJR	Bang!
+157	Doja Cat	Kiss Me More (Feat. SZA)
+158	aespa	Black Mamba
+159	10cm	봄이 좋냐??
+160	Stellar	Ashes
+161	브레이브걸스 (Brave Girls)	하이힐
+162	Jeremy Zucker	comethru
+163	아이유 (IU)	하루 끝
+164	Justin Bieber	Love Yourself
+165	폴킴	비
+166	Ed Sheeran	Shape of You
+167	Sia	Snowman
+168	방탄소년단	소우주 (Mikrokosmos)
+169	Khundi Panda	뿌리 (Feat. JUSTHIS) (Prod. GroovyRoom)
+170	릴보이 (lIlBOI) , 원슈타인 , Chillin Homie , 스카이민혁 (Skyminhyuk)	Freak (Prod. Slom)
+171	Zachary Knowles	carpool
+172	먼데이 키즈 (Monday Kiz)	사랑이 식었다고 말해도 돼
+173	볼빨간사춘기	나만, 봄
+174	V.O.S	다시 만날까 봐
+175	임영웅	계단말고 엘리베이터
+176	이승기	잘할게
+177	아이유 (IU)	삐삐
+178	이루 (Eru)	까만 안경 (Feat. Daylight)
+179	임재현	사랑에 연습이 있었다면 (Prod. 2soo)
+180	장범준	노래방에서
+181	엠씨더맥스 (M.C the MAX)	너의 흔적
+182	폴킴	있잖아
+183	노을	오늘도 그대만
+184	유승우, SOLE (쏠)	넘어와 (바니와 오빠들 X 유승우, SOLE (쏠))
+185	24kGoldn	Mood (Feat. Iann Dior)
+186	Troye Sivan	Youth
+187	오반 (OVAN)	안아줘 (Prod. VAN.C)
+188	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+189	임영웅	소나기
+190	포맨	우린 아직 헤어지기 전
+191	임영웅	미워요
+192	전우성	축가
+193	케이시 (Kassy)	오늘도 난 봄을 기다려
+194	레드벨벳(Red Velvet)	Psycho
+195	임영웅	뭣이중헌디
+196	다비치	너에게 못했던 내 마지막 말은
+197	황인욱	포장마차
+198	릴보이 (lIlBOI)	ON AIR (Feat. 로꼬, 박재범 & GRAY)
+199	멜로망스(Melomance)	선물
+200	김세정	Warning (Feat. lIlBOI)

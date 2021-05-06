@@ -1,0 +1,101 @@
+./data/2017년 38주차 차트.txt
+1	아이유 (IU)	가을 아침
+2	윤종신	좋니
+3	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+4	선미	가시나
+5	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+6	방탄소년단	DNA
+7	아이유 (IU)	밤편지
+8	Wanna One (워너원)	에너제틱 (Energetic)
+9	황치열	매일 듣는 노래 (A Daily Song)
+10	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+11	박원	all of my life
+12	BLACKPINK	마지막처럼
+13	행주	Red Sun (Feat. ZICO, Swings)
+14	넉살, 한해, 조우찬, 라이노	N분의 1 (Feat. 다이나믹듀오)
+15	Ed Sheeran	Shape of You
+16	헤이즈 (Heize)	널 너무 모르고
+17	볼빨간 사춘기, 스무살	남이 될 수 있을까
+18	행주, 양홍원 (Young B), Hash Swan, 킬라그램(Killagramz)	요즘것들 (Feat. ZICO & DEAN)
+19	버즈 (Buzz)	사랑하지 않은 것처럼
+20	지코 (ZICO)	Artist
+21	현아 (HyunA)	베베 (BABE)
+22	아이유 (IU)	잠 못 드는 밤 비는 내리고
+23	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+24	EXO	Power
+25	EXO	Ko Ko Bop
+26	볼빨간사춘기	처음부터 너와 나
+27	방탄소년단	Best Of Me
+28	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+29	방탄소년단	봄날
+30	여자친구 (GFRIEND)	귀를 기울이면 (LOVE WHISPER)
+31	G-Dragon	무제(無題) (Untitled, 2014)
+32	청하	Why Don`t You Know (Feat. 넉살)
+33	여자친구 (GFRIEND)	여름비 (SUMMER RAIN)
+34	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+35	악동뮤지션 (AKMU)	DINOSAUR
+36	아이유 (IU)	사랑이 잘 (With 오혁)
+37	넉살 (Nucksal)	필라멘트 (Feat. BSK A.K.A 김범수)
+38	Wanna One (워너원)	활활 (Burn It Up)
+39	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+40	방탄소년단	보조개
+41	10cm	폰서트
+42	WINNER	REALLY REALLY
+43	WINNER	LOVE ME LOVE ME
+44	구윤회	Marry Me
+45	길구봉구	이 별
+46	바비 (BOBBY)	사랑해
+47	싸이 (Psy)	New Face
+48	The Chainsmokers	Closer (Feat. Halsey)
+49	행주, 양홍원 (Young B)	SEARCH (Feat. 카더가든, ZICO)
+50	볼빨간사춘기	좋다고 말해
+51	지코 (ZICO)	FANXY CHILD (Feat. FANXY CHILD)
+52	방탄소년단	Pied Piper
+53	한동근	미치고 싶다
+54	정승환	너였다면
+55	TWICE	SIGNAL
+56	볼빨간사춘기	나만 안되는 연애
+57	BLACKPINK	불장난
+58	The Chainsmokers, Coldplay	Something Just Like This
+59	DEAN	D (half moon) (Feat. 개코)
+60	볼빨간사춘기	우주를 줄게
+61	에이핑크 (Apink)	FIVE
+62	아이유 (IU)	비밀의 화원
+63	킬라그램 (Killagramz)	어디 (Feat. DEAN, 지코(ZICO))
+64	방탄소년단	고민보다 Go
+65	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+66	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+67	엠씨더맥스 (M.C The Max)	어디에도
+68	소녀시대	Holiday
+69	우원재	또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+70	Justin Bieber	Love Yourself
+71	방탄소년단	Intro _ Serendipity
+72	아이유 (IU)	매일 그대와
+73	한동근	그대라는 사치
+74	Wanna One (워너원)	Wanna Be (My Baby)
+75	방탄소년단	MIC Drop
+76	태양	DARLING
+77	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+78	방탄소년단	피 땀 눈물
+79	EXO	전야 (前夜) (The Eve)
+80	스무살	걔 말고
+81	멜로망스(Melomance)	선물
+82	우원재	MOVE (Feat. Bizzy)
+83	아이유 (IU)	어젯밤 이야기
+84	국민의 아들	NEVER
+85	정세운, Sik-K (식케이)	JUST U (PROD. GroovyRoom)
+86	뉴이스트 W	있다면
+87	넉살 (Nucksal), 조우찬	부르는게 값이야 (Feat. 개코, 던밀스)
+88	양홍원 (Young B)	아침에 (Feat. Bryn)
+89	10cm	HELP
+90	방탄소년단	Outro _ Her
+91	창모 (CHANGMO)	아름다워
+92	길구봉구	바람이 불었으면 좋겠어
+93	아이오아이 (I.O.I)	소나기
+94	뉴이스트 (NU`EST)	여보세요
+95	아이유 (IU)	개여울
+96	EXO	Sweet Lies
+97	TWICE	KNOCK KNOCK
+98	EXO	부메랑 (Boomerang)
+99	싸이 (Psy)	I LUV IT
+100	아이유 (IU)	이 지금

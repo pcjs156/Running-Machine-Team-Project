@@ -1,0 +1,101 @@
+./data/2012년 31주차 차트.txt
+1	싸이 (Psy)	강남스타일
+2	2NE1 (투애니 원)	I Love You
+3	씨스타 (Sistar)	Loving U (러빙유)
+4	티아라 (T-ara)	Day By Day
+5	보아 (BoA)	Only One
+6	이종현(CNBLUE)	내 사랑아
+7	비스트 (Beast)	Midnight (별 헤는 밤)
+8	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+9	이현 (에이트)	가슴이 시린 게
+10	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+11	주니엘 (Juniel)	illa illa (일라 일라)
+12	브라운 아이드 걸스	한여름밤의 꿈
+13	용감한 녀석들	봄 여름 여름 여름
+14	비스트 (Beast)	아름다운 밤이야
+15	f(x)	Electric Shock
+16	허각	한사람
+17	싸이 (Psy)	어땠을까 (Feat. 박정현)
+18	버벌진트 (Verbal Jint)	충분히 예뻐
+19	싸이 (Psy)	청개구리 (Feat. G-Dragon)
+20	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+21	싸이 (Psy)	77학개론 (Feat. 리쌍, 김진표)
+22	원더걸스 (Wonder Girls)	Like this
+23	빅뱅	Monster
+24	처진 달팽이	방구석 날라리
+25	포맨 (4Men)	안되겠더라
+26	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+27	길미	내가 먼저
+28	슈퍼주니어 (Super Junior)	Sexy, Free & Single
+29	수지	그래도 사랑해
+30	애프터스쿨(After School)	Flashback
+31	아이유 (IU)	하루 끝
+32	김민종	아름다운 아픔 (2012 New Ver.)
+33	디셈버 (December)	Unfinished
+34	김태우	High High
+35	씨스타 (Sistar)	나혼자 (Alone)
+36	버스커 버스커 (Busker Busker)	소나기 (주르르루)
+37	김진표 (JP)	미안해서 미안해
+38	싸이 (Psy)	Never Say Goodbye (Feat. 윤도현)
+39	공유	너라서 (Special Track)
+40	형돈이와 대준이	안좋을때 들으면 더 안좋은 노래
+41	원더걸스 (Wonder Girls)	Like Money
+42	아이유 (IU), 피에스타(FIESTAR)	달빛바다
+43	지나(G.NA)	2HOT
+44	양파	사랑...어떡하나요
+45	투빅 (2BiC)	Love Again (feat.에일리)
+46	Maroon 5	One More Night
+47	B.A.P	NO MERCY
+48	제국의아이들 (ZE:A)	후유증
+49	10cm	어느 날
+50	버스커 버스커 (Busker Busker)	네온사인
+51	백지영	목소리 (Feat. 개리)
+52	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+53	울랄라세션	굿바이데이
+54	에이핑크 (Apink)	BUBIBU (Remix Ver.)
+55	빅뱅	STILL ALIVE
+56	장우영 (2PM)	Sexy Lady
+57	비스트 (Beast)	니가 보고 싶어지면
+58	틴 탑 (Teen Top)	To You
+59	장동건	나보다 더
+60	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+61	에일리 (Ailee)	3! 4!
+62	울랄라세션	아름다운 밤
+63	인피니트 (Infinite)	추격자
+64	노을	사랑이라면
+65	임재범	이 또한 지나 가리라
+66	백지영	Good Boy (Feat. 용준형 of 비스트)
+67	비원에이포 (B1A4)	잘자요 굿나잇
+68	다비치	너라서
+69	디셈버 (December)	She`s Gone
+70	신용재	자꾸만 자꾸만
+71	버스커 버스커 (Busker Busker)	여수 밤바다
+72	C-CLOWN(씨클라운)	SOLO
+73	장재인	Rainy Day
+74	신보라	그리워 운다
+75	마이티 마우스 (Mighty Mouth)	나쁜놈 (Feat. 소야)
+76	Dal★Shabet (달샤벳)	Mr. BangBang
+77	NS Yoon-G	널 잡았어
+78	용감한 녀석들	I 돈 Care (Feat. 서수민PD)
+79	Maroon 5	Payphone (Feat. Wiz Khalifa)
+80	허각	나를 사랑했던 사람아
+81	비스트 (Beast)	미운사람
+82	허공	어찌 너를 잊어요
+83	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+84	버스커 버스커 (Busker Busker)	첫사랑
+85	엠블랙 (MBLAQ)	유령 (같이 사랑했잖아)
+86	비스트 (Beast)	내가 아니야
+87	보아(BoA)	The Shadow
+88	에이핑크 (Apink)	Hush
+89	성훈 (브라운 아이드 소울)	Ma Boo (Feat.San E)
+90	버스커 버스커 (Busker Busker)	꽃송이가
+91	프라이머리 (Primary)	입장정리 (Feat. 최자, Simon D)
+92	빅뱅	Fantastic Baby
+93	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+94	이루펀트 (Eluphant)	은하수를 여행하는 히치하이커 (Feat. 김필)
+95	소향	I Have Nothing (Whitney Houston)
+96	박진영	너뿐이야 (You`re The One)
+97	보아(BoA)	Mayday! Mayday! (너에게 닿기를 간절히 외치다)
+98	보아 (BoA)	네모난 바퀴 (Hope)
+99	비스트 (Beast)	니가 쉬는 날
+100	뮤지	첫눈에 반했어 (Feat.다이나믹듀오)

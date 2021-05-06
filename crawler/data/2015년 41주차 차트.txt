@@ -1,0 +1,101 @@
+./data/2015년 41주차 차트.txt
+1	임창정	또 다시 사랑
+2	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+3	소유, 권정열	어깨
+4	iKON	취향저격
+5	박경	보통연애 (Feat. 박보람)
+6	이유 갓지(GOD G)않은이유(박명수, 아이유)	레옹
+7	유재환, 김예림	커피 (Prod. by G-Park 박명수)
+8	송민호	겁 (Feat. 태양)
+9	레드벨벳(Red Velvet)	Dumb Dumb
+10	소녀시대	Lion Heart
+11	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+12	황태지(황광희, 태양, 지드래곤)	맙소사
+13	플라이 투 더 스카이 (Fly To The Sky)	그렇게 됐어
+14	송민호, 지코(ZICO)	Okey Dokey
+15	인크레더블, 타블로, 지누션	오빠차
+16	혁오 (hyukoh)	위잉위잉
+17	자이언티(Zion.T)	양화대교
+18	으뜨거따시(하하, 자이언티)	스폰서 ($ponsor)
+19	iKON	리듬 타 (RHYTHM TA)
+20	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+21	린(LYn), 하동균, 이정	내가 그댈
+22	에일리 (Ailee)	너나 잘해
+23	자메즈 (Ja Mezz), 앤덥(Andup), 송민호	거북선 (Feat. 팔로알토)
+24	빅뱅	우리 사랑하지 말아요
+25	GOT7	니가 하면
+26	마마무 (Mamamoo)	Girl Crush
+27	헤이즈 (Heize)	Me, Myself & I (Prod. by 버벌진트 / Feat. ...
+28	오대천왕(정형돈, 밴드 혁오)	멋진헛간
+29	사이먼 도미닉 (Simon Dominic)	사이먼 도미닉
+30	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+31	자이언티(Zion.T)	꺼내 먹어요
+32	백아연	이럴거면 그러지말지 (Feat. 영현)
+33	댄싱게놈(유재석, JYP)	I`m So Sexy
+34	SG 워너비	가슴 뛰도록
+35	AOA	심쿵해 (Heart Attack)
+36	혁오 (hyukoh)	와리가리
+37	백아연	이렇게 우리
+38	Adam Levine	Lost Stars
+39	Gary (개리)	엉덩이 (Feat. 박재범)
+40	씨스타 (Sistar)	SHAKE IT
+41	빅뱅	IF YOU
+42	지아 (Zia)	가끔
+43	빅뱅	쩔어 (GD&T.O.P)
+44	iKON	AIRPLANE
+45	트루디, 치타 (CHEETAH)	음악이 아니었다면 (Prod. by 버벌진트)
+46	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+47	원더걸스 (Wonder Girls)	I Feel You
+48	엠씨더맥스 (M.C The Max)	그 남잔 말야
+49	에이핑크 (Apink)	Remember
+50	Maroon 5	Sugar
+51	빅뱅	BAE BAE
+52	언프리티 랩스타 2	언프리티 랩스타 (Don`t stop) (Prod. by D.O)
+53	현아 (HyunA)	잘나가서 그래 (Feat. 정일훈 of BTOB)
+54	아이유 (IU)	마음
+55	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+56	빅뱅	맨정신
+57	케이윌(K.will)	내게 와줘서
+58	프라이머리 (Primary)	아끼지마 (Don`t Be Shy) (Feat. 초아 (AOA) & ...
+59	유승우	예뻐서 (You`re beautiful)
+60	플라이 투 더 스카이 (Fly To The Sky)	미워해야 한다면
+61	빅뱅	LOSER
+62	송민호, 지코(ZICO), 팔로알토(Paloalto)	moneyflow (다 비켜봐)
+63	릴보이(Lil Boi), 로꼬(LOCO), 박재범	ON IT + BO$$
+64	제시(Jessi)	쎈언니
+65	Sam Smith	I`m Not The Only One
+66	화생방실 클레오파트라	사랑할수록 (화생방실 클레오파트라)
+67	씨엔블루 (CNBLUE)	신데렐라 (Cinderella)
+68	SG 워너비	좋은 기억
+69	박재범	Solo (Feat. Hoody)
+70	소녀시대	PARTY
+71	베이식(Basick)	Stand Up (Feat. 마마무)
+72	지코 (ZICO), 소진	아프다
+73	블랙넛(Black Nut)	내가 할 수 있는 건 (Feat. 제시)
+74	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+75	나얼	같은 시간 속의 너
+76	Sik-K (식케이), 릴보이(Lil Boi), 지구인	RESPECT (Feat. 로꼬 & GRAY & DJ Pumkin)
+77	Redfoo (LMFAO)	New Thang
+78	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+79	자이언티(Zion.T), 크러쉬 (CRUSH)	그냥 (Just)
+80	상주나(정준하, 윤상)	My Life (Feat. 효린 of 씨스타)
+81	화생방실 클레오파트라	가질 수 없는 너  (화생방실 클레오파트라) (Bonus Track)
+82	나얼	바람기억
+83	걸스데이 (Girl`s Day)	링마벨 (Ring My Bell)
+84	iKON	오늘따라
+85	윤현상	밥 한 끼 해요 (feat. 윤보미 Of Apink)
+86	Gary (개리)	뚝방의 꿈 (Feat. 존 박)
+87	노래왕 퉁키	나를 슬프게 하는 사람들 (노래왕 퉁키)
+88	아이유 (IU)	너의 의미 (Feat. 김창완)
+89	EXO	CALL ME BABY
+90	종현 (JONGHYUN)	하루의 끝 (End of a day)
+91	EXO	LOVE ME RIGHT
+92	Ariana Grande	Best Mistake (Feat. Big Sean)
+93	iKON	WELCOME BACK
+94	박재범	몸매 (MOMMAE) (Feat. Ugly Duck)
+95	빅뱅	WE LIKE 2 PARTY
+96	조형우	흉터 (Feat. 치타)
+97	엠씨더맥스 (M.C The Max)	바라보기
+98	김범수	사랑의 시작은 고백에서부터
+99	iKON	솔직하게 (M.U.P)
+100	러블리즈	Ah-Choo

@@ -1,0 +1,101 @@
+./data/2015년 46주차 차트.txt
+1	아이유 (IU)	스물셋
+2	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+3	임창정	또 다시 사랑
+4	태연 (TAEYEON)	I (Feat. 버벌진트)
+5	아이유 (IU)	푸르던
+6	자이언티(Zion.T)	No Make Up
+7	f(x)	4 Walls
+8	소유, 브라더수	모르나봐
+9	아이유 (IU)	Zeze
+10	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+11	iKON	취향저격
+12	아이유 (IU)	무릎
+13	소유, 권정열	어깨
+14	아이유 (IU)	새 신발
+15	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quie...
+16	지아 (Zia)	가끔
+17	아이유 (IU)	Red Queen (feat. Zion.T)
+18	송민호	겁 (Feat. 태양)
+19	지코 (ZICO)	날 (Feat. JTONG)
+20	빈지노 (Beenzino)	Break
+21	박경	보통연애 (Feat. 박보람)
+22	TWICE	OOH-AHH하게
+23	Adele	Hello
+24	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+25	이유 갓지(GOD G)않은이유(박명수, 아이유)	레옹
+26	iKON	리듬 타 (RHYTHM TA)
+27	송민호, 지코(ZICO)	Okey Dokey
+28	브라운 아이드 걸스	신세계
+29	태연 (TAEYEON)	U R
+30	아이유 (IU)	안경
+31	규현 (KYUHYUN)	밀리언조각 (A Million Pieces)
+32	유재환, 김예림	커피 (Prod. by G-Park 박명수)
+33	레드벨벳(Red Velvet)	Dumb Dumb
+34	에일리 (Ailee)	너나 잘해
+35	MC몽	아무도 모르게
+36	허각	밤을 새 (Feat. 베이식)
+37	루이(Louie)	그냥가요 (Feat. 휘인 of 마마무)
+38	주(JOO)	울고 분다
+39	자이언티(Zion.T)	양화대교
+40	인크레더블, 타블로, 지누션	오빠차
+41	혁오 (hyukoh)	위잉위잉
+42	규현 (KYUHYUN)	멀어지던 날 (The day we felt the distance)
+43	소녀시대	Lion Heart
+44	팔로알토 (Paloalto)	거북선 Remix (Feat. G2, B-Free, Okasian, ...
+45	정기고 (Junggigo)	일주일 (247) (feat.Zion.T, Crush, DEAN)
+46	XIA(준수)	꼭 어제
+47	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+48	자이언티(Zion.T)	꺼내 먹어요
+49	황태지(황광희, 태양, 지드래곤)	맙소사
+50	자메즈 (Ja Mezz), 앤덥(Andup), 송민호	거북선 (Feat. 팔로알토)
+51	백아연	이럴거면 그러지말지 (Feat. 영현)
+52	성시경, 김광석	그런걸까
+53	코드쿤스트	PARACHUTE (feat. 오혁 & Dok2)
+54	린(LYn), 하동균, 이정	내가 그댈
+55	빅뱅	우리 사랑하지 말아요
+56	AOA	심쿵해 (Heart Attack)
+57	플라이 투 더 스카이 (Fly To The Sky)	그렇게 됐어
+58	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+59	10cm	10월의 날씨
+60	키썸	Love Talk (feat. 화사 Of 마마무)
+61	김민승	쿵쿵쿵
+62	엠씨더맥스 (M.C The Max)	그 남잔 말야
+63	Maroon 5	Sugar
+64	SG 워너비	가슴 뛰도록
+65	비투비 (BTOB)	집으로 가는 길
+66	Sam Smith	I`m Not The Only One
+67	Adam Levine	Lost Stars
+68	혁오 (hyukoh)	와리가리
+69	러블리즈	Ah-Choo
+70	사이먼 도미닉 (Simon Dominic)	사이먼 도미닉
+71	크러쉬 (CRUSH)	Oasis (Feat. ZICO)
+72	시원	너뿐이야
+73	예지	Solo (Remix) (Prod. by 박재범, Cha Cha Ma...
+74	트루디	Bandz Up (Prod. by Dok2 / Feat. Dok2)
+75	으뜨거따시(하하, 자이언티)	스폰서 ($ponsor)
+76	빅뱅	IF YOU
+77	씨스타 (Sistar)	SHAKE IT
+78	iKON	AIRPLANE
+79	이수 (M.C The Max)	가슴에 내린다
+80	로꼬 (LOCO), 유주 (여자친구)	우연히 봄
+81	초아 (AOA)	그런가봐요 (Piano By 유희열)
+82	다비치	이 순간
+83	빅뱅	BAE BAE
+84	라디(Ra. D), 디어(d.ear), 브라더수(BrotherSu), 주영	너를 그리다
+85	박효신	야생화
+86	산이(San E)	그 아버지에 그 아들
+87	창민＆이현 (HOMME)	사랑이 아냐
+88	지아 (Zia)	가을타나 봐 (Duet. 홍대광)
+89	버즈	Forever Love
+90	에이핑크 (Apink)	Remember
+91	마마무 (Mamamoo)	Girl Crush
+92	아이유 (IU)	마음
+93	댄싱게놈(유재석, JYP)	I`m So Sexy
+94	유성은	Nothing (Feat. 문별 of 마마무)
+95	박재범	뻔하잖아 (YOU KNOW) (Feat. Okasian)
+96	김필	청춘 (Feat. 김창완)
+97	신승훈	이게 나예요
+98	2LSON (투엘슨)	하루 같은 일년 (Feat. Babylon, 니화)
+99	태연 (TAEYEON)	쌍둥이자리 (Gemini)
+100	오대천왕(정형돈, 밴드 혁오)	멋진헛간

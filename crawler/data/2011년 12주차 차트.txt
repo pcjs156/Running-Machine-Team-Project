@@ -1,0 +1,101 @@
+./data/2011년 12주차 차트.txt
+1	김형준	oH! aH!
+2	빅뱅	Tonight
+3	송지은	미친거니 (Feat. 방용국)
+4	아이유 (IU)	나만 몰랐던 이야기
+5	이현 (에이트)	내꺼중에 최고
+6	빅뱅	What Is Right
+7	빅뱅	Cafe
+8	지나(G.NA)	Black & White
+9	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+10	김수현	Dreaming
+11	먼데이 키즈 (Monday Kiz)	이 밤이 지나면
+12	현빈	가질 수 없는 너
+13	간미연	파파라치 (Feat. 에릭)
+14	빅뱅	Hands Up
+15	빅뱅	Somebody To Love
+16	시크릿 (Secret)	샤이보이 (Shy Boy)
+17	아이유 (IU)	좋은 날
+18	이소라	바람이 분다
+19	나비 (Navi)	잘 된 일이야
+20	김현정	1분 1초
+21	아이유 (IU)	Someday
+22	나윤권	그대가 있어 웃는다
+23	창민, 진운 (2AM)	사랑하면 안될까
+24	거미	기다리고 싶어
+25	김보경	하루하루
+26	아이유 (IU)	잔혹동화
+27	강승윤	니가 천국이다
+28	가희	돌아와 나쁜 너
+29	Dal★Shabet (달샤벳)	Supa Dupa Diva
+30	정용화(Jung Yong Hwa)	처음 사랑하는 연인들을 위해 (반말송)
+31	김형준	Girl
+32	프리스타일 (Free Style)	별 (Feat. JD)
+33	케이윌 (K.Will)	가슴이 뛴다
+34	DK (디셈버)	언제나 사랑해 (디셈버 DK)
+35	GD, TOP  (빅뱅)	Oh Yeah (Feat. 박봄)
+36	엠블랙 (MBLAQ)	다시
+37	박정현	꿈에
+38	GD, TOP  (빅뱅)	High High
+39	디셈버 (December)	누구보다 널 사랑해
+40	쥬얼리 (Jewelry)	Back It Up
+41	김범수 &amp; 태연	달라
+42	승리	어쩌라고
+43	케이윌 (K.Will)	기가 차 (Feat. 슈프림팀 & 씨스타)
+44	박진영	못 잊은 거죠(If)
+45	GD, TOP  (빅뱅)	집에 가지마
+46	동방신기	왜 (Keep Your Head Down)
+47	SG 워너비	너란 사람
+48	현빈	그남자
+49	씨스타 (Sistar)	니까짓게
+50	5dolls	너 말이야
+51	버블 시스터즈 (Bubble Sisters)	애원 (R＆B Ver.)
+52	소리 (Sori)	심장이 춤춘다 (Feat. 슈프림팀)
+53	부활	비밀 (Special Vocal. 박완규)
+54	씨야 (SeeYa)	내겐 너무 멋진 그대
+55	소울 다이브 (Soul Dive)	점점더 (Feat. 가비엔제이 - 미스티)
+56	택연 &amp; 닉쿤	My Valentine (Feat. 박진영)
+57	엠블랙 (MBLAQ)	Stay
+58	오스카	눈물자리
+59	택연 &amp; 우영 &amp; 수지 &amp; 김수현 &amp; JOO	드림하이 (Dream High)
+60	엠투엠 (M To M)	미쳐
+61	선예 (원더걸스)	Maybe
+62	Lady GaGa	Born This Way
+63	플라워 (Flower)	You Are My Everything
+64	제이세라 (J-Cera)	언제나 사랑해
+65	왁스 (Wax)	가슴이 뻥 뚫려
+66	티아라 (T-ara)	뷰티풀 걸 (Feat. 일렉트로 보이즈)
+67	빅뱅	Intro (Thank You & You)
+68	엠투엠 (M To M)	이런 쓰레기 같은...
+69	장혜진 &amp; 먼데이키즈 &amp; 시몬	눈물을 움켜쥐고
+70	Avril Lavigne	What The Hell
+71	스윙스(Swings)	본능적으로 Remix (With 윤종신 & 태양)
+72	나몰라패밀리JW	헤어진 두 사람 (Feat. 태인)
+73	견우 &amp; 서인영	애인만들기
+74	윤종신	너 없이 산다 (Feat. 이현우)
+75	이정	Let`s Dance
+76	Yolanda Be Cool &amp; DCup	We No Speak Americano (Radio Edit)
+77	주 (Joo)	나쁜 남자
+78	버벌 진트 (Verbal Jint)	어베일러블 (Feat. 레이디 제인)
+79	가비엔제이 (Gavy NJ)	라떼 한잔 (Feat. 길미)
+80	수지	겨울아이
+81	아이유 (IU)	이게 아닌데
+82	달마시안	그 남자는 반대
+83	써니사이드 MJ	새벽두시반 (Feat. 미스에스 & 오윤혜 & 김현중 of M.A.C...
+84	더 원 (The One), KCM	두 남자 이야기
+85	티아라 (T-ara)	왜 이러니
+86	이정	사랑은 왜
+87	이해리	그때 난 사는거야
+88	백지영	그여자
+89	박효신	사랑이 고프다 (I Promise You)
+90	레이디 제인 (Lady Jane)	친한 사이
+91	태연 (TAEYEON)	사랑해요 (I Love You)
+92	케이윌 (K.Will)	입이 떨어지지 않아서
+93	배다해	어떻게 니가
+94	야다 전인혁	듣고 있니...
+95	신용재	이유
+96	성시경	너는 나의 봄이다
+97	허각	행복한 나를 (Feat. 존박)
+98	Far East Movement	Go Ape (Feat. Lil` Jon & Colette Carr)
+99	부활	생각이나
+100	란 (Ran)	너를 위한 10가지 거짓말

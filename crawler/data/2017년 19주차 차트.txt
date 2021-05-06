@@ -1,0 +1,101 @@
+./data/2017년 19주차 차트.txt
+1	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+2	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+3	WINNER	REALLY REALLY
+4	아이유 (IU)	사랑이 잘 (With 오혁)
+5	싸이 (Psy)	I LUV IT
+6	효린, 창모	BLUE MOON (Prod. GroovyRoom)
+7	혁오 (hyukoh)	TOMBOY
+8	아이유 (IU)	밤편지
+9	구윤회	Marry Me
+10	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+11	싸이 (Psy)	New Face
+12	한동근	미치고 싶다
+13	아이유 (IU)	이 지금
+14	TWICE	KNOCK KNOCK
+15	지코 (ZICO)	She`s a Baby
+16	아이유 (IU)	이런 엔딩
+17	볼빨간사춘기	좋다고 말해
+18	하이라이트(Highlight)	얼굴 찌푸리지 말아요
+19	신현희와김루트	오빠야
+20	Ed Sheeran	Shape of You
+21	언니쓰	맞지?
+22	아이유 (IU)	잼잼
+23	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+24	정키 (Jung Key)	부담이 돼 (Feat. 휘인 of 마마무)
+25	창모 (CHANGMO)	아름다워
+26	볼빨간사춘기	우주를 줄게
+27	레드벨벳(Red Velvet)	Rookie
+28	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+29	태연 (TAEYEON)	Fine
+30	볼빨간사춘기	나만 안되는 연애
+31	크러쉬 (CRUSH)	Beautiful
+32	방탄소년단	봄날
+33	창모 (CHANGMO)	마에스트로 (Maestro)
+34	PRODUCE 101	나야 나 (PICK ME)
+35	싸이 (Psy)	마지막 장면 (Feat. 이성경)
+36	TWICE	TT
+37	정은지	너란 봄 (Feat. 하림)
+38	싸이 (Psy)	LOVE (Feat. 태양)
+39	빅뱅	에라 모르겠다
+40	BLACKPINK	불장난
+41	한동근	그대라는 사치
+42	아이유 (IU)	이름에게
+43	싸이 (Psy)	BOMB (Feat. B.I, BOBBY)
+44	EXID	낮보다는 밤
+45	블락비 (Block B)	YESTERDAY
+46	매드 클라운 (Mad Clown)	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+47	싸이 (Psy)	팩트폭행 (Feat. G-DRAGON)
+48	한동근	이 소설의 끝을 다시 써보려 해
+49	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+50	The Chainsmokers	Closer (Feat. Halsey)
+51	비투비 (BTOB)	MOVIE
+52	백현 (BAEKHYUN)	바래다줄게 (Take You Home)
+53	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+54	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+55	태연 (TAEYEON)	Make Me Love You
+56	아이유 (IU)	Black Out
+57	Justin Bieber	Love Yourself
+58	젝스키스	아프지 마요
+59	여자친구 (GFRIEND)	FINGERTIP
+60	볼빨간사춘기	You(=I)
+61	걸스데이 (Girl`s Day)	I`ll be yours
+62	엠씨더맥스 (M.C The Max)	어디에도
+63	정승환	너였다면
+64	용준형	그대로일까 (Feat. 헤이즈)
+65	박효신	숨
+66	TWICE	CHEER UP
+67	임창정	내가 저지른 사랑
+68	에디킴	이쁘다니까
+69	자이언티(Zion.T)	노래
+70	The Chainsmokers, Coldplay	Something Just Like This
+71	DEAN	넘어와 (Feat. 백예린)
+72	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+73	DEAN	D (half moon) (Feat. 개코)
+74	소유 (SOYOU)	I Miss You
+75	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+76	소유, 백현 (BAEKHYUN)	비가와 (Rain)
+77	헤이즈 (Heize)	저 별
+78	볼빨간사춘기	심술
+79	권진아	Fly away
+80	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+81	Charlie Puth, Wiz Khalifa	See You Again (폴 워커 추모 엔딩곡)
+82	정준일	첫 눈
+83	아이유 (IU)	마침표
+84	아이오아이 (I.O.I)	너무너무너무
+85	정승환	이 바보야
+86	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+87	방탄소년단	피 땀 눈물
+88	WINNER	FOOL
+89	최하민(Osshun Gum)	Come for you (Feat. HOMEBOY & FNRL.)
+90	Sam Smith	I`m Not The Only One
+91	비와이(BewhY)	Dejavu
+92	다이나믹 듀오 (Dynamic Duo) &amp; 첸 (CHEN)	기다렸다 가
+93	태연 (TAEYEON)	11_11
+94	길구봉구	바람이 불었으면 좋겠어
+95	혁오 (hyukoh)	가죽자켓
+96	반하나	그대가 나를 본다면
+97	싸이 (Psy)	We Are Young
+98	러블리즈	지금, 우리
+99	싸이 (Psy)	오토리버스 (Feat. TABLO)
+100	AOA	Excuse Me

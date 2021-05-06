@@ -1,0 +1,101 @@
+./data/2014년 45주차 차트.txt
+1	에픽하이 (Epik High)	헤픈엔딩 (Feat. 조원선 of 롤러코스터)
+2	비스트 (Beast)	12시 30분
+3	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+4	개코	화장 지웠어 (Feat. Zion.T, HA_TFELT) (No ma...
+5	에픽하이 (Epik High)	스포일러
+6	에일리 (Ailee)	손대지마
+7	악동뮤지션 (AKMU)	시간과 낙엽
+8	Adam Levine	Lost Stars
+9	김동률	그게나야
+10	포스트맨 (Postmen)	신촌을 못가
+11	소유, 권순일, 박용인	틈
+12	에픽하이 (Epik High)	또 싸워 (Feat. 윤하)
+13	에픽하이 (Epik High)	RICH (Feat. 태양)
+14	2AM	오늘따라
+15	걸스데이 (Girl`s Day)	보고싶어
+16	곽진언, 김필, 임도혁	당신만이
+17	god	바람
+18	아이유 (IU)	소격동
+19	WINNER	공허해
+20	어쿠스틱 콜라보	묘해, 너와
+21	로이킴	Home
+22	에픽하이 (Epik High)	부르즈 할리파 (Feat. 얀키, 개코)
+23	윤미래 (T)	너를 사랑해
+24	어쿠스틱 콜라보	너무 보고 싶어
+25	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+26	포스트맨, 6 to 8	술이 너보다 낫더라
+27	바비 (BOBBY)	연결고리#힙합
+28	곽진언, 김필	걱정말아요 그대
+29	박효신	야생화
+30	이승환	어떻게 사랑이 그래요
+31	아이언	독기
+32	Adam Levine	No One Else Like You
+33	WINNER	끼부리지마
+34	에픽하이 (Epik High)	AMOR FATI (Feat. 김종완 of 넬)
+35	산이(San E), 레이나	한여름밤의 꿀
+36	에픽하이 (Epik High)	EYES NOSE LIPS (Feat. 태양)
+37	태양	눈, 코, 입
+38	아이유 (IU)	너의 의미 (Feat. 김창완)
+39	곽진언	소격동
+40	송지은	예쁜 나이 25살
+41	블락비 (Block B)	HER
+42	서태지	Christmalo.win
+43	바비 (BOBBY)	가드올리고 Bounce
+44	씨스타 (Sistar)	I Swear
+45	신해철	민물 장어의 꿈
+46	빅스 (VIXX)	Error
+47	에픽하이 (Epik High)	LIFE IS GOOD (Feat. 박재범)
+48	에픽하이 (Epik High)	신발장 (Feat. MYK)
+49	에픽하이 (Epik High)	막을 올리며
+50	김동률	내 사람
+51	김태우	너 하나만
+52	Keira Knightley	Tell Me If You Wanna Go Home
+53	NS Yoon-G, 기리보이(Giriboy)	설렘주의
+54	씨스타 (Sistar)	Touch my body
+55	비스트 (Beast)	Drive
+56	거미	갈 곳이 없어
+57	이적	거짓말 거짓말 거짓말
+58	윤현상	언제쯤이면 (Duet.아이유)
+59	윤민수, 신용재	제발
+60	에픽하이 (Epik High)	LESSON 5 (타임라인)
+61	소녀시대-태티서(Girls` Generation-TTS)	Holler
+62	걸스데이(Girl`s Day)	Darling
+63	Keira Knightley	A Step You Can`t Take Back
+64	비스트 (Beast)	눈을 감아도
+65	다비치	괜찮아 사랑이야
+66	레이디스 코드 (Ladies` Code)	I`m Fine Thank You
+67	2AM	나타나 주라
+68	김필	얼음요새
+69	자이언티(Zion.T)	양화대교
+70	Maroon 5	Maps
+71	이선희	그 중에 그대를 만나
+72	울랄라세션, 아이유(IU)	애타는 마음
+73	Adam Levine	A Higher Place
+74	Keira Knightley	Lost Stars
+75	크러쉬 (CRUSH)	SOFA
+76	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+77	V.O.S	울면서 달리기
+78	윤하	내 마음이 뭐가 돼
+79	서태지	소격동
+80	바비 (BOBBY)	L4L (Lookin` For Luv) (Feat. Dok2 & Th...
+81	비스트 (Beast)	좋은 일이야
+82	산이 (San E)	Body Language (Feat. 범키)
+83	스윙스(Swings), 에일리	A Real Man
+84	S (강타, 신혜성, 이지훈)	하고 싶은 거 다 (Without You)
+85	윤건	5분 고백송
+86	에디킴	너 사용법
+87	강민희 (미스에스)	내 얘긴 안해? (Feat. San E)
+88	Keira Knightley	Coming Up Roses
+89	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+90	AOA	단발머리 (Short Hair)
+91	2LSON (투엘슨)	거리에서 (Feat. 문명진)
+92	허각	DAY N NIGHT (Feat. SIMON Dominic)
+93	혜령	슬픔을 참는 세 가지 방법 (Feat. 딘딘)
+94	첸 (CHEN)	최고의 행운
+95	Keira Knightley	Like A Fool
+96	스윙스(Swings)	My Ballad (Feat. 김예림)
+97	비스트 (Beast)	가까이 (Stay)
+98	틴 탑 (Teen Top)	쉽지않아 (Missing)
+99	B.I (비아이)	BE I
+100	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를

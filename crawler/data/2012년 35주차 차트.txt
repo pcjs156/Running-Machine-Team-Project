@@ -1,0 +1,101 @@
+./data/2012년 35주차 차트.txt
+1	싸이 (Psy)	강남스타일
+2	씨스타 (Sistar)	Loving U (러빙유)
+3	보아 (BoA)	Only One
+4	비스트 (Beast)	아름다운 밤이야
+5	이종현(CNBLUE)	내 사랑아
+6	2NE1 (투애니 원)	I Love You
+7	싸이 (Psy)	뜨거운 안녕 (Feat. 성시경)
+8	허각, 지아 (Zia)	I Need You
+9	다비치	남자도 우나요
+10	주니엘 (Juniel)	illa illa (일라 일라)
+11	싸이 (Psy)	어땠을까 (Feat. 박정현)
+12	비스트 (Beast)	Midnight (별 헤는 밤)
+13	카라 (KARA)	Pandora
+14	티아라 (T-ara)	Day By Day
+15	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+16	이현 (에이트)	가슴이 시린 게
+17	서인영	Anymore
+18	신용재	자꾸만 자꾸만
+19	스컬 (Skull), 하하	부산 바캉스
+20	버벌진트 (Verbal Jint)	충분히 예뻐
+21	틴 탑 (Teen Top)	나랑 사귈래?
+22	허각	한사람
+23	버스커 버스커 (Busker Busker)	그댈 마주하는건 힘들어 (그마힘)
+24	브라운 아이드 걸스	한여름밤의 꿈
+25	10cm	사랑이 방울지네
+26	아이유 (IU), 피에스타(FIESTAR)	달빛바다
+27	용감한 녀석들	봄 여름 여름 여름
+28	싸이 (Psy)	청개구리 (Feat. G-Dragon)
+29	싸이 (Psy)	77학개론 (Feat. 리쌍, 김진표)
+30	버벌진트 (Verbal Jint)	굿모닝 (Feat. 권정열)
+31	f(x)	Electric Shock
+32	빅뱅	Monster
+33	포맨 (4Men)	안되겠더라
+34	슈퍼주니어 (Super Junior)	SPY
+35	원더걸스 (Wonder Girls)	Like this
+36	김진표 (JP)	미안해서 미안해
+37	제국의아이들 (ZE:A)	후유증
+38	씨스타 (Sistar)	나혼자 (Alone)
+39	Maroon 5	One More Night
+40	이루	미워요 (Feat. 용준형 Of 비스트)
+41	알리 (ALi)	Carry On
+42	팬텀(Phantom)	BURNING
+43	김태우	High High
+44	제시카 &amp; 크리스탈	Butterfly
+45	아이유 (IU)	하루 끝
+46	클로버 (Clover)	돼지 국밥
+47	소향	Never Ending Story (원곡가수 부활)
+48	길미	내가 먼저
+49	처진 달팽이	방구석 날라리
+50	XIA(준수)	UNCOMMITTED
+51	버벌진트 (Verbal Jint)	약한 사람 (Feat. 허인창)
+52	윤건	I Miss You(Feat. 민기)
+53	나몰라패밀리JW	I`m Yesterday (Feat. 태인)
+54	가인, 라디 (Ra. D)	Take Out
+55	울랄라세션	굿바이데이
+56	버스커 버스커 (Busker Busker)	소나기 (주르르루)
+57	애프터스쿨(After School)	Flashback
+58	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+59	투빅 (2BiC)	Love Again (feat.에일리)
+60	싸이 (Psy)	Never Say Goodbye (Feat. 윤도현)
+61	프라이머리 (Primary)	씨스루 (Feat. 개코, Zion.T)
+62	가비엔제이(Gavy NJ), 포스트맨 (Postmen)	청소
+63	디셈버 (December)	Unfinished
+64	Maroon 5	Payphone (Feat. Wiz Khalifa)
+65	신용재	가수가 된 이유
+66	백지영	목소리 (Feat. 개리)
+67	엠투엠 (M To M)	No Pain No Gain
+68	비스트 (Beast)	내가 아니야
+69	소녀시대-태티서(Girls` Generation-TTS)	Twinkle
+70	김민종	아름다운 아픔 (2012 New Ver.)
+71	형돈이와 대준이	안좋을때 들으면 더 안좋은 노래
+72	비스트 (Beast)	니가 보고 싶어지면
+73	허각	나를 사랑했던 사람아
+74	버스커 버스커 (Busker Busker)	여수 밤바다
+75	틴 탑 (Teen Top)	To You
+76	울랄라세션	아름다운 밤
+77	양파	사랑...어떡하나요
+78	인피니트 (Infinite)	추격자
+79	노을	사랑이라면
+80	디셈버 (December)	She`s Gone
+81	지나(G.NA)	2HOT
+82	빅뱅	STILL ALIVE
+83	수지	그래도 사랑해
+84	버스커 버스커 (Busker Busker)	네온사인
+85	슈퍼주니어 (Super Junior)	Sexy, Free & Single
+86	EXID	I Feel Good
+87	강민경	이별이 온다
+88	디유닛 (D-Unit)	Im Missin` You
+89	Maroon 5	Moves Like Jagger (Feat. Christina Agu...
+90	에이핑크 (Apink)	BUBIBU (Remix Ver.)
+91	비원에이포 (B1A4)	잘자요 굿나잇
+92	B.A.P	NO MERCY
+93	변진섭	비와 당신 (원곡가수 박중훈)
+94	버스커 버스커 (Busker Busker)	첫사랑
+95	써니, 루나	나야 (It`s Me)
+96	비원에이포 (B1A4)	Hey Girl
+97	프라이머리 (Primary)	입장정리 (Feat. 최자, Simon D)
+98	숙희	Baby I Love You
+99	장재인	환상
+100	불나방 스타 쏘세지 클럽	석봉아

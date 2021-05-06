@@ -1,0 +1,101 @@
+./data/2017년 9주차 차트.txt
+1	TWICE	KNOCK KNOCK
+2	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+3	태연 (TAEYEON)	Fine
+4	레드벨벳(Red Velvet)	Rookie
+5	블락비 (Block B)	YESTERDAY
+6	볼빨간사춘기	좋다고 말해
+7	크러쉬 (CRUSH)	Beautiful
+8	방탄소년단	봄날
+9	자이언티(Zion.T)	노래
+10	소유, 백현 (BAEKHYUN)	비가와 (Rain)
+11	악동뮤지션 (AKMU)	오랜 날 오랜 밤
+12	찬열 (CHANYEOL), 펀치 (Punch)	Stay With Me
+13	신현희와김루트	오빠야
+14	매드 클라운 (Mad Clown)	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+15	빅뱅	에라 모르겠다
+16	DEAN	넘어와 (Feat. 백예린)
+17	볼빨간사춘기	우주를 줄게
+18	TWICE	TT
+19	소유 (SOYOU)	I Miss You
+20	자이언티(Zion.T)	Complex (Feat. G-DRAGON)
+21	볼빨간사춘기	나만 안되는 연애
+22	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+23	다이나믹 듀오 (Dynamic Duo) &amp; 첸 (CHEN)	기다렸다 가
+24	구윤회	Marry Me
+25	에디킴	이쁘다니까
+26	BLACKPINK	불장난
+27	황광희 X 개코	당신의 밤 (Feat. 오혁)
+28	샘김	Who are you
+29	자이언티(Zion.T)	미안해 (Feat. Beenzino)
+30	헤이즈 (Heize)	저 별
+31	한동근	그대라는 사치
+32	어반 자카파 (Urban Zakapa)	소원
+33	수지	행복한 척
+34	방탄소년단	피 땀 눈물
+35	정준일	첫 눈
+36	한동근	이 소설의 끝을 다시 써보려 해
+37	빅뱅	LAST DANCE
+38	AOA	Excuse Me
+39	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+40	볼빨간사춘기	You(=I)
+41	비투비 (BTOB)	언젠가 (SOMEDAY)
+42	방탄소년단	Not Today
+43	레드벨벳(Red Velvet)	러시안 룰렛 (Russian Roulette)
+44	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 of 비스트)
+45	정승환	이 바보야
+46	CHEEZE	좋아해 (bye)
+47	임창정	내가 저지른 사랑
+48	박원, 수지	기다리지 말아요
+49	어반 자카파 (Urban Zakapa)	널 사랑하지 않아
+50	아이오아이 (I.O.I)	너무너무너무
+51	TWICE	CHEER UP
+52	태연 (TAEYEON)	날개 (Feel So Fine)
+53	볼빨간사춘기	심술
+54	태연 (TAEYEON)	11_11
+55	태연 (TAEYEON)	Cover Up
+56	10cm	내 눈에만 보여
+57	정기고, 찬열 (CHANYEOL)	Let Me Love You
+58	세정	꽃길 (Prod. By ZICO)
+59	DEAN	D (half moon) (Feat. 개코)
+60	정승환	너였다면
+61	창모 (CHANGMO)	마에스트로 (Maestro)
+62	지코 (ZICO)	BERMUDA TRIANGLE (Feat. Crush, DEAN)
+63	MC 몽, 허각	반창고
+64	헤이즈 (Heize)	Round and round (Feat. 한수지)
+65	희철, 민경훈	나비잠 (Sweet Dream)
+66	아이오아이 (I.O.I)	소나기
+67	러블리즈	WoW!
+68	박효신	숨
+69	Lasse Lindh	Hush
+70	엠씨더맥스 (M.C The Max)	어디에도
+71	BLACKPINK	휘파람
+72	비 (Rain)	최고의 선물 (Prod. by PSY)
+73	Justin Bieber	Love Yourself
+74	태연 (TAEYEON)	I Got Love
+75	에일리 (Ailee)	낡은 그리움
+76	어반 자카파 (Urban Zakapa)	목요일 밤 (Feat. 빈지노)
+77	마마무 (Mamamoo)	LOVE
+78	Sam Smith	I`m Not The Only One
+79	샘김, 로꼬	Think About` Chu (Prod. By 박근태)
+80	첸 (CHEN)	안녕 못해 (I`m Not Okay)
+81	허각	혼자, 한잔
+82	태연 (TAEYEON)	Time Lapse
+83	하하 X MINO	쏘아
+84	권진아	끝
+85	빅뱅	GIRLFRIEND
+86	Ed Sheeran	Shape of You
+87	비와이(BewhY)	Day Day (Feat. 박재범) (Prod. by GRAY)
+88	Maroon 5	Don`t Wanna Know (Feat. Kendrick Lamar...
+89	The Chainsmokers	Closer (Feat. Halsey)
+90	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+91	태연 (TAEYEON)	When I Was Young
+92	태연 (TAEYEON)	I`m OK
+93	크러쉬 (CRUSH)	어떻게 지내
+94	EXO	Monster
+95	김필	내일 그대와
+96	Ryan Gosling &amp; Emma Stone	City Of Stars (From `La La Land` Sound...
+97	방탄소년단	A Supplementary Story _ You Never Walk...
+98	로이킴, 김이지 (꽃잠프로젝트)	HEAVEN
+99	태연 (TAEYEON)	수채화 (Love in Color)
+100	태연 (TAEYEON)	Sweet Love

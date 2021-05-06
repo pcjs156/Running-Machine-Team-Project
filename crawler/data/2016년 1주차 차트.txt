@@ -1,0 +1,101 @@
+./data/2016년 1주차 차트.txt
+1	오혁	소녀
+2	이적	걱정말아요 그대
+3	싸이 (Psy)	DADDY (Feat. CL of 2NE1)
+4	윤미래 (T)	사랑이 맞을거야
+5	지코 (ZICO)	유레카 (Feat. Zion.T)
+6	싸이 (Psy)	나팔바지
+7	노을	함께
+8	박보람	혜화동 (혹은 쌍문동)
+9	김필	청춘 (Feat. 김창완)
+10	김나영	어땠을까
+11	Gary (개리)	또 하루 (Feat. 개코)
+12	TWICE	OOH-AHH하게
+13	임창정	또 다시 사랑
+14	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+15	터보	다시 (Feat. 유재석)
+16	EXO	Sing For You
+17	디셈버 (December)	네게 줄 수 있는건 오직 사랑뿐
+18	산이(San E), 매드 클라운(Mad Clown)	못먹는 감 (Sour Grapes)
+19	소진 (걸스데이)	매일 그대와
+20	백예린	우주를 건너
+21	EXID	HOT PINK
+22	다비치	화이트 (WHITE) (Feat. 박재범)
+23	여자친구 (GFRIEND)	오늘부터 우리는 (Me gustas tu)
+24	아이유 (IU)	스물셋
+25	Adele	Hello
+26	iKON	덤앤더머 (DUMB & DUMBER)
+27	태연 (TAEYEON)	I (Feat. 버벌진트)
+28	iKON	취향저격
+29	EXO	불공평해 (Unfair)
+30	자이언티(Zion.T)	No Make Up
+31	러블리즈	Ah-Choo
+32	소녀시대-태티서 (Girls’ Generation-TTS)	Dear Santa
+33	브라운 아이드 소울 (Brown Eyed Soul)	밤의 멜로디
+34	싸이 (Psy)	Dream (Feat. XIA of JYJ)
+35	노을	이별밖에
+36	Gary (개리)	바람이나 좀 쐐 (Feat. MIWOO)
+37	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+38	포맨 (4Men)	안아보자
+39	송민호	겁 (Feat. 태양)
+40	가인	열두 시가 되면
+41	싸이 (Psy)	I Remember You (Feat. Zion.T)
+42	거미	친구라도 될 걸 그랬어
+43	iKON	아니라고
+44	효린, 범키, 주영	Love Line
+45	iKON	지못미
+46	방탄소년단	RUN
+47	소유, 권정열	어깨
+48	자이언티(Zion.T)	꺼내 먹어요
+49	AOA	심쿵해 (Heart Attack)
+50	다이나믹 듀오 (Dynamic Duo)	꿀잼
+51	소유, 브라더수	모르나봐
+52	초아 (AOA)	불꽃
+53	Sam Smith	I`m Not The Only One
+54	EXO	Girl x Friend
+55	기리보이(Giriboy)	호구 (Prod. by Fisherman of wybh) (Feat....
+56	크러쉬 (CRUSH), 로꼬(LOCO)	아마도 그건
+57	iKON	왜 또
+58	레드벨벳(Red Velvet)	Dumb Dumb
+59	아이유 (IU)	푸르던
+60	f(x)	4 Walls
+61	빅뱅	뱅뱅뱅 (BANG BANG BANG)
+62	iKON	리듬 타 (RHYTHM TA)
+63	god	웃픈 하루
+64	박효신	야생화
+65	자이언티(Zion.T)	양화대교
+66	아이유 (IU)	Zeze
+67	박경	보통연애 (Feat. 박보람)
+68	와블(WABLE)	보라빛향기
+69	로이킴	북두칠성
+70	CL	Hello Bitches
+71	박효신	기억 속의 먼 그대에게
+72	산이 (San E)	Do It For Fun
+73	거미	가질 수 없는 너
+74	혁오 (hyukoh)	위잉위잉
+75	브라운 아이드 소울 (Brown Eyed Soul)	HOME
+76	EXO	LOVE ME RIGHT
+77	송민호, 지코(ZICO)	Okey Dokey
+78	EXO	발자국 (On the snow)
+79	지아 (Zia)	가끔
+80	백아연	이럴거면 그러지말지 (Feat. 영현)
+81	지코 (ZICO)	오만과 편견 (Feat. 수란)
+82	솔지(EXID), 유재환, 정형돈	오늘은
+83	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quie...
+84	가인	Must Have Love (Feat. 에릭남)
+85	EXO	CALL ME BABY
+86	서인국, 빅스(VIXX), 박정아, 박윤하	사랑난로
+87	빈지노 (Beenzino)	Break
+88	엠씨더맥스 (M.C The Max)	그 남잔 말야
+89	지코 (ZICO)	날 (Feat. JTONG)
+90	지코 (ZICO)	VENI VIDI VICI (Feat. DJ Wegun)
+91	멜로디데이	비가 내리면 (Feat. 라비 of 빅스)
+92	40 (포티)	꿀
+93	레드벨벳(Red Velvet)	세가지 소원 (Wish Tree)
+94	예지 (피에스타)	미친개 (feat.San E)
+95	소녀시대	Lion Heart
+96	조권	Heaven
+97	이유 갓지(GOD G)않은이유(박명수, 아이유)	레옹
+98	Maroon 5	Sugar
+99	포스트맨 (Postmen)	서툰 고백
+100	린 (LYn)	그런 사람 (Woman Ver.)

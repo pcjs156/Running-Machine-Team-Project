@@ -1,0 +1,101 @@
+./data/2014년 27주차 차트.txt
+1	태양	눈, 코, 입
+2	산이(San E), 레이나	한여름밤의 꿀
+3	Maroon 5	Maps
+4	Gary (개리), 정인	사람냄새
+5	비스트 (Beast)	Good Luck
+6	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+7	AOA	단발머리 (Short Hair)
+8	산이 (San E)	나 왜이래
+9	다비치	헤어졌다 만났다
+10	신용재, 이해리	니가 빈 자리
+11	아이유 (IU)	너의 의미 (Feat. 김창완)
+12	다이나믹 듀오(Dynamic Duo)	Summer Time (자리비움)
+13	아이유 (IU)	나의 옛날 이야기
+14	범키	집이 돼줄게
+15	EXO-K	중독 (Overdose)
+16	정기고 (Junggigo)	너를 원해 (Feat. Beenzino)
+17	케이윌 (K.Will)	오늘부터 1일 (Day 1)
+18	비스트 (Beast)	이젠 아니야
+19	전효성	Good-night Kiss
+20	다비치	팔베개
+21	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+22	에이핑크 (Apink)	Mr. Chu (On Stage)
+23	박효신	야생화
+24	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+25	악동뮤지션 (AKMU)	200%
+26	신용재	사랑하는 그대여
+27	거미	사랑했으니..됐어
+28	크러쉬 (CRUSH)	Hug Me (Feat. Gaeko)
+29	손승연 &amp; 더 원 (The One)	바라만 보네요
+30	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+31	god	미운오리새끼
+32	에디킴	너 사용법
+33	태연 (TAEYEON)	사랑 그 한마디
+34	정키 (Jung Key)	내가 할 수 없는 말 (Feat. 나비)
+35	태양	Stay With Me (Feat. G-Dragon of Bigban...
+36	태양	새벽한시 (1AM)
+37	휘성	Night and Day
+38	아이유 (IU)	사랑이 지나가면
+39	악동뮤지션 (AKMU)	Give Love
+40	윤민수, 신용재	인연
+41	이선희	그 중에 그대를 만나
+42	백지영	여전히 뜨겁게
+43	오렌지 캬라멜 (Orange Caramel)	까탈레나 (Catallena)
+44	로꼬 (LOCO)	감아 (Feat. Crush)
+45	GOT7	A
+46	2NE1 (투애니 원)	Come Back Home
+47	매드 클라운 (Mad Clown)	견딜만해 (Feat. 효린)
+48	권진아	그대만 보여요
+49	인피니트 (Infinite)	Last Romeo
+50	AOA	짧은 치마 (Miniskirt)
+51	마마무 (Mamamoo)	Mr.애매모호
+52	유나킴	이젠 너 없이도 (Feat. 윤미래 & 타이거 JK & Bizzy)
+53	서인국	봄 타나봐 (BOMTANABA)
+54	임창정	흔한 노래
+55	David Guetta &amp; Showtek	Bad (Feat. Vassy) (Radio Edit)
+56	지연	1분 1초
+57	투빅 (2BiC)	요즘 바쁜가봐
+58	지나(G.NA)	예쁜 속옷
+59	배치기	뜨래요 (Feat. 앙리 Of 3B)
+60	15&amp; (박지민, 백예린)	티가 나나봐
+61	플라이 투 더 스카이 (Fly To The Sky)	전화하지 말아요
+62	성시경	너의 모든 순간
+63	2NE1 (투애니 원)	멘붕 (CL Solo)
+64	플라이 투 더 스카이 (Fly To The Sky)	니목소리
+65	2NE1 (투애니 원)	너 아님 안돼
+66	이승철	사랑하나 봐
+67	브로(Bro)	그런 남자
+68	투빅 (2BiC)	뒤로걷기
+69	포맨 (4Men)	지우고 싶다
+70	빅스 (VIXX)	기적 (ETERNITY)
+71	아이유 (IU)	삐에로는 우릴보고 웃지
+72	버벌진트 (Verbal Jint)	반도의흔한랩퍼 (Feat. San E & 스윙스)
+73	김보경, 펀치 (Punch)	지금 술 한잔 했어
+74	비스트 (Beast)	We Up
+75	40 (포티)	Black (Feat. 스윙스)
+76	김보경	너와 나를 기억해
+77	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+78	바닐라 어쿠스틱 (Vanilla Acoustic)	한 번쯤 니가 먼저
+79	Michael Jackson	Love Never Felt So Good
+80	걸스데이 (Girl`s Day)	Something
+81	2NE1 (투애니 원)	살아 봤으면 해
+82	언터쳐블 (Untouchable)	TAKE OUT (Feat. 메이슨 더 소울)
+83	크러쉬 (CRUSH)	가끔
+84	윤혁 (디셈버)	느닷없이 눈물이
+85	비스트 (Beast)	이 밤 너의 곁으로
+86	EXO	으르렁 (Growl)
+87	엠씨더맥스 (M.C The Max)	그대가 분다
+88	백지영	불꽃
+89	에일리 (Ailee)	하루하루
+90	팬텀 (Phantom)	오늘따라 (Feat. 가인)
+91	악동뮤지션 (AKMU)	얼음들
+92	Jeff Bernat	Call You Mine (Feat. Geologic)
+93	태양	아름다워 (Body)
+94	비스트 (Beast)	Sad Movie (Korean Ver.)
+95	아이유 (IU)	여름밤의 꿈
+96	정키 (Jung Key)	홀로 (Feat. 김나영)
+97	태양	이게 아닌데
+98	크레용팝(Crayon Pop)	헤이 미스터
+99	정준영	TEENAGER
+100	제이레빗 (J Rabbit)	Round & Round

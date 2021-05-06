@@ -1,0 +1,101 @@
+./data/2018년 5주차 차트.txt
+1	iKON	사랑을 했다 (LOVE SCENARIO)
+2	장덕철	그날처럼
+3	레드벨벳(Red Velvet)	Bad Boy
+4	선미	주인공
+5	볼빨간사춘기	#첫사랑
+6	수지	다른사람을 사랑하고 있어
+7	멜로망스(Melomance)	선물
+8	문문 (MoonMoon)	비행운
+9	Camila Cabello	Havana (Feat. Young Thug)
+10	DEAN	instagram
+11	청하	Roller Coaster
+12	김동률	답장
+13	TWICE	Heart Shaker
+14	모모랜드 (MOMOLAND)	뿜뿜
+15	펀치 (Punch)	밤이 되니까
+16	윤종신	좋니
+17	나얼	기억의 빈자리
+18	다비치	너 없는 시간들
+19	윤종신, 민서	좋아
+20	레드벨벳(Red Velvet)	피카부 (Peek-A-Boo)
+21	박원	all of my life
+22	TWICE	LIKEY
+23	방탄소년단	DNA
+24	길구봉구	이 별
+25	종현 (JONGHYUN)	Lonely (Feat. 태연)
+26	비투비 (BTOB)	그리워하다
+27	수지	HOLIDAY (Feat. DPR LIVE)
+28	아이유 (IU)	밤편지
+29	볼빨간사춘기	썸 탈꺼야
+30	어반 자카파 (Urban Zakapa)	그때의 나, 그때의 우리
+31	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+32	Wanna One (워너원)	Beautiful
+33	박효신	겨울소리
+34	Ed Sheeran	Shape of You
+35	선미	가시나
+36	에픽하이 (EPIK HIGH)	연애소설 (Feat. 아이유)
+37	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+38	오마이걸 (OH MY GIRL)	비밀정원
+39	EXO	Universe
+40	박원	노력
+41	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+42	Shawn Mendes	There`s Nothing Holdin` Me Back
+43	먼데이 키즈 (Monday Kiz)	가을 안부
+44	자이언티(Zion.T)	눈 (Feat. 이문세)
+45	허각	바보야
+46	Fitz &amp; The Tantrums	HandClap
+47	방탄소년단	봄날
+48	볼빨간사춘기	나의 사춘기에게
+49	BLACKPINK	마지막처럼
+50	임창정	그 사람을 아나요
+51	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+52	이하이	한숨
+53	멜로망스(MeloMance)	짙어져
+54	Wanna One (워너원)	에너제틱 (Energetic)
+55	EXID	덜덜덜
+56	WINNER	REALLY REALLY
+57	볼빨간사춘기	Blue
+58	인피니트 (Infinite)	Tell Me
+59	포맨 (4Men)	눈 떠보니 이별이더라
+60	양다일	미안해
+61	iKON	LONG TIME NO SEE
+62	종현 (JONGHYUN)	빛이 나 (Shinin`)
+63	황치열	매일 듣는 노래 (A Daily Song)
+64	방탄소년단	고민보다 Go
+65	EXO	Ko Ko Bop
+66	볼빨간 사춘기, 스무살	남이 될 수 있을까
+67	아이유 (IU)	팔레트 (Feat. G-DRAGON)
+68	소유, 성시경	뻔한 이별
+69	버즈 (Buzz)	사랑하지 않은 것처럼
+70	아이유 (IU)	가을 아침
+71	엠씨더맥스 (M.C The Max)	어디에도
+72	에픽하이 (EPIK HIGH)	빈차 (Feat. 오혁)
+73	The Chainsmokers	Closer (Feat. Halsey)
+74	방탄소년단	MIC Drop
+75	10cm	폰서트
+76	EXO	Power
+77	지아 (Zia)	바보에게 바보가
+78	JBJ	꽃이야
+79	멜로망스(MeloMance)	You
+80	길구봉구	바람이 불었으면 좋겠어
+81	헤이즈 (Heize)	널 너무 모르고
+82	볼빨간사춘기	처음부터 너와 나
+83	방탄소년단	피 땀 눈물
+84	iKON	BEAUTIFUL
+85	Wanna One (워너원)	갖고 싶어
+86	헤이즈 (Heize)	좋았을걸
+87	수란 (SURAN)	오늘 취하면 (Feat.창모) (Prod. SUGA)
+88	iKON	나쁜놈 (JERK)
+89	Ariana Grande	Santa Tell Me
+90	EXO	지나갈 테니 (Been Through)
+91	에픽하이 (EPIK HIGH)	노땡큐 (Feat. MINO, 사이먼 도미닉, 더콰이엇)
+92	구윤회	Marry Me
+93	The Chainsmokers, Coldplay	Something Just Like This
+94	블락비 (Block B)	떠나지마요
+95	EXO	Stay
+96	방탄소년단	Best Of Me
+97	폴킴	느낌
+98	윤건	우리 둘만 아는
+99	김동률	사랑한다 말해도 (Feat. 이소라)
+100	Justin Bieber	Love Yourself

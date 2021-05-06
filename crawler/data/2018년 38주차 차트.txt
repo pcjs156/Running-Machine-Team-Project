@@ -1,0 +1,101 @@
+./data/2018년 38주차 차트.txt
+1	펀치 (Punch)	헤어지는 중
+2	선미	사이렌 (Siren)
+3	로이킴	우리 그만하자
+4	숀 (SHAUN)	Way Back Home
+5	폴킴	모든 날, 모든 순간 (Every day, Every Moment)
+6	벤 (Ben)	열애중
+7	방탄소년단	IDOL
+8	임창정	하루도 그대를 사랑하지 않은 적이 없었다
+9	BLACKPINK	뚜두뚜두 (DDU-DU DDU-DU)
+10	레드벨벳(Red Velvet)	Power Up
+11	TWICE	Dance The Night Away
+12	마마무 (Mamamoo)	너나 해 (Egotistic)
+13	(여자)아이들	한(一)
+14	소녀시대-Oh!GG	몰랐니 (Lil’ Touch)
+15	볼빨간사춘기	여행
+16	닐로 (Nilo)	지나오다
+17	지코 (ZICO)	SoulMate (Feat. 아이유)
+18	10cm	매트리스
+19	에이핑크 (Apink)	1도 없어
+20	방탄소년단	FAKE LOVE
+21	방탄소년단	I`m Fine
+22	정승환	잘 지내요
+23	승리	셋 셀테니 (1, 2, 3!)
+24	BLACKPINK	Forever Young
+25	멜로망스(MeloMance)	동화
+26	기리보이, Kid Milli, NO:EL, 스윙스 (Swings)	flex (Prod. By 기리보이)
+27	로이킴	그때 헤어지면 돼
+28	김하온 (HAON)	NOAH (Feat. 박재범, Hoody)
+29	폴킴	비
+30	양다일	미안해
+31	방탄소년단	Euphoria
+32	로꼬, 화사	주지마
+33	백현 (BAEKHYUN), 로꼬	YOUNG
+34	iKON	사랑을 했다 (LOVE SCENARIO)
+35	청하	Love U
+36	iKON	죽겠다 (KILLING ME)
+37	장덕철	그날처럼
+38	비투비 (BTOB)	너 없인 안 된다
+39	멜로망스(MeloMance)	You
+40	먼데이 키즈 (Monday Kiz)	가을 안부
+41	로이킴	왜 몰랐을까
+42	아이유 (IU)	밤편지
+43	멜로망스(Melomance)	선물
+44	Fitz &amp; The Tantrums	HandClap
+45	Camila Cabello	Havana (Feat. Young Thug)
+46	방탄소년단	전하지 못한 진심 (Feat. Steve Aoki)
+47	닐로 (Nilo)	넋두리
+48	방탄소년단	봄날
+49	이수	My Way
+50	여자친구 (GFRIEND)	밤 (Time for the moon night)
+51	방탄소년단	DNA
+52	Ed Sheeran	Shape of You
+53	방탄소년단	Answer _ Love Myself
+54	모모랜드 (MOMOLAND)	BAAM
+55	모모랜드 (MOMOLAND)	뿜뿜
+56	멜로망스(MeloMance)	좋은 날
+57	마마무 (Mamamoo)	별이 빛나는 밤
+58	청하	Roller Coaster
+59	TWICE	What is Love?
+60	김하온 (HAON)	붕붕 (Feat. Sik-K) (Prod. GroovyRoom)
+61	용준형	소나기 (Feat. 10cm)
+62	바이브 (Vibe)	가을 타나 봐
+63	오마이걸 (OH MY GIRL)	불꽃놀이 (Remember Me)
+64	(여자)아이들	LATATA
+65	방탄소년단	Epiphany
+66	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+67	Imagine Dragons	Thunder
+68	모트 (Motte)	도망가지마
+69	비투비 (BTOB)	그리워하다
+70	Troye Sivan	Youth
+71	여자친구 (GFRIEND)	여름여름해 (Sunny Summer)
+72	길구봉구	이 별
+73	방탄소년단	Trivia 轉 _ Seesaw
+74	방탄소년단	Anpanman
+75	세븐틴	A-TEEN
+76	AOA	빙글뱅글 (Bingle Bangle)
+77	하은	열애중 (답가)
+78	저스디스 (JUSTHIS), Kid Milli, NO:EL, 영비 (Young B)	IndiGO
+79	빅뱅	꽃 길
+80	방탄소년단	Trivia 起 _ Just Dance
+81	Sia	Chandelier
+82	임한별	이별하러 가는 길
+83	빈첸 (VINXEN)	별 (Feat. 김종완 of 넬) (prod.BOYCOLD)
+84	Wanna One (워너원)	에너제틱 (Energetic)
+85	GOT7	Lullaby
+86	펀치 (Punch)	밤이 되니까
+87	레드벨벳(Red Velvet)	빨간 맛 (Red Flavor)
+88	에일리 (Ailee)	첫눈처럼 너에게 가겠다
+89	방탄소년단	Trivia 承 _ Love
+90	윤종신	좋니
+91	빈첸 (VINXEN)	유재석 (prod. 진대호)
+92	찬열, 세훈	We Young
+93	EXO	Universe
+94	BLACKPINK	마지막처럼
+95	방탄소년단	Airplane pt.2
+96	박재범	V
+97	국.슈 (국프의 핫이슈)	Rumor
+98	Wanna One (워너원)	켜줘 (Light)
+99	백지영	See You Again (Feat. 리처드 용재 오닐)
+100	세븐틴	어쩌나

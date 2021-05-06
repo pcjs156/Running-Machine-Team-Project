@@ -1,0 +1,101 @@
+./data/2013년 29주차 차트.txt
+1	다비치	오늘따라 보고싶어서 그래
+2	다이나믹 듀오 (Dynamic Duo)	Baaam (Feat. Muzie)
+3	2NE1 (투애니 원)	Falling In Love
+4	씨스타 (Sistar)	Give It To Me
+5	에이핑크 (Apink)	NoNoNo
+6	이승철	My Love
+7	김예림 (투개월)	All Right
+8	걸스데이 (Girl`s Day)	여자 대통령
+9	브라운 아이드 걸스	레시피
+10	로이킴	Love Love Love
+11	아웃사이더	슬피 우는 새 (Feat. 이수영)
+12	허각, 정은지 (에이핑크)	짧은머리
+13	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+14	포미닛 (4minute)	물 좋아?
+15	다이나믹 듀오 (Dynamic Duo)	쌔끈해 (Three Dopeboyz)
+16	씨스타 (Sistar)	넌 너무 야해 (The Way You Make Me Melt) (Fe...
+17	버벌진트 (Verbal Jint)	비범벅 (Feat. 범키)
+18	포맨 (4Men)	너 하나야
+19	긱스 (Geeks)	Fly
+20	다이나믹 듀오 (Dynamic Duo)	날개뼈 (Hot Wings)
+21	포미닛 (4Minute)	이름이 뭐예요?
+22	씨스타 (Sistar)	바빠 (Bad Boy)
+23	애프터스쿨 (After School)	첫사랑
+24	정엽	왜 이제야 왔니
+25	쥬얼리 (Jewelry)	핫 앤 콜드 (Hot ＆ Cold)
+26	써니힐 (Sunny Hill)	만인의 연인 (Feat. 하림)
+27	김용준 (SG 워너비), 이보람	우리가 사랑하는 방법
+28	존 박	Baby
+29	다이나믹 듀오 (Dynamic Duo)	거품 안 넘치게 따라줘 (Life Is Good)
+30	포맨 (4Men)	청혼하는 거예요
+31	다이나믹 듀오 (Dynamic Duo)	진격의 거인 둘 (Return Of The Kings)
+32	더 원 (The One)	잘 있나요
+33	아이비 (Ivy)	I Dance (Feat. 유빈)
+34	Dal★Shabet (달샤벳)	내 다리를 봐 (Be Ambitious)
+35	울랄라세션	한사람 (I`ll Be There)
+36	로이킴	봄봄봄
+37	에일리 (Ailee)	U & I
+38	마이네임 (Myname)	Baby I`m Sorry
+39	이효리	Bad Girls
+40	박재범	I Like 2 Party
+41	최진혁	잘 있나요 (Acoustic Ver.)
+42	김연지	두눈에. 두볼에. 가슴에 (In My Eyes)
+43	신승훈	너에겐 들리지 않는 그 말
+44	태연 (TAEYEON)	BYE
+45	비스트 (Beast)	괜찮겠니
+46	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+47	긱스 (Geeks)	Wash Away (Feat. 에일리)
+48	다이나믹 듀오 (Dynamic Duo)	만루홈런 (Lee Dae Ho)
+49	XIA(준수)	11시 그 적당함
+50	악동뮤지션 (AKMU)	콩떡빙수
+51	씨스타 (Sistar)	Crying
+52	시크릿 (Secret)	Yoo Hoo
+53	손승연	미친게 아니라구요 (Feat. MC 스나이퍼)
+54	백아연	a Good Boy
+55	나윤권	몇 날 며칠 (Countless Days)
+56	악동뮤지션 (AKMU)	I Love You
+57	바이브 (Vibe)	꼭 한번 만나고 싶다
+58	걸스데이 (Girl`s Day)	기대해
+59	이승철	사랑하고 싶은 날
+60	투빅 (2BiC)	회복이 급해 (Feat. 하림, 호투)
+61	헨리 (Henry)	Trap
+62	싸이 (Psy)	Gentleman
+63	다비치	녹는 중 (Feat. 버벌진트)
+64	지나(G.NA)	Love & Slow
+65	Jessica (제시카)	그대라는 한 사람
+66	레인보우 (Rainbow)	Sunshine
+67	비스트 (Beast)	I`m Sorry
+68	비원에이포 (B1A4)	이게 무슨 일이야
+69	창민 (2AM), 다희	한 사람만 보여요
+70	빈지노 (Beenzino)	Boogie On & On
+71	린 (LYn)	오늘 밤 (Feat. 배치기)
+72	정엽	향, 사랑을 부르다
+73	다비치	거북이
+74	바이브 (Vibe)	이 나이 먹도록
+75	투개월	Number 1
+76	DJ Gollum Vs. EmpyreOne	The Bad Touch (Gordon & Doyle Edit)
+77	에이핑크 (Apink)	U You
+78	김예림 (투개월)	컬러링
+79	수지 (미스에이)	나를 잊지말아요
+80	다이나믹 듀오 (Dynamic Duo)	Airplane Mode
+81	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+82	B.A.P	Coffee Shop
+83	이효리	미스코리아
+84	신용재	가수가 된 이유
+85	케이윌 (K.Will)	Love Blossom (러브블러썸)
+86	조용필	Bounce
+87	이승기	마지막 그 한마디
+88	윤하	우리가 헤어진 진짜 이유
+89	샤이니 (SHINee)	초록비 (Green Rain)
+90	다이나믹 듀오 (Dynamic Duo)	슛 골인 (Shoot - Goal In)
+91	박재범	좋아 (Joah)
+92	EXO	늑대와 미녀 (Wolf)
+93	소울스타 (Soul Star)	Call My Name
+94	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+95	린 (LYn)	유리 심장 (Feat. 용준형)
+96	리쌍	눈물 (Feat. 유진)
+97	넬 (Nell)	Ocean Of Light
+98	크레용팝 (Crayon Pop)	빠빠빠
+99	티아라 (T-ara)	진통제
+100	긱스 (Geeks), 소유	Officially Missing You, Too

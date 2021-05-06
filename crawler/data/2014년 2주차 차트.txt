@@ -1,0 +1,101 @@
+./data/2014년 2주차 차트.txt
+1	엠씨더맥스 (M.C The Max)	그대가 분다
+2	걸스데이 (Girl`s Day)	Something
+3	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+4	린 (LYn)	My Destiny
+5	에일리 (Ailee)	노래가 늘었어
+6	엠씨더맥스 (M.C The Max)	그때 우리
+7	브라운 아이드 소울 (Brown Eyed Soul)	너를
+8	빈지노 (Beenzino)	Dali, Van, Picasso
+9	엠씨더맥스 (M.C The Max)	백야
+10	동방신기	Something
+11	케이윌(K.will)	별처럼
+12	서인국, 지아 (Zia)	이별남녀
+13	휘성, 거미	Special Love
+14	성시경, 박효신, 서인국, 빅스 (VIXX), 여동생	겨울 고백
+15	휘성	가슴 시린 이야기 (Feat. 용준형)
+16	성시경	너에게
+17	효린	너 밖에 몰라 (One Way Love)
+18	범키, 버벌진트 (Verbal Jint)	너에게만
+19	지아 (Zia)	그런 줄 알았어
+20	엠씨더맥스 (M.C The Max)	입술의 말
+21	비 (Rain)	LA SONG
+22	2NE1 (투애니 원)	그리워해요
+23	EXO	12월의 기적 (Miracles in December)
+24	허각	향기만 남아
+25	에일리 (Ailee)	눈물이 맘을 훔쳐서
+26	miss A	Hush
+27	휘성	결혼까지 생각했어
+28	비 (Rain)	30 SEXY
+29	엠씨더맥스 (M.C The Max)	퇴근길
+30	바이브 (Vibe)	천국 (feat.이영현,신용재of포맨,임세준,원지of벨라포)
+31	다비치	편지
+32	엠씨더맥스 (M.C The Max)	하루만 빌려줘
+33	정우, 유연석, 손호준	너만을 느끼며
+34	김성균, 도희	운명
+35	김예림 (투개월)	행복한 나를
+36	산이 (San E)	이별식탁 (Feat. 산체스)
+37	EXO	으르렁 (Growl)
+38	소유 (SOYOU)	한번만
+39	어반 자카파 (Urban Zakapa)	코끝에 겨울
+40	트러블메이커 (Trouble Maker)	내일은 없어
+41	하이니 (Hi.ni)	가질 수 없는 너
+42	크레용팝 (Crayon Pop)	꾸리스마스
+43	디아 (DIA)	날 위한 이별
+44	더 씨야 (The Seeya), 손호준	하면 할수록
+45	엠씨더맥스 (M.C The Max)	빈자리
+46	임창정	그렇게 당해놓고 (Feat. 마부스 of 일렉트로보이즈)
+47	소유, 매드 클라운 (Mad Clown)	착해 빠졌어 (Stupid In Love)
+48	케이윌 (K.will), 전우성 (노을)	향수
+49	고아라	시작
+50	엠씨더맥스 (M.C The Max)	1월
+51	아이유 (IU)	분홍신
+52	알리 (ALi),임재범	I Love You
+53	박효신	It`s YOU
+54	T.O.P	DOOM DADA
+55	G-Dragon	삐딱하게 (Crooked)
+56	이예준	약속 (With 신용재)
+57	박지윤	미스터리 (Feat. San E)
+58	태양	링가 링가 (RINGA LINGA)
+59	이적	거짓말 거짓말 거짓말
+60	시크릿 (Secret)	I Do I Do
+61	박정현	마음으로만
+62	임창정	나란놈이란
+63	정키 (Jung Key)	홀로 (Feat. 김나영)
+64	노을	잊혀진다는 거
+65	버스커 버스커 (Busker Busker)	처음엔 사랑이란게
+66	노을	만약에 말야 (전우성 Solo)
+67	김범수	끝사랑
+68	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+69	엠씨더맥스 (M.C The Max)	내 이야기
+70	정준영	하루만
+71	Dal★Shabet (달샤벳)	B.B.B (Big Baby Baby)
+72	레이디스 코드 (Ladies` Code)	예뻐 예뻐
+73	산이 (San E)	어디서 잤어 (Feat. 버벌진트, 스윙스)
+74	노을	밤이 오는 거리 (Feat. 다이나믹 듀오)
+75	마마무 (Mamamoo), 범키	행복하지마
+76	휘성	With Me
+77	스윙스 (Swings)	불도저 (Bulldozer)
+78	케이윌 (K.will)	촌스럽게 왜 이래 (You Don`t Know Love)
+79	창민 (2AM)	Moment
+80	비원에이포 (B1A4)	그대와 함께
+81	효린	Lonely
+82	형용돈죵 (정형돈 &amp; G-DRAGON)	해볼라고
+83	나몰라패밀리N	어떻게 널 잊어 (Feat. 김송이)
+84	이해리	해바라기
+85	윤하	없어 (Feat. 이루펀트)
+86	엠씨더맥스 (M.C The Max)	다시, 노래...
+87	더 원(The One), 펀치(Punch)	아프다니까
+88	길구봉구	바람이 불었으면 좋겠어
+89	김경록	별일 아니야 (feat. P.O Of 블락비)
+90	라디 (Ra. D)	누군가 필요해 (Feat. BrotherSu)
+91	정준영	이별 10분 전
+92	윤미래 (T)	Touch Love
+93	루이	이 시간에 (Feat. 유성은, Young Luffy)
+94	티아라 (T-ara)	넘버나인 (No.9)
+95	Ylvis	The Fox
+96	성시경, 박효신, 이석훈, 서인국, 빅스 (VIXX)	크리스마스니까
+97	케이윌 (K.will)	눈사탕 (Snow Candy)
+98	윤하	없어 (Studio Live Ver.)
+99	EXO	첫 눈
+100	로이킴	서울 이곳은

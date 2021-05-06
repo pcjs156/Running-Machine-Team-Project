@@ -1,0 +1,101 @@
+./data/2010년 40주차 차트.txt
+1	2NE1 (투애니 원)	Go Away
+2	2NE1 (투애니 원)	Can`t Nobody
+3	임정희	헤어지러 가는 길 (Feat. 조권)
+4	2NE1 (투애니 원)	박수쳐
+5	이승기	지금부터 사랑해 (내 여자친구는 구미호 삽입곡)
+6	FTISLAND (FT 아일랜드)	사랑사랑사랑
+7	슈프림팀, 영준 (브라운 아이드 소울)	왜
+8	씨스타 (Sistar)	가식걸
+9	JYJ	찾았다
+10	휘성	결혼까지 생각했어
+11	2NE1 (투애니 원)	아파 (Slow)
+12	V.O.S	Full Story
+13	미스에스 (Miss $)	이 나이 먹고 뭐했길래 (Feat. 정슬기)
+14	레인보우 (Rainbow)	A
+15	비스트 (Beast)	주먹을 꽉 쥐고
+16	정엽	Love You (Feat. Piano by Eco Bridge)
+17	창민 (2AM), 이현 (에이트)	밥만 잘 먹더라
+18	포맨 (4Men)	U
+19	시크릿 (Secret)	Madonna
+20	miss A	Bad Girl Good Girl
+21	박효신	안녕 사랑아
+22	가비엔제이 (Gavy NJ)	그만하자
+23	오종혁	가슴이 뛰잖아
+24	2NE1 (투애니 원)	사랑은 아야야
+25	DJ DOC	나 이런사람이야
+26	2NE1 (투애니 원)	난 바빠
+27	이승기	정신이 나갔었나봐
+28	다비치	난 너에게
+29	나르샤	맘마미아 (with SunnyHill)
+30	보아 (BoA)	Hurricane Venus
+31	박효신	널 사랑한다
+32	지아 (Zia)	웃음만..
+33	이승철	그 사람
+34	브라운 아이드 소울 (Brown Eyed Soul)	그대
+35	MC몽	죽을 만큼 아파서 (Feat. 멜로우)
+36	태양	I`ll Be There (Kor.)
+37	샤이니 (SHINee)	Lucifer
+38	트랙스 (Trax)	오! 나의 여신님 (Oh! My Goddess)
+39	DJ DOC	부치지 못한 편지
+40	2AM	L.O.V.E
+41	다비치, 일렉트로보이즈	너를 그린다
+42	아이유 (IU), 슬옹 (2AM)	잔소리
+43	씨야 (SeeYa)	미쳤나봐
+44	세븐	Better Together
+45	산이 (San E)	맛좋은산 (Feat. Min)
+46	지나(G.NA)	꺼져 줄게 잘 살아 (Feat. 용준형)
+47	서인국	애기야 (My Baby U)
+48	XIA(준수)	Too Love
+49	세븐	Digital Bounce (Feat. T.O.P)
+50	장혜진	가려진 시간 사이로
+51	Maroon 5	Give A Little More
+52	이루 (Eru)	하얀 눈물
+53	보아 (BoA)	Copy & Paste
+54	Kelly Clarkson	Because Of You
+55	포미닛 (4minute)	I My Me Mine
+56	재중	너에겐 이별 나에겐 기다림
+57	MC 스나이퍼	하쿠나마타타
+58	이선희	여우비
+59	이적	빨래
+60	디셈버 (December)	혼자왔어요
+61	럼블피쉬	기분 좋은 말
+62	소유 (SOYOU)	사랑한다 말할까
+63	지나(G.NA)	키스해줄래
+64	슈프림팀 (Supreme Team)	땡땡땡
+65	박봄 (2NE1)	You And I
+66	서영은	혹시 돌아올까봐 (Feat. H-유진)
+67	Muse	Time Is Running Out
+68	포맨 (4Men)	Say I Love You
+69	Eminem	Love The Way You Lie (Feat. Rihanna)
+70	카라 (KARA)	2Me (투미)
+71	Ne-Yo	One In A Million
+72	루나 (f(x))	아름다운 날
+73	손담비	queen
+74	Usher	DJ Got Us Fallin` In Love (Feat. Pitbu...
+75	슈프림팀 (Supreme Team)	너 때문이야 (Feat. Soulman)
+76	KCM	3년이 지났어
+77	2PM	Nori For U
+78	나비 (Navi)	끝까지 들어
+79	린 (LYn)	둘이 하나 (Love Theme) (with 봉구 of 길구봉구)
+80	아이유 (IU)	여자라서
+81	BGM(Beauty Gorgeous Music)	고백할 때 이노래 꼭 불러주세요
+82	태양	I Need A Girl (Feat. G-dragon)
+83	유브이 (UV)	MOM (Feat. 여운자)
+84	손담비	dB Rider (New Ver.)
+85	오렌지 캬라멜 (Orange Caramel)	마법소녀 (魔法少女)
+86	아이유 (IU), 유승호	사랑을 믿어요
+87	채동하	하루가 미치고
+88	조권 (2AM)	고백하던 날
+89	엠블랙 지오 &amp; 낯선	O-IWI-O
+90	길미	미안해 사랑해서...(Feat. 케이윌)
+91	박재범 ＆ 용감한형제	울고 싶단 말야
+92	란 (Ran)	세상이 내게준 아름다운 선물 (Feat. 백찬 of 에이트)
+93	조성모	바람필래
+94	보아 (BoA)	GAME
+95	안진경	사랑이 딱해 (Feat. 비스트 이기광)
+96	DJ DOC	투게더
+97	나르샤	삐리빠빠
+98	노라조	내게도 사랑이 (꿀단지 `내게도 사랑이` 주제곡)
+99	먼데이 키즈 (Monday Kiz), V.O.S	미치겠다
+100	서승희 of 버블 시스터즈 &amp; 바비킴	True Colors

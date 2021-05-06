@@ -1,0 +1,101 @@
+./data/2014년 44주차 차트.txt
+1	에픽하이 (Epik High)	헤픈엔딩 (Feat. 조원선 of 롤러코스터)
+2	개코	화장 지웠어 (Feat. Zion.T, HA_TFELT) (No ma...
+3	비스트 (Beast)	12시 30분
+4	에픽하이 (Epik High)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO...
+5	악동뮤지션 (AKMU)	시간과 낙엽
+6	에일리 (Ailee)	손대지마
+7	에픽하이 (Epik High)	스포일러
+8	김동률	그게나야
+9	Adam Levine	Lost Stars
+10	소유, 권순일, 박용인	틈
+11	포스트맨 (Postmen)	신촌을 못가
+12	에픽하이 (Epik High)	또 싸워 (Feat. 윤하)
+13	에픽하이 (Epik High)	RICH (Feat. 태양)
+14	걸스데이 (Girl`s Day)	보고싶어
+15	로이킴	Home
+16	곽진언, 김필, 임도혁	당신만이
+17	아이유 (IU)	소격동
+18	에픽하이 (Epik High)	부르즈 할리파 (Feat. 얀키, 개코)
+19	윤미래 (T)	너를 사랑해
+20	어쿠스틱 콜라보	묘해, 너와
+21	곽진언, 김필	걱정말아요 그대
+22	서태지	Christmalo.win
+23	WINNER	공허해
+24	어쿠스틱 콜라보	너무 보고 싶어
+25	박보람	예뻐졌다 (feat. 지코 Of 블락비)
+26	god	바람
+27	에픽하이 (Epik High)	AMOR FATI (Feat. 김종완 of 넬)
+28	바비 (BOBBY)	연결고리#힙합
+29	아이언	독기
+30	Adam Levine	No One Else Like You
+31	박효신	야생화
+32	에픽하이 (Epik High)	막을 올리며
+33	에픽하이 (Epik High)	EYES NOSE LIPS (Feat. 태양)
+34	에픽하이 (Epik High)	LIFE IS GOOD (Feat. 박재범)
+35	산이(San E), 레이나	한여름밤의 꿀
+36	에픽하이 (Epik High)	신발장 (Feat. MYK)
+37	김동률	내 사람
+38	비스트 (Beast)	Drive
+39	송지은	예쁜 나이 25살
+40	에픽하이 (Epik High)	LESSON 5 (타임라인)
+41	김태우	너 하나만
+42	WINNER	끼부리지마
+43	아이유 (IU)	너의 의미 (Feat. 김창완)
+44	거미	갈 곳이 없어
+45	윤민수, 신용재	제발
+46	씨스타 (Sistar)	I Swear
+47	빅스 (VIXX)	Error
+48	블락비 (Block B)	HER
+49	바비 (BOBBY)	가드올리고 Bounce
+50	NS Yoon-G, 기리보이(Giriboy)	설렘주의
+51	태양	눈, 코, 입
+52	Keira Knightley	Tell Me If You Wanna Go Home
+53	비스트 (Beast)	눈을 감아도
+54	서태지	소격동
+55	이적	거짓말 거짓말 거짓말
+56	씨스타 (Sistar)	Touch my body
+57	소녀시대-태티서(Girls` Generation-TTS)	Holler
+58	윤하	내 마음이 뭐가 돼
+59	비스트 (Beast)	좋은 일이야
+60	김필	얼음요새
+61	Keira Knightley	A Step You Can`t Take Back
+62	서인영	생각나 (Feat. Zion.T)
+63	허각	DAY N NIGHT (Feat. SIMON Dominic)
+64	다비치	괜찮아 사랑이야
+65	걸스데이(Girl`s Day)	Darling
+66	레이디스 코드 (Ladies` Code)	I`m Fine Thank You
+67	Keira Knightley	Lost Stars
+68	Adam Levine	A Higher Place
+69	자이언티(Zion.T)	양화대교
+70	김동률	고백
+71	Maroon 5	Maps
+72	울랄라세션, 아이유(IU)	애타는 마음
+73	김동률	청춘 (Feat. 이상순)
+74	이선희	그 중에 그대를 만나
+75	스윙스(Swings), 에일리	A Real Man
+76	비스트 (Beast)	가까이 (Stay)
+77	바비 (BOBBY)	L4L (Lookin` For Luv) (Feat. Dok2 & Th...
+78	산이 (San E)	Body Language (Feat. 범키)
+79	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+80	Keira Knightley	Coming Up Roses
+81	Keira Knightley	Like A Fool
+82	김동률	동행
+83	레이나	장난인거 알아 (Feat. 칸토 Of 트로이)
+84	AOA	단발머리 (Short Hair)
+85	임도혁, 장우람	야생화
+86	에디킴	너 사용법
+87	에일리 (Ailee)	잠시 안녕처럼
+88	비스트 (Beast)	So Hot
+89	크러쉬 (CRUSH)	잠 못드는 밤 (feat. 펀치(Punch))
+90	틴 탑 (Teen Top)	쉽지않아 (Missing)
+91	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+92	박정현	달아요 (Brand New Mix) (Feat. 버벌진트)
+93	첸 (CHEN)	최고의 행운
+94	개코	장미꽃 (Rose)
+95	B.I (비아이)	BE I
+96	Gary (개리), 정인	사람냄새
+97	울랄라세션	Love Fiction
+98	개코	휑하다 (feat.Ailee) (Hueng hai)
+99	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+100	휘성, 긱스(Geeks)	친구로 남아줄게

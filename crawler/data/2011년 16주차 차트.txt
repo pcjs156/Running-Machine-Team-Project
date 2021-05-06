@@ -1,0 +1,101 @@
+./data/2011년 16주차 차트.txt
+1	김범수	제발
+2	씨엔블루 (CNBLUE)	직감
+3	걸스데이 (Girl`s Day)	반짝반짝
+4	양파	아파 아이야
+5	오렌지 캬라멜 (Orange Caramel)	방콕시티 (Bangkok City)
+6	케이윌 (K.Will)	가슴이 뛴다
+7	송지은	미친거니 (Feat. 방용국)
+8	휘성	가슴 시린 이야기 (Feat. 용준형)
+9	김태우	메아리
+10	포미닛 (4minute)	Heart To Heart
+11	빅뱅	Tonight
+12	서인국	Broken
+13	이현 (에이트)	내꺼중에 최고
+14	김건모	You Are My Lady
+15	유브이 (UV)	이태원 프리덤 (With JYP)
+16	윤도현	나 항상 그대를 (With YB)
+17	아이유 (IU)	나만 몰랐던 이야기
+18	윤도현	Dash (With YB)
+19	백지영	약속
+20	빅뱅	Cafe
+21	마이티 마우스 (Mighty Mouth)	톡톡 (Tok Tok) (Feat. Soya)
+22	정엽	아무일도 없었다
+23	지나(G.NA)	Black & White
+24	김태우	Brothers＆Me (With JYP & Rain)
+25	빅뱅	What Is Right
+26	포미닛 (4minute)	거울아 거울아
+27	박정현	첫인상
+28	간미연	파파라치 (Feat. 에릭)
+29	정엽	잊을게
+30	아이유 (IU)	좋은 날
+31	유키스 (U-Kiss)	0330
+32	이소라	바람이 분다
+33	클로버 (Clover)	La Vida Loca
+34	인피니트 (Infinite)	Nothing`s Over
+35	장재인	그 곳
+36	박정현	비오는 날의 수채화
+37	레인보우 (Rainbow)	To Me (내게로..)
+38	김범수	그대 모습은 장미
+39	빅뱅	LOVE SONG
+40	나비 (Navi)	잘 된 일이야
+41	김그림	너 밖엔 없더라
+42	먼데이키즈, 가비엔제이	사랑은 똑같다
+43	이소라	나의 하루
+44	이소라	너에게로 또 다시
+45	나르샤	아는 여자
+46	백지영	무시로
+47	정엽	짝사랑
+48	시크릿 (Secret)	샤이보이 (Shy Boy)
+49	Shirley Horn	Wouldn`t It Be Loverly?
+50	현빈	가질 수 없는 너
+51	먼데이 키즈 (Monday Kiz)	이 밤이 지나면
+52	김보경	하루하루
+53	요조 with 소규모아카시아밴드	그런지 카
+54	정인	장마
+55	5dolls	너 말이야
+56	김재석 (원티드)	2년만에
+57	김수현	Dreaming
+58	한경일	너는 간단하고 나는 복잡한 얘기
+59	브라이언 (Brian)	사랑하다 끝났어
+60	니모 (Nemo)	통보
+61	거북이	아이고
+62	박정현	꿈에
+63	다비치	한사람
+64	빅뱅	STUPID LIAR
+65	Britney Spears	I Wanna Go
+66	부활	누구나 사랑을 한다 (With. 정단 박완규 이성욱)
+67	부활	그때가 지금이라면
+68	DJ DOC	Joy & Pain (Feat. 김준)
+69	엠투엠 (M To M)	이런 쓰레기 같은...
+70	씨엔블루 (CNBLUE)	LOVE GIRL
+71	정용화(Jung Yong Hwa)	처음 사랑하는 연인들을 위해 (반말송)
+72	2AM	최고의 사랑 (最愛 / Saiai) (후쿠야마 마사하루 리메이크 / ...
+73	부활	비밀 (Special Vocal. 박완규)
+74	빅뱅	Somebody To Love
+75	Dal★Shabet (달샤벳)	Supa Dupa Diva
+76	동방신기	이것만은 알고 가 (Before U Go)
+77	화요비	이러다가 (Feat. PANDA) (Rap Ver.)
+78	GD, TOP  (빅뱅)	Oh Yeah (Feat. 박봄)
+79	빅뱅	Hands Up
+80	아이유 (IU)	Someday
+81	SG 워너비	고작
+82	박정민	눈물이 흐를 만큼...
+83	제이세라 (J-Cera)	언제나 사랑해
+84	임정희	시간을 되돌린다면
+85	씨엔블루 (CNBLUE)	상상 (Imagine)
+86	GD, TOP  (빅뱅)	High High
+87	김보경	봄처럼
+88	거미	기다리고 싶어
+89	토니안	Thank U (Feat. Simon.D)
+90	윤하	It`s Beautiful
+91	아이유 (IU)	잔혹동화
+92	토니안	Top Star
+93	미지 (MIJI), 김진호	Unbelievable
+94	브레이브걸스 (Brave Girls)	아나요
+95	김현정	1분 1초
+96	제국의아이들 (ZE:A)	Here I Am
+97	Yolanda Be Cool &amp; DCup	We No Speak Americano (Radio Edit)
+98	창민, 진운 (2AM)	사랑하면 안될까
+99	가희	돌아와 나쁜 너
+100	Lady GaGa	Born This Way

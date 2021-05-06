@@ -1,0 +1,101 @@
+./data/2013년 35주차 차트.txt
+1	범키	갖고놀래 (Feat. 다이나믹 듀오)
+2	산이 (San E)	아는사람 얘기
+3	크레용팝 (Crayon Pop)	빠빠빠
+4	EXO	으르렁 (Growl)
+5	f(x)	첫 사랑니 (Rum Pum Pum Pum)
+6	허각	넌 내꺼라는걸 (Feat. 스윙스)
+7	에이핑크 (Apink)	NoNoNo
+8	에일리 (Ailee)	U & I
+9	2NE1 (투애니 원)	Do You Love Me
+10	비스트 (Beast)	Shadow (그림자)
+11	브라운 아이드 걸스	Kill Bill
+12	이승철	My Love
+13	임정희	Luv is
+14	효린	미치게 만들어
+15	다비치	오늘따라 보고싶어서 그래
+16	유성은	Be OK (Feat. 배치기)
+17	승리	할말 있어요 (Gotta Talk To U)
+18	다이나믹 듀오 (Dynamic Duo)	Baaam (Feat. Muzie)
+19	씨스타 (Sistar)	Give It To Me
+20	거미	낮과 밤
+21	투빅 (2BiC)	사랑하고 있습니다
+22	스윙스 (Swings)	A Real Lady (Feat. Beenzino, Gray & Zi...
+23	범키	미친연애 (Bad Girl) (Feat. E-Sens)
+24	2NE1 (투애니 원)	Falling In Love
+25	포맨 (4Men)	사랑해 사랑해 사랑해
+26	허각, 정은지 (에이핑크)	짧은머리
+27	강승윤	맘도둑
+28	걸스데이 (Girl`s Day)	여자 대통령
+29	강승윤	비가 온다
+30	인피니트 (Infinite)	Destiny
+31	한경일	내 삶의 반
+32	송희진	기억속의 먼 그대에게
+33	김예림 (투개월)	All Right
+34	카라 (KARA)	둘 중에 하나 (Runaway)
+35	홍대광	너와 나
+36	유브이 (UV)	설마 아닐거야
+37	걸스데이 (Girl`s Day)	말해줘요
+38	씨스타 (Sistar)	넌 너무 야해 (The Way You Make Me Melt) (Fe...
+39	샤이니 (SHINee)	너와 나의 거리 (Selene 6.23)
+40	아웃사이더	슬피 우는 새 (Feat. 이수영)
+41	정엽	왜 이제야 왔니
+42	다이나믹 듀오 (Dynamic Duo)	날개뼈 (Hot Wings)
+43	버벌진트 (Verbal Jint)	비범벅 (Feat. 범키)
+44	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+45	제국의아이들 (ZE:A)	바람의 유령
+46	포맨 (4Men)	너 하나야
+47	팬텀 (Phantom)	다알아
+48	긱스 (Geeks)	Fly
+49	포미닛 (4Minute)	이름이 뭐예요?
+50	브라운 아이드 걸스	레시피
+51	승리	Let`s Talk About Love (Feat. G-Dragon ...
+52	이적	그땐 미처 알지 못했지
+53	쥬얼리 (Jewelry)	핫 앤 콜드 (Hot ＆ Cold)
+54	다이나믹 듀오 (Dynamic Duo)	쌔끈해 (Three Dopeboyz)
+55	DJ Gollum Vs. EmpyreOne	The Bad Touch (Gordon & Doyle Edit)
+56	제이워크 (J-Walk)	프라프치노 (Feat. 팀버)
+57	포미닛 (4minute)	물 좋아?
+58	포맨 (4Men)	청혼하는 거예요
+59	손승연	미친게 아니라구요 (Feat. MC 스나이퍼)
+60	승리	GG Be (지지베) (Feat. Jennie Kim)
+61	이적	그땐 미처 알지 못했지
+62	레이디스 코드 (Ladies` Code)	Hate You
+63	로이킴	Love Love Love
+64	AOA	MOYA (모야)
+65	씨스타 (Sistar)	바빠 (Bad Boy)
+66	빅스 (VIXX)	대.다.나.다.너
+67	유승우	니가 오는 날
+68	빈지노 (Beenzino)	Boogie On & On
+69	메이비 (Maybee)	잘 지내니 (Feat. 넋업샨)
+70	티아라, 다비치	비키니
+71	더 원 (The One)	잘 있나요
+72	미스터 파파	Papa Don`t Cry
+73	미스에스 (Miss $)	니가 아니었기를 (Narr. 버벌진트)
+74	f(x)	Goodbye Summer (f(Amber+Luna+Krystal))
+75	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+76	로이킴	봄봄봄
+77	소진 (걸스데이)	여름안에서
+78	씨스타 (Sistar)	Crying
+79	수호	장난 아니야 (Feat. 김태우 & Narr. 이다해)
+80	신용재	가수가 된 이유
+81	허니지	그대
+82	긱스 (Geeks)	Wash Away (Feat. 에일리)
+83	다이나믹 듀오 (Dynamic Duo)	거품 안 넘치게 따라줘 (Life Is Good)
+84	써니힐 (Sunny Hill)	만인의 연인 (Feat. 하림)
+85	애프터스쿨 (After School)	첫사랑
+86	f(x)	미행 (그림자 _ Shadow)
+87	코요태(KYT)	Hollywood (Feat. 정준하)
+88	허니지	바보야
+89	긱스 (Geeks), 소유	Officially Missing You, Too
+90	노을	눈물이 흐른다
+91	다비치	녹는 중 (Feat. 버벌진트)
+92	바이브 (Vibe)	꼭 한번 만나고 싶다
+93	신지수, 마이노스 (Minos)	운동화 사줄께
+94	민연재	그사람 사랑하지마 (Feat. 윤민수)
+95	마이키	Loving You (R&B Ver.)
+96	쿨 (Cool)	이별 앞에 서다
+97	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+98	Lady GaGa	Applause
+99	이영현 (빅마마)	미라클
+100	에일리 (Ailee)	No No No

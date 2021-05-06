@@ -1,0 +1,101 @@
+./data/2014년 29주차 차트.txt
+1	태양	눈, 코, 입
+2	산이(San E), 레이나	한여름밤의 꿀
+3	윤하	우산
+4	god	하늘색 약속
+5	케이윌 (K.Will)	오늘부터 1일 (Day 1)
+6	허각, 정은지	이제 그만 싸우자
+7	AOA	단발머리 (Short Hair)
+8	f(x)	Red Light
+9	Maroon 5	Maps
+10	Gary (개리), 정인	사람냄새
+11	울랄라세션, 아이유(IU)	애타는 마음
+12	비스트 (Beast)	Good Luck
+13	아이유 (IU)	너의 의미 (Feat. 김창완)
+14	산이 (San E)	나 왜이래
+15	god	우리가 사는 이야기 (Feat. 메건리)
+16	플라이 투 더 스카이 (Fly To The Sky)	너를 너를 너를
+17	브로(Bro)	고백했는데
+18	다비치	헤어졌다 만났다
+19	아이유 (IU)	나의 옛날 이야기
+20	신용재, 이해리	니가 빈 자리
+21	다비치	움직이지마
+22	EXO-K	중독 (Overdose)
+23	정기고 (Junggigo)	너를 원해 (Feat. Beenzino)
+24	god	노래 불러줘요 (Feat. 아이유)
+25	다이나믹 듀오(Dynamic Duo)	Summer Time (자리비움)
+26	박효신	야생화
+27	소유, 정기고	썸 (Feat. 릴보이 Of 긱스)
+28	에이핑크 (Apink)	Mr. Chu (On Stage)
+29	HIGH4, 아이유 (IU)	봄 사랑 벚꽃 말고
+30	f(x)	MILK
+31	god	Saturday Night
+32	전효성	Good-night Kiss
+33	마마무 (Mamamoo)	Mr.애매모호
+34	범키	집이 돼줄게
+35	god	보통날 (Original Ver.)
+36	아이유 (IU)	금요일에 만나요 (Feat. 장이정)
+37	악동뮤지션 (AKMU)	200%
+38	비스트 (Beast)	이젠 아니야
+39	효민	Nice Body (With 로꼬)
+40	에디킴	너 사용법
+41	신용재	사랑하는 그대여
+42	크러쉬 (CRUSH)	Hug Me (Feat. Gaeko)
+43	f(x)	All Night
+44	다비치	팔베개
+45	거미	사랑했으니..됐어
+46	에일리, 2LSON	I`m in love
+47	정키 (Jung Key)	내가 할 수 없는 말 (Feat. 나비)
+48	로꼬 (LOCO)	감아 (Feat. Crush)
+49	윤민수, 신용재	인연
+50	태연 (TAEYEON)	사랑 그 한마디
+51	이선희	그 중에 그대를 만나
+52	AOA	짧은 치마 (Miniskirt)
+53	악동뮤지션 (AKMU)	Give Love
+54	아이유 (IU)	사랑이 지나가면
+55	휘성	Night and Day
+56	god	미운오리새끼
+57	버벌진트 (Verbal Jint)	반도의흔한랩퍼 (Feat. San E & 스윙스)
+58	god	Stand Up
+59	god	Smile
+60	오렌지 캬라멜 (Orange Caramel)	까탈레나 (Catallena)
+61	손승연 &amp; 더 원 (The One)	바라만 보네요
+62	GOT7	A
+63	태양	새벽한시 (1AM)
+64	태양	Stay With Me (Feat. G-Dragon of Bigban...
+65	David Guetta &amp; Showtek	Bad (Feat. Vassy) (Radio Edit)
+66	클래지콰이	Love Satellite
+67	god	난 좋아
+68	매드 클라운 (Mad Clown)	견딜만해 (Feat. 효린)
+69	2NE1 (투애니 원)	Come Back Home
+70	투빅 (2BiC)	요즘 바쁜가봐
+71	임창정	흔한 노래
+72	백지영	여전히 뜨겁게
+73	타이니지(TINY-G)	ICE BABY
+74	god	신사의 품격 (G`swag)
+75	유나킴	이젠 너 없이도 (Feat. 윤미래 & 타이거 JK & Bizzy)
+76	성시경	너의 모든 순간
+77	브로(Bro)	그런 남자
+78	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+79	배치기	뜨래요 (Feat. 앙리 Of 3B)
+80	2NE1 (투애니 원)	멘붕 (CL Solo)
+81	투빅 (2BiC)	뒤로걷기
+82	서인국	봄 타나봐 (BOMTANABA)
+83	유승우	밤이 아까워서
+84	인피니트 (Infinite)	Last Romeo
+85	2NE1 (투애니 원)	너 아님 안돼
+86	god	5+4+1+5=15
+87	라디(Ra. D)	Fly Away
+88	에픽하이 (Epik High)	우산 (Feat. 윤하)
+89	Jeff Bernat	Call You Mine (Feat. Geologic)
+90	김나영	가끔 내가
+91	f(x)	나비 (Butterfly)
+92	지연	1분 1초
+93	거미 &amp; 환희	별이 진다네
+94	지나(G.NA)	예쁜 속옷
+95	2NE1 (투애니 원)	살아 봤으면 해
+96	걸스데이 (Girl`s Day)	Something
+97	15&amp; (박지민, 백예린)	티가 나나봐
+98	크러쉬 (CRUSH)	가끔
+99	플라이 투 더 스카이 (Fly To The Sky)	니목소리
+100	피에스타	하나 더 (One More)

@@ -1,0 +1,101 @@
+./data/2010년 23주차 차트.txt
+1	원더걸스 (Wonder Girls)	2 Different Tears
+2	다비치	시간아 멈춰라
+3	포미닛 (4minute)	HUH
+4	씨엔블루 (CNBLUE)	Love
+5	f(x)	NU 예삐오 (NU ABO)
+6	슈퍼주니어 (Super Junior)	미인아 (BONAMANA)
+7	엠블랙 (MBLAQ)	Y
+8	뜨거운 감자	고백
+9	바이브 (Vibe)	다시 와주라
+10	서인국	사랑해 U
+11	디셈버 (December)	별이될께
+12	에이트 (8eight)	이별이 온다
+13	2PM	Without U
+14	먼데이 키즈 (Monday Kiz)	흩어져
+15	브라운 아이드 소울 (Brown Eyed Soul)	Love Ballad
+16	서영은, 정엽	이 거지같은 말
+17	씨엔블루 (CNBLUE)	사랑 빛
+18	거미	남자라서
+19	SS501	Love Ya
+20	시크릿 (Secret)	Magic
+21	린 (LYn)	자기야 여보야 사랑아
+22	케이윌, 미료	버스가 떠난 뒤에
+23	이효리	Chitty Chitty Bang Bang (Feat. Ceejay ...
+24	먼데이 키즈 (Monday Kiz)	가지마
+25	다비치	사랑을 못해 이별을 못해
+26	비 (Rain)	Hip Song
+27	비 (Rain)	널 붙잡을 노래
+28	예성 (YESUNG)	너 아니면 안돼
+29	엠투엠 (M To M)	기념사진
+30	애프터스쿨 (After School)	뱅 (Bang) !
+31	거미	사랑은 없다
+32	길미	사랑은 전쟁이다 (Feat. 아웃사이더)
+33	SG워너비 &amp; 옥주현	페이지원 (Part 1)
+34	서인영	잘가요 로맨스
+35	소녀시대	Run Devil Run
+36	소녀시대 ＆ 2PM	Cabi Song
+37	하하	술병 (with 타이거JK)
+38	2AM	바보처럼
+39	티아라 (T-ara)	너 때문에 미쳐
+40	2AM	잘못했어
+41	정엽	가시꽃
+42	씨야 (SeeYa)	가슴이 뭉클
+43	이석훈	그대를 사랑하는 10가지 이유
+44	비스트 (Beast)	Shock
+45	브라운 아이드 소울 (Brown Eyed Soul)	비켜줄께
+46	디셈버 (December)	배운게 사랑이라
+47	화요비	Bye Bye Bye
+48	디셈버 (December)	Once Upon A Time
+49	박혜경	새 남자친구
+50	MC 몽 &amp; 서인영	Bubble Love
+51	포맨 (4Men)	못해 (Feat. 美)
+52	이석훈	정거장
+53	바이브 (Vibe)	미친거니
+54	2AM	No.1 (남아공 월드컵 공식 주제가)
+55	거미	Because Of You
+56	카라 (KARA)	루팡 (Lupin)
+57	먼데이 키즈 (Monday Kiz)	Goodbye My Princess
+58	B.O.B	Nothin` On You (Feat. Bruno Mars)
+59	럼블피쉬	1초 2초
+60	티아라 (T-ara)	내가 너무 아파
+61	제아, 미료 (브라운 아이드 걸스)	Love Is...
+62	정슬기	결국 제자리
+63	씨엔블루 (CNBLUE)	Sweet Holiday
+64	윤하	말도 안돼 (개인의 취향 OST)
+65	다비치	떠나지마 (Feat. 백찬)
+66	애프터스쿨 (After School)	Dreams Again!
+67	카라 (KARA)	We`re With You
+68	임재범	사랑에 아파한 날들 (Duet. 윤하)
+69	이비아 (e-via)	쉐이크 (Shake)!
+70	바이브 (Vibe)	별이 빛나는 밤에
+71	환희 &amp; 숙희	바보가슴
+72	케이윌 (K.Will)	선물 (Feat.은지원)
+73	바이브 (Vibe)	좋은 오빠 동생으로만
+74	BMK	일어나
+75	럼블피쉬	어쩌지
+76	마이티마우스 &amp; 백지영	사랑이올까요
+77	이정현	수상한 남자
+78	바비 킴 (Bobby Kim)	남자답게
+79	장근석, 효린	매직드래그 (Magic Drag)
+80	비스트 (Beast)	Special
+81	보람 (씨야), 효민, 지연 (티아라)	우유보다 커피
+82	Eminem	Not Afraid
+83	길학미	Super Soul
+84	Ke$ha	Tik Tok
+85	빅뱅, 트랜스픽션	승리의 함성 (The Shouts Of Reds Part 2) (Fe...
+86	주 (Joo)	뒤돌아봐
+87	먼데이 키즈 (Monday Kiz)	왜..하필
+88	소야앤썬 (Soya n` sun)	웃으며 안녕
+89	Verandah Project	Bike Riding
+90	소녀시대	Oh!
+91	이승환	반의 반
+92	아웃사이더	주변인
+93	지아 (Zia)	나쁜 버릇
+94	비스트 (Beast)	Easy (Sincere Ver.)
+95	이승기	사랑이 술을 가르쳐 (Feat. 백찬)
+96	가비엔제이 (Gavy NJ)	아무도 모르죠
+97	Ab에비뉴	너뿐이야
+98	Stay (심태윤)	Your Name Is Love
+99	양정승 (Kiroy Y), KCM &amp; No Noo	밤하늘의 별을..
+100	알리 (ALi)	Hey 미스터

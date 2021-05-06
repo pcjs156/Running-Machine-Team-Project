@@ -1,0 +1,101 @@
+./data/2013년 16주차 차트.txt
+1	케이윌 (K.Will)	Love Blossom (러브블러썸)
+2	다비치	녹는 중 (Feat. 버벌진트)
+3	긱스 (Geeks)	어때 (Feat. 하림)
+4	악동뮤지션 (AKMU)	외국인의 고백
+5	버스커 버스커 (Busker Busker)	벚꽃 엔딩
+6	15&amp; (박지민, 백예린)	Somebody
+7	이하이	Rose
+8	다비치	거북이
+9	싸이 (Psy)	Gentleman
+10	악동뮤지션 (AKMU)	Crescendo (크레셴도)
+11	홍대광	굿바이
+12	태연 (TAEYEON)	그리고 하나
+13	거미	눈꽃
+14	걸스데이 (Girl`s Day)	기대해
+15	써니힐 (Sunny Hill), 데이브레이크 (Daybreak)	들었다 놨다 (Love Actually)
+16	자이언티(Zion.T)	Babay (Feat. Gaeko)
+17	다비치	둘이서 한잔해
+18	배치기, 신보라	사랑하니까
+19	더 원 (The One)	겨울사랑
+20	슈프림팀 (Supreme Team)	그대로 있어도 돼 (Feat. Crush)
+21	2AM	어느 봄날
+22	인피니트 (Infinite)	Man In Love (남자가 사랑할때)
+23	린 (LYn)	오늘 밤 (Feat. 배치기)
+24	씨스타19	있다 없으니까 (Gone Not Around Any Longer)
+25	허각, 유승우	모노드라마
+26	리쌍	눈물 (Feat. 유진)
+27	가인, 조형우	Brunch
+28	일렉트로보이즈 (Electroboyz)	Ma Boy 3 (Feat. 나나 Of 오렌지캬라멜)
+29	이하이	It`s Over
+30	배치기	눈물샤워 (Feat. 에일리)
+31	악동뮤지션 (AKMU)	사랑은 은하수 다방에서
+32	서인국	웃다 울다
+33	틴 탑 (Teen Top)	긴 생머리 그녀 (Miss Right)
+34	윤하	아니야
+35	악동뮤지션 (AKMU)	Officially Missing You
+36	버벌진트 (Verbal Jint)	이게 사랑이 아니면 (Feat. 에일리)
+37	알리 (ALi)	그땐 그랬지
+38	다비치	모르시나요
+39	허각	1440
+40	샤이니 (SHINee)	Dream Girl
+41	라디 (Ra. D)	고마워 고마워
+42	지나(G.NA)	Oops! (Feat. 정일훈 (BTOB))
+43	김진표	너는 나를 (Feat. 조현아)
+44	레인보우 (Rainbow)	Tell Me Tell Me
+45	임재범	비가
+46	포맨 (4Men)	안녕 나야
+47	긱스 (Geeks), 소유	Officially Missing You, Too
+48	악동뮤지션 (AKMU)	라면인건가
+49	백지영	아카시아
+50	레이디스 코드 (Ladies` Code)	나쁜여자
+51	박재범	좋아 (Joah)
+52	신용재	가수가 된 이유
+53	케이윌 (K.Will)	Lay Back
+54	알리 (ALi)	지우개
+55	프라이머리 (Primary)	? (물음표) (Feat. 최자, Zion.T)
+56	팬텀(Phantom)	몸만와 (With 버벌진트)
+57	버스커 버스커 (Busker Busker)	여수 밤바다
+58	프라이머리 (Primary)	자니 (Feat. DYNAMICDUO)
+59	이상곤	사랑이 아프다
+60	버스커 버스커 (Busker Busker)	첫사랑
+61	Carly Rae Jepsen	Call Me Maybe
+62	윤성기, 조재일	말하는 대로
+63	버스커 버스커 (Busker Busker)	정말로 사랑한다면
+64	백아연	사랑학개론
+65	에일리 (Ailee)	얼음꽃
+66	자이언티(Zion.T)	She (Feat. Beenzino)
+67	서인국	너 땜에 못살아 (Feat. 버벌진트)
+68	나얼	바람기억
+69	씨엔블루 (CNBLUE)	I’m Sorry
+70	40 (포티)	봄을 노래하다
+71	자이언티(Zion.T)	뻔한 멜로디 (Feat. Crush)
+72	노을	어떤가요
+73	김보경	혼자라고 생각말기
+74	최자	없어
+75	소녀시대	I Got A Boy
+76	포맨 (4Men)	My Angel (Feat. 윤후)
+77	이승기	되돌리다
+78	라디 (Ra. D)	오랜만이죠 (Feat. 신지수)
+79	긱스 (Geeks)	Officially Missing You
+80	악동뮤지션 (AKMU)	매력있어
+81	노을	하지 못한 말
+82	프라이머리 (Primary)	씨스루 (Feat. Zion.T, 개코)
+83	정인	그 뻔한 말
+84	서인영	너는 사랑이다
+85	투빅 (2BiC)	Bye Bye Love
+86	윤하	멀리서 안부
+87	비투비 (BTOB)	두 번째 고백
+88	방예담	Karma Chameleon
+89	보아 (BoA)	그런 너 (Disturbance)
+90	김민지	I`m In love
+91	포맨 (4Men)	사랑의 시
+92	자이언티(Zion.T)	도도해
+93	10cm	아마도
+94	10cm	지구인?
+95	The 포지션 임재욱	봄에게 바라는 것
+96	윤건	딱 한잔만
+97	인피니트H	Special Girl (Feat. Bumkey)
+98	라니아 (Rania)	Just Go
+99	자이언티(Zion.T)	Doop
+100	버스커 버스커 (Busker Busker)	꽃송이가
