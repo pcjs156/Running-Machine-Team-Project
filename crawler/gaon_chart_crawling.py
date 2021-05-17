@@ -89,7 +89,7 @@ if __name__ == '__main__':
             sorted_weeks = sorted(year_weeks[year])
 
             for week in sorted_weeks:
-                CHART_FILE_NAME = f'./data/{year}년 {week}주차 차트.txt'
+                CHART_FILE_NAME = f'./chartdata/{year}년 {week}주차 차트.txt'
                 # 이미 파일이 존재하는 경우 삭제하고 다시 생성함
                 if os.path.isfile(CHART_FILE_NAME):
                     os.remove(CHART_FILE_NAME)
@@ -157,8 +157,6 @@ if __name__ == '__main__':
                     print('')
                     error_logs.append(f'{year}년 {week}주차 이상 발생')
                     error_occured = True
-
-
 
         # 에러가 발생했을 경우 에러 로그 파일을 저장함
         if error_occured:
