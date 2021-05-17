@@ -22,7 +22,9 @@ if __name__ == '__main__':
 
     # .txt로 끝나는 차트 데이터를 불러옴
     chart_data_files = tuple(filter(lambda fn: fn.endswith('.txt'), os.listdir('./chartdata/')))
-    for filename in chart_data_files:
+    for i in range(len(chart_data_files)):
+        filename = chart_data_files[i]
+        print(f'>>> {filename} 크롤링 시작... ({(i+1)/len(chart_data_files)* 100}%)')
         with open('./chartdata/' + filename, mode='r', encoding='utf-8') as f:
             lines = list(map(lambda s: s.strip(), f.readlines()))
             # 맨 윗줄만 있는 경우, 파일이 비어 있는 것이므로 건너뜀
