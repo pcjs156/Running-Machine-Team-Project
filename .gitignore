@@ -262,7 +262,7 @@ dmypy.json
 # thumbnail cache on Windows
 Thumbs.db
 
-# profiling data
+# profiling chartdata
 .prof
 
 
