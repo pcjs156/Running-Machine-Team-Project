@@ -121,3 +121,4 @@ if __name__ == '__main__':
                             with open('./lyricsdata/' + lyricsFilename, mode='w', encoding='utf-8') as lyricsFile:
                                 lyricsFile.write(lyricsText)
                                 time.sleep(5)
+                                lyricsFilenameList.append(lyricsFilename)
