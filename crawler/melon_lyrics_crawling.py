@@ -31,7 +31,7 @@ if __name__ == '__main__':
     chartDataFilenames = list(filter(lambda fn: fn.endswith('.txt'), os.listdir(os.path.join('.', 'melon_chartdata'))))
 
     # 유빈: 전반부
-    # chartDataFilenames = list(filter(lambda fn: isFrontPartFilename(fn), chartDataFilenames))
+    chartDataFilenames = list(filter(lambda fn: isFrontPartFilename(fn), chartDataFilenames))
     # 윤석: 후반부
     # chartDataFilenames = list(filter(lambda fn: not isFrontPartFilename(fn), chartDataFilenames))
 
@@ -43,7 +43,13 @@ if __name__ == '__main__':
             for line in chartLines:
                 # 순위, 아티스트, 제목이 탭 문자로 구분되어 있음
                 chartInfo = line.strip().split('\t')
-                rank, songId, artist, title = chartInfo
+                try:
+                    rank, songId, artist, title = chartInfo
+                except ValueError:
+                    rank, songId, artist, title = chartInfo + ['UNKNOWN' for _ in range(4-len(chartInfo))]
+                    with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
+                        errorLogFile.write(f'{dt.now()}) {rank}위 {artist}-{title}에서 ValueError 발생 -> UNKNOWN으로 대체\n')
+
 
                 # 저장될 파일 이름은 "songId@아티스트명@곡명.txt"로 함
                 lyricsFilename = songId + '@' + artist + '@' + title + '.txt'
@@ -65,7 +71,7 @@ if __name__ == '__main__':
                 # for req_try in range(1, 6):
                 #     req = requests.get(URL, headers=HEADER)
                 #     if req.status_code != 200:
-                #         print(f'{dt}) {rank}위 {artist}-{title}에서 곡 검색 정보 status code != 200 발생({req.status_code})')
+                #         print(f'{dt.now(}) {rank}위 {artist}-{title}에서 곡 검색 정보 status code != 200 발생({req.status_code})')
                 #         print('5초간 대기...')
                 #         print(URL)
                 #         time.sleep(5)
@@ -74,9 +80,9 @@ if __name__ == '__main__':
                 #
                 # # 요청을 5회 이상 보냈다면, 그냥 다음 파일로 건너뜀
                 # if req_try >= 5:
-                #     print(f'!!!!!!{dt}) {rank}위 {artist}-{title}에서 곡 검색 정보 크롤링 실패!!!!!!')
+                #     print(f'!!!!!!{dt.now(}) {rank}위 {artist}-{title}에서 곡 검색 정보 크롤링 실패!!!!!!')
                 #     with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
-                #         errorLogFile.write(f'{dt}) {rank}위 {artist}-{title}에서 곡 검색 정보 크롤링 실패(status code != 200)\n')
+                #         errorLogFile.write(f'{dt.now(}) {rank}위 {artist}-{title}에서 곡 검색 정보 크롤링 실패(status code != 200)\n')
                 #     continue
 
                 detailPageURL = getDetailURL(songId)
@@ -84,7 +90,7 @@ if __name__ == '__main__':
                 for req_try in range(1, 6):
                     req = requests.get(detailPageURL, headers=HEADER)
                     if req.status_code != 200:
-                        print(f'{dt}) {rank}위 {artist}-{title}에서 가사 정보 status code != 200 발생({req.status_code})')
+                        print(f'{dt.now()}) {rank}위 {artist}-{title}에서 가사 정보 status code != 200 발생({req.status_code})')
                         print('5초간 대기...')
                         time.sleep(5)
                     else:
@@ -92,10 +98,10 @@ if __name__ == '__main__':
 
                 # 요청을 5회 이상 보냈다면, 그냥 다음 파일로 건너뜀
                 if req_try >= 5:
-                    print(f'!!!!!!{dt}) {rank}위 {artist}-{title}에서 가사 정보 크롤링 실패!!!!!!')
+                    print(f'!!!!!!{dt.now()}) {rank}위 {artist}-{title}에서 가사 정보 크롤링 실패!!!!!!')
                     print(f'URL: {detailPageURL}')
                     with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
-                        errorLogFile.write(f'{dt}) {rank}위 {artist}-{title}에서 가사 크롤링 실패(status code != 200)\n')
+                        errorLogFile.write(f'{dt.now()}) {rank}위 {artist}-{title}에서 가사 크롤링 실패(status code != 200)\n')
                     continue
 
                 # 크롤링에 성공한 경우
@@ -105,16 +111,16 @@ if __name__ == '__main__':
                     lyricsText = parsed.find('div', {'class': 'lyric'})
                 # 위의 규칙으로
                 except AttributeError:
-                    print(f'파싱 실패(CODE {req.status_code}): {dt}) {rank}위 {artist}-{title}')
+                    print(f'파싱 실패(CODE {req.status_code}): {dt.now()}) {rank}위 {artist}-{title}')
                     print(f'URL: {detailPageURL}')
                     with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
-                        errorLogFile.write(f'{dt}) {rank}위 {artist}-{title}에서 현재 규칙 기반 크롤링 실패\n')
+                        errorLogFile.write(f'{dt.now()}) {rank}위 {artist}-{title}에서 현재 규칙 기반 크롤링 실패\n')
                 else:
                     # 가사가 비어 있는 경우 다음 파일로 넘어감
                     if not lyricsText:
                         print(f'######{dt.now()}) {rank}위 {artist}-{title}에서 가사 파싱 실패######')
                         with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
-                            errorLogFile.write(f'{dt}) {rank}위 {artist}-{title}에서 가사 파싱 실패(성인인증 필요, 또는  없음)\n')
+                            errorLogFile.write(f'{dt.now()}) {rank}위 {artist}-{title}에서 가사 파싱 실패(성인인증 필요, 또는  없음)\n')
                     else:
                         with open('./lyricsdata/' + lyricsFilename, mode='w', encoding='utf-8') as lyricsFile:
                             pass
