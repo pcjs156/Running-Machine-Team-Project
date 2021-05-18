@@ -31,3 +31,9 @@ def isEmptyFile(fullPath):
         # 비어 있지 않은 파일이면 False
         else:
             return False
+
+def isFrontPartFilename(filename: str) -> bool:
+    idx = filename.find('_')
+    year = int(filename[:idx])
+    # 1984~2002년을 전반부로 봄
+    return 1984 <= year <= 2002

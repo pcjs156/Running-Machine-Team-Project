@@ -2,7 +2,6 @@
 import os
 import time
 from datetime import datetime as dt
-import re
 
 import requests
 from bs4 import BeautifulSoup
@@ -10,6 +9,7 @@ from bs4 import BeautifulSoup
 from utils import *
 
 if __name__ == '__main__':
+    # WARNING!!!!!!! Cookie Value 무조건 바꿔줘야 됨 !!!!!!!!!!!!!
     HEADER = {
         'User-Agent':
             'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.272 Whale/2.9.117.21 Safari/537.36',
@@ -28,7 +28,13 @@ if __name__ == '__main__':
         pass
 
     # .txt로 끝나는 차트 데이터를 불러옴
-    chartDataFilenames = tuple(filter(lambda fn: fn.endswith('.txt'), os.listdir(os.path.join('.', 'melon_chartdata'))))
+    chartDataFilenames = list(filter(lambda fn: fn.endswith('.txt'), os.listdir(os.path.join('.', 'melon_chartdata'))))
+
+    # 유빈: 전반부
+    # chartDataFilenames = list(filter(lambda fn: isFrontPartFilename(fn), chartDataFilenames))
+    # 윤석: 후반부
+    # chartDataFilenames = list(filter(lambda fn: not isFrontPartFilename(fn), chartDataFilenames))
+
     for i in range(len(chartDataFilenames)):
         filename = chartDataFilenames[i]
         print(f'>>> {filename} 크롤링 시작... ({(i+1)/len(chartDataFilenames)* 100}%)')
