@@ -48,6 +48,7 @@ if __name__ == '__main__':
                 except ValueError:
                     rank, songId, artist, title = chartInfo + ['UNKNOWN' for _ in range(4-len(chartInfo))]
                     with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
+                        print(f'{dt.now()}) {rank}위 {artist}-{title}에서 ValueError 발생 -> UNKNOWN으로 대체')
                         errorLogFile.write(f'{dt.now()}) {rank}위 {artist}-{title}에서 ValueError 발생 -> UNKNOWN으로 대체\n')
 
 
