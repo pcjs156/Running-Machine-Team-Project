@@ -40,6 +40,10 @@ if __name__ == '__main__':
                     # 저장될 파일 이름은 "아티스트명@곡명.txt"로 함
                     chartInfo = line.strip().split('\t')
                     rank, artist, title = chartInfo
+                    # 윈도우에서 파일 제목에 사용할 수 없는 문자는 모두 삭제함
+                    for c in '\ / : * ? " < > |'.split():
+                        title = title.replace(c, '')
+                    # 가사를 저장할 파일의 이름
                     lyricsFilename = artist + '@' + title + '.txt'
                     # 만약 해당 가사가 이미 크롤링되어 있다면, 다음 차트 목록으로 넘어감
                     if lyricsFilename in lyricsFilenameList:
