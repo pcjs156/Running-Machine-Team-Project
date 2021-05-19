@@ -63,37 +63,15 @@ if __name__ == '__main__':
                         else:
                             continue
 
-                # # 검색어는 [아티스트 + " " + 제목]으로 함
-                # query = title.replace(' ', '%20')
-                # query = title.replace('\t', '%20')
-                # # 요청 보내기
-                # URL = MELON_SEARCH_URL_FW + query + MELON_SEARCH_URL_BW
-                # # 응답 코드가 200일 때까지 총 5번 요청함
-                # for req_try in range(1, 6):
-                #     req = requests.get(URL, headers=HEADER)
-                #     if req.status_code != 200:
-                #         print(f'{dt.now(}) {rank}위 {artist}-{title}에서 곡 검색 정보 status code != 200 발생({req.status_code})')
-                #         print('5초간 대기...')
-                #         print(URL)
-                #         time.sleep(5)
-                #     else:
-                #         break
-                #
-                # # 요청을 5회 이상 보냈다면, 그냥 다음 파일로 건너뜀
-                # if req_try >= 5:
-                #     print(f'!!!!!!{dt.now(}) {rank}위 {artist}-{title}에서 곡 검색 정보 크롤링 실패!!!!!!')
-                #     with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
-                #         errorLogFile.write(f'{dt.now(}) {rank}위 {artist}-{title}에서 곡 검색 정보 크롤링 실패(status code != 200)\n')
-                #     continue
-
                 detailPageURL = getDetailURL(songId)
                 # 응답 코드가 200일 때까지 총 5번 요청함
                 for req_try in range(1, 6):
                     req = requests.get(detailPageURL, headers=HEADER)
                     if req.status_code != 200:
                         print(f'{dt.now()}) {rank}위 {artist}-{title}에서 가사 정보 status code != 200 발생({req.status_code})')
-                        print('5초간 대기...')
-                        time.sleep(5)
+                        print('10초간 대기...')
+                        print(f'>>>{detailPageURL}')
+                        time.sleep(10)
                     else:
                         break
 
@@ -122,10 +100,11 @@ if __name__ == '__main__':
                         print(f'######{dt.now()}) {rank}위 {artist}-{title}에서 가사 파싱 실패######')
                         with open(ERROR_LOG_FULLPATH, mode='a', encoding='utf-8') as errorLogFile:
                             errorLogFile.write(f'{dt.now()}) {rank}위 {artist}-{title}에서 가사 파싱 실패(성인인증 필요, 또는  없음)\n')
+
                     else:
                         with open('./lyricsdata/' + lyricsFilename, mode='w', encoding='utf-8') as lyricsFile:
                             pass
                         with open('./lyricsdata/' + lyricsFilename, mode='w', encoding='utf-8') as lyricsFile:
                             lyricsFile.write(lyricsText.get_text().strip())
                             lyricsFilenameList.append(lyricsFilename)
-                            time.sleep(6)
+                    time.sleep(6)
