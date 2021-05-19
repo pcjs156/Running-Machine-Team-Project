@@ -1,0 +1,100 @@
+1	30190630	에일리(AILEE)	첫눈처럼 너에게 가겠다
+2	30227061	Zion.T	노래
+3	30157753	Crush	Beautiful
+4	30227054	Red Velvet (레드벨벳)	Rookie
+5	30132687	찬열 (CHANYEOL)	Stay With Me
+6	30163110	볼빨간사춘기	좋다고 말해
+7	30227065	Zion.T	Complex (feat. G-DRAGON)
+8	30232778	블락비 (Block B)	YESTERDAY
+9	30147445	BIGBANG	에라 모르겠다
+10	30181278	AKMU (악동뮤지션)	오랜 날 오랜 밤
+11	30177818	소유 (SOYOU)	I Miss You
+12	30215199	다이나믹 듀오	기다렸다 가
+13	30230986	매드클라운	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+14	30227063	Zion.T	미안해 (feat. Beenzino)
+15	30179089	황광희 X 개코	당신의 밤 (Feat. 오혁)
+16	30247520	소유 (SOYOU)	비가와 (Rain)
+17	9620469	볼빨간사춘기	우주를 줄게
+18	5605860	신현희와김루트	오빠야
+19	30169608	에디킴	이쁘다니까
+20	30054344	TWICE (트와이스)	TT
+21	30079086	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+22	30205955	수지 (SUZY)	행복한 척
+23	30169383	샘김 (Sam Kim)	Who Are You
+24	9620473	볼빨간사춘기	나만 안되는 연애
+25	30244931	방탄소년단	봄날
+26	30261007	TWICE (트와이스)	KNOCK KNOCK
+27	30069773	BLACKPINK	불장난
+28	30132701	헤이즈 (Heize)	저 별
+29	30191370	어반자카파	소원
+30	8155478	볼빨간사춘기	심술
+31	30147446	BIGBANG	LAST DANCE
+32	30029173	방탄소년단	피 땀 눈물
+33	4786735	마크툽 (MAKTUB)	Marry Me
+34	30178900	정준일	첫 눈
+35	9614761	한동근	그대라는 사치
+36	30179099	AOA	Excuse Me
+37	30120986	정승환	이 바보야
+38	5398990	한동근	이 소설의 끝을 다시 써보려 해
+39	8143111	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 Of 비스트)
+40	30049271	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+41	30213419	헤이즈 (Heize)	Round and round (Feat. 한수지)
+42	30143498	10CM	내 눈에만 보여
+43	9634954	Red Velvet (레드벨벳)	러시안 룰렛 (Russian Roulette)
+44	9631530	임창정	내가 저지른 사랑
+45	9620471	볼빨간사춘기	You(=I)
+46	30202716	비	최고의 선물 (Prod. by PSY)
+47	30208070	아이오아이 (I.O.I)	소나기
+48	30040810	아이오아이 (I.O.I)	너무너무너무
+49	30227060	Zion.T	영화관
+50	30105621	김희철	나비잠 (Sweet Dream)
+51	30105590	김세정	꽃길 (Prod. By ZICO)
+52	30113165	지코 (ZICO)	BERMUDA TRIANGLE (Feat. Crush, DEAN)
+53	8199190	어반자카파	널 사랑하지 않아
+54	30143605	Lasse Lindh	Hush
+55	30179088	하하 X MINO	쏘아
+56	30072072	태연 (TAEYEON)	
+57	30011624	박효신	숨
+58	8158031	TWICE (트와이스)	CHEER UP
+59	8203900	정승환	너였다면
+60	8109412	DEAN	D (half moon) (Feat. 개코)
+61	8033528	엠씨더맥스 (M.C the MAX)	어디에도
+62	30147447	BIGBANG	GIRLFRIEND
+63	30179092	양세형 X BewhY	만세
+64	8304594	BLACKPINK	휘파람
+65	30244932	방탄소년단	Not Today
+66	30215674	샘김 (Sam Kim)	Think About' Chu (Prod. By 박근태)
+67	30203331	마마무 (Mamamoo)	LOVE
+68	30225056	허각	혼자, 한잔
+69	9613173	어반자카파	목요일 밤 (Feat. 빈지노)
+70	30257703	DEAN	넘어와 (Feat. 백예린)
+71	8167307	방탄소년단	불타오르네 (FIRE)
+72	8261338	BewhY (비와이)	Day Day (Feat. 박재범) (Prod. by GRAY)
+73	9646572	권진아	끝
+74	8276708	창모 (CHANGMO)	마에스트로 (Maestro)
+75	8217164	EXO	Monster
+76	30038185	Crush	어떻게 지내
+77	30203902	로이킴	HEAVEN
+78	30157820	EXO	For Life
+79	8271355	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+80	30227062	Zion.T	Comedian
+81	30227064	Zion.T	나쁜 놈들
+82	8308231	C JAMM	puzzle
+83	30072075	MC몽	널 너무 사랑해서 (Feat. 정은지 of 에이핑크)
+84	30063772	로꼬	남아있어 (Feat. Crush)
+85	9606657	EXO	Lotto
+86	30179090	유재석 X Dok2	처럼 (Feat. 이하이)
+87	30126870	지아	술 한잔해요 오늘
+88	30035555	다비치	내 옆에 그대인 걸
+89	30227066	Zion.T	바람 (2015)
+90	3620493	정준일	안아줘
+91	30217810	수지 (SUZY)	Yes No Maybe
+92	30215217	2NE1	안녕
+93	30179093	정준하 X ZICO	지칠 때면 (Feat. 김종완 of Nell)
+94	8217163	EXO	Lucky One
+95	30244934	방탄소년단	
+96	30181277	AKMU (악동뮤지션)	리얼리티
+97	30192354	김경희	And I'm here
+98	30244933	방탄소년단	
+99	30025065	젝스키스	세 단어
+100	8252408	BewhY (비와이)	Forever (Prod. By GRAY)

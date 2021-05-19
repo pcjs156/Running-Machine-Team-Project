@@ -1,0 +1,100 @@
+1	30486509	윤종신	좋니
+2	30613202	우원재	시차 (We Are) (Feat. 로꼬 & GRAY)
+3	30587846	선미	가시나
+4	30492279	헤이즈 (Heize)	비도 오고 그래서 (Feat. 신용재)
+5	30636089	아이유	가을 아침
+6	30467550	황치열	매일 듣는 노래 (A Daily Song)
+7	30601121	행주	Red Sun (Feat. ZICO, Swings)
+8	30568338	Wanna One (워너원)	에너제틱 (Energetic)
+9	30314784	아이유	밤편지
+10	30512671	Red Velvet (레드벨벳)	빨간 맛 (Red Flavor)
+11	30566061	넉살	N분의1 (Feat. 다이나믹듀오)
+12	30550388	박원	all of my life
+13	30481578	BLACKPINK	마지막처럼
+14	30566064	행주	요즘것들 (Feat. ZICO, DEAN)
+15	30492276	헤이즈 (Heize)	널 너무 모르고
+16	30468654	볼빨간사춘기	남이 될 수 있을까
+17	30519033	지코 (ZICO)	Artist
+18	30550293	버즈	사랑하지 않은 것처럼
+19	30529996	EXO	Ko Ko Bop
+20	30414090	볼빨간사춘기	처음부터 너와 나
+21	30378156	아이유	팔레트 (Feat. G-DRAGON)
+22	30605241	현아	베베 (BABE)
+23	30601123	넉살	필라멘트 (Feat. BSK A.K.A 김범수)
+24	30558525	여자친구 (GFRIEND)	귀를 기울이면 (LOVE WHISPER)
+25	30637982	방탄소년단	DNA
+26	30461396	G-DRAGON	무제(無題) (Untitled, 2014)
+27	30390068	SURAN (수란)	오늘 취하면 (Feat. 창모) (Prod. SUGA)
+28	30568337	Wanna One (워너원)	활활 (Burn It Up)
+29	30457690	청하	Why Don't You Know (Feat. 넉살)
+30	30488202	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+31	30646585	아이유	잠 못 드는 밤 비는 내리고
+32	30190630	에일리(AILEE)	첫눈처럼 너에게 가겠다
+33	30616684	EXO	Power
+34	30244931	방탄소년단	봄날
+35	30588628	행주	SEARCH (Feat. 카더가든)
+36	30536155	AKMU (악동뮤지션)	DINOSAUR
+37	30565334	WINNER	LOVE ME LOVE ME
+38	4786735	마크툽 (MAKTUB)	Marry Me
+39	30341745	WINNER	REALLY REALLY
+40	30519035	지코 (ZICO)	FANXY CHILD (Feat. FANXY CHILD)
+41	30403590	싸이 (PSY)	New Face
+42	30349593	아이유	사랑이 잘 (With 오혁)
+43	30399360	한동근	미치고 싶다
+44	30576771	킬라그램 (KILLAGRAMZ)	어디 (Feat. DEAN, ZICO)
+45	8109412	DEAN	D (half moon) (Feat. 개코)
+46	30588627	우원재	또 (Feat. Tiger JK, Bizzy, 마샬(MRSHLL))
+47	30492606	Apink (에이핑크)	FIVE
+48	8033528	엠씨더맥스 (M.C the MAX)	어디에도
+49	30413326	TWICE (트와이스)	SIGNAL
+50	30163110	볼빨간사춘기	좋다고 말해
+51	9620473	볼빨간사춘기	나만 안되는 연애
+52	30611680	10CM	폰서트
+53	30568339	Wanna One (워너원)	Wanna Be (My Baby)
+54	30069773	BLACKPINK	불장난
+55	30367365	효린	BLUE MOON (Prod. GroovyRoom)
+56	8143111	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 Of 비스트)
+57	9620469	볼빨간사춘기	우주를 줄게
+58	30543235	뉴이스트 W	있다면
+59	4383833	길구봉구	바람이 불었으면 좋겠어
+60	30588629	넉살	부르는게 값이야 (Feat. 개코, 던밀스)
+61	9614761	한동근	그대라는 사치
+62	4032981	뉴이스트	여보세요
+63	30495638	양홍원	아침에 (Feat. Bryn)
+64	8203900	정승환	너였다면
+65	30565630	소녀시대 (GIRLS' GENERATION)	Holiday
+66	30581595	태양	DARLING
+67	30612159	우원재	MOVE (Feat. Bizzy)
+68	30529995	EXO	전야 (前夜) (The Eve)
+69	8276709	창모 (CHANGMO)	아름다워
+70	30049271	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+71	30657307	볼빨간사춘기	썸 탈꺼야
+72	30453635	국민의 아들	NEVER
+73	30646584	아이유	비밀의 화원
+74	30208070	아이오아이 (I.O.I)	소나기
+75	30637983	방탄소년단	Best Of Me
+76	30403589	싸이 (PSY)	I LUV IT
+77	30529997	EXO	
+78	30602534	10CM	HELP
+79	30029173	방탄소년단	피 땀 눈물
+80	30530002	EXO	기억을 걷는 밤 (Walk On Memories)
+81	30529998	EXO	Forever
+82	30609787	정세운	JUST U (PROD. GroovyRoom)
+83	30514366	멜로망스	선물
+84	30261007	TWICE (트와이스)	KNOCK KNOCK
+85	30601119	우원재	진자 (ZINZA) (Feat. YDG, 수란)
+86	30616685	EXO	Sweet Lies
+87	30607341	프라이머리	
+88	30601122	Junoflo (주노플로)	비틀어 (Twisted) (Feat. 김효은, CHANGMO)
+89	30530000	EXO	너의 손짓 (Touch It)
+90	30637984	방탄소년단	보조개
+91	30637988	방탄소년단	고민보다 Go
+92	30290011	정키	부담이 돼 (Feat. 휘인 Of 마마무)
+93	30646588	아이유	매일 그대와
+94	30529999	EXO	다이아몬드 (Diamond)
+95	30568340	Wanna One (워너원)	이 자리에 (Acoustic Ver.)
+96	30383949	혁오 (HYUKOH)	TOMBOY
+97	30630736	여자친구 (GFRIEND)	여름비 (SUMMER RAIN)
+98	30530003	EXO	내가 미쳐 (Going Crazy)
+99	30616689	EXO	부메랑 (Boomerang)
+100	9621300	뉴이스트	Love Paint (every afternoon)

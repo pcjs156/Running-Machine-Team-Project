@@ -1,0 +1,100 @@
+1	30461396	G-DRAGON	무제(無題) (Untitled, 2014)
+2	30413326	TWICE (트와이스)	SIGNAL
+3	30468654	볼빨간사춘기	남이 될 수 있을까
+4	30403590	싸이 (PSY)	New Face
+5	30390068	SURAN (수란)	오늘 취하면 (Feat. 창모) (Prod. SUGA)
+6	30403589	싸이 (PSY)	I LUV IT
+7	30447547	씨스타	LONELY
+8	30414090	볼빨간사춘기	처음부터 너와 나
+9	30453635	국민의 아들	NEVER
+10	30378156	아이유	팔레트 (Feat. G-DRAGON)
+11	30408193	언니쓰	
+12	30341745	WINNER	REALLY REALLY
+13	30399360	한동근	미치고 싶다
+14	30367365	효린	BLUE MOON (Prod. GroovyRoom)
+15	30461394	G-DRAGON	개소리 (BULLSHIT)
+16	30349593	아이유	사랑이 잘 (With 오혁)
+17	30314784	아이유	밤편지
+18	30190630	에일리(AILEE)	첫눈처럼 너에게 가겠다
+19	4786735	마크툽 (MAKTUB)	Marry Me
+20	30383949	혁오 (HYUKOH)	TOMBOY
+21	30442480	하이라이트 (Highlight)	CALLING YOU
+22	30488202	마마무 (Mamamoo)	나로 말할 것 같으면 (Yes I am)
+23	30163110	볼빨간사춘기	좋다고 말해
+24	30261007	TWICE (트와이스)	KNOCK KNOCK
+25	8276709	창모 (CHANGMO)	아름다워
+26	30453634	슬레이트	Oh Little Girl
+27	30461395	G-DRAGON	SUPER STAR
+28	30440430	FTISLAND (FT아일랜드)	사랑앓이 (With 김나영)
+29	30481578	BLACKPINK	마지막처럼
+30	5605860	신현희와김루트	오빠야
+31	30453633	Knock	열어줘
+32	30431400	San E	모해 (mohae) (Feat. 볼빨간사춘기)
+33	30428511	로꼬	지나쳐 (Feat. DEAN)
+34	9620469	볼빨간사춘기	우주를 줄게
+35	9620473	볼빨간사춘기	나만 안되는 연애
+36	30310862	하이라이트 (Highlight)	얼굴 찌푸리지 말아요
+37	30049271	박재범	All I Wanna Do (K) (Feat. Hoody, Loco)
+38	30244931	방탄소년단	봄날
+39	8276708	창모 (CHANGMO)	마에스트로 (Maestro)
+40	30290011	정키	부담이 돼 (Feat. 휘인 Of 마마무)
+41	30355842	지코 (ZICO)	She's a Baby
+42	30069773	BLACKPINK	불장난
+43	30181278	AKMU (악동뮤지션)	오랜 날 오랜 밤
+44	30378157	아이유	이런 엔딩
+45	30054344	TWICE (트와이스)	TT
+46	9614761	한동근	그대라는 사치
+47	8203900	정승환	너였다면
+48	30378155	아이유	이 지금
+49	30157753	Crush	Beautiful
+50	30461393	G-DRAGON	INTRO. 권지용 (Middle Fingers-Up)
+51	8155478	볼빨간사춘기	심술
+52	30294022	PRODUCE 101	나야 나 (PICK ME)
+53	3853980	싸이 (PSY)	어땠을까 (Feat. 박정현)
+54	30428238	세븐틴	울고 싶지 않아
+55	30442275	백아연	달콤한 빈말 (Feat. 바버렛츠)
+56	8033528	엠씨더맥스 (M.C the MAX)	어디에도
+57	30419668	어반자카파	혼자
+58	30492276	헤이즈 (Heize)	널 너무 모르고
+59	30079086	마마무 (Mamamoo)	Decalcomanie (데칼코마니)
+60	5398990	한동근	이 소설의 끝을 다시 써보려 해
+61	30147445	BIGBANG	에라 모르겠다
+62	30227054	Red Velvet (레드벨벳)	Rookie
+63	30457690	청하	Why Don't You Know (Feat. 넉살)
+64	30278209	태연 (TAEYEON)	Fine
+65	9620471	볼빨간사춘기	You(=I)
+66	8109412	DEAN	D (half moon) (Feat. 개코)
+67	8143111	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 Of 비스트)
+68	4383833	길구봉구	바람이 불었으면 좋겠어
+69	30208070	아이오아이 (I.O.I)	소나기
+70	8158031	TWICE (트와이스)	CHEER UP
+71	30467550	황치열	매일 듣는 노래 (A Daily Song)
+72	9631530	임창정	내가 저지른 사랑
+73	8199190	어반자카파	널 사랑하지 않아
+74	30011624	박효신	숨
+75	30453632	월하소년 (月下少年)	I Know You Know
+76	30461397	G-DRAGON	OUTRO. 신곡(神曲) (Divina Commedia)
+77	30378159	아이유	잼잼
+78	30403591	싸이 (PSY)	마지막 장면 (Feat. 이성경)
+79	30230986	매드클라운	우리집을 못 찾겠군요 (Feat. 볼빨간사춘기)
+80	30286429	비투비	MOVIE
+81	30453631	It's	Show Time
+82	4032981	뉴이스트	여보세요
+83	30232778	블락비 (Block B)	YESTERDAY
+84	30132687	찬열 (CHANYEOL)	Stay With Me
+85	30453406	SURAN (수란)	1+1=0 (Feat. DEAN)
+86	30029173	방탄소년단	피 땀 눈물
+87	30378164	아이유	이름에게
+88	30434161	규현 (KYUHYUN)	다시 만나는 날 (Goodbye for now)
+89	30247520	소유 (SOYOU)	비가와 (Rain)
+90	30478321	PRODUCE 101	Hands on me
+91	30465044	태일 (블락비)	좋아한다 안 한다 (Duet. 세정 of 구구단) (Prod. 박경)
+92	30367190	백현 (BAEKHYUN)	바래다줄게 (Take You Home)
+93	30403595	싸이 (PSY)	팩트폭행 (Feat. G-DRAGON)
+94	30351579	정은지	너란 봄 (Feat. 하림)
+95	30169608	에디킴	이쁘다니까
+96	30132701	헤이즈 (Heize)	저 별
+97	30285450	여자친구 (GFRIEND)	FINGERTIP
+98	30478323	PRODUCE 101	이 자리에 (Always)
+99	30478322	PRODUCE 101	Super Hot
+100	30403593	싸이 (PSY)	BOMB (Feat. B.I, BOBBY)
