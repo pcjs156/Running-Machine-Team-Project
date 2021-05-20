@@ -32,7 +32,7 @@ if __name__ == '__main__':
     targetWords = ['사랑', '좋', 'love', 'loves', 'loved', 'loving']
 
     # 이론상 가능한 클러스터의 최대 개수
-    MAX_DATA_CLUSTER_SIZES = [5, 10, 100, 1000, 10000, 100000, 1000000]
+    MAX_DATA_CLUSTER_SIZES = [2000]
     bestChartScorePairs = list(dict() for _ in range(len(MAX_DATA_CLUSTER_SIZES)))
     frequencyPerSongIdPairs = list(dict() for _ in range(len(MAX_DATA_CLUSTER_SIZES)))
     done = 0
@@ -83,7 +83,11 @@ if __name__ == '__main__':
     print(f'Data Cluster size별 데이터 분포 분석 완료(Cluster size: {MAX_DATA_CLUSTER_SIZES})')
     for i in range(len(MAX_DATA_CLUSTER_SIZES)):
         MAX_DATA_CLUSTER_SIZE = MAX_DATA_CLUSTER_SIZES[i]
+
+        # {frequency: chartSum}
+        totalChartPerFrequency = [0 for _ in range(MAX_DATA_CLUSTER_SIZE)]
         frequencyPerSongId = frequencyPerSongIdPairs[i]
+        bestChartScore = bestChartScorePairs[i]
         print(f'\n{i+1}. Size {MAX_DATA_CLUSTER_SIZE}: ')
 
         print(f'{len(set(frequencyPerSongId.values()))}개의 클러스터 생성 완료')
@@ -98,13 +102,29 @@ if __name__ == '__main__':
         maxFrequency = max(counter[1:])
         print(f'가장 많은 차트 데이터가 속해 있는 Cluster: {counter.index(maxFrequency)}')
 
+        for songId in frequencyPerSongId.keys():
+            freq = frequencyPerSongId[songId]
+            rank = bestChartScore[songId]
+            totalChartPerFrequency[freq] += rank
+        avrPerFrequency = totalChartPerFrequency[:]
+
+        for i in range(len(counter)):
+            cnt = counter[i]
+            try:
+                avrPerFrequency[i] /= cnt
+            except ZeroDivisionError:
+                avrPerFrequency[i] = 101
+
         # 가장 마지막 0이 아닌 값의 뒤에 있는 모든 Frequency가 0인 값들을 잘라냄
         lastIdx = MAX_DATA_CLUSTER_SIZE-1
         while counter[lastIdx] == 0:
             lastIdx -= 1
 
-        print('Frequency Value가 0인 Cluster를 제외하고 출력합니다.')
         plt.title(f"MAX_DATA_CLUSTER_SIZE = {MAX_DATA_CLUSTER_SIZE}")
-        scatter = plt.scatter([i+1 for i in range(1, lastIdx+1)], counter[1:lastIdx+1], s=counter[1:lastIdx+1])
-        # plt.plot([i+1 for i in range(1, lastIdx+1)], counter[1:lastIdx+1])
+        scatter = plt.scatter([i for i in range(1, lastIdx+1)], avrPerFrequency[1:lastIdx+1])
+        plt.xlabel('Frequency * MAX_DATA_CLUSTER_SIZE')
+        plt.ylabel('Average Rank')
         plt.show()
+
+        xData = [str(i) for i in range(lastIdx+1)]
+        yData = list(map(lambda s: str(s), avrPerFrequency[:lastIdx+1]))
