@@ -37,6 +37,9 @@ if __name__ == '__main__':
     frequencyPerSongIdPairs = list(dict() for _ in range(len(MAX_DATA_CLUSTER_SIZES)))
     done = 0
     for chartFilename in chartFilenames:
+        # 2021년 데이터는 대조군으로 사용해야 하므로, 검사하지 않음
+        if chartFilename.startswith('2021'):
+            continue
         done += 1
         print(f'분석 시작: {chartFilename} / {done / len(chartFilenames) * 100}%')
         with open(os.path.join(CRAWLER_PATH, 'melon_chartdata', chartFilename), mode='r',
