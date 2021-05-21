@@ -141,11 +141,11 @@ if __name__ == '__main__':
         while counter[lastIdx] == 0:
             lastIdx -= 1
 
-        plt.title(f"MAX_DATA_CLUSTER_SIZE = {MAX_DATA_CLUSTER_SIZE}")
-        scatter = plt.scatter([i for i in range(1, lastIdx+1)], avrPerFrequency[1:lastIdx+1])
-        plt.xlabel('Frequency * MAX_DATA_CLUSTER_SIZE')
-        plt.ylabel('Average Rank')
-        plt.show()
+        # plt.title(f"MAX_DATA_CLUSTER_SIZE = {MAX_DATA_CLUSTER_SIZE}")
+        # scatter = plt.scatter([i for i in range(1, lastIdx+1)], avrPerFrequency[1:lastIdx+1])
+        # plt.xlabel('Frequency * MAX_DATA_CLUSTER_SIZE')
+        # plt.ylabel('Average Rank')
+        # plt.show()
 
         xData = [str(i) for i in range(lastIdx+1)]
         yData = list(map(lambda s: str(s), avrPerFrequency[:lastIdx+1]))
@@ -200,16 +200,30 @@ if __name__ == '__main__':
                     count_x.append(frequencyPerSongId[songId])
                     count_y.append(songIdRank[songId] / songIdCounter[songId])
 
-    # for i in range(1, 6):
-    i = 8
-    fp1 = np.polyfit(xData, yData, i)
-    f1 = np.poly1d(fp1)
 
-    plt.scatter(count_x, count_y, label='correct', color='g', alpha=0.3)
+    # MSE 및 근사 확인
+    degree = [1, 2, 3, 5, 10, 30, 50, 86]
+    for i in degree:
+        fp1 = np.polyfit(xData, yData, i)
+        f1 = np.poly1d(fp1)
+        mse = 0
+        for j in range(len(xData[1:])):
+            mse += (f1(xData[j]) - yData[j]) ** 2
+        mse /= len(xData[1:])
+        plt.scatter(xData[1:], yData[1:], label='Imputation data', color='y', alpha=0.3)
+        plt.plot(xData[1:], f1(xData[1:]), color='r', label='Polyfit data')
+        plt.title('Polyfit {}, MSE {}'.format(i, mse))
+        plt.xlabel('Frequency * MAX_DATA_CLUSTER_SIZE')
+        plt.ylabel('Average Rank')
+        plt.show()
+
+    # 모델링 검증
+    fp1 = np.polyfit(xData, yData, 86)
+    f1 = np.poly1d(fp1)
+    plt.scatter(count_x, count_y, label='correct', color='g', alpha=0.5)
     plt.scatter(count_x, f1(count_x), label='count', color='b', alpha=0.3)
-    plt.scatter(xData[1:], yData[1:], label='Imputation data', color='y', alpha=0.3)
     plt.plot(xData[1:], f1(xData[1:]), color='r', label='Polyfit data')
-    plt.title('Polyfit {}'.format(i))
+    plt.title('Data verification')
     plt.xlabel('Frequency * MAX_DATA_CLUSTER_SIZE')
     plt.ylabel('Average Rank')
     plt.show()
