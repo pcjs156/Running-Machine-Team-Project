@@ -32,9 +32,12 @@ if __name__ == '__main__':
     # targetWords = input('빈도수 분석을 수행할 단어들을 공백을 기준으로 나누어 입력하세요: ').split()
     targetWords = ['사랑', '좋', 'love', 'loves', 'loved', 'loving']
 
+    # 차트에 해당 songId가 몇번 등장했는지 계산
+    songIdFreq = dict()
+
     # 이론상 가능한 클러스터의 최대 개수
-    MAX_DATA_CLUSTER_SIZES = [2000]
-    bestChartScorePairs = list(dict() for _ in range(len(MAX_DATA_CLUSTER_SIZES)))
+    MAX_DATA_CLUSTER_SIZES = [10000]
+    sumChartScorePairs = list(dict() for _ in range(len(MAX_DATA_CLUSTER_SIZES)))
     frequencyPerSongIdPairs = list(dict() for _ in range(len(MAX_DATA_CLUSTER_SIZES)))
     done = 0
     for chartFilename in chartFilenames:
@@ -64,7 +67,7 @@ if __name__ == '__main__':
                     MAX_DATA_CLUSTER_SIZE = MAX_DATA_CLUSTER_SIZES[i]
 
                     # {songId: 음원 차트 최대 성적(가장 작은 순위값)}
-                    bestChartScore = bestChartScorePairs[i]
+                    sumChartScore = sumChartScorePairs[i]
                     # {songId: 빈도값}
                     frequencyPerSongId = frequencyPerSongIdPairs[i]
                     # 만약 해당 songId를 가지는 곡의 빈도수 분석을 이미 마쳤다면 다시 수행하지 않음
@@ -79,10 +82,12 @@ if __name__ == '__main__':
                             frequencyPerSongId[songId] = round((lenTargetContains / len(words)) * MAX_DATA_CLUSTER_SIZE)
 
                     # 차트 최고 성적 갱신
-                    if songId in bestChartScore.keys():
-                        bestChartScore[songId] = min(bestChartScore[songId], rank)
+                    if songId in sumChartScore.keys():
+                        sumChartScore[songId] += rank
+                        songIdFreq[songId] += 1
                     else:
-                        bestChartScore[songId] = rank
+                        sumChartScore[songId] = rank
+                        songIdFreq[songId] = 1
 
     print(f'Data Cluster size별 데이터 분포 분석 완료(Cluster size: {MAX_DATA_CLUSTER_SIZES})')
     for i in range(len(MAX_DATA_CLUSTER_SIZES)):
@@ -91,7 +96,9 @@ if __name__ == '__main__':
         # {frequency: chartSum}
         totalChartPerFrequency = [0 for _ in range(MAX_DATA_CLUSTER_SIZE)]
         frequencyPerSongId = frequencyPerSongIdPairs[i]
-        bestChartScore = bestChartScorePairs[i]
+        sumChartScore = sumChartScorePairs[i]
+        sumChartScore = {songId: sumChartScore[songId]/songIdFreq[songId] for songId in songIdFreq.keys()}
+
         print(f'\n{i+1}. Size {MAX_DATA_CLUSTER_SIZE}: ')
 
         print(f'{len(set(frequencyPerSongId.values()))}개의 클러스터 생성 완료')
@@ -108,7 +115,7 @@ if __name__ == '__main__':
 
         for songId in frequencyPerSongId.keys():
             freq = frequencyPerSongId[songId]
-            rank = bestChartScore[songId]
+            rank = sumChartScore[songId]
             totalChartPerFrequency[freq] += rank
         avrPerFrequency = totalChartPerFrequency[:]
 
@@ -185,16 +192,17 @@ if __name__ == '__main__':
 
 
 
-    for i in range(1, 6):
-        fp1 = np.polyfit(xData, avg_y, i)
-        f1 = np.poly1d(fp1)
+    # for i in range(1, 6):
+    i = 8
+    fp1 = np.polyfit(xData, avg_y, i)
+    f1 = np.poly1d(fp1)
 
-        plt.scatter(xData, avg_y, label='Imputation data', color='y')
-        plt.plot(xData, f1(xData), lw=2, color='r', label='Polyfit data')
-        plt.title('Polyfit {}'.format(i))
-        plt.xlabel('Frequency * MAX_DATA_CLUSTER_SIZE')
-        plt.ylabel('Average Rank')
-        plt.show()
+    plt.scatter(xData, avg_y, label='Imputation data', color='y')
+    plt.plot(xData, f1(xData), lw=2, color='r', label='Polyfit data')
+    plt.title('Polyfit {}'.format(i))
+    plt.xlabel('Frequency * MAX_DATA_CLUSTER_SIZE')
+    plt.ylabel('Average Rank')
+    plt.show()
 
 
 
