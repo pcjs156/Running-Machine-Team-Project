@@ -31,9 +31,17 @@ if __name__ == '__main__':
     chartDataFilenames = list(filter(lambda fn: fn.endswith('.txt'), os.listdir(os.path.join('.', 'melon_chartdata'))))
 
     # 유빈: 전반부
-    chartDataFilenames = list(filter(lambda fn: isFrontPartFilename(fn), chartDataFilenames))
+    # chartDataFilenames = list(filter(lambda fn: isFrontPartFilename(fn), chartDataFilenames))
     # 윤석: 후반부
     # chartDataFilenames = list(filter(lambda fn: not isFrontPartFilename(fn), chartDataFilenames))
+
+    # 유빈: 전반부
+    chartDataFilenames = list(filter(lambda fn: int(fn[:4]) in range(2009, 2012), chartDataFilenames))
+    # 윤석 1: 중반부
+    # chartDataFilenames = list(filter(lambda fn: int(fn[:4]) in range(2012, 2015), chartDataFilenames))
+    # 윤석 2: 후반부
+    # chartDataFilenames = list(filter(lambda fn: int(fn[:4]) in range(2015, 2017), chartDataFilenames))
+
 
     for i in range(len(chartDataFilenames)):
         filename = chartDataFilenames[i]

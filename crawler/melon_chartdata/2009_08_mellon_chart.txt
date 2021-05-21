@@ -1,0 +1,100 @@
+1	2229259	브라운아이드걸스	Abracadabra
+2	2212365	2NE1	I Don't Care
+3	2231895	MC몽	Indian Boy (Feat. 장근이, B.I)
+4	2221852	명카드라이브	냉면
+5	2235965	카라	Wanna
+6	2226049	FTISLAND (FT아일랜드)	바래
+7	2203097	소녀시대 (GIRLS' GENERATION)	소원을 말해봐 (Genie)
+8	2197448	4minute	Hot Issue
+9	2221848	퓨처라이거	Let's Dance
+10	2185577	아웃사이더	외톨이
+11	2200798	이승기	결혼해 줄래 (Feat. BIZNIZ)
+12	2231948	손담비	아몰레드 (Amoled)
+13	2234748	티아라	거짓말 (Part.1)
+14	2219848	브라운아이드걸스	Candy Man
+15	2135470	2PM	니가 밉다
+16	2218824	2NE1	Pretty Boy
+17	2194773	에이트	잘가요 내사랑
+18	2210155	드렁큰 타이거	True Romance (Feat. T)
+19	2160048	2NE1	Fire
+20	2140978	아이유	있잖아 (Rock Ver.)
+21	2213637	원투	별이 빛나는 밤에
+22	2180148	V.O.S	큰일이다
+23	2227760	쿨 (COOL)	보고보고
+24	2238379	카라	미스터
+25	2221850	삼자돼면	바베큐
+26	2135469	2PM	Again＆Again
+27	2258761	G-DRAGON	Heartbreaker
+28	2218822	2NE1	In The Club
+29	2195885	김용준	커플 (Feat. 황정음)
+30	2245593	마이티 마우스	연애특강 (Feat. 한예슬)
+31	2229200	룰라	고잉고잉 (Going Going)
+32	2172570	SHINee (샤이니)	줄리엣 (Juliette)
+33	2221853	애프터쉐이빙	영계백숙
+34	2241848	에이트	울고 싶어 우는 사람이 있겠어 (Cry Mix)
+35	2129151	애프터스쿨	Diva
+36	2159715	씨야	여성시대
+37	2229176	엠씨더맥스 (M.C the MAX)	소식 (So Sick)
+38	2222748	BMK	Everyday (Feat. 길 Of 리쌍, Sean2slow)
+39	2238056	엠투엠 (M To M)	1004 (너는 내운명 2) (Feat. 낯선)
+40	2201948	쥬얼리	Rally (Feat. 낯선)
+41	2119816	케이윌	눈물이 뚝뚝
+42	2165864	SUPER JUNIOR (슈퍼주니어)	너라고 (It's You)
+43	2093362	다비치	My Man
+44	2253748	백지영	내 귀에 캔디 (Feat. 택연 Of 2PM)
+45	2188667	케이윌	1초에 한방울 A Mix (Feat. 다이나믹듀오)
+46	2126448	나비	마음이 다쳐서 (Feat. Crown J)
+47	2135850	SG 워너비	내사랑 울보
+48	2140966	아이유	Boo
+49	2208726	BIGBANG	친구 (Top & 태양)
+50	2221849	카리스마	세뇨리따 (Senorita)
+51	2245550	바다 (BADA)	Mad (Feat. 언터쳐블)
+52	2159569	채연	흔들려
+53	2245640	박화요비	장미
+54	2258760	G-DRAGON	소년이여
+55	2200950	엠씨더맥스 (M.C the MAX)	뒤차가 경적을
+56	2135848	SG 워너비	사랑해 (Feat. 유리상자 박승화)
+57	2218823	2NE1	Let's Go Party
+58	2182750	코요태	넌센스 (Nonsense)
+59	2258764	G-DRAGON	Hello (Feat. 다라)
+60	2173948	김태우	기억과 추억 (Feat. 준형, 호영, 데니)
+61	2258767	G-DRAGON	The Leaders (Feat. Teddy, CL)
+62	2229258	브라운아이드걸스	Glam Girl
+63	2101157	에이트	심장이 없어
+64	2117748	BIGBANG	Lollipop
+65	2257473	쥬얼리	Strong Girl
+66	2221854	안 편한 사람들	난 멋있어
+67	2218825	2NE1	Stay Together
+68	2231899	MC몽	사랑보다 아름다운 말 (Feat. 숙희)
+69	2258762	G-DRAGON	Breathe
+70	2221851	돌브레인	더위 먹은 갈매기
+71	2213520	왁스	결국 너야
+72	2218827	BIGBANG	가라가라 고!! (Kor Ver.)
+73	2210161	드렁큰 타이거	Monster (Korean Ver.)
+74	2258763	G-DRAGON	Butterfly (Feat. Jin Jung)
+75	2255863	허경영	Call me
+76	2185578	아웃사이더	피에로의 눈물 (Feat. 무웅 Of 배치기)
+77	2258765	G-DRAGON	Gossip Man (Feat. 김건모)
+78	2231903	MC몽	죽도록 사랑해 2 (Feat. 조성모)
+79	2189148	카라	똑 같은 맘
+80	2234275	브랜뉴데이	천생연분 (Narr. 이수근)
+81	2093361	다비치	사고쳤어요
+82	2253769	나비	눈물도 아까워 (Feat. 현아 From 4Minute)
+83	2258768	G-DRAGON	She's Gone (Feat. Kush)
+84	2210448	양파	령혼
+85	2197072	케이윌	사랑은 벌이다
+86	2258766	G-DRAGON	Korean Dream (Feat. 태양)
+87	2247067	박혜경	하이힐
+88	2222469	클래지콰이	Love Again
+89	2183950	Chrisette Michele	What You Do (Feat. Ne-Yo)
+90	2207370	소녀시대 (GIRLS' GENERATION)	Etude
+91	2214143	고유진 (플라워)	바보라서... (고질병)
+92	2100540	SUPER JUNIOR (슈퍼주니어)	쏘리 쏘리 (Sorry, Sorry)
+93	2231896	MC몽	로반줄아 (로미오를 반대한 줄리엣 아버지) (Feat. Simon Of Dalmatian)
+94	2231897	MC몽	진실은 천국에서라도 (Feat. 김희선)
+95	2122195	지아	터질 것 같아
+96	2245592	마이티 마우스	희망사항 (Feat. 아이유)
+97	2218552	노라조	고등어
+98	2012282	소녀시대 (GIRLS' GENERATION)	Gee
+99	2112982	손담비	토요일밤에
+100	2134448	MC몽	Simple Love (Feat. 나비)

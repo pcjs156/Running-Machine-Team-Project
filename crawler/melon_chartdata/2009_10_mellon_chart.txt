@@ -1,0 +1,99 @@
+1	2289852	티아라	TTL (Time To Love)
+2	2276194	김태우	사랑비
+3	2289924	박효신	사랑한 후에
+4	2293482	이승기	우리 헤어지자
+5	2312253	리쌍	헤어지지 못하는 여자, 떠나가지 못하는 남자 (Feat. 정인)
+6	2269959	4minute	Muzik
+7	2258761	G-DRAGON	Heartbreaker
+8	2271648	f(x)	라차타 (LA chA TA)
+9	2281050	이현	30분전 (Feat. 임정희)
+10	2301640	가비엔제이	핼쑥해졌대
+11	2280185	산다라박	Kiss (Feat. CL)
+12	2253748	백지영	내 귀에 캔디 (Feat. 택연 Of 2PM)
+13	2238379	카라	미스터
+14	2229259	브라운아이드걸스	Abracadabra
+15	2299311	태연 (TAEYEON)	사랑인걸요
+16	2291966	에픽하이 (EPIK HIGH)	따라해 (Wannabe) (Feat. Mellow)
+17	2315961	소녀시대 (GIRLS' GENERATION)	Chocolate Love (Retro Pop Ver.)
+18	2315807	휘성 (Realslow)	주르륵
+19	2304171	배치기	가인 (Feat. Nemo Of 미스에스)
+20	2301753	유이 (애프터스쿨)	그 남자 그 여자의 사정
+21	2267869	쥬얼리	Vari2ty
+22	2266940	미스에스	사랑이 뭐길래
+23	2280287	아웃사이더	심장병
+24	2293481	이승기	면사포
+25	2218822	2NE1	In The Club
+26	2234748	티아라	거짓말 (Part.1)
+27	2312177	MC몽	호러쇼 (Feat. 강호동, Whale)
+28	2314377	다이나믹 듀오	죽일 놈 (Guilty)
+29	2278748	이승철	사랑 참 어렵다
+30	2312255	리쌍	변해가네 (Feat. 정인)
+31	2212365	2NE1	I Don't Care
+32	2259948	다비치	Hot Stuff
+33	2255158	부활	생각이나
+34	2293512	태군	속았다 (Narration Of 이요원)
+35	2253769	나비	눈물도 아까워 (Feat. 현아 From 4Minute)
+36	2317348	티아라	TTL Listen 2
+37	2301752	다이나믹 듀오	미안해
+38	2283354	테이	독설
+39	2320988	SHINee (샤이니)	Ring Ding Dong
+40	2235965	카라	Wanna
+41	2297547	케이윌	사랑한단 말을 못해서
+42	2295270	윤도현	너라면 좋겠어
+43	2312254	리쌍	Carousel (Feat. 이적)
+44	2258760	G-DRAGON	소년이여
+45	2322981	태양	Where U At
+46	2258764	G-DRAGON	Hello (Feat. 다라)
+47	2218824	2NE1	Pretty Boy
+48	2226049	FTISLAND (FT아일랜드)	바래
+49	2245593	마이티 마우스	연애특강 (Feat. 한예슬)
+50	2312252	리쌍	우리 지금 만나 (Feat. 장기하와 얼굴들)
+51	2276168	럼블피쉬	내 사랑 내 곁에
+52	2258762	G-DRAGON	Breathe
+53	2266685	케이윌	초콜릿
+54	2267559	체리 필터	피아니시모 (Pianissimo)
+55	2319548	백지영	잊지 말아요
+56	2276693	2NE1	I Don't Care (Reggae Mix Ver.)
+57	2269963	4minute	안 줄래
+58	2241848	에이트	울고 싶어 우는 사람이 있겠어 (Cry Mix)
+59	2185577	아웃사이더	외톨이
+60	2219848	브라운아이드걸스	Candy Man
+61	2231895	MC몽	Indian Boy (Feat. 장근이, B.I)
+62	2314380	다이나믹 듀오	불꽃놀이 (Fireworks)
+63	2285551	오종혁	사랑한다면서
+64	2322558	럼블피쉬	너 정말이니
+65	2328153	아이비	눈물아 안녕
+66	2203097	소녀시대 (GIRLS' GENERATION)	소원을 말해봐 (Genie)
+67	2320748	임재범	사랑이라서
+68	2231948	손담비	아몰레드 (Amoled)
+69	2322749	이수영	내 이름 부르지마
+70	2314862	바다 (BADA)	Yes I'm In Love (Feat. 2PM 택연)
+71	2197448	4minute	Hot Issue
+72	2298659	황정음	N-Time (Feat. 티아라)
+73	2285181	태사비애	이 노래를 들으면 (Feat. 수호)
+74	2311048	별	기억이 안나
+75	2319848	FTISLAND (FT아일랜드)	Lie
+76	2319000	시크릿	I Want You Back
+77	2297721	애즈원	사랑할 수도 미워할 수도
+78	2308383	박지헌	말할걸 그랬지
+79	2322588	박지헌	헤어질 거 같애 (Feat. MJ Of Sunnyside, 신혜)
+80	2312178	MC몽	나는... (Feat. Ivy)
+81	2315962	f(x)	Chocolate Love (Electronic Pop Ver.)
+82	2200798	이승기	결혼해 줄래 (Feat. BIZNIZ)
+83	2312266	리쌍	내 몸은 너를 지웠다 (Feat. Enzo.B)
+84	2320849	엠블랙	Oh Yeah
+85	2218823	2NE1	Let's Go Party
+86	2307407	유리	Girl
+87	2308293	PK 헤만	슬프지 않아요 (Feat. 소윤)
+88	2135470	2PM	니가 밉다
+89	2295277	타우	가을로 (Feat. 프리스타일 미노, Daylight, 이상)
+90	2258767	G-DRAGON	The Leaders (Feat. Teddy, CL)
+91	2284766	나르샤 (Brown Eyed Girls)	I Love You (Feat. 미료)
+92	2315806	휘성 (Realslow)	사랑..그 몹쓸병
+93	2194773	에이트	잘가요 내사랑
+94	2304753	Mariah Carey	Angels Cry
+95	2258765	G-DRAGON	Gossip Man (Feat. 김건모)
+96	2223049	Supreme Team	Supermagic
+97	2257473	쥬얼리	Strong Girl
+98	2304449	키네틱 플로우	One Way Ticket
+99	2312257	리쌍	일터 (Feat. Bizzy)
