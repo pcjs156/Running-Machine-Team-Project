@@ -36,7 +36,7 @@ if __name__ == '__main__':
     # chartDataFilenames = list(filter(lambda fn: not isFrontPartFilename(fn), chartDataFilenames))
 
     # 유빈: 전반부
-    chartDataFilenames = list(filter(lambda fn: int(fn[:4]) in range(2009, 2012), chartDataFilenames))
+    chartDataFilenames = list(filter(lambda fn: int(fn[:4]) in range(2009, 2010), chartDataFilenames))
     # 윤석 1: 중반부
     # chartDataFilenames = list(filter(lambda fn: int(fn[:4]) in range(2012, 2015), chartDataFilenames))
     # 윤석 2: 후반부
