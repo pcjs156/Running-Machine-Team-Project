@@ -148,8 +148,8 @@ if __name__ == '__main__':
         xData = [str(i) for i in range(lastIdx+1)]
         yData = list(map(lambda s: str(s), avrPerFrequency[:lastIdx+1]))
 
-    xData = [int(x) for x in xData][1:]
-    yData = [float(x) for x in yData][1:]
+    xData = [int(x) for x in xData]
+    yData = [float(x) for x in yData]
     remove_idx = []
     for i in range(len(yData)):
         yData[i] = float(yData[i])
