@@ -1,0 +1,100 @@
+1	7999021	개리	또 하루 (Feat. 개코)
+2	8005879	수지 (SUZY)	Dream (Prod. by 박근태)
+3	7942948	오혁	소녀
+4	7998349	김나영	어땠을까
+5	7921208	이적	걱정말아요 그대
+6	8004377	케이윌	니가 하면 로맨스 (Feat. 다비치)
+7	7891119	TWICE (트와이스)	OOH-AHH하게
+8	7965449	지코 (ZICO)	유레카 (Feat. Zion.T)
+9	7956304	싸이 (PSY)	DADDY (Feat. CL of 2NE1)
+10	7985298	노을	함께
+11	7909196	김필	청춘 (Feat. 김창완)
+12	7953577	박보람	혜화동 (혹은 쌍문동)
+13	7975242	윤미래	사랑이 맞을거야
+14	7861392	임창정	또 다시 사랑
+15	7956303	싸이 (PSY)	나팔바지
+16	7911687	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+17	7971052	EXO	Sing For You
+18	5791706	여자친구 (GFRIEND)	오늘부터 우리는 (Me Gustas Tu)
+19	8026677	Crush	잊어버리지마 (Feat. 태연)
+20	7935396	EXID	HOT PINK
+21	7964823	디셈버	네게 줄 수 있는건 오직 사랑뿐
+22	7953958	백예린 (Yerin Baek)	우주를 건너
+23	7899235	Adele	Hello
+24	7933703	San E	못먹는 감 (Sour Grapes)
+25	7896508	아이유	스물셋
+26	7985328	터보	다시 (Feat. 유재석)
+27	7854179	iKON	취향저격
+28	7877917	태연 (TAEYEON)	I (Feat. 버벌진트)
+29	8028724	지코 (ZICO)	너는 나 나는 너
+30	7870472	러블리즈	Ah-Choo
+31	7991610	iKON	덤앤더머 (DUMB & DUMBER)
+32	418598	거미	친구라도 될 걸 그랬어
+33	7881505	Zion.T	No Make Up
+34	7999470	기현 (Kihyun)	세월이 가면
+35	7971051	EXO	불공평해 (Unfair)
+36	7979764	다비치	화이트(WHITE) (Feat. 박재범)
+37	7912749	Crush	아마도 그건
+38	7993256	소진 (Sojin)	매일 그대와
+39	7858908	개리	바람이나 좀 쐐 (Feat. 우혜미)
+40	8028701	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+41	5826447	MINO (송민호)	겁 (Feat. 태양)
+42	7924015	포맨	안아보자
+43	4660794	Sam Smith	I'm Not The Only One
+44	851429	박효신	기억속의 먼 그대에게
+45	7956305	싸이 (PSY)	Dream (Feat. XIA of JYJ)
+46	7946059	노을	이별밖에
+47	5748406	AOA	심쿵해 (Heart Attack)
+48	7967337	브라운 아이드 소울	밤의 멜로디
+49	8024756	이승기	나 군대 간다
+50	7931712	iKON	지못미
+51	7953785	방탄소년단	RUN
+52	7847861	Red Velvet (레드벨벳)	Dumb Dumb
+53	7858989	소유 (SOYOU)	어깨
+54	7870705	iKON	리듬 타 (RHYTHM TA)
+55	5721440	EXO	LOVE ME RIGHT
+56	4543502	박효신	야생화
+57	5702706	Zion.T	꺼내 먹어요
+58	8033528	엠씨더맥스 (M.C the MAX)	어디에도
+59	7860122	박경	보통연애 (Feat. 박보람)
+60	8009716	여은	이젠 잊기로 해요
+61	7987620	가인	열두 시가 되면
+62	5835766	MINO (송민호)	Okey Dokey
+63	7956302	싸이 (PSY)	I Remember You (Feat. Zion.T)
+64	7963662	소녀시대-태티서 (Girls' Generation-TTS)	Dear Santa
+65	7896509	아이유	푸르던
+66	5719286	BIGBANG	뱅뱅뱅 (BANG BANG BANG)
+67	5704397	백아연	이럴거면 그러지말지 (Feat. Young K)
+68	5389475	Zion.T	양화대교
+69	7971053	EXO	Girl x Friend
+70	7995991	기리보이	호구 (Prod. By Fisherman of wybh) (Feat. 브라더수)
+71	5644620	EXO	CALL ME BABY
+72	5385974	혁오 (HYUKOH)	위잉위잉
+73	8009782	WINNER	사랑가시 (민호&태현)
+74	7958267	거미	가질 수 없는 너
+75	7931723	다이나믹 듀오	꿀잼
+76	7896507	아이유	Zeze
+77	7865089	지아	가끔
+78	7884171	소유 (SOYOU)	모르나봐
+79	8028725	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+80	5668985	엠씨더맥스 (M.C the MAX)	그 남잔 말야
+81	7900822	f(x)	4 Walls
+82	7888412	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quiett)
+83	7911686	지코 (ZICO)	날 (Feat. JTONG)
+84	3973781	성시경	크리스마스니까
+85	7971054	EXO	발자국 (On the snow)
+86	7881233	빈지노 (Beenzino)	Break
+87	8015549	범키	Better Man (Feat. 타블로)
+88	7965448	지코 (ZICO)	VENI VIDI VICI (Feat. DJ Wegun)
+89	7971283	WABLE (와블)	보라빛향기
+90	7991611	iKON	왜 또
+91	7963607	로이킴	북두칠성
+92	7977442	효린	Love Line
+93	7991612	iKON	아니라고
+94	7981508	초아	불꽃
+95	7926003	EXO	LIGHTSABER
+96	7970872	솔지	오늘은
+97	8003787	이영현	이미 슬픈 사랑
+98	7965433	CL	Hello Bitches
+99	7965450	지코 (ZICO)	오만과 편견 (Feat. 수란)
+100	8013829	윤미래	잘 지내고 있니

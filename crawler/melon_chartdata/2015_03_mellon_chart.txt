@@ -1,0 +1,100 @@
+1	5610343	MC몽	사랑 범벅 (Feat. 챈슬러 of the channels)
+2	5608760	지민	시작이 좋아 2015 (Prod. By 버벌진트)
+3	5576417	나얼	같은 시간 속의 너
+4	5592623	제시 (Jessi)	My Type (Prod. By 버벌진트)
+5	5616999	키썸 (Kisum)	슈퍼스타 (Prod. by D.O)
+6	5572312	Zion.T	그냥 (Just)
+7	5622359	가인	Apple (Feat. 박재범)
+8	5629186	허각	사월의 눈
+9	3753304	버스커 버스커	벚꽃 엔딩
+10	5536206	노을	목소리
+11	5584641	4minute	미쳐
+12	4840271	EXID	위아래
+13	5545022	장재인	환청 (Feat. 나쑈 (NaShow))
+14	5634219	지민	Puss (Prod.by 라이머)
+15	5555751	다비치	또 운다 또
+16	5531227	매드클라운	화 (Feat. 진실 Of Mad Soul Child) (Fire)
+17	5584400	15& (박지민, 백예린)	사랑은 미친짓 (Feat. 칸토 of 트로이)
+18	5622398	빈지노 (Beenzino)	어쩌라고 (So What)
+19	5628083	다비치	두사랑 (Feat. 매드클라운)
+20	5459268	Mark Ronson	Uptown Funk (Feat. Bruno Mars)
+21	5546828	소유 (SOYOU)	팔베개 (Feat. 기현) (Pillow)
+22	4660794	Sam Smith	I'm Not The Only One
+23	5634218	치타 (CHEETAH)	Coma 07' (Prod.by DJ Juice, D.Theo)
+24	4857981	Maroon 5	Sugar
+25	5473905	Apink (에이핑크)	LUV
+26	5551234	정승환	슬픔 속에 그댈 지워야만 해
+27	5458267	규현 (KYUHYUN)	광화문에서 (At Gwanghwamun)
+28	5610623	KATIE	니가 있어야 할 곳
+29	5456521	AOA	사뿐사뿐
+30	5495296	정승환	사랑에 빠지고 싶다
+31	4630555	Ariana Grande	Problem (Feat. Iggy Azalea)
+32	5620321	가인	Paradise Lost
+33	5470838	GD X TAEYANG	GOOD BOY
+34	4579468	HIGH4 (하이포)	봄 사랑 벚꽃 말고
+35	5617748	긱스 (Geeks)	Is You (Feat. 박정현)
+36	4743560	Adam Levine	Lost Stars
+37	4543502	박효신	야생화
+38	5555752	다비치	행복해서 미안해
+39	5610344	MC몽	권태중독 (Feat. 선우정아)
+40	5629148	Red Velvet (레드벨벳)	Ice Cream Cake
+41	5600224	신화	표적
+42	5476552	로꼬	니가 모르게 (You Don't Know)
+43	4369827	아이유	금요일에 만나요 (Feat. 장이정 Of HISTORY)
+44	5495681	타이거JK, 윤미래, 비지 (Bizzy)	Angel
+45	5465008	토이	세 사람 (With 성시경)
+46	4016085	포스트맨(Postmen)	신촌을 못가
+47	5567464	백지영	Because Of You
+48	5546489	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+49	5593327	VIXX (빅스)	이별공식
+50	5419682	에픽하이 (EPIK HIGH)	BORN HATER (Feat. 빈지노, 버벌진트, B.I, MINO, BOBBY)
+51	5493729	다이나믹 듀오	싱숭생숭 (SsSs)
+52	5482064	엠씨더맥스 (M.C the MAX)	바라보기
+53	5442687	MC몽	내 생애 가장 행복한 시간 (Feat. 허각)
+54	5634221	제시 (Jessi)	Unpretty Dreams (Prod.by GRAY)
+55	5612295	XIA (준수)	꽃 (Feat. 타블로 Of 에픽하이)
+56	5599020	김범수	오직 너만
+57	5413256	비스트	12시 30분
+58	4433490	소유 (SOYOU)	썸 (Feat. 릴보이 Of 긱스)
+59	4646573	아이유	너의 의미 (Feat. 김창완)
+60	4688375	Maroon 5	Maps
+61	5642918	치타 (CHEETAH)	아무도 모르게 (Prod. by MC몽)
+62	4806686	WINNER	공허해
+63	5582180	육지담	밤샜지 (Prod. By ZICO)
+64	5552430	나인뮤지스	드라마 (DRAMA)
+65	5612284	러블리즈	안녕 (Hi~)
+66	4864206	어쿠스틱 콜라보	묘해, 너와
+67	5462666	효린	지워 (Feat. 아이언)
+68	3360476	알리 (ALi)	별 짓 다해봤는데
+69	5394265	에일리(AILEE)	손대지마
+70	5442688	MC몽	내가 그리웠니 (Feat. 진실 Of Mad Soul Child)
+71	5450271	홍진영	산다는 건 (Cheer Up)
+72	4681146	San E	한여름밤의 꿀
+73	5582684	니엘	못된 여자 (Feat. Dok2)
+74	5421427	에픽하이 (EPIK HIGH)	헤픈엔딩 (Feat. 조원선 Of 롤러코스터)
+75	5610945	양다일	우린 알아
+76	4854588	BOBBY	연결고리#힙합
+77	5386171	어쿠스틱 콜라보	너무 보고싶어
+78	5389475	Zion.T	양화대교
+79	5627962	민아 (걸스데이)	나도 여자예요
+80	5474213	박효신	HAPPY TOGETHER
+81	4806688	WINNER	끼부리지마
+82	5554059	정용화 (CNBLUE)	어느 멋진 날
+83	5439395	윤현상	언제쯤이면 (Duet.아이유)
+84	5459290	10CM	쓰담쓰담
+85	315872	엠씨더맥스 (M.C the MAX)	잠시만 안녕 (Original)
+86	5639931	케이윌	꽃이 핀다
+87	4671151	태양	눈, 코, 입
+88	5456526	HI SUHYUN	나는 달라 (Feat. BOBBY)
+89	5526865	배치기	악몽 (Feat. 박수진)
+90	5588240	지코 (ZICO)	Well Done (Feat. Ja Mezz)
+91	62462	김건모	잘못된 만남
+92	5644620	EXO	CALL ME BABY
+93	5449581	지코 (ZICO)	Tough Cookie (Feat. Don Mills)
+94	5431090	포스트맨(Postmen)	술이 너보다 낫더라
+95	5533607	종현 (JONGHYUN)	데자-부 (Deja-Boo) (Feat. Zion.T)
+96	5552200	에일리(AILEE)	그대도 같은가요
+97	5612384	에릭남 (Eric Nam)	괜찮아 괜찮아
+98	5644636	미쓰에이	다른 남자 말고 너
+99	5415175	개코	
+100	5637019	백지영	새벽 가로수길 (With 송유빈)
