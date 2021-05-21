@@ -42,7 +42,7 @@ if __name__ == '__main__':
     parsedFilenames = list(filter(lambda p: p.endswith('.txt'), os.listdir(os.path.join('.', 'melon_chartdata'))))
     parsedFilenames = list(filter(lambda p: not isEmptyFile(os.path.join('.', 'melon_chartdata', p)), parsedFilenames))
 
-    for year in range(1984, 2021+1):
+    for year in range(2004, 2016+1):
         # 2021년인 경우 차트 데이터가 4월까지밖에 없으므로 범위를 수정함
         if year == 2021:
             monthUrlList = getMonthURLList(2021, 1, 4)

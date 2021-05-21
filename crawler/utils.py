@@ -11,7 +11,7 @@ def getMonthURLList(year: int, monthStart: int=1, monthEnd: int=12) -> list:
     ret = []
     age = getAge(year) # 연대 (1980, 1990, ...)
     BASE_URL_FW = f'https://www.melon.com/chart/search/list.htm?chartType=MO&age={age}&year={year}&mon='
-    BASE_URL_BW = '&classCd=DM0000&moved=Y'
+    BASE_URL_BW = '&classCd=DP0000&moved=Y'
     for m in range(monthStart, monthEnd+1):
         ret.append((m, BASE_URL_FW + "%02d" % m + BASE_URL_BW))
 
