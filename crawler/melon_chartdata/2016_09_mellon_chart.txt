@@ -1,0 +1,100 @@
+1	9631530	임창정	내가 저지른 사랑
+2	5398990	한동근	이 소설의 끝을 다시 써보려 해
+3	9613173	어반자카파	목요일 밤 (Feat. 빈지노)
+4	8304594	BLACKPINK	휘파람
+5	9634954	Red Velvet (레드벨벳)	러시안 룰렛 (Russian Roulette)
+6	9609354	에일리(AILEE)	If You
+7	9629220	거미	구르미 그린 달빛
+8	9614761	한동근	그대라는 사치
+9	8308231	C JAMM	puzzle
+10	9620469	볼빨간사춘기	우주를 줄게
+11	8199190	어반자카파	널 사랑하지 않아
+12	9611490	첸 (CHEN)	너를 위해
+13	8261338	BewhY (비와이)	Day Day (Feat. 박재범) (Prod. by GRAY)
+14	8262125	여자친구 (GFRIEND)	너 그리고 나 (NAVILLERA)
+15	8254545	원더걸스	Why So Lonely
+16	8268275	존박	네 생각
+17	8158031	TWICE (트와이스)	CHEER UP
+18	9611296	소유 (SOYOU)	잠은 다 잤나봐요
+19	8295867	스탠딩 에그	여름밤에 우린
+20	8252408	BewhY (비와이)	Forever (Prod. By GRAY)
+21	8143111	헤이즈 (Heize)	돌아오지마 (Feat. 용준형 Of 비스트)
+22	9647324	유재석	Dancing King
+23	8252409	보이비	호랑나비 (Feat. Gill, 리듬파워, 김흥국)
+24	8304595	BLACKPINK	붐바야
+25	9646401	성시경	다정하게, 안녕히
+26	8109412	DEAN	D (half moon) (Feat. 개코)
+27	9606657	EXO	Lotto
+28	9634953	BOBBY	꽐라
+29	8298424	김범수	사랑해요
+30	7899303	수퍼비	냉탕에 상어 (Feat. 블랙넛)
+31	8271355	헤이즈 (Heize)	And July (Feat. DEAN, DJ Friz)
+32	7861392	임창정	또 다시 사랑
+33	8033528	엠씨더맥스 (M.C the MAX)	어디에도
+34	8203900	정승환	너였다면
+35	3620493	정준일	안아줘
+36	8300695	환희	사랑이 아프다
+37	5620266	BewhY (비와이)	The Time Goes On
+38	8236055	씨스타	I Like That
+39	8304617	아이오아이 (I.O.I)	Whatta Man (Good man)
+40	8065398	정준영	공감 (Feat. 서영은)
+41	9631812	다비치	그대를 잊는다는 건
+42	8233373	백예린 (Yerin Baek)	Bye bye my blue
+43	9637758	MINO (송민호)	몸
+44	8261334	#Gun	미친놈 (Feat. 제시)
+45	8148487	정은지	하늘바라기 (Feat. 하림)
+46	8275728	허각	바다
+47	8233291	사이먼 도미닉	니가 알던 내가 아냐 (Prod. By GRAY)
+48	9624546	양다일	그리워
+49	8174429	벤	꿈처럼
+50	8243823	사이먼 도미닉	맘 편히 (Comfortable)
+51	8028701	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+52	5466962	10CM	스토커
+53	8189661	백아연	쏘쏘
+54	8184472	박경	자격지심 (Feat. 은하 Of 여자친구)
+55	8217164	EXO	Monster
+56	9640663	MOBB (MINO & BOBBY)	빨리 전화해 (Feat. KUSH)
+57	7931286	Justin Bieber	Love Yourself
+58	9619959	로꼬	Say Yes
+59	8250334	언니쓰	Shut Up (Feat. 유희열)
+60	8252588	비스트	리본 (Ribbon)
+61	8296543	박보람	거짓말이라도 해줘요
+62	4660794	Sam Smith	I'm Not The Only One
+63	8261335	C JAMM	아름다워 (Beautiful) (Feat. 지코 (ZICO))
+64	8071102	다비치	이 사랑
+65	9631520	임창정	노래 한번 할게요
+66	8089568	거미	You Are My Everything
+67	8244030	태연 (TAEYEON)	Why
+68	8086947	이하이	한숨
+69	9644886	벤	안갯길 (Prod. By 진영(B1A4))
+70	7921208	이적	걱정말아요 그대
+71	8026677	Crush	잊어버리지마 (Feat. 태연)
+72	30011624	박효신	숨
+73	9620473	볼빨간사춘기	나만 안되는 연애
+74	7891119	TWICE (트와이스)	OOH-AHH하게
+75	5791706	여자친구 (GFRIEND)	오늘부터 우리는 (Me Gustas Tu)
+76	8233466	권순일 (어반자카파)	No Way
+77	9628822	Kei (러블리즈)	Y (Feat. BUMZU)
+78	8028724	지코 (ZICO)	너는 나 나는 너
+79	9647331	인피니트	태풍 (The Eye)
+80	8233292	The Quiett	공중도덕 (Air DoTheQ)
+81	9628337	박재범	Me like yuh (k) (Feat. Hoody)
+82	8068881	마마무 (Mamamoo)	넌 is 뭔들
+83	8217163	EXO	Lucky One
+84	9619993	산들	마음을 삼킨다
+85	8167307	방탄소년단	불타오르네 (FIRE)
+86	7911687	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+87	9644659	마마무 (Mamamoo)	NEW YORK
+88	8291212	현아	
+89	8122589	SG 워너비	사랑하자
+90	9640320	가인	Carnival (The Last Day)
+91	9624572	아이오아이 (I.O.I)	사랑해 기억해
+92	9631521	임창정	이별 후
+93	9620831	나다 (NADA)	Sticky (Prod. By San E) (Feat. San E)
+94	8247080	Zion.T	쿵
+95	9645607	태연 (TAEYEON)	All With You
+96	30003393	케이윌	그게 뭐라고
+97	9606664	EXO	꿈 (She's Dreaming)
+98	9646572	권진아	끝
+99	30001062	형돈이와 대준이	결정 (Feat. 아이유)
+100	8161257	에디킴	내 입술 따뜻한 커피처럼 (Feat. 이성경) (Prod. by 박근태)

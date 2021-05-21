@@ -1,0 +1,100 @@
+1	8071102	다비치	이 사랑
+2	8068881	마마무 (Mamamoo)	넌 is 뭔들
+3	8067023	첸 (CHEN)	Everytime
+4	8053157	윤미래	ALWAYS
+5	8089568	거미	You Are My Everything
+6	8028701	여자친구 (GFRIEND)	시간을 달려서 (Rough)
+7	8033528	엠씨더맥스 (M.C the MAX)	어디에도
+8	8086947	이하이	한숨
+9	8028724	지코 (ZICO)	너는 나 나는 너
+10	8075429	지민	야 하고 싶어 (Feat. 시우민 of EXO)
+11	8042553	태연 (TAEYEON)	Rain
+12	8077712	에릭남 (Eric Nam)	봄인가 봐 (Spring Love)
+13	7982920	PRODUCE 101	PICK ME
+14	8100402	매드클라운	다시 너를
+15	8026677	Crush	잊어버리지마 (Feat. 태연)
+16	7891119	TWICE (트와이스)	OOH-AHH하게
+17	8102386	케이윌	
+18	3753304	버스커 버스커	벚꽃 엔딩
+19	8005879	수지 (SUZY)	Dream (Prod. by 박근태)
+20	5791706	여자친구 (GFRIEND)	오늘부터 우리는 (Me Gustas Tu)
+21	7921208	이적	걱정말아요 그대
+22	8036303	마마무 (Mamamoo)	I Miss You
+23	8049264	마마무 (Mamamoo)	1cm의 자존심
+24	7861392	임창정	또 다시 사랑
+25	8086946	이하이	손잡아 줘요
+26	7911687	지코 (ZICO)	Boys And Girls (Feat. Babylon)
+27	8038492	WINNER	센치해
+28	8104514	장범준	그녀가 곁에 없다면 (결혼 행진곡을 활용한 신곡)
+29	8104509	장범준	사랑에 빠졌죠 (당신만이)
+30	7942948	오혁	소녀
+31	7999021	개리	또 하루 (Feat. 개코)
+32	8004377	케이윌	니가 하면 로맨스 (Feat. 다비치)
+33	7965449	지코 (ZICO)	유레카 (Feat. Zion.T)
+34	8042169	김범수	그댄 행복에 살텐데
+35	8068854	에디킴	팔당댐 (Feat. 빈지노)
+36	7870472	러블리즈	Ah-Choo
+37	7998349	김나영	어땠을까
+38	7909196	김필	청춘 (Feat. 김창완)
+39	7953958	백예린 (Yerin Baek)	우주를 건너
+40	8070061	백지영	사랑이 온다
+41	8104431	소녀온탑	같은 곳에서
+42	418598	거미	친구라도 될 걸 그랬어
+43	8028725	지코 (ZICO)	사랑이었다 (Feat. 루나 of f(x))
+44	8038458	장범준	회상
+45	7985298	노을	함께
+46	7877917	태연 (TAEYEON)	I (Feat. 버벌진트)
+47	7899235	Adele	Hello
+48	7854179	iKON	취향저격
+49	8065398	정준영	공감 (Feat. 서영은)
+50	4579468	HIGH4 (하이포)	봄 사랑 벚꽃 말고
+51	7956304	싸이 (PSY)	DADDY (Feat. CL of 2NE1)
+52	7881505	Zion.T	No Make Up
+53	7896508	아이유	스물셋
+54	7912749	Crush	아마도 그건
+55	4660794	Sam Smith	I'm Not The Only One
+56	7935396	EXID	HOT PINK
+57	4774191	Jessie J	Bang Bang
+58	7953577	박보람	혜화동 (혹은 쌍문동)
+59	5748406	AOA	심쿵해 (Heart Attack)
+60	8104430	7 go up	Yum-Yum (얌얌)
+61	5826447	MINO (송민호)	겁 (Feat. 태양)
+62	8104512	장범준	빗속으로
+63	5650996	로꼬	우연히 봄
+64	8086945	이하이	WORLD TOUR (비행) (Feat. MINO of WINNER)
+65	7933703	San E	못먹는 감 (Sour Grapes)
+66	8084079	서인국	너 라는 계절
+67	7931286	Justin Bieber	Love Yourself
+68	7956303	싸이 (PSY)	나팔바지
+69	8091963	유주 (여자친구)	보일 듯 말 듯
+70	7975242	윤미래	사랑이 맞을거야
+71	5835766	MINO (송민호)	Okey Dokey
+72	4543502	박효신	야생화
+73	5719286	BIGBANG	뱅뱅뱅 (BANG BANG BANG)
+74	5704397	백아연	이럴거면 그러지말지 (Feat. Young K)
+75	7847861	Red Velvet (레드벨벳)	Dumb Dumb
+76	8098471	Red Velvet (레드벨벳)	7월 7일 (One Of These Nights)
+77	7971052	EXO	Sing For You
+78	8094566	하현우 (국카스텐)	Don't Cry (우리 동네 음악대장)
+79	5702706	Zion.T	꺼내 먹어요
+80	7858908	개리	바람이나 좀 쐐 (Feat. 우혜미)
+81	8068877	윤미래	Because of You
+82	5668985	엠씨더맥스 (M.C the MAX)	그 남잔 말야
+83	8091961	윤아 (YOONA)	덕수궁 돌담길의 봄 (Feat. 10cm)
+84	8075490	솔지하니 (EXID)	ONLY ONE
+85	8094460	스탠딩 에그	무지개 (Feat. 윤닭 Of 오브로젝트)
+86	8101027	기리보이	예쁘잖아
+87	8034004	DEAN	What 2 Do (Feat. Crush & Jeff Bernat)
+88	8104428	Pinkrush	Fingertips
+89	7860122	박경	보통연애 (Feat. 박보람)
+90	7999470	기현 (Kihyun)	세월이 가면
+91	8038491	WINNER	BABY BABY
+92	851429	박효신	기억속의 먼 그대에게
+93	5546489	여자친구 (GFRIEND)	유리구슬 (Glass Bead)
+94	7953785	방탄소년단	RUN
+95	3753309	버스커 버스커	꽃송이가
+96	8104513	장범준	봄비
+97	5721440	EXO	LOVE ME RIGHT
+98	8086949	이하이	FXXK WIT US (Feat. DOK2)
+99	7964823	디셈버	네게 줄 수 있는건 오직 사랑뿐
+100	8090058	임세준	오늘은 가지마 (Duet Ver.)

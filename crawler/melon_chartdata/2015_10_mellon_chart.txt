@@ -1,0 +1,100 @@
+1	7861392	임창정	또 다시 사랑
+2	7877917	태연 (TAEYEON)	I (Feat. 버벌진트)
+3	7858908	개리	바람이나 좀 쐐 (Feat. 우혜미)
+4	7858989	소유 (SOYOU)	어깨
+5	7854179	iKON	취향저격
+6	7881505	Zion.T	No Make Up
+7	7860122	박경	보통연애 (Feat. 박보람)
+8	5826447	MINO (송민호)	겁 (Feat. 태양)
+9	7863752	유재환	커피 (Prod. by G-Park 박명수)
+10	7870705	iKON	리듬 타 (RHYTHM TA)
+11	5826461	이유 갓지(GOD G) 않은 이유 (박명수, 아이유)	레옹
+12	7896508	아이유	스물셋
+13	7877918	태연 (TAEYEON)	U R
+14	7847861	Red Velvet (레드벨벳)	Dumb Dumb
+15	5835766	MINO (송민호)	Okey Dokey
+16	5791706	여자친구 (GFRIEND)	오늘부터 우리는 (Me Gustas Tu)
+17	7868989	에일리(AILEE)	너나 잘해
+18	7884171	소유 (SOYOU)	모르나봐
+19	5818522	인크레더블	오빠차
+20	7881233	빈지노 (Beenzino)	Break
+21	5820368	소녀시대 (GIRLS' GENERATION)	Lion Heart
+22	7852842	플라이 투 더 스카이	그렇게 됐어
+23	5824839	황태지 (황광희, 태양, 지드래곤)	맙소사
+24	7896509	아이유	푸르던
+25	7865089	지아	가끔
+26	5385974	혁오 (HYUKOH)	위잉위잉
+27	5389475	Zion.T	양화대교
+28	7888412	지코 (ZICO)	말해 Yes Or No (Feat. PENOMECO, The Quiett)
+29	5804040	Ja Mezz	거북선 (Feat. 팔로알토)
+30	7874382	예지	Solo (Remix) (Prod. by 박재범, Cha Cha Malone) (Feat. 박재범, 로꼬)
+31	5826462	으뜨거따시 (하하, 자이언티)	스폰서 ($ponsor)
+32	5807274	BIGBANG	우리 사랑하지 말아요
+33	5719286	BIGBANG	뱅뱅뱅 (BANG BANG BANG)
+34	7896506	아이유	새 신발
+35	5743804	마마무 (Mamamoo)	음오아예 (Um Oh Ah Yeh)
+36	7870707	iKON	AIRPLANE
+37	5822923	SG 워너비	가슴 뛰도록
+38	5815785	사이먼 도미닉	사이먼 도미닉
+39	7866804	린	내가 그댈
+40	5704397	백아연	이럴거면 그러지말지 (Feat. Young K)
+41	5702706	Zion.T	꺼내 먹어요
+42	7886210	규현 (KYUHYUN)	밀리언조각 (A Million Pieces)
+43	5748406	AOA	심쿵해 (Heart Attack)
+44	7896511	아이유	무릎
+45	7876540	이수 (엠씨더맥스)	가슴에 내린다
+46	5713422	혁오 (HYUKOH)	와리가리
+47	7881449	허각	밤을 새 (Feat. 베이식)
+48	7880306	10CM	10월의 날씨
+49	5826465	오대천왕 (정형돈, 밴드 혁오)	멋진헛간
+50	4743560	Adam Levine	Lost Stars
+51	7896507	아이유	Zeze
+52	7881338	비투비	집으로 가는 길
+53	5668985	엠씨더맥스 (M.C the MAX)	그 남잔 말야
+54	5771304	Crush	Oasis (Feat. ZICO)
+55	5826464	댄싱게놈 (유재석, JYP)	I'm So Sexy
+56	7896510	아이유	Red Queen (Feat. Zion.T)
+57	7868801	헤이즈 (Heize)	Me, Myself & I (Prod. by 버벌진트) (Feat. 제시, 휘성)
+58	5760115	BIGBANG	IF YOU
+59	4857981	Maroon 5	Sugar
+60	5748499	씨스타	SHAKE IT
+61	7877919	태연 (TAEYEON)	쌍둥이자리 (Gemini)
+62	4660794	Sam Smith	I'm Not The Only One
+63	5807273	BIGBANG	쩔어 (GD & T.O.P)
+64	5781104	Apink (에이핑크)	Remember
+65	5684826	BIGBANG	BAE BAE
+66	5650996	로꼬	우연히 봄
+67	7855597	마마무 (Mamamoo)	Girl Crush
+68	5804238	원더걸스	I Feel You
+69	7870472	러블리즈	Ah-Choo
+70	5700639	아이유	마음
+71	7887818	San E	그 아버지에 그 아들
+72	7896512	아이유	안경
+73	5793206	프라이머리	아끼지마 (Don't Be Shy) (Feat. 초아 (AOA), 아이언)
+74	5818487	릴보이 (lIlBOI)	ON IT + BO$$
+75	7877920	태연 (TAEYEON)	스트레스 (Stress)
+76	5760116	BIGBANG	맨정신
+77	5824767	현아	잘나가서 그래 (Feat. 정일훈 Of BTOB)
+78	5576417	나얼	같은 시간 속의 너
+79	7859960	트루디 (Truedy)	음악이 아니었다면 (Prod. by 버벌진트) (Feat. 치타, 버벌진트)
+80	7888413	XIA (준수)	꼭 어제
+81	7900822	f(x)	4 Walls
+82	7876552	박보람	미안해요
+83	5682700	BIGBANG	LOSER
+84	5811228	MINO (송민호)	moneyflow (다 비켜봐)
+85	5781707	Redfoo	New Thang
+86	7876373	2BIC(투빅)	지금처럼 사랑할게
+87	5731941	지코 (ZICO)	아프다
+88	7863754	김민승	쿵쿵쿵
+89	7877921	태연 (TAEYEON)	먼저 말해줘 (Farewell)
+90	5795006	유승우	예뻐서 (Feat. 루이 Of 긱스) (You're beautiful)
+91	7859965	개리	엉덩이 (Feat. 박재범)
+92	5765885	김연우	사랑할수록 (화생방실 클레오파트라)
+93	4369827	아이유	금요일에 만나요 (Feat. 장이정 Of HISTORY)
+94	7852464	언프리티 랩스타 2	언프리티 랩스타 (Don't Stop) (Prod. By D.O)
+95	5822925	SG 워너비	좋은 기억
+96	5721440	EXO	LOVE ME RIGHT
+97	7847624	백아연	이렇게 우리
+98	7874463	릴보이 (lIlBOI)	연락해 (Feat. 화사)
+99	7888331	트루디 (Truedy)	Bandz Up (Prod. by Dok2) (Feat. Dok2)
+100	7869469	Homme (창민, 이현)	울지 말자

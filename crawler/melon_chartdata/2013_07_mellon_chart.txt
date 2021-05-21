@@ -1,0 +1,100 @@
+1	4160246	다이나믹 듀오	BAAAM (Feat. Muzie Of UV)
+2	4163613	다비치	오늘따라 보고싶어서 그래
+3	4138606	씨스타	Give It To Me
+4	4142913	이승철	My Love
+5	4163116	Apink (에이핑크)	NoNoNo
+6	4165390	2NE1	Falling In Love
+7	4144408	Lim Kim	All Right
+8	4171462	에일리(AILEE)	U & I
+9	4152253	걸스데이	여자 대통령
+10	4153450	아웃사이더	슬피 우는 새 (Feat. 이수영)
+11	4129672	허각	짧은머리
+12	4130922	범키	미친연애 (Bad Girl) (Feat. E-Sens Of 슈프림팀)
+13	4153481	로이킴	Love Love Love
+14	4160243	다이나믹 듀오	쌔끈해 (Three Dopeboyz) (Feat. Zion.T)
+15	4138607	씨스타	넌 너무 야해 (Feat. 긱스) (The Way You Make Me Melt)
+16	4132144	포맨	너 하나야
+17	4154505	4minute	
+18	4167370	브라운아이드걸스	레시피
+19	4150987	버벌진트	비범벅 (Feat. 범키)
+20	4168688	긱스 (Geeks)	Fly
+21	4099280	4minute	
+22	4138608	씨스타	바빠 (Bad Boy)
+23	4175139	강승윤	비가 온다
+24	4160250	다이나믹 듀오	날개뼈 (Hot Wings) (Feat. 효린 Of Sistar)
+25	4143937	정엽	왜 이제야 왔니
+26	4108714	포맨	청혼하는 거예요
+27	4160242	다이나믹 듀오	진격의 거인 둘 (Return Of The Kings)
+28	4160245	다이나믹 듀오	거품 안 넘치게 따라줘 (Life Is Good) (Feat. Crush, DJ Friz)
+29	4141700	애프터스쿨	첫사랑
+30	4148967	크레용팝	빠빠빠
+31	4172962	유성은	Be OK (Feat. 배치기)
+32	4147352	써니힐	만인의 연인 (Feat. 하림)
+33	4117702	The One (더원)	잘 있나요
+34	3726617	프라이머리	자니 (Feat. Dynamic Duo)
+35	4091105	로이킴	봄봄봄
+36	4175021	인피니트	Destiny
+37	4162716	존박	Baby
+38	4149064	달샤벳	내 다리를 봐 (Be Ambitious)
+39	4100521	긱스 (Geeks)	Wash Away (Feat. 에일리)
+40	4141792	아이비	I Dance (Feat. 유빈 Of 원더걸스)
+41	4164425	쥬얼리	핫 앤 콜드 (Hot & Cold)
+42	4180409	비스트	Shadow (그림자)
+43	4126905	비스트	괜찮겠니
+44	4118143	이효리	Bad Girls
+45	4145757	최진혁	잘 있나요 (Acoustic Ver.)
+46	4157526	울랄라세션	한사람 (I'll Be There)
+47	4138611	씨스타	Crying
+48	4121653	AKMU (악동뮤지션)	콩떡빙수
+49	4100925	바이브	꼭 한번 만나고 싶다
+50	4160436	XIA (준수)	11시 그 적당함
+51	4101639	시크릿	YooHoo (유후)
+52	4160248	다이나믹 듀오	만루홈런 (Lee Dae Ho) (Feat. Supreme Team, DJ Friz)
+53	4165873	김용준	우리가 사랑하는 방법
+54	4133615	2BIC(투빅)	회복이 급해 (Feat. 하림, 호투)
+55	3843565	빈지노 (Beenzino)	Boogie On & On
+56	4097003	AKMU (악동뮤지션)	I Love You
+57	4054983	걸스데이	기대해
+58	4162375	나윤권	몇 날 며칠 (Countless Days)
+59	4168680	손승연	미친게 아니라구요 (Feat. MC 스나이퍼)
+60	4072715	다비치	녹는 중 (Feat. 버벌진트)
+61	4070694	DJ Gollum	The Bad Touch (Gordon & Doyle Edit)
+62	4144539	백아연	a Good Boy
+63	4160198	김연지	두눈에. 두볼에. 가슴에 (In My Eyes)
+64	4085875	싸이 (PSY)	GENTLEMAN
+65	4160255	이창민	한 사람만 보여요
+66	4082435	린	오늘 밤 (Feat. 배치기)
+67	3947371	프라이머리	
+68	4047160	다비치	거북이
+69	4105654	B1A4	이게 무슨 일이야
+70	4168683	박재범	I Like 2 Party
+71	4115610	바이브	이 나이 먹도록
+72	3864961	신용재 (2F)	가수가 된 이유
+73	4142912	이승철	사랑하고 싶은 날
+74	4135141	헨리 (HENRY)	Trap (Feat. 규현&태민)
+75	4144135	비스트	I'm Sorry
+76	4167283	신승훈	너에겐 들리지 않는 그 말
+77	3948908	프라이머리	씨스루 (Feat. Zion.T, 개코 Of 다이나믹듀오)
+78	4171478	언터쳐블	연락 좀 자주 해 (Feat. 앤드류 최)
+79	4127571	레인보우	SUNSHINE
+80	4171463	에일리(AILEE)	No No No
+81	4162284	지나	Love & Slow
+82	3946867	긱스 (Geeks)	Officially Missing You, Too
+83	4020215	리쌍	눈물 (Feat. 유진 Of 더 씨야)
+84	4123220	투개월	Number 1
+85	4076051	케이윌	Love Blossom (러브블러썸)
+86	4082812	박재범	좋아 (JOAH)
+87	4089360	조용필	Bounce
+88	4167428	태연 (TAEYEON)	BYE
+89	4153568	소울스타 (SOULSTAR)	Call My Name
+90	4160247	다이나믹 듀오	Airplane Mode (Feat. 이주한, 혜원 Of Winterplay, Simo)
+91	4105693	수지 (SUZY)	나를 잊지말아요
+92	4149163	B.A.P	Coffee Shop
+93	4103251	윤하 (YOUNHA)	우리가 헤어진 진짜 이유
+94	4172974	XIA (준수)	Incredible (Feat. Quincy)
+95	4160249	다이나믹 듀오	슛 골인 (Shoot - Goal In)
+96	4095862	이효리	미스코리아
+97	4099386	린	유리 심장 (Feat. 용준형 Of 비스트)
+98	4178692	JUNIEL(서아)	감동이 중요해 (Feat. 한해 Of 팬텀)
+99	4124144	이승기	마지막 그 한마디
+100	4161678	Jessica (제시카)	그대라는 한 사람
